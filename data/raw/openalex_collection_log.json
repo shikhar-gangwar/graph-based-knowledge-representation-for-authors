@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2016,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2016,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2017,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2017,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2018,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2018,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2019,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2019,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2020,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2020,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2021,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2021,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2022,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2022,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2023,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2023,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2024,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2024,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  },
+  {
+    "year": 2025,
+    "target": 500,
+    "collected": 500,
+    "filter": "primary_topic.subfield.id:1702,publication_year:2025,type:article|conference-paper|book-chapter,is_retracted:false,is_paratext:false"
+  }
+]
