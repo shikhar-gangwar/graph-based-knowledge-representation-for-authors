@@ -1,0 +1,2396 @@
+[
+  {
+    "topic_id": "T10044",
+    "name": "Protein Structure and Dynamics",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T12254",
+    "name": "Machine Learning in Bioinformatics",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11162",
+    "name": "Enzyme Structure and Function",
+    "subfield": "Structural Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10764",
+    "name": "Privacy-Preserving Technologies in Data",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11612",
+    "name": "Stochastic Gradient Optimization Techniques",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11307",
+    "name": "Domain Adaptation and Few-Shot Learning",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10036",
+    "name": "Advanced Neural Network Applications",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11714",
+    "name": "Multimodal Machine Learning Applications",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10028",
+    "name": "Topic Modeling",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10181",
+    "name": "Natural Language Processing Techniques",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12031",
+    "name": "Speech and dialogue systems",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10320",
+    "name": "Neural Networks and Applications",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10883",
+    "name": "Ethics and Social Impacts of AI",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12026",
+    "name": "Explainable Artificial Intelligence (XAI)",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13170",
+    "name": "Discrimination and Equality Law",
+    "subfield": "Law",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11273",
+    "name": "Advanced Graph Neural Networks",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12292",
+    "name": "Graph Theory and Algorithms",
+    "subfield": "Computational Theory and Mathematics",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10211",
+    "name": "Computational Drug Discovery Methods",
+    "subfield": "Drug Discovery",
+    "field": "Pharmacology, Toxicology and Pharmaceutics",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T12072",
+    "name": "Machine Learning and Algorithms",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10462",
+    "name": "Reinforcement Learning in Robotics",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13904",
+    "name": "Artificial Intelligence Applications",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12128",
+    "name": "AI in Service Interactions",
+    "subfield": "Marketing",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10286",
+    "name": "Information Retrieval and Search Behavior",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10481",
+    "name": "Computer Graphics and Visualization Techniques",
+    "subfield": "Computer Graphics and Computer-Aided Design",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10719",
+    "name": "3D Shape Modeling and Analysis",
+    "subfield": "Computer Graphics and Computer-Aided Design",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10775",
+    "name": "Generative Adversarial Networks and Image Synthesis",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11289",
+    "name": "Single-cell and spatial transcriptomics",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10887",
+    "name": "Bioinformatics and Genomic Networks",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10222",
+    "name": "Genomics and Chromatin Dynamics",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10191",
+    "name": "Robotics and Sensor-Based Localization",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11211",
+    "name": "3D Surveying and Cultural Heritage",
+    "subfield": "Geology",
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11325",
+    "name": "Inertial Sensor and Navigation",
+    "subfield": "Aerospace Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11605",
+    "name": "Visual Attention and Saliency Detection",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12535",
+    "name": "Machine Learning and Data Classification",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10100",
+    "name": "Metaheuristic Optimization Algorithms Research",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11975",
+    "name": "Evolutionary Algorithms and Applications",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11946",
+    "name": "Antenna Design and Optimization",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11492",
+    "name": "Academic integrity and plagiarism",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T14414",
+    "name": "Artificial Intelligence in Education",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11636",
+    "name": "Artificial Intelligence in Healthcare and Education",
+    "subfield": "Health Informatics",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10906",
+    "name": "AI-based Problem Solving and Planning",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10254",
+    "name": "Innovations in Medical Education",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10891",
+    "name": "Radar Systems and Signal Processing",
+    "subfield": "Aerospace Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11458",
+    "name": "Advanced Wireless Communication Technologies",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10326",
+    "name": "Indoor and Outdoor Localization Technologies",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11689",
+    "name": "Adversarial Robustness in Machine Learning",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12338",
+    "name": "Digital literacy in education",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11935",
+    "name": "Literacy, Media, and Education",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11937",
+    "name": "Research Data Management Practices",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11710",
+    "name": "Biomedical Text Mining and Ontologies",
+    "subfield": "Health Informatics",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10763",
+    "name": "Digital Transformation in Industry",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13027",
+    "name": "Applied Advanced Technologies",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13038",
+    "name": "Internet of Things and AI",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11512",
+    "name": "Anomaly Detection Techniques and Applications",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12127",
+    "name": "Software System Performance and Reliability",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11206",
+    "name": "Model Reduction and Neural Networks",
+    "subfield": "Statistical and Nonlinear Physics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12814",
+    "name": "Gaussian Processes and Bayesian Inference",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10215",
+    "name": "Semantic Web and Ontologies",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13373",
+    "name": "Data Mining and Machine Learning Applications",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10627",
+    "name": "Advanced Image and Video Retrieval Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11775",
+    "name": "COVID-19 diagnosis using AI",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11754",
+    "name": "SARS-CoV-2 detection and testing",
+    "subfield": "Infectious Diseases",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10220",
+    "name": "Machine Fault Diagnosis Techniques",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10876",
+    "name": "Fault Detection and Control Systems",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10780",
+    "name": "Reliability and Maintenance Optimization",
+    "subfield": "Safety, Risk, Reliability and Quality",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11574",
+    "name": "Artificial Intelligence in Games",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11948",
+    "name": "Machine Learning in Materials Science",
+    "subfield": "Materials Chemistry",
+    "field": "Materials Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13702",
+    "name": "Machine Learning in Healthcare",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11099",
+    "name": "Autonomous Vehicle Technology and Safety",
+    "subfield": "Automotive Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10370",
+    "name": "Traffic and Road Safety",
+    "subfield": "Safety, Risk, Reliability and Quality",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10688",
+    "name": "Image and Signal Denoising Methods",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10531",
+    "name": "Advanced Vision and Imaging",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13114",
+    "name": "Image Processing Techniques and Applications",
+    "subfield": "Media Technology",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10002",
+    "name": "Advanced Chemical Physics Studies",
+    "subfield": "Atomic and Molecular Physics, and Optics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10260",
+    "name": "Software Engineering Research",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10533",
+    "name": "Teaching and Learning Programming",
+    "subfield": "Computer Science Applications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10714",
+    "name": "Software-Defined Networks and 5G",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10936",
+    "name": "Millimeter-Wave Propagation and Modeling",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10466",
+    "name": "Meteorological Phenomena and Simulations",
+    "subfield": "Atmospheric Science",
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11490",
+    "name": "Hydrological Forecasting Using AI",
+    "subfield": "Environmental Engineering",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11344",
+    "name": "Traffic Prediction and Management Techniques",
+    "subfield": "Transportation",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10743",
+    "name": "Software Testing and Debugging Techniques",
+    "subfield": "Software",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12676",
+    "name": "Machine Learning and ELM",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10682",
+    "name": "Quantum Computing Algorithms and Architecture",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11804",
+    "name": "Quantum many-body systems",
+    "subfield": "Atomic and Molecular Physics, and Optics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10020",
+    "name": "Quantum Information and Cryptography",
+    "subfield": "Atomic and Molecular Physics, and Optics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10052",
+    "name": "Medical Image Segmentation Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14510",
+    "name": "Medical Imaging and Analysis",
+    "subfield": "Biomedical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10269",
+    "name": "Epigenetics and DNA Methylation",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T12820",
+    "name": "Chromatin Remodeling and Cancer",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T13286",
+    "name": "Modeling and Simulation Systems",
+    "subfield": "Modeling and Simulation",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12000",
+    "name": "Systems Engineering Methodologies and Applications",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10525",
+    "name": "Human-Automation Interaction and Safety",
+    "subfield": "Human Factors and Ergonomics",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10805",
+    "name": "Vehicle Dynamics and Control Systems",
+    "subfield": "Automotive Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10667",
+    "name": "Emotion and Mood Recognition",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11448",
+    "name": "Face recognition and analysis",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10057",
+    "name": "Face and Expression Recognition",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11550",
+    "name": "Text and Document Classification Technologies",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10664",
+    "name": "Sentiment Analysis and Opinion Mining",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10689",
+    "name": "Remote-Sensing Image Classification",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13282",
+    "name": "Automated Road and Building Extraction",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10208",
+    "name": "Labor market dynamics and wage inequality",
+    "subfield": "Economics and Econometrics",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T13812",
+    "name": "AI and HR Technologies",
+    "subfield": "Organizational Behavior and Human Resource Management",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11303",
+    "name": "Bayesian Modeling and Causal Inference",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10845",
+    "name": "Advanced Causal Inference Techniques",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12761",
+    "name": "Data Stream Mining Techniques",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10720",
+    "name": "Complexity and Algorithms in Graphs",
+    "subfield": "Computational Theory and Mathematics",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10538",
+    "name": "Data Mining Algorithms and Applications",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11396",
+    "name": "Artificial Intelligence in Healthcare",
+    "subfield": "Health Information Management",
+    "field": "Health Professions",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11147",
+    "name": "Misinformation and Its Impacts",
+    "subfield": "Sociology and Political Science",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11644",
+    "name": "Spam and Phishing Detection",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10064",
+    "name": "Complex Network Analysis Techniques",
+    "subfield": "Statistical and Nonlinear Physics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10317",
+    "name": "Advanced Database Systems and Queries",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12042",
+    "name": "Satellite Communication Systems",
+    "subfield": "Aerospace Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12260",
+    "name": "Educational Technology and Pedagogy",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11902",
+    "name": "Intelligent Tutoring Systems and Adaptive Learning",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13530",
+    "name": "Climate Change and Environmental Impact",
+    "subfield": "Global and Planetary Change",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10471",
+    "name": "Climate Change Policy and Economics",
+    "subfield": "Economics and Econometrics",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10648",
+    "name": "Virtual Reality Applications and Impacts",
+    "subfield": "Human-Computer Interaction",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10888",
+    "name": "Augmented Reality Applications",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12942",
+    "name": "Cultural Studies and Postmodernism",
+    "subfield": "Communication",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10637",
+    "name": "Advanced Clustering Algorithms Research",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11901",
+    "name": "Bayesian Methods and Mixture Models",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10514",
+    "name": "Numerical methods in engineering",
+    "subfield": "Mechanics of Materials",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11187",
+    "name": "Nonlinear Dynamics and Pattern Formation",
+    "subfield": "Statistical and Nonlinear Physics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14299",
+    "name": "Complex Systems and Dynamics",
+    "subfield": "Statistical and Nonlinear Physics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11031",
+    "name": "Game Theory and Applications",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12101",
+    "name": "Advanced Bandit Algorithms Research",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12611",
+    "name": "Neural Networks and Reservoir Computing",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10502",
+    "name": "Advanced Memory and Neural Computing",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10299",
+    "name": "Photonic and Optical Devices",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11652",
+    "name": "Imbalanced Data Classification Techniques",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10273",
+    "name": "IoT and Edge/Fog Computing",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10203",
+    "name": "Recommender Systems and Techniques",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10375",
+    "name": "Pharmacogenetics and Drug Metabolism",
+    "subfield": "Pharmacology",
+    "field": "Pharmacology, Toxicology and Pharmaceutics",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11424",
+    "name": "Security and Verification in Computing",
+    "subfield": "Hardware and Architecture",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12056",
+    "name": "Markov Chains and Monte Carlo Methods",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12281",
+    "name": "Animal testing and alternatives",
+    "subfield": "Small Animals",
+    "field": "Veterinary",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10447",
+    "name": "Environmental Toxicology and Ecotoxicology",
+    "subfield": "Health, Toxicology and Mutagenesis",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11122",
+    "name": "Online Learning and Analytics",
+    "subfield": "Computer Science Applications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13676",
+    "name": "Educational and Technological Research",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11195",
+    "name": "Simulation Techniques and Applications",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12044",
+    "name": "Advanced Physical and Chemical Molecular Interactions",
+    "subfield": "Physical and Theoretical Chemistry",
+    "field": "Chemistry",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12702",
+    "name": "Brain Tumor Detection and Classification",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12422",
+    "name": "Radiomics and Machine Learning in Medical Imaging",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11614",
+    "name": "Cloud Data Security Solutions",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10331",
+    "name": "Video Surveillance and Tracking Methods",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10363",
+    "name": "Low-power high-performance VLSI design",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10448",
+    "name": "Memory and Neural Mechanisms",
+    "subfield": "Cognitive Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11904",
+    "name": "Spatial Cognition and Navigation",
+    "subfield": "Experimental and Cognitive Psychology",
+    "field": "Psychology",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10077",
+    "name": "Neuroscience and Neuropharmacology Research",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10270",
+    "name": "Blockchain Technology Applications and Security",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11105",
+    "name": "Advanced Image Processing Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11719",
+    "name": "Data Quality and Management",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11918",
+    "name": "Forecasting Techniques and Applications",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12205",
+    "name": "Time Series Analysis and Forecasting",
+    "subfield": "Signal Processing",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11326",
+    "name": "Stock Market Forecasting Methods",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10640",
+    "name": "Spectroscopy and Chemometric Analyses",
+    "subfield": "Analytical Chemistry",
+    "field": "Chemistry",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12357",
+    "name": "Digital Media Forensic Detection",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10621",
+    "name": "Gene Regulatory Network Analysis",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10524",
+    "name": "Traffic control and management",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10885",
+    "name": "Gene expression and cancer classification",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10249",
+    "name": "Distributed Control Multi-Agent Systems",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10609",
+    "name": "Digital Marketing and Social Media",
+    "subfield": "Marketing",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10173",
+    "name": "Computational Fluid Dynamics and Aerodynamics",
+    "subfield": "Computational Mechanics",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10360",
+    "name": "Fluid Dynamics and Turbulent Flows",
+    "subfield": "Computational Mechanics",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10862",
+    "name": "AI in cancer detection",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11871",
+    "name": "Advanced Statistical Methods and Models",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13643",
+    "name": "Artificial Intelligence in Law",
+    "subfield": "Law",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10429",
+    "name": "EEG and Brain-Computer Interfaces",
+    "subfield": "Cognitive Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10784",
+    "name": "Muscle activation and electromyography studies",
+    "subfield": "Biomedical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14098",
+    "name": "Energy Efficiency in Computing",
+    "subfield": "Hardware and Architecture",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11478",
+    "name": "Caching and Content Delivery",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10041",
+    "name": "COVID-19 Clinical Research Studies",
+    "subfield": "Infectious Diseases",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10118",
+    "name": "SARS-CoV-2 and COVID-19 Research",
+    "subfield": "Infectious Diseases",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11243",
+    "name": "Respiratory viral infections research",
+    "subfield": "Epidemiology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11413",
+    "name": "Risk and Portfolio Optimization",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10963",
+    "name": "Advanced Optimization Algorithms Research",
+    "subfield": "Numerical Analysis",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12111",
+    "name": "Industrial Vision Systems and Defect Detection",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11606",
+    "name": "Infrastructure Maintenance and Monitoring",
+    "subfield": "Civil and Structural Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11234",
+    "name": "Precipitation Measurement and Analysis",
+    "subfield": "Atmospheric Science",
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10158",
+    "name": "Cancer Immunotherapy and Biomarkers",
+    "subfield": "Oncology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10336",
+    "name": "Cancer Cells and Metastasis",
+    "subfield": "Oncology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10912",
+    "name": "Telemedicine and Telehealth Implementation",
+    "subfield": "Public Health, Environmental and Occupational Health",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T14416",
+    "name": "Health, Technology, Consumer Behavior",
+    "subfield": "Health Information Management",
+    "field": "Health Professions",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T14512",
+    "name": "Technology and Human Factors in Education and Health",
+    "subfield": "Public Health, Environmental and Occupational Health",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10828",
+    "name": "Biometric Identification and Security",
+    "subfield": "Signal Processing",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11438",
+    "name": "Retinal Imaging and Analysis",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T14384",
+    "name": "Ophthalmology and Visual Health Research",
+    "subfield": "Ophthalmology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10616",
+    "name": "Smart Agriculture and AI",
+    "subfield": "Plant Science",
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10111",
+    "name": "Remote Sensing in Agriculture",
+    "subfield": "Ecology",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10073",
+    "name": "Hepatocellular Carcinoma Treatment and Prognosis",
+    "subfield": "Hepatology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10340",
+    "name": "Hepatitis B Virus Studies",
+    "subfield": "Epidemiology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10243",
+    "name": "Statistical Methods and Bayesian Inference",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13890",
+    "name": "Remote Sensing and Land Use",
+    "subfield": "Geography, Planning and Development",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10388",
+    "name": "Advanced Steganography and Watermarking Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11911",
+    "name": "Spatial and Panel Data Analysis",
+    "subfield": "Economics and Econometrics",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10298",
+    "name": "Urban Transport and Accessibility",
+    "subfield": "Transportation",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10879",
+    "name": "Robotic Locomotion and Control",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13910",
+    "name": "Computational and Text Analysis Methods",
+    "subfield": "General Social Sciences",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T14254",
+    "name": "Digital Media and Visual Art",
+    "subfield": "Computer Graphics and Computer-Aided Design",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11986",
+    "name": "Scientific Computing and Data Management",
+    "subfield": "Information Systems and Management",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10237",
+    "name": "Cryptography and Data Security",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11682",
+    "name": "Advanced Condensed Matter Physics",
+    "subfield": "Condensed Matter Physics",
+    "field": "Physics and Astronomy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10015",
+    "name": "Genomics and Phylogenetic Studies",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10241",
+    "name": "Functional Brain Connectivity Studies",
+    "subfield": "Cognitive Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10378",
+    "name": "Advanced MRI Techniques and Applications",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11006",
+    "name": "BIM and Construction Integration",
+    "subfield": "Building and Construction",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13083",
+    "name": "Advanced Text Analysis Techniques",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13629",
+    "name": "Text Readability and Simplification",
+    "subfield": "Linguistics and Language",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12859",
+    "name": "Cell Image Analysis Techniques",
+    "subfield": "Biophysics",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10121",
+    "name": "Building Energy and Comfort Optimization",
+    "subfield": "Building and Construction",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10791",
+    "name": "Advanced Control Systems Optimization",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11185",
+    "name": "Integrated Energy Systems Optimization",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12794",
+    "name": "Adaptive Dynamic Programming Control",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10430",
+    "name": "Software Engineering Techniques and Practices",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11048",
+    "name": "Bacteriophages and microbial interactions",
+    "subfield": "Virology",
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10434",
+    "name": "Chromosomal and Genetic Variations",
+    "subfield": "Genetics",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T13364",
+    "name": "Digitalization, Law, and Regulation",
+    "subfield": "Law",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12389",
+    "name": "Infrared Target Detection Methodologies",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13220",
+    "name": "Plant and Fungal Interactions Research",
+    "subfield": "Virology",
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10799",
+    "name": "Data Visualization and Analytics",
+    "subfield": "Computer Graphics and Computer-Aided Design",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10470",
+    "name": "Usability and User Interface Design",
+    "subfield": "Human-Computer Interaction",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11019",
+    "name": "Image Enhancement Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11192",
+    "name": "Underwater Vehicles and Communication Systems",
+    "subfield": "Ocean Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10101",
+    "name": "Cloud Computing and Resource Management",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10054",
+    "name": "Parallel Computing and Optimization Techniques",
+    "subfield": "Hardware and Architecture",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12479",
+    "name": "Web Application Security Vulnerabilities",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11368",
+    "name": "Long-Term Effects of COVID-19",
+    "subfield": "Clinical Neurology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11010",
+    "name": "Logic, Reasoning, and Knowledge",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13650",
+    "name": "Computational Physics and Python Applications",
+    "subfield": "Software",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13523",
+    "name": "Mathematics, Computing, and Information Processing",
+    "subfield": "Computational Theory and Mathematics",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13553",
+    "name": "Age of Information Optimization",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10796",
+    "name": "Cooperative Communication and Network Coding",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11236",
+    "name": "Control Systems and Identification",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10588",
+    "name": "Mathematical Dynamics and Fractals",
+    "subfield": "Mathematical Physics",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11043",
+    "name": "Merger and Competition Analysis",
+    "subfield": "Economics and Econometrics",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10646",
+    "name": "Experimental Behavioral Economics Studies",
+    "subfield": "Economics and Econometrics",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11182",
+    "name": "Auction Theory and Applications",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10030",
+    "name": "Electrocatalysts for Energy Conversion",
+    "subfield": "Renewable Energy, Sustainability and the Environment",
+    "field": "Energy",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13487",
+    "name": "Statistical and numerical algorithms",
+    "subfield": "Applied Mathematics",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10824",
+    "name": "Image Retrieval and Classification Techniques",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10812",
+    "name": "Human Pose and Action Recognition",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10400",
+    "name": "Network Security and Intrusion Detection",
+    "subfield": "Computer Networks and Communications",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13295",
+    "name": "Safety Systems Engineering in Autonomy",
+    "subfield": "Safety, Risk, Reliability and Quality",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11165",
+    "name": "Image and Video Quality Assessment",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11062",
+    "name": "Gear and Bearing Dynamics Analysis",
+    "subfield": "Mechanical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11287",
+    "name": "Cancer Genomics and Diagnostics",
+    "subfield": "Cancer Research",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10757",
+    "name": "Geographic Information Systems Studies",
+    "subfield": "Geography, Planning and Development",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12325",
+    "name": "Urban Design and Spatial Analysis",
+    "subfield": "Urban Studies",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10330",
+    "name": "Hydrology and Watershed Management Studies",
+    "subfield": "Water Science and Technology",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11119",
+    "name": "Urban Stormwater Management Solutions",
+    "subfield": "Environmental Engineering",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10444",
+    "name": "Context-Aware Activity Recognition Systems",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12740",
+    "name": "Gait Recognition and Analysis",
+    "subfield": "Biomedical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12391",
+    "name": "Artificial Immune Systems Applications",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10709",
+    "name": "Social Robot Interaction and HRI",
+    "subfield": "Social Psychology",
+    "field": "Psychology",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10029",
+    "name": "Climate variability and models",
+    "subfield": "Global and Planetary Change",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12615",
+    "name": "Climate Change and Geoengineering",
+    "subfield": "Global and Planetary Change",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13141",
+    "name": "Statistical Methods and Applications",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11500",
+    "name": "Evacuation and Crowd Dynamics",
+    "subfield": "Safety Research",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10586",
+    "name": "Robotic Path Planning Algorithms",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11642",
+    "name": "Genomics and Rare Diseases",
+    "subfield": "Genetics",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11106",
+    "name": "Data Management and Algorithms",
+    "subfield": "Information Systems",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11980",
+    "name": "Human Mobility and Location-Based Analysis",
+    "subfield": "Transportation",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10555",
+    "name": "Fire effects on ecosystems",
+    "subfield": "Global and Planetary Change",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12597",
+    "name": "Fire Detection and Safety Systems",
+    "subfield": "Safety, Risk, Reliability and Quality",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11317",
+    "name": "Fire dynamics and safety research",
+    "subfield": "Safety, Risk, Reliability and Quality",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13720",
+    "name": "Benford\u2019s Law and Fraud Detection",
+    "subfield": "Statistics and Probability",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10456",
+    "name": "Multi-Agent Systems and Negotiation",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12486",
+    "name": "Food Supply Chain Traceability",
+    "subfield": "Food Science",
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11094",
+    "name": "Face Recognition and Perception",
+    "subfield": "Cognitive Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11435",
+    "name": "Polynomial and algebraic computation",
+    "subfield": "Computational Theory and Mathematics",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11398",
+    "name": "Hand Gesture Recognition Systems",
+    "subfield": "Human-Computer Interaction",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12169",
+    "name": "Non-Destructive Testing Techniques",
+    "subfield": "Mechanical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12613",
+    "name": "X-ray Diffraction in Crystallography",
+    "subfield": "Materials Chemistry",
+    "field": "Materials Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12039",
+    "name": "Electron and X-Ray Spectroscopy Techniques",
+    "subfield": "Surfaces, Coatings and Films",
+    "field": "Materials Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13443",
+    "name": "Mineralogy and Gemology Studies",
+    "subfield": "Geochemistry and Petrology",
+    "field": "Earth and Planetary Sciences",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11597",
+    "name": "Neutrophil, Myeloperoxidase and Oxidative Mechanisms",
+    "subfield": "Immunology",
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T14165",
+    "name": "Inflammation biomarkers and pathways",
+    "subfield": "Immunology",
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11995",
+    "name": "FinTech, Crowdfunding, Digital Finance",
+    "subfield": "Management Information Systems",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T13346",
+    "name": "Digital Transformation in Financial Services",
+    "subfield": "General Economics, Econometrics and Finance",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10127",
+    "name": "Banking stability, regulation, efficiency",
+    "subfield": "Finance",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10522",
+    "name": "Medical Imaging Techniques and Applications",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11205",
+    "name": "Numerical methods in inverse problems",
+    "subfield": "Mathematical Physics",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10350",
+    "name": "Electronic Health Records Systems",
+    "subfield": "Health Information Management",
+    "field": "Health Professions",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T13717",
+    "name": "Advanced Algorithms and Applications",
+    "subfield": "Control and Systems Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10315",
+    "name": "Decision-Making and Behavioral Economics",
+    "subfield": "General Decision Sciences",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11542",
+    "name": "Behavioral Health and Interventions",
+    "subfield": "Applied Psychology",
+    "field": "Psychology",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10213",
+    "name": "Public Policy and Administration Research",
+    "subfield": "Public Administration",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11046",
+    "name": "Geotechnical Engineering and Analysis",
+    "subfield": "Civil and Structural Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10233",
+    "name": "Geotechnical Engineering and Soil Mechanics",
+    "subfield": "Civil and Structural Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11375",
+    "name": "Geotechnical Engineering and Soil Stabilization",
+    "subfield": "Civil and Structural Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14222",
+    "name": "Knowledge Management and Technology",
+    "subfield": "Information Systems and Management",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12028",
+    "name": "Knowledge Management and Sharing",
+    "subfield": "Information Systems and Management",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10047",
+    "name": "Financial Markets and Investment Strategies",
+    "subfield": "Finance",
+    "field": "Economics, Econometrics and Finance",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10783",
+    "name": "Additive Manufacturing and 3D Printing Technologies",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10705",
+    "name": "Additive Manufacturing Materials and Processes",
+    "subfield": "Mechanical Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10016",
+    "name": "Adsorption and biosorption for pollutant removal",
+    "subfield": "Water Science and Technology",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12078",
+    "name": "Environmental remediation with nanomaterials",
+    "subfield": "Environmental Engineering",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T13793",
+    "name": "Environmental and Analytical Chemistry Studies",
+    "subfield": "Water Science and Technology",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11659",
+    "name": "Advanced Image Fusion Techniques",
+    "subfield": "Media Technology",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12983",
+    "name": "Satellite Image Processing and Photogrammetry",
+    "subfield": "Computer Vision and Pattern Recognition",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14260",
+    "name": "Impact of AI and Big Data on Business and Society",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T12262",
+    "name": "Hate Speech and Cyberbullying Detection",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T14381",
+    "name": "Psychiatry, Mental Health, Neuroscience",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12120",
+    "name": "Air Quality Monitoring and Forecasting",
+    "subfield": "Environmental Engineering",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10056",
+    "name": "Neurotransmitter Receptor Influence on Behavior",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11304",
+    "name": "Advanced Neuroimaging Techniques and Applications",
+    "subfield": "Radiology, Nuclear Medicine and Imaging",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T12011",
+    "name": "Insurance, Mortality, Demography, Risk Management",
+    "subfield": "Demography",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T14093",
+    "name": "Global Health and Epidemiology",
+    "subfield": "Public Health, Environmental and Occupational Health",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T12935",
+    "name": "Healthcare Systems and Public Health",
+    "subfield": "Epidemiology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10018",
+    "name": "Advancements in Battery Materials",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10281",
+    "name": "Advanced Battery Materials and Technologies",
+    "subfield": "Electrical and Electronic Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10663",
+    "name": "Battery Modeling and Management",
+    "subfield": "Automotive Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11416",
+    "name": "Numerical Solvers for Ordinary Differential Equations",
+    "subfield": "Numerical Analysis",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10848",
+    "name": "Advanced Multi-Objective Optimization Algorithms",
+    "subfield": "Computational Theory and Mathematics",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10268",
+    "name": "Developmental Biology and Gene Regulation",
+    "subfield": "Molecular Biology",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T12290",
+    "name": "Human Motion and Animation",
+    "subfield": "Computer Graphics and Computer-Aided Design",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10392",
+    "name": "Cutaneous Melanoma Detection and Management",
+    "subfield": "Oncology",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10009",
+    "name": "Dementia and Cognitive Impairment Research",
+    "subfield": "Psychiatry and Mental health",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10086",
+    "name": "Alzheimer's disease research and treatments",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11133",
+    "name": "UAV Applications and Optimization",
+    "subfield": "Aerospace Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11038",
+    "name": "Advanced SAR Imaging Techniques",
+    "subfield": "Aerospace Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10147",
+    "name": "Antibiotic Resistance in Bacteria",
+    "subfield": "Microbiology (medical)",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T10897",
+    "name": "Antibiotic Use and Resistance",
+    "subfield": "Infectious Diseases",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T12167",
+    "name": "Bacterial Identification and Susceptibility Testing",
+    "subfield": "Microbiology (medical)",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  },
+  {
+    "topic_id": "T11872",
+    "name": "Barrier Structure and Function Studies",
+    "subfield": "Neurology",
+    "field": "Neuroscience",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T11814",
+    "name": "Advanced Manufacturing and Logistics Optimization",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10567",
+    "name": "Vehicle Routing Optimization Methods",
+    "subfield": "Industrial and Manufacturing Engineering",
+    "field": "Engineering",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11045",
+    "name": "Privacy, Security, and Data Protection",
+    "subfield": "Sociology and Political Science",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10770",
+    "name": "Soil Geostatistics and Mapping",
+    "subfield": "Soil Science",
+    "field": "Agricultural and Biological Sciences",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T13058",
+    "name": "Soil and Land Suitability Analysis",
+    "subfield": "Management, Monitoring, Policy and Law",
+    "field": "Environmental Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T12327",
+    "name": "Various Chemistry Research Topics",
+    "subfield": "Education",
+    "field": "Social Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11241",
+    "name": "Advanced Malware Detection Techniques",
+    "subfield": "Software",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11653",
+    "name": "Financial Distress and Bankruptcy Prediction",
+    "subfield": "Accounting",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11476",
+    "name": "Graph theory and applications",
+    "subfield": "Discrete Mathematics and Combinatorics",
+    "field": "Mathematics",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T10711",
+    "name": "Target Tracking and Data Fusion in Sensor Networks",
+    "subfield": "Artificial Intelligence",
+    "field": "Computer Science",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11891",
+    "name": "Big Data and Business Intelligence",
+    "subfield": "Management Information Systems",
+    "field": "Business, Management and Accounting",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T10328",
+    "name": "Supply Chain and Inventory Management",
+    "subfield": "Management Science and Operations Research",
+    "field": "Decision Sciences",
+    "domain": "Social Sciences"
+  },
+  {
+    "topic_id": "T11103",
+    "name": "Antimicrobial Peptides and Activities",
+    "subfield": "Microbiology",
+    "field": "Immunology and Microbiology",
+    "domain": "Life Sciences"
+  },
+  {
+    "topic_id": "T10911",
+    "name": "Chemical Synthesis and Analysis",
+    "subfield": "Organic Chemistry",
+    "field": "Chemistry",
+    "domain": "Physical Sciences"
+  },
+  {
+    "topic_id": "T11021",
+    "name": "ECG Monitoring and Analysis",
+    "subfield": "Cardiology and Cardiovascular Medicine",
+    "field": "Medicine",
+    "domain": "Health Sciences"
+  }
+]
