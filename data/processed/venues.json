@@ -1,0 +1,1172 @@
+[
+  {
+    "venue_id": "S137773608",
+    "name": "Nature",
+    "type": "journal",
+    "issn": "0028-0836"
+  },
+  {
+    "venue_id": "S4210188176",
+    "name": "Foundations and Trends\u00ae in Machine Learning",
+    "type": "journal",
+    "issn": "1935-8237"
+  },
+  {
+    "venue_id": "S4393919742",
+    "name": "Transactions on machine learning research",
+    "type": "journal",
+    "issn": "2835-8856"
+  },
+  {
+    "venue_id": "S157921468",
+    "name": "ACM Computing Surveys",
+    "type": "journal",
+    "issn": "0360-0300"
+  },
+  {
+    "venue_id": "S2737955091",
+    "name": "Journal Of Big Data",
+    "type": "journal",
+    "issn": "2196-1115"
+  },
+  {
+    "venue_id": "S4210194376",
+    "name": "AI Open",
+    "type": "journal",
+    "issn": "2666-6510"
+  },
+  {
+    "venue_id": "S68686220",
+    "name": "Proceedings of the IEEE",
+    "type": "journal",
+    "issn": "0018-9219"
+  },
+  {
+    "venue_id": "S120977877",
+    "name": "IEEE Signal Processing Magazine",
+    "type": "journal",
+    "issn": "1053-5888"
+  },
+  {
+    "venue_id": "S189354248",
+    "name": "International Journal of Information Management",
+    "type": "journal",
+    "issn": "0268-4012"
+  },
+  {
+    "venue_id": "S4394735545",
+    "name": "ACM Transactions on Information Systems",
+    "type": "journal",
+    "issn": "1046-8188"
+  },
+  {
+    "venue_id": "S185367456",
+    "name": "ACM Transactions on Graphics",
+    "type": "journal",
+    "issn": "0730-0301"
+  },
+  {
+    "venue_id": "S106963461",
+    "name": "Nature Biotechnology",
+    "type": "journal",
+    "issn": "0733-222X"
+  },
+  {
+    "venue_id": "S2492086750",
+    "name": "ACM Transactions on Intelligent Systems and Technology",
+    "type": "journal",
+    "issn": "2157-6904"
+  },
+  {
+    "venue_id": "S144620930",
+    "name": "IEEE Transactions on Robotics",
+    "type": "journal",
+    "issn": "1552-3098"
+  },
+  {
+    "venue_id": "S199944782",
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "type": "journal",
+    "issn": "0162-8828"
+  },
+  {
+    "venue_id": "S25538012",
+    "name": "International Journal of Computer Vision",
+    "type": "journal",
+    "issn": "0920-5691"
+  },
+  {
+    "venue_id": "S110206669",
+    "name": "Multimedia Tools and Applications",
+    "type": "journal",
+    "issn": "1380-7501"
+  },
+  {
+    "venue_id": "S146713389",
+    "name": "Innovations in Education and Teaching International",
+    "type": "journal",
+    "issn": "1470-3297"
+  },
+  {
+    "venue_id": "S4210231404",
+    "name": "Frontiers of Computer Science",
+    "type": "journal",
+    "issn": "2095-2228"
+  },
+  {
+    "venue_id": "S4210221150",
+    "name": "PLOS Digital Health",
+    "type": "journal",
+    "issn": "2767-3170"
+  },
+  {
+    "venue_id": "S90422530",
+    "name": "IEEE Journal on Selected Areas in Communications",
+    "type": "journal",
+    "issn": "0733-8716"
+  },
+  {
+    "venue_id": "S2912241403",
+    "name": "Nature Machine Intelligence",
+    "type": "journal",
+    "issn": "2522-5839"
+  },
+  {
+    "venue_id": "S4210213891",
+    "name": "Machine Learning and Knowledge Extraction",
+    "type": "journal",
+    "issn": "2504-4990"
+  },
+  {
+    "venue_id": "S4210183364",
+    "name": "Computers and Education Artificial Intelligence",
+    "type": "journal",
+    "issn": "2666-920X"
+  },
+  {
+    "venue_id": "S134668137",
+    "name": "Nucleic Acids Research",
+    "type": "journal",
+    "issn": "0305-1048"
+  },
+  {
+    "venue_id": "S2485537415",
+    "name": "IEEE Access",
+    "type": "journal",
+    "issn": "2169-3536"
+  },
+  {
+    "venue_id": "S151550017",
+    "name": "Journal of Scientific Computing",
+    "type": "journal",
+    "issn": "0885-7474"
+  },
+  {
+    "venue_id": "S30698027",
+    "name": "IEEE Transactions on Knowledge and Data Engineering",
+    "type": "journal",
+    "issn": "1041-4347"
+  },
+  {
+    "venue_id": "S4210175523",
+    "name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "type": "journal",
+    "issn": "2162-237X"
+  },
+  {
+    "venue_id": "S4210240710",
+    "name": "International Journal of Science and Research (IJSR)",
+    "type": "journal",
+    "issn": "2319-7064"
+  },
+  {
+    "venue_id": "S7560371",
+    "name": "Information Fusion",
+    "type": "journal",
+    "issn": "1566-2535"
+  },
+  {
+    "venue_id": "S122814990",
+    "name": "Artificial Intelligence Review",
+    "type": "journal",
+    "issn": "0269-2821"
+  },
+  {
+    "venue_id": "S196734849",
+    "name": "Scientific Reports",
+    "type": "journal",
+    "issn": "2045-2322"
+  },
+  {
+    "venue_id": "S128368299",
+    "name": "Mechanical Systems and Signal Processing",
+    "type": "journal",
+    "issn": "0888-3270"
+  },
+  {
+    "venue_id": "S165512578",
+    "name": "SIAM Journal on Scientific Computing",
+    "type": "journal",
+    "issn": "1064-8275"
+  },
+  {
+    "venue_id": "S4210218743",
+    "name": "Science China Information Sciences",
+    "type": "journal",
+    "issn": "1869-1919"
+  },
+  {
+    "venue_id": "S144771191",
+    "name": "IEEE Transactions on Intelligent Transportation Systems",
+    "type": "journal",
+    "issn": "1524-9050"
+  },
+  {
+    "venue_id": "S64187185",
+    "name": "Nature Communications",
+    "type": "journal",
+    "issn": "2041-1723"
+  },
+  {
+    "venue_id": "S3880285",
+    "name": "Science",
+    "type": "journal",
+    "issn": "0036-8075"
+  },
+  {
+    "venue_id": "S203256638",
+    "name": "Nature Medicine",
+    "type": "journal",
+    "issn": "1078-8956"
+  },
+  {
+    "venue_id": "S23688054",
+    "name": "IEEE Communications Surveys & Tutorials",
+    "type": "journal",
+    "issn": "1553-877X"
+  },
+  {
+    "venue_id": "S133078663",
+    "name": "Cognitive Computation",
+    "type": "journal",
+    "issn": "1866-9956"
+  },
+  {
+    "venue_id": "S45693802",
+    "name": "Neurocomputing",
+    "type": "journal",
+    "issn": "0925-2312"
+  },
+  {
+    "venue_id": "S73260565",
+    "name": "Reviews of Modern Physics",
+    "type": "journal",
+    "issn": "0034-6861"
+  },
+  {
+    "venue_id": "S4210219523",
+    "name": "Radiology Artificial Intelligence",
+    "type": "journal",
+    "issn": "2638-6100"
+  },
+  {
+    "venue_id": "S900972176",
+    "name": "Engineering Applications of Artificial Intelligence",
+    "type": "journal",
+    "issn": "0952-1976"
+  },
+  {
+    "venue_id": "S104780363",
+    "name": "IEEE Transactions on Affective Computing",
+    "type": "journal",
+    "issn": "1949-3045"
+  },
+  {
+    "venue_id": "S173339282",
+    "name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+    "type": "journal",
+    "issn": "0924-2716"
+  },
+  {
+    "venue_id": "S203860005",
+    "name": "The Quarterly Journal of Economics",
+    "type": "journal",
+    "issn": "0033-5533"
+  },
+  {
+    "venue_id": "S4210205812",
+    "name": "Applied Sciences",
+    "type": "journal",
+    "issn": "2076-3417"
+  },
+  {
+    "venue_id": "S103321696",
+    "name": "European Journal of Operational Research",
+    "type": "journal",
+    "issn": "0377-2217"
+  },
+  {
+    "venue_id": "S4210216480",
+    "name": "Journal of Applied Science and Technology Trends",
+    "type": "journal",
+    "issn": "2708-0757"
+  },
+  {
+    "venue_id": "S10169007",
+    "name": "Knowledge-Based Systems",
+    "type": "journal",
+    "issn": "0950-7051"
+  },
+  {
+    "venue_id": "S2491400915",
+    "name": "IEEE Transactions on Big Data",
+    "type": "journal",
+    "issn": "2332-7790"
+  },
+  {
+    "venue_id": "S207319443",
+    "name": "Complexity",
+    "type": "journal",
+    "issn": "1076-2787"
+  },
+  {
+    "venue_id": "S4210202905",
+    "name": "Electronics",
+    "type": "journal",
+    "issn": "2079-9292"
+  },
+  {
+    "venue_id": "S40006715",
+    "name": "Computer Methods in Applied Mechanics and Engineering",
+    "type": "journal",
+    "issn": "0045-7825"
+  },
+  {
+    "venue_id": "S155526855",
+    "name": "Computational Linguistics",
+    "type": "journal",
+    "issn": "0891-2017"
+  },
+  {
+    "venue_id": "S48633963",
+    "name": "Physics Reports",
+    "type": "journal",
+    "issn": "0370-1573"
+  },
+  {
+    "venue_id": "S4210187899",
+    "name": "Studies in systems, decision and control",
+    "type": "book series",
+    "issn": "2198-4182"
+  },
+  {
+    "venue_id": "S120392215",
+    "name": "Nature Photonics",
+    "type": "journal",
+    "issn": "1749-4885"
+  },
+  {
+    "venue_id": "S162583102",
+    "name": "Science China Technological Sciences",
+    "type": "journal",
+    "issn": "1869-1900"
+  },
+  {
+    "venue_id": "S2738348041",
+    "name": "Technologies",
+    "type": "journal",
+    "issn": "2227-7080"
+  },
+  {
+    "venue_id": "S4210186527",
+    "name": "High-Confidence Computing",
+    "type": "journal",
+    "issn": "2667-2952"
+  },
+  {
+    "venue_id": "S4306463230",
+    "name": "Elsevier eBooks",
+    "type": "ebook platform",
+    "issn": null
+  },
+  {
+    "venue_id": "S2505707916",
+    "name": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+    "type": "journal",
+    "issn": "1942-4795"
+  },
+  {
+    "venue_id": "S125754415",
+    "name": "Proceedings of the National Academy of Sciences",
+    "type": "journal",
+    "issn": "0027-8424"
+  },
+  {
+    "venue_id": "S136120998",
+    "name": "Wiley Interdisciplinary Reviews Computational Molecular Science",
+    "type": "journal",
+    "issn": "1759-0884"
+  },
+  {
+    "venue_id": "S116571295",
+    "name": "Medical Image Analysis",
+    "type": "journal",
+    "issn": "1361-8415"
+  },
+  {
+    "venue_id": "S10134376",
+    "name": "Sustainability",
+    "type": "journal",
+    "issn": "2071-1050"
+  },
+  {
+    "venue_id": "S4210226731",
+    "name": "Big Data",
+    "type": "journal",
+    "issn": "2167-6461"
+  },
+  {
+    "venue_id": "S91767247",
+    "name": "Briefings in Bioinformatics",
+    "type": "journal",
+    "issn": "1467-5463"
+  },
+  {
+    "venue_id": "S4210196546",
+    "name": "Journal of Healthcare Informatics Research",
+    "type": "journal",
+    "issn": "2509-498X"
+  },
+  {
+    "venue_id": "S4306467597",
+    "name": "Chapman & Hall/CRC eBooks",
+    "type": "ebook platform",
+    "issn": null
+  },
+  {
+    "venue_id": "S4210211553",
+    "name": "Global Transitions Proceedings",
+    "type": "journal",
+    "issn": "2666-285X"
+  },
+  {
+    "venue_id": "S2729999759",
+    "name": "Transactions of the Association for Computational Linguistics",
+    "type": "journal",
+    "issn": "2307-387X"
+  },
+  {
+    "venue_id": "S111326731",
+    "name": "IEEE Transactions on Geoscience and Remote Sensing",
+    "type": "journal",
+    "issn": "0196-2892"
+  },
+  {
+    "venue_id": "S39841227",
+    "name": "International Journal of Forecasting",
+    "type": "journal",
+    "issn": "0169-2070"
+  },
+  {
+    "venue_id": "S2738008561",
+    "name": "Education Sciences",
+    "type": "journal",
+    "issn": "2227-7102"
+  },
+  {
+    "venue_id": "S4306463855",
+    "name": "Routledge eBooks",
+    "type": "ebook platform",
+    "issn": null
+  },
+  {
+    "venue_id": "S110346167",
+    "name": "British Journal of Educational Technology",
+    "type": "journal",
+    "issn": "0007-1013"
+  },
+  {
+    "venue_id": "S4210226185",
+    "name": "Proceedings of the VLDB Endowment",
+    "type": "conference",
+    "issn": "2150-8097"
+  },
+  {
+    "venue_id": "S13144211",
+    "name": "Expert Systems with Applications",
+    "type": "journal",
+    "issn": "0957-4174"
+  },
+  {
+    "venue_id": "S127827428",
+    "name": "Nature Methods",
+    "type": "journal",
+    "issn": "1548-7091"
+  },
+  {
+    "venue_id": "S4210202467",
+    "name": "International Journal of Intelligent Networks",
+    "type": "journal",
+    "issn": "2666-6030"
+  },
+  {
+    "venue_id": "S196139623",
+    "name": "Artificial Intelligence",
+    "type": "journal",
+    "issn": "0004-3702"
+  },
+  {
+    "venue_id": "S4387290862",
+    "name": "Meta-Radiology",
+    "type": "journal",
+    "issn": "2950-1628"
+  },
+  {
+    "venue_id": "S98183460",
+    "name": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "type": "journal",
+    "issn": "1534-4320"
+  },
+  {
+    "venue_id": "S49861241",
+    "name": "The Lancet",
+    "type": "journal",
+    "issn": "0099-5355"
+  },
+  {
+    "venue_id": "S41523882",
+    "name": "ACM Transactions on Knowledge Discovery from Data",
+    "type": "journal",
+    "issn": "1556-4681"
+  },
+  {
+    "venue_id": "S4306400155",
+    "name": "AAAI Publications (The Association for the Advancement of Artificial Intelligence (AAAI))",
+    "type": "repository",
+    "issn": null
+  },
+  {
+    "venue_id": "S33323087",
+    "name": "Management Science",
+    "type": "journal",
+    "issn": "0025-1909"
+  },
+  {
+    "venue_id": "S4210219839",
+    "name": "Machines",
+    "type": "journal",
+    "issn": "2075-1702"
+  },
+  {
+    "venue_id": "S147498506",
+    "name": "Statistics Surveys",
+    "type": "journal",
+    "issn": "1935-7516"
+  },
+  {
+    "venue_id": "S4210228075",
+    "name": "Computers",
+    "type": "journal",
+    "issn": "2073-431X"
+  },
+  {
+    "venue_id": "S4210228084",
+    "name": "Nature Computational Science",
+    "type": "journal",
+    "issn": "2662-8457"
+  },
+  {
+    "venue_id": "S15239247",
+    "name": "International Journal of Environmental Research and Public Health",
+    "type": "journal",
+    "issn": "1660-4601"
+  },
+  {
+    "venue_id": "S2480266640",
+    "name": "IEEE Internet of Things Journal",
+    "type": "journal",
+    "issn": "2327-4662"
+  },
+  {
+    "venue_id": "S4210232664",
+    "name": "npj Computational Materials",
+    "type": "journal",
+    "issn": "2057-3960"
+  },
+  {
+    "venue_id": "S2737427234",
+    "name": "Science Advances",
+    "type": "journal",
+    "issn": "2375-2548"
+  },
+  {
+    "venue_id": "S197106261",
+    "name": "Foundations and Trends\u00ae in Information Retrieval",
+    "type": "journal",
+    "issn": "1554-0669"
+  },
+  {
+    "venue_id": "S4210195431",
+    "name": "npj Digital Medicine",
+    "type": "journal",
+    "issn": "2398-6352"
+  },
+  {
+    "venue_id": "S139930977",
+    "name": "Journal of Artificial Intelligence Research",
+    "type": "journal",
+    "issn": "1076-9757"
+  },
+  {
+    "venue_id": "S43295729",
+    "name": "Remote Sensing",
+    "type": "journal",
+    "issn": "2072-4292"
+  },
+  {
+    "venue_id": "S42167783",
+    "name": "IEEE Journal of Selected Topics in Signal Processing",
+    "type": "journal",
+    "issn": "1932-4553"
+  },
+  {
+    "venue_id": "S60115552",
+    "name": "Computers Environment and Urban Systems",
+    "type": "journal",
+    "issn": "0198-9715"
+  },
+  {
+    "venue_id": "S4210213233",
+    "name": "Science Robotics",
+    "type": "journal",
+    "issn": "2470-9476"
+  },
+  {
+    "venue_id": "S117727964",
+    "name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "type": "journal",
+    "issn": "1939-1404"
+  },
+  {
+    "venue_id": "S5407035808",
+    "name": "ACM / IMS Journal of Data Science",
+    "type": "journal",
+    "issn": "2831-3194"
+  },
+  {
+    "venue_id": "S4210201630",
+    "name": "Database",
+    "type": "journal",
+    "issn": "1758-0463"
+  },
+  {
+    "venue_id": "S44278595",
+    "name": "Computers in Biology and Medicine",
+    "type": "journal",
+    "issn": "0010-4825"
+  },
+  {
+    "venue_id": "S4210212817",
+    "name": "Advanced Intelligent Systems",
+    "type": "journal",
+    "issn": "2640-4567"
+  },
+  {
+    "venue_id": "S2764999920",
+    "name": "International Journal of Machine Learning and Cybernetics",
+    "type": "journal",
+    "issn": "1868-8071"
+  },
+  {
+    "venue_id": "S104797584",
+    "name": "IEEE Computational Intelligence Magazine",
+    "type": "journal",
+    "issn": "1556-603X"
+  },
+  {
+    "venue_id": "S172073041",
+    "name": "Automation in Construction",
+    "type": "journal",
+    "issn": "0926-5805"
+  },
+  {
+    "venue_id": "S2764891196",
+    "name": "Social Network Analysis and Mining",
+    "type": "journal",
+    "issn": "1869-5450"
+  },
+  {
+    "venue_id": "S54761077",
+    "name": "Annual Reviews in Control",
+    "type": "journal",
+    "issn": "1367-5788"
+  },
+  {
+    "venue_id": "S98984247",
+    "name": "Computational Economics",
+    "type": "journal",
+    "issn": "0927-7099"
+  },
+  {
+    "venue_id": "S5407043201",
+    "name": "Babylonian Journal of Machine Learning",
+    "type": "journal",
+    "issn": "3006-5429"
+  },
+  {
+    "venue_id": "S164566984",
+    "name": "Physical Review A",
+    "type": "journal",
+    "issn": "0556-2791"
+  },
+  {
+    "venue_id": "S4210210251",
+    "name": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+    "type": "journal",
+    "issn": "2471-285X"
+  },
+  {
+    "venue_id": "S118988714",
+    "name": "Journal of Machine Learning Research",
+    "type": "journal",
+    "issn": "1532-4435"
+  },
+  {
+    "venue_id": "S4210173141",
+    "name": "IEEE Transactions on Image Processing",
+    "type": "journal",
+    "issn": "1057-7149"
+  },
+  {
+    "venue_id": "S3004984423",
+    "name": "Microbiome",
+    "type": "journal",
+    "issn": "2049-2618"
+  },
+  {
+    "venue_id": "S4210173818",
+    "name": "ACM Transactions on Interactive Intelligent Systems",
+    "type": "journal",
+    "issn": "2160-6455"
+  },
+  {
+    "venue_id": "S4210194039",
+    "name": "Array",
+    "type": "journal",
+    "issn": "2590-0056"
+  },
+  {
+    "venue_id": "S62148650",
+    "name": "Machine Learning",
+    "type": "journal",
+    "issn": "0885-6125"
+  },
+  {
+    "venue_id": "S129236917",
+    "name": "World Wide Web",
+    "type": "journal",
+    "issn": "1386-145X"
+  },
+  {
+    "venue_id": "S8351582",
+    "name": "IEEE Transactions on Software Engineering",
+    "type": "journal",
+    "issn": "0098-5589"
+  },
+  {
+    "venue_id": "S2737697848",
+    "name": "The Electronic Journal of e-Learning",
+    "type": "journal",
+    "issn": "1479-4403"
+  },
+  {
+    "venue_id": "S4210219776",
+    "name": "Information",
+    "type": "journal",
+    "issn": "2078-2489"
+  },
+  {
+    "venue_id": "S2531583244",
+    "name": "Journal of Complex Networks",
+    "type": "journal",
+    "issn": "2051-1310"
+  },
+  {
+    "venue_id": "S168680287",
+    "name": "IEEE Transactions on Signal Processing",
+    "type": "journal",
+    "issn": "1053-587X"
+  },
+  {
+    "venue_id": "S186357190",
+    "name": "Future Generation Computer Systems",
+    "type": "journal",
+    "issn": "0167-739X"
+  },
+  {
+    "venue_id": "S23772524",
+    "name": "The Lancet Infectious Diseases",
+    "type": "journal",
+    "issn": "1473-3099"
+  },
+  {
+    "venue_id": "S83215360",
+    "name": "IET Image Processing",
+    "type": "journal",
+    "issn": "1751-9659"
+  },
+  {
+    "venue_id": "S160107561",
+    "name": "SIAM Review",
+    "type": "journal",
+    "issn": "0036-1445"
+  },
+  {
+    "venue_id": "S23254222",
+    "name": "American Economic Review",
+    "type": "journal",
+    "issn": "0002-8282"
+  },
+  {
+    "venue_id": "S37391459",
+    "name": "ACS Catalysis",
+    "type": "journal",
+    "issn": "2155-5435"
+  },
+  {
+    "venue_id": "S34838331",
+    "name": "Future Internet",
+    "type": "journal",
+    "issn": "1999-5903"
+  },
+  {
+    "venue_id": "S4502562",
+    "name": "IEEE Transactions on Information Theory",
+    "type": "journal",
+    "issn": "0018-9448"
+  },
+  {
+    "venue_id": "S104597489",
+    "name": "Landscape and Urban Planning",
+    "type": "journal",
+    "issn": "0169-2046"
+  },
+  {
+    "venue_id": "S204847658",
+    "name": "Water Resources Research",
+    "type": "journal",
+    "issn": "0043-1397"
+  },
+  {
+    "venue_id": "S4210201048",
+    "name": "Machine Learning with Applications",
+    "type": "journal",
+    "issn": "2666-8270"
+  },
+  {
+    "venue_id": "S183584863",
+    "name": "Nature Climate Change",
+    "type": "journal",
+    "issn": "1758-678X"
+  },
+  {
+    "venue_id": "S4387284325",
+    "name": "ACM Transactions on Recommender Systems",
+    "type": "journal",
+    "issn": "2770-6699"
+  },
+  {
+    "venue_id": "S4404663975",
+    "name": "Proceedings of the ACM on software engineering.",
+    "type": "journal",
+    "issn": "2994-970X"
+  },
+  {
+    "venue_id": "S73484101",
+    "name": "The International Journal of Robotics Research",
+    "type": "journal",
+    "issn": "0278-3649"
+  },
+  {
+    "venue_id": "S414566",
+    "name": "Pattern Recognition",
+    "type": "journal",
+    "issn": "0031-3203"
+  },
+  {
+    "venue_id": "S4389157821",
+    "name": "NEJM AI",
+    "type": "journal",
+    "issn": "2836-9386"
+  },
+  {
+    "venue_id": "S79420083",
+    "name": "Environmental Reviews",
+    "type": "journal",
+    "issn": "1181-8700"
+  },
+  {
+    "venue_id": "S173256270",
+    "name": "Computers & Operations Research",
+    "type": "journal",
+    "issn": "0305-0548"
+  },
+  {
+    "venue_id": "S4210169774",
+    "name": "IEEE Robotics and Automation Letters",
+    "type": "journal",
+    "issn": "2377-3766"
+  },
+  {
+    "venue_id": "S4210226089",
+    "name": "International Journal of Information Management Data Insights",
+    "type": "journal",
+    "issn": "2667-0968"
+  },
+  {
+    "venue_id": "S60779006",
+    "name": "Computers in Industry",
+    "type": "journal",
+    "issn": "0166-3615"
+  },
+  {
+    "venue_id": "S103482838",
+    "name": "Communications of the ACM",
+    "type": "journal",
+    "issn": "0001-0782"
+  },
+  {
+    "venue_id": "S2764410448",
+    "name": "International Journal of Precision Engineering and Manufacturing-Green Technology",
+    "type": "journal",
+    "issn": "2288-6206"
+  },
+  {
+    "venue_id": "S110447773",
+    "name": "Cell",
+    "type": "journal",
+    "issn": "0092-8674"
+  },
+  {
+    "venue_id": "S2737336974",
+    "name": "Minerals",
+    "type": "journal",
+    "issn": "2075-163X"
+  },
+  {
+    "venue_id": "S22947807",
+    "name": "The Journal of Experimental Medicine",
+    "type": "journal",
+    "issn": "0022-1007"
+  },
+  {
+    "venue_id": "S145572626",
+    "name": "International Review of Financial Analysis",
+    "type": "journal",
+    "issn": "1057-5219"
+  },
+  {
+    "venue_id": "S4210201537",
+    "name": "International Journal of Educational Technology in Higher Education",
+    "type": "journal",
+    "issn": "2365-9440"
+  },
+  {
+    "venue_id": "S198823948",
+    "name": "Computerized Medical Imaging and Graphics",
+    "type": "journal",
+    "issn": "0730-4862"
+  },
+  {
+    "venue_id": "S2738402919",
+    "name": "Computation",
+    "type": "journal",
+    "issn": "2079-3197"
+  },
+  {
+    "venue_id": "S59628311",
+    "name": "Behavioral and Brain Sciences",
+    "type": "journal",
+    "issn": "0140-525X"
+  },
+  {
+    "venue_id": "S2764860519",
+    "name": "Geoscience Frontiers",
+    "type": "journal",
+    "issn": "1674-9871"
+  },
+  {
+    "venue_id": "S4210189963",
+    "name": "International Journal of Innovative Science and Research Technology (IJISRT)",
+    "type": "journal",
+    "issn": "2456-2165"
+  },
+  {
+    "venue_id": "S113237667",
+    "name": "Business Horizons",
+    "type": "journal",
+    "issn": "0007-6813"
+  },
+  {
+    "venue_id": "S2764842179",
+    "name": "Additive manufacturing",
+    "type": "journal",
+    "issn": "2214-7810"
+  },
+  {
+    "venue_id": "S2898612692",
+    "name": "Heliyon",
+    "type": "journal",
+    "issn": "2405-8440"
+  },
+  {
+    "venue_id": "S4210179989",
+    "name": "International Journal of Applied Earth Observation and Geoinformation",
+    "type": "journal",
+    "issn": "0303-2434"
+  },
+  {
+    "venue_id": "S4404676885",
+    "name": "Vicinagearth.",
+    "type": "journal",
+    "issn": "3005-060X"
+  },
+  {
+    "venue_id": "S2298632",
+    "name": "Nature Neuroscience",
+    "type": "journal",
+    "issn": "1097-6256"
+  },
+  {
+    "venue_id": "S2502627819",
+    "name": "Advanced Energy Materials",
+    "type": "journal",
+    "issn": "1614-6832"
+  },
+  {
+    "venue_id": "S2495854775",
+    "name": "IEEE Journal of Biomedical and Health Informatics",
+    "type": "journal",
+    "issn": "2168-2194"
+  },
+  {
+    "venue_id": "S123019304",
+    "name": "Neural Networks",
+    "type": "journal",
+    "issn": "0893-6080"
+  },
+  {
+    "venue_id": "S101949793",
+    "name": "Sensors",
+    "type": "journal",
+    "issn": "1424-8220"
+  },
+  {
+    "venue_id": "S4210186362",
+    "name": "Microbial Genomics",
+    "type": "journal",
+    "issn": "2057-5858"
+  },
+  {
+    "venue_id": "S121340289",
+    "name": "Computers & Electrical Engineering",
+    "type": "journal",
+    "issn": "0045-7906"
+  },
+  {
+    "venue_id": "S78926909",
+    "name": "The VLDB Journal",
+    "type": "journal",
+    "issn": "1066-8888"
+  },
+  {
+    "venue_id": "S121920818",
+    "name": "Data Mining and Knowledge Discovery",
+    "type": "journal",
+    "issn": "1384-5810"
+  },
+  {
+    "venue_id": "S167262187",
+    "name": "Journal of Chemical Information and Modeling",
+    "type": "journal",
+    "issn": "1549-9596"
+  },
+  {
+    "venue_id": "S28082686",
+    "name": "Machine Intelligence Research",
+    "type": "journal",
+    "issn": "1476-8186"
+  },
+  {
+    "venue_id": "S58031724",
+    "name": "IEEE Transactions on Industrial Electronics",
+    "type": "journal",
+    "issn": "0278-0046"
+  },
+  {
+    "venue_id": "S8802318",
+    "name": "Annals of the New York Academy of Sciences",
+    "type": "journal",
+    "issn": "0077-8923"
+  },
+  {
+    "venue_id": "S67831204",
+    "name": "Computer Graphics Forum",
+    "type": "journal",
+    "issn": "0167-7055"
+  },
+  {
+    "venue_id": "S145009937",
+    "name": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+    "type": "journal",
+    "issn": "1369-7412"
+  },
+  {
+    "venue_id": "S40187045",
+    "name": "Earth-Science Reviews",
+    "type": "journal",
+    "issn": "0012-8252"
+  },
+  {
+    "venue_id": "S4210215815",
+    "name": "Nature Synthesis",
+    "type": "journal",
+    "issn": "2731-0582"
+  },
+  {
+    "venue_id": "S74726891",
+    "name": "Applied Intelligence",
+    "type": "journal",
+    "issn": "0924-669X"
+  },
+  {
+    "venue_id": "S4210206302",
+    "name": "Humanities and Social Sciences Communications",
+    "type": "journal",
+    "issn": "2055-1045"
+  },
+  {
+    "venue_id": "S180838163",
+    "name": "Journal of Cheminformatics",
+    "type": "journal",
+    "issn": "1758-2946"
+  },
+  {
+    "venue_id": "S202193212",
+    "name": "Nature Chemistry",
+    "type": "journal",
+    "issn": "1755-4330"
+  },
+  {
+    "venue_id": "S103225281",
+    "name": "NeuroImage",
+    "type": "journal",
+    "issn": "1053-8119"
+  },
+  {
+    "venue_id": "S147897268",
+    "name": "Neural Computing and Applications",
+    "type": "journal",
+    "issn": "0941-0643"
+  }
+]

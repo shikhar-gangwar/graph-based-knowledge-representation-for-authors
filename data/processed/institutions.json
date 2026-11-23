@@ -1,0 +1,6824 @@
+[
+  {
+    "institution_id": "I4210090411",
+    "name": "Google DeepMind (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/00971b260"
+  },
+  {
+    "institution_id": "I139264467",
+    "name": "Seoul National University",
+    "country_code": "KR",
+    "ror": "https://ror.org/04h9pn542"
+  },
+  {
+    "institution_id": "I1291425158",
+    "name": "Google (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/00njsd438"
+  },
+  {
+    "institution_id": "I1326498283",
+    "name": "Institut national de recherche en sciences et technologies du num\u00e9rique",
+    "country_code": "FR",
+    "ror": "https://ror.org/02kvxyf05"
+  },
+  {
+    "institution_id": "I277688954",
+    "name": "Universit\u00e9 Paris-Saclay",
+    "country_code": "FR",
+    "ror": "https://ror.org/03xjwb503"
+  },
+  {
+    "institution_id": "I200769079",
+    "name": "Hong Kong University of Science and Technology",
+    "country_code": "HK",
+    "ror": "https://ror.org/00q4vv597"
+  },
+  {
+    "institution_id": "I160993911",
+    "name": "Queensland University of Technology",
+    "country_code": "AU",
+    "ror": "https://ror.org/03pnv4752"
+  },
+  {
+    "institution_id": "I4210119257",
+    "name": "University of Information Technology and Communications",
+    "country_code": "IQ",
+    "ror": "https://ror.org/028h0pd91"
+  },
+  {
+    "institution_id": "I171256487",
+    "name": "University of Technology - Iraq",
+    "country_code": "IQ",
+    "ror": "https://ror.org/01w1ehb86"
+  },
+  {
+    "institution_id": "I4210115078",
+    "name": "Middle Technical University",
+    "country_code": "IQ",
+    "ror": "https://ror.org/02fvkg758"
+  },
+  {
+    "institution_id": "I76835614",
+    "name": "University of Missouri",
+    "country_code": "US",
+    "ror": "https://ror.org/02ymw8z06"
+  },
+  {
+    "institution_id": "I191420491",
+    "name": "Universidad de Ja\u00e9n",
+    "country_code": "ES",
+    "ror": "https://ror.org/0122p5f64"
+  },
+  {
+    "institution_id": "I4405266776",
+    "name": "University of Sumer",
+    "country_code": "IQ",
+    "ror": "https://ror.org/05fsahm30"
+  },
+  {
+    "institution_id": "I11983389",
+    "name": "Manchester Metropolitan University",
+    "country_code": "GB",
+    "ror": "https://ror.org/02hstj355"
+  },
+  {
+    "institution_id": "I99065089",
+    "name": "Tsinghua University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03cve4549"
+  },
+  {
+    "institution_id": "I139759216",
+    "name": "Beijing University of Posts and Telecommunications",
+    "country_code": "CN",
+    "ror": "https://ror.org/04w9fbh59"
+  },
+  {
+    "institution_id": "I2250653659",
+    "name": "Tencent (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/00hhjss72"
+  },
+  {
+    "institution_id": "I19820366",
+    "name": "Chinese Academy of Sciences",
+    "country_code": "CN",
+    "ror": "https://ror.org/034t30j35"
+  },
+  {
+    "institution_id": "I4210090176",
+    "name": "Institute of Computing Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/0090r4d87"
+  },
+  {
+    "institution_id": "I4210165038",
+    "name": "University of Chinese Academy of Sciences",
+    "country_code": "CN",
+    "ror": "https://ror.org/05qbk4x57"
+  },
+  {
+    "institution_id": "I98301712",
+    "name": "Baidu (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/03vs3wt56"
+  },
+  {
+    "institution_id": "I102322142",
+    "name": "Rutgers, The State University of New Jersey",
+    "country_code": "US",
+    "ror": "https://ror.org/05vt9qd57"
+  },
+  {
+    "institution_id": "I244572783",
+    "name": "Symbiosis International University",
+    "country_code": "IN",
+    "ror": "https://ror.org/005r2ww51"
+  },
+  {
+    "institution_id": "I39586589",
+    "name": "Swansea University",
+    "country_code": "GB",
+    "ror": "https://ror.org/053fq8t95"
+  },
+  {
+    "institution_id": "I169335092",
+    "name": "University of North Carolina at Greensboro",
+    "country_code": "US",
+    "ror": "https://ror.org/04fnxsj42"
+  },
+  {
+    "institution_id": "I36234482",
+    "name": "University of Bristol",
+    "country_code": "GB",
+    "ror": "https://ror.org/0524sp257"
+  },
+  {
+    "institution_id": "I19648265",
+    "name": "Wright State University",
+    "country_code": "US",
+    "ror": "https://ror.org/04qk6pt94"
+  },
+  {
+    "institution_id": "I68891433",
+    "name": "Indian Institute of Technology Delhi",
+    "country_code": "IN",
+    "ror": "https://ror.org/049tgcd06"
+  },
+  {
+    "institution_id": "I185163786",
+    "name": "King Abdulaziz University",
+    "country_code": "SA",
+    "ror": "https://ror.org/02ma4wv74"
+  },
+  {
+    "institution_id": "I931969281",
+    "name": "Middle Georgia State University",
+    "country_code": "US",
+    "ror": "https://ror.org/01cwqb692"
+  },
+  {
+    "institution_id": "I134140186",
+    "name": "NIIT (India)",
+    "country_code": "IN",
+    "ror": "https://ror.org/05w6t8s34"
+  },
+  {
+    "institution_id": "I142740786",
+    "name": "University of Louisville",
+    "country_code": "US",
+    "ror": "https://ror.org/01ckdn478"
+  },
+  {
+    "institution_id": "I32394136",
+    "name": "Northumbria University",
+    "country_code": "GB",
+    "ror": "https://ror.org/049e6bc10"
+  },
+  {
+    "institution_id": "I134085113",
+    "name": "King Fahd University of Petroleum and Minerals",
+    "country_code": "SA",
+    "ror": "https://ror.org/03yez3163"
+  },
+  {
+    "institution_id": "I47818738",
+    "name": "Sultan Qaboos University",
+    "country_code": "OM",
+    "ror": "https://ror.org/04wq8zb47"
+  },
+  {
+    "institution_id": "I122964287",
+    "name": "National Institute of Technology Tiruchirappalli",
+    "country_code": "IN",
+    "ror": "https://ror.org/047x65e68"
+  },
+  {
+    "institution_id": "I4210131537",
+    "name": "MBS School of Business",
+    "country_code": "FR",
+    "ror": "https://ror.org/037tw3m02"
+  },
+  {
+    "institution_id": "I27878738",
+    "name": "Fore School of Management",
+    "country_code": "IN",
+    "ror": "https://ror.org/02m044a46"
+  },
+  {
+    "institution_id": "I150870154",
+    "name": "Indian Institute of Management Ahmedabad",
+    "country_code": "IN",
+    "ror": "https://ror.org/02egcpy68"
+  },
+  {
+    "institution_id": "I91136226",
+    "name": "University of Sheffield",
+    "country_code": "GB",
+    "ror": "https://ror.org/05krs5044"
+  },
+  {
+    "institution_id": "I9300472",
+    "name": "Bournemouth University",
+    "country_code": "GB",
+    "ror": "https://ror.org/05wwcw481"
+  },
+  {
+    "institution_id": "I31746571",
+    "name": "UNSW Sydney",
+    "country_code": "AU",
+    "ror": "https://ror.org/03r8z3t63"
+  },
+  {
+    "institution_id": "I129162050",
+    "name": "TBS Education",
+    "country_code": "FR",
+    "ror": "https://ror.org/0349y2q65"
+  },
+  {
+    "institution_id": "I107077323",
+    "name": "Worcester Polytechnic Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/05ejpqr48"
+  },
+  {
+    "institution_id": "I181369854",
+    "name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "country_code": "DE",
+    "ror": "https://ror.org/00f7hpc57"
+  },
+  {
+    "institution_id": "I181647926",
+    "name": "University of Strathclyde",
+    "country_code": "GB",
+    "ror": "https://ror.org/00n3w3b69"
+  },
+  {
+    "institution_id": "I71052956",
+    "name": "University of Reading",
+    "country_code": "GB",
+    "ror": "https://ror.org/05v62cm79"
+  },
+  {
+    "institution_id": "I168719708",
+    "name": "City University of Hong Kong",
+    "country_code": "HK",
+    "ror": "https://ror.org/03q8dnn23"
+  },
+  {
+    "institution_id": "I255234318",
+    "name": "Universidad de Zaragoza",
+    "country_code": "ES",
+    "ror": "https://ror.org/012a91z28"
+  },
+  {
+    "institution_id": "I44430492",
+    "name": "Indian Institute of Management Bangalore",
+    "country_code": "IN",
+    "ror": "https://ror.org/02xxpjq61"
+  },
+  {
+    "institution_id": "I204593131",
+    "name": "College of Charleston",
+    "country_code": "US",
+    "ror": "https://ror.org/00390t168"
+  },
+  {
+    "institution_id": "I147554453",
+    "name": "University of Bedfordshire",
+    "country_code": "GB",
+    "ror": "https://ror.org/0400avk24"
+  },
+  {
+    "institution_id": "I80281795",
+    "name": "University of Otago",
+    "country_code": "NZ",
+    "ror": "https://ror.org/01jmxt844"
+  },
+  {
+    "institution_id": "I169199633",
+    "name": "Aston University",
+    "country_code": "GB",
+    "ror": "https://ror.org/05j0ve876"
+  },
+  {
+    "institution_id": "I78715868",
+    "name": "University of Arkansas at Fayetteville",
+    "country_code": "US",
+    "ror": "https://ror.org/05jbt9m15"
+  },
+  {
+    "institution_id": "I98358874",
+    "name": "Delft University of Technology",
+    "country_code": "NL",
+    "ror": "https://ror.org/02e2c7k09"
+  },
+  {
+    "institution_id": "I171543936",
+    "name": "Free University of Bozen-Bolzano",
+    "country_code": "IT",
+    "ror": "https://ror.org/012ajp527"
+  },
+  {
+    "institution_id": "I24027795",
+    "name": "University of Johannesburg",
+    "country_code": "ZA",
+    "ror": "https://ror.org/04z6c2n17"
+  },
+  {
+    "institution_id": "I188538660",
+    "name": "University of Colorado Boulder",
+    "country_code": "US",
+    "ror": "https://ror.org/02ttsq026"
+  },
+  {
+    "institution_id": "I2802236040",
+    "name": "University of Colorado System",
+    "country_code": "US",
+    "ror": "https://ror.org/00jc20583"
+  },
+  {
+    "institution_id": "I28407311",
+    "name": "University of Manchester",
+    "country_code": "GB",
+    "ror": "https://ror.org/027m9bs27"
+  },
+  {
+    "institution_id": "I9360294",
+    "name": "University of Bologna",
+    "country_code": "IT",
+    "ror": "https://ror.org/01111rn36"
+  },
+  {
+    "institution_id": "I2613432",
+    "name": "University of South Florida",
+    "country_code": "US",
+    "ror": "https://ror.org/032db5x82"
+  },
+  {
+    "institution_id": "I115475287",
+    "name": "Oklahoma State University",
+    "country_code": "US",
+    "ror": "https://ror.org/01g9vbr38"
+  },
+  {
+    "institution_id": "I55060895",
+    "name": "University of Greenwich",
+    "country_code": "GB",
+    "ror": "https://ror.org/00bmj0a71"
+  },
+  {
+    "institution_id": "I106165777",
+    "name": "University of Central Florida",
+    "country_code": "US",
+    "ror": "https://ror.org/036nfer12"
+  },
+  {
+    "institution_id": "I107707843",
+    "name": "Roskilde University",
+    "country_code": "DK",
+    "ror": "https://ror.org/014axpa37"
+  },
+  {
+    "institution_id": "I181418319",
+    "name": "SKEMA Business School",
+    "country_code": "FR",
+    "ror": "https://ror.org/036h8vg94"
+  },
+  {
+    "institution_id": "I200650556",
+    "name": "University of Agder",
+    "country_code": "NO",
+    "ror": "https://ror.org/03x297z98"
+  },
+  {
+    "institution_id": "I204778367",
+    "name": "Norwegian University of Science and Technology",
+    "country_code": "NO",
+    "ror": "https://ror.org/05xg72x27"
+  },
+  {
+    "institution_id": "I78757542",
+    "name": "University of Newcastle Australia",
+    "country_code": "AU",
+    "ror": "https://ror.org/00eae9z71"
+  },
+  {
+    "institution_id": "I84884186",
+    "name": "Newcastle University",
+    "country_code": "GB",
+    "ror": "https://ror.org/01kj2bm70"
+  },
+  {
+    "institution_id": "I25846049",
+    "name": "National Tsing Hua University",
+    "country_code": "TW",
+    "ror": "https://ror.org/00zdnkx70"
+  },
+  {
+    "institution_id": "I4394709253",
+    "name": "Humans and management in society",
+    "country_code": "FR",
+    "ror": "https://ror.org/04x97hf88"
+  },
+  {
+    "institution_id": "I4390039323",
+    "name": "Laboratoire d'Economie et de Management de Nantes Atlantique",
+    "country_code": "FR",
+    "ror": "https://ror.org/04k51bq24"
+  },
+  {
+    "institution_id": "I97188460",
+    "name": "Nantes Universit\u00e9",
+    "country_code": "FR",
+    "ror": "https://ror.org/03gnr7b55"
+  },
+  {
+    "institution_id": "I2802797706",
+    "name": "Prin. L. N. Welingkar Institute of Management Development and Research",
+    "country_code": "IN",
+    "ror": "https://ror.org/0368a2w96"
+  },
+  {
+    "institution_id": "I63098007",
+    "name": "Liverpool John Moores University",
+    "country_code": "GB",
+    "ror": "https://ror.org/04zfme737"
+  },
+  {
+    "institution_id": "I74973139",
+    "name": "Carnegie Mellon University",
+    "country_code": "US",
+    "ror": "https://ror.org/05x2bcf33"
+  },
+  {
+    "institution_id": "I165932596",
+    "name": "National University of Singapore",
+    "country_code": "SG",
+    "ror": "https://ror.org/01tgyzw49"
+  },
+  {
+    "institution_id": "I2250955327",
+    "name": "Huawei Technologies (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/00cmhce21"
+  },
+  {
+    "institution_id": "I204983213",
+    "name": "Harbin Institute of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/01yqg2h08"
+  },
+  {
+    "institution_id": "I1304085615",
+    "name": "Nvidia (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/02kr42612"
+  },
+  {
+    "institution_id": "I4210127875",
+    "name": "Nvidia (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/03jdj4y14"
+  },
+  {
+    "institution_id": "I4210151462",
+    "name": "New York Genome Center",
+    "country_code": "US",
+    "ror": "https://ror.org/05wf2ga96"
+  },
+  {
+    "institution_id": "I57206974",
+    "name": "New York University",
+    "country_code": "US",
+    "ror": "https://ror.org/0190ak572"
+  },
+  {
+    "institution_id": "I4210086933",
+    "name": "NYU Langone Health",
+    "country_code": "US",
+    "ror": "https://ror.org/005dvqh91"
+  },
+  {
+    "institution_id": "I36672615",
+    "name": "Courant Institute of Mathematical Sciences",
+    "country_code": "US",
+    "ror": "https://ror.org/037tm7f56"
+  },
+  {
+    "institution_id": "I114027177",
+    "name": "University of North Carolina at Chapel Hill",
+    "country_code": "US",
+    "ror": "https://ror.org/0130frc33"
+  },
+  {
+    "institution_id": "I97018004",
+    "name": "Stanford University",
+    "country_code": "US",
+    "ror": "https://ror.org/00f54p054"
+  },
+  {
+    "institution_id": "I194450716",
+    "name": "Jilin University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00js3aw79"
+  },
+  {
+    "institution_id": "I4210113369",
+    "name": "Microsoft Research Asia (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/0300m5276"
+  },
+  {
+    "institution_id": "I3133055985",
+    "name": "Westlake University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05hfa4n20"
+  },
+  {
+    "institution_id": "I4210112150",
+    "name": "Institute of Automation",
+    "country_code": "CN",
+    "ror": "https://ror.org/022c3hy66"
+  },
+  {
+    "institution_id": "I20231570",
+    "name": "Peking University",
+    "country_code": "CN",
+    "ror": "https://ror.org/02v51f717"
+  },
+  {
+    "institution_id": "I39422238",
+    "name": "University of Illinois Chicago",
+    "country_code": "US",
+    "ror": "https://ror.org/02mpq6x41"
+  },
+  {
+    "institution_id": "I4405260899",
+    "name": "Instituto de Investigaci\u00f3n en Ingenier\u00eda de Arag\u00f3n",
+    "country_code": "ES",
+    "ror": "https://ror.org/04eqgej32"
+  },
+  {
+    "institution_id": "I129604602",
+    "name": "The University of Sydney",
+    "country_code": "AU",
+    "ror": "https://ror.org/0384j8v12"
+  },
+  {
+    "institution_id": "I115592961",
+    "name": "Jiangsu University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03jc41j30"
+  },
+  {
+    "institution_id": "I124357947",
+    "name": "University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/04cw6st05"
+  },
+  {
+    "institution_id": "I98259816",
+    "name": "Birkbeck, University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/02mb95055"
+  },
+  {
+    "institution_id": "I36909309",
+    "name": "National Institute of Technology Hamirpur",
+    "country_code": "BD",
+    "ror": "https://ror.org/01nc8zs04"
+  },
+  {
+    "institution_id": "I4210132580",
+    "name": "Plymouth Marjon University",
+    "country_code": "GB",
+    "ror": "https://ror.org/03f914y84"
+  },
+  {
+    "institution_id": "I897542642",
+    "name": "University of Plymouth",
+    "country_code": "GB",
+    "ror": "https://ror.org/008n7pv89"
+  },
+  {
+    "institution_id": "I78988378",
+    "name": "Renmin University of China",
+    "country_code": "CN",
+    "ror": "https://ror.org/041pakw92"
+  },
+  {
+    "institution_id": "I136199984",
+    "name": "Harvard University",
+    "country_code": "US",
+    "ror": "https://ror.org/03vek6s52"
+  },
+  {
+    "institution_id": "I4210087915",
+    "name": "Massachusetts General Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/002pd6e78"
+  },
+  {
+    "institution_id": "I27804330",
+    "name": "Brown University",
+    "country_code": "US",
+    "ror": "https://ror.org/05gq02987"
+  },
+  {
+    "institution_id": "I3045169105",
+    "name": "Southern University of Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/049tv2d57"
+  },
+  {
+    "institution_id": "I45129253",
+    "name": "University College London",
+    "country_code": "GB",
+    "ror": "https://ror.org/02jx3x895"
+  },
+  {
+    "institution_id": "I177725633",
+    "name": "Chinese University of Hong Kong",
+    "country_code": "HK",
+    "ror": "https://ror.org/00t33hh48"
+  },
+  {
+    "institution_id": "I4210116924",
+    "name": "Chinese University of Hong Kong, Shenzhen",
+    "country_code": "CN",
+    "ror": "https://ror.org/02d5ks197"
+  },
+  {
+    "institution_id": "I53964585",
+    "name": "Weizmann Institute of Science",
+    "country_code": "IL",
+    "ror": "https://ror.org/0316ej306"
+  },
+  {
+    "institution_id": "I186995768",
+    "name": "Universit\u00e0 degli studi di Cassino e del Lazio Meridionale",
+    "country_code": "IT",
+    "ror": "https://ror.org/04nxkaq16"
+  },
+  {
+    "institution_id": "I4210099310",
+    "name": "Consorzio Nazionale Interuniversitario per le Telecomunicazioni",
+    "country_code": "IT",
+    "ror": "https://ror.org/0182a5n39"
+  },
+  {
+    "institution_id": "I118347636",
+    "name": "Australian National University",
+    "country_code": "AU",
+    "ror": "https://ror.org/019wvm592"
+  },
+  {
+    "institution_id": "I4210113480",
+    "name": "Mohamed bin Zayed University of Artificial Intelligence",
+    "country_code": "AE",
+    "ror": "https://ror.org/0258gkt32"
+  },
+  {
+    "institution_id": "I56590836",
+    "name": "Monash University",
+    "country_code": "AU",
+    "ror": "https://ror.org/02bfwt286"
+  },
+  {
+    "institution_id": "I4210116052",
+    "name": "Inception Institute of Artificial Intelligence",
+    "country_code": "AE",
+    "ror": "https://ror.org/02664zk40"
+  },
+  {
+    "institution_id": "I102134673",
+    "name": "Link\u00f6ping University",
+    "country_code": "SE",
+    "ror": "https://ror.org/05ynxx418"
+  },
+  {
+    "institution_id": "I8087733",
+    "name": "University of T\u00fcbingen",
+    "country_code": "DE",
+    "ror": "https://ror.org/03a1kwz48"
+  },
+  {
+    "institution_id": "I185261750",
+    "name": "University of Toronto",
+    "country_code": "CA",
+    "ror": "https://ror.org/03dbr7087"
+  },
+  {
+    "institution_id": "I4210127509",
+    "name": "Vector Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/03kqdja62"
+  },
+  {
+    "institution_id": "I59361560",
+    "name": "Instituto Polit\u00e9cnico Nacional",
+    "country_code": "MX",
+    "ror": "https://ror.org/059sp8j34"
+  },
+  {
+    "institution_id": "I157492648",
+    "name": "Autonomous University of Queretaro",
+    "country_code": "MX",
+    "ror": "https://ror.org/00v8fdc16"
+  },
+  {
+    "institution_id": "I889458895",
+    "name": "University of Hong Kong",
+    "country_code": "HK",
+    "ror": "https://ror.org/02zhqgq86"
+  },
+  {
+    "institution_id": "I1299303238",
+    "name": "National Institutes of Health",
+    "country_code": "US",
+    "ror": "https://ror.org/01cwqze88"
+  },
+  {
+    "institution_id": "I4210109390",
+    "name": "National Center for Biotechnology Information",
+    "country_code": "US",
+    "ror": "https://ror.org/02meqm098"
+  },
+  {
+    "institution_id": "I56007636",
+    "name": "Keele University",
+    "country_code": "GB",
+    "ror": "https://ror.org/00340yn33"
+  },
+  {
+    "institution_id": "I5681781",
+    "name": "The University of Adelaide",
+    "country_code": "AU",
+    "ror": "https://ror.org/00892tw58"
+  },
+  {
+    "institution_id": "I114017466",
+    "name": "University of Technology Sydney",
+    "country_code": "AU",
+    "ror": "https://ror.org/03f0f6041"
+  },
+  {
+    "institution_id": "I71267560",
+    "name": "University of Naples Federico II",
+    "country_code": "IT",
+    "ror": "https://ror.org/05290cv24"
+  },
+  {
+    "institution_id": "I138549579",
+    "name": "Scuola Internazionale Superiore di Studi Avanzati",
+    "country_code": "IT",
+    "ror": "https://ror.org/004fze387"
+  },
+  {
+    "institution_id": "I4210136793",
+    "name": "Peng Cheng Laboratory",
+    "country_code": "CN",
+    "ror": "https://ror.org/03qdqbt06"
+  },
+  {
+    "institution_id": "I9927081",
+    "name": "Aalto University",
+    "country_code": "FI",
+    "ror": "https://ror.org/020hwjq30"
+  },
+  {
+    "institution_id": "I172675005",
+    "name": "Nanyang Technological University",
+    "country_code": "SG",
+    "ror": "https://ror.org/02e7b5302"
+  },
+  {
+    "institution_id": "I149704539",
+    "name": "Deakin University",
+    "country_code": "AU",
+    "ror": "https://ror.org/02czsnj07"
+  },
+  {
+    "institution_id": "I180726961",
+    "name": "Shenzhen University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01vy4gh70"
+  },
+  {
+    "institution_id": "I64128412",
+    "name": "Dibrugarh University",
+    "country_code": "IN",
+    "ror": "https://ror.org/045kfbt16"
+  },
+  {
+    "institution_id": "I57093077",
+    "name": "Swinburne University of Technology",
+    "country_code": "AU",
+    "ror": "https://ror.org/031rekg67"
+  },
+  {
+    "institution_id": "I98381234",
+    "name": "University of Oulu",
+    "country_code": "FI",
+    "ror": "https://ror.org/03yj89h83"
+  },
+  {
+    "institution_id": "I151746483",
+    "name": "University of Waterloo",
+    "country_code": "CA",
+    "ror": "https://ror.org/01aff2v68"
+  },
+  {
+    "institution_id": "I4210156404",
+    "name": "Institute of Information Engineering",
+    "country_code": "CN",
+    "ror": "https://ror.org/04r53se39"
+  },
+  {
+    "institution_id": "I4391768012",
+    "name": "State Key Laboratory of Information Security",
+    "country_code": "CN",
+    "ror": "https://ror.org/012cr4033"
+  },
+  {
+    "institution_id": "I143578492",
+    "name": "Asia University",
+    "country_code": "TW",
+    "ror": "https://ror.org/038a1tp19"
+  },
+  {
+    "institution_id": "I58236372",
+    "name": "Ngee Ann Polytechnic",
+    "country_code": "SG",
+    "ror": "https://ror.org/01w953x65"
+  },
+  {
+    "institution_id": "I8696757",
+    "name": "Singapore University of Social Sciences",
+    "country_code": "SG",
+    "ror": "https://ror.org/01s57k749"
+  },
+  {
+    "institution_id": "I159129438",
+    "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "country_code": "CA",
+    "ror": "https://ror.org/002rjbv21"
+  },
+  {
+    "institution_id": "I69737025",
+    "name": "University of Chile",
+    "country_code": "CL",
+    "ror": "https://ror.org/047gc3g35"
+  },
+  {
+    "institution_id": "I5561750",
+    "name": "University of Bari Aldo Moro",
+    "country_code": "IT",
+    "ror": "https://ror.org/027ynra39"
+  },
+  {
+    "institution_id": "I102248843",
+    "name": "Vienna University of Economics and Business",
+    "country_code": "AT",
+    "ror": "https://ror.org/03yn8s215"
+  },
+  {
+    "institution_id": "I165339363",
+    "name": "Universidad de Oviedo",
+    "country_code": "ES",
+    "ror": "https://ror.org/006gksa02"
+  },
+  {
+    "institution_id": "I861853513",
+    "name": "Sapienza University of Rome",
+    "country_code": "IT",
+    "ror": "https://ror.org/02be6w209"
+  },
+  {
+    "institution_id": "I206945453",
+    "name": "Paderborn University",
+    "country_code": "DE",
+    "ror": "https://ror.org/058kzsd48"
+  },
+  {
+    "institution_id": "I165799507",
+    "name": "Rensselaer Polytechnic Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/01rtyzb94"
+  },
+  {
+    "institution_id": "I135140700",
+    "name": "University of Bonn",
+    "country_code": "DE",
+    "ror": "https://ror.org/041nas322"
+  },
+  {
+    "institution_id": "I66752286",
+    "name": "University of Milano-Bicocca",
+    "country_code": "IT",
+    "ror": "https://ror.org/01ynf4891"
+  },
+  {
+    "institution_id": "I100066346",
+    "name": "University of Stuttgart",
+    "country_code": "DE",
+    "ror": "https://ror.org/04vnq7t77"
+  },
+  {
+    "institution_id": "I43439940",
+    "name": "University of Southampton",
+    "country_code": "GB",
+    "ror": "https://ror.org/01ryk1543"
+  },
+  {
+    "institution_id": "I3019848993",
+    "name": "Mines Saint-\u00c9tienne",
+    "country_code": "FR",
+    "ror": "https://ror.org/05a1dws80"
+  },
+  {
+    "institution_id": "I4210100430",
+    "name": "Google (Switzerland)",
+    "country_code": "CH",
+    "ror": "https://ror.org/014f9c269"
+  },
+  {
+    "institution_id": "I60342839",
+    "name": "Qatar University",
+    "country_code": "QA",
+    "ror": "https://ror.org/00yhnba62"
+  },
+  {
+    "institution_id": "I173911158",
+    "name": "Iowa State University",
+    "country_code": "US",
+    "ror": "https://ror.org/04rswrd78"
+  },
+  {
+    "institution_id": "I859038795",
+    "name": "Virginia Tech",
+    "country_code": "US",
+    "ror": "https://ror.org/02smfhw86"
+  },
+  {
+    "institution_id": "I223464139",
+    "name": "Linnaeus University",
+    "country_code": "SE",
+    "ror": "https://ror.org/00j9qag85"
+  },
+  {
+    "institution_id": "I15059493",
+    "name": "\u0130zmir University of Economics",
+    "country_code": "TR",
+    "ror": "https://ror.org/04hjr4202"
+  },
+  {
+    "institution_id": "I166825849",
+    "name": "Tampere University",
+    "country_code": "FI",
+    "ror": "https://ror.org/033003e23"
+  },
+  {
+    "institution_id": "I4387152565",
+    "name": "Tampere University of Technology",
+    "country_code": "FI",
+    "ror": "https://ror.org/02ba3pt07"
+  },
+  {
+    "institution_id": "I4387153886",
+    "name": "University of Tampere",
+    "country_code": "FI",
+    "ror": "https://ror.org/05p6qqk79"
+  },
+  {
+    "institution_id": "I27837315",
+    "name": "University of Michigan",
+    "country_code": "US",
+    "ror": "https://ror.org/00jmfr291"
+  },
+  {
+    "institution_id": "I87445476",
+    "name": "Xi'an Jiaotong University",
+    "country_code": "CN",
+    "ror": "https://ror.org/017zhmm22"
+  },
+  {
+    "institution_id": "I59433898",
+    "name": "Brunel University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/00dn4t376"
+  },
+  {
+    "institution_id": "I86519309",
+    "name": "The University of Texas at Austin",
+    "country_code": "US",
+    "ror": "https://ror.org/00hj54h04"
+  },
+  {
+    "institution_id": "I135310074",
+    "name": "University of Wisconsin\u2013Madison",
+    "country_code": "US",
+    "ror": "https://ror.org/01y2jtd41"
+  },
+  {
+    "institution_id": "I45928872",
+    "name": "Alibaba Group (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/00k642b80"
+  },
+  {
+    "institution_id": "I16733864",
+    "name": "National Taiwan University",
+    "country_code": "TW",
+    "ror": "https://ror.org/05bqach95"
+  },
+  {
+    "institution_id": "I4405261251",
+    "name": "The Hong Kong University of Science and Technology (Guangzhou)",
+    "country_code": "CN",
+    "ror": "https://ror.org/050h0vm43"
+  },
+  {
+    "institution_id": "I98677209",
+    "name": "University of Edinburgh",
+    "country_code": "GB",
+    "ror": "https://ror.org/01nrxwf90"
+  },
+  {
+    "institution_id": "I24943067",
+    "name": "Fudan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/013q1eq08"
+  },
+  {
+    "institution_id": "I4405259410",
+    "name": "Meituan (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/0272kpg92"
+  },
+  {
+    "institution_id": "I201181511",
+    "name": "\u00c9cole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es",
+    "country_code": "FR",
+    "ror": "https://ror.org/0309cs235"
+  },
+  {
+    "institution_id": "I4210145102",
+    "name": "Institut Polytechnique de Paris",
+    "country_code": "FR",
+    "ror": "https://ror.org/042tfbd02"
+  },
+  {
+    "institution_id": "I4405258625",
+    "name": "\u00c9cole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es Paris",
+    "country_code": "FR",
+    "ror": "https://ror.org/0106ccb15"
+  },
+  {
+    "institution_id": "I188760350",
+    "name": "Ollscoil na Gaillimhe \u2013 University of Galway",
+    "country_code": "IE",
+    "ror": "https://ror.org/03bea9k73"
+  },
+  {
+    "institution_id": "I4210126639",
+    "name": "Valeo (Ireland)",
+    "country_code": "IE",
+    "ror": "https://ror.org/031sgpn76"
+  },
+  {
+    "institution_id": "I220619192",
+    "name": "Valeo (France)",
+    "country_code": "FR",
+    "ror": "https://ror.org/04ryqpf83"
+  },
+  {
+    "institution_id": "I4210161460",
+    "name": "OpenAI (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/05wx9n238"
+  },
+  {
+    "institution_id": "I161318765",
+    "name": "University of California, Los Angeles",
+    "country_code": "US",
+    "ror": "https://ror.org/046rm7j60"
+  },
+  {
+    "institution_id": "I1174212",
+    "name": "University of Southern California",
+    "country_code": "US",
+    "ror": "https://ror.org/03taz7m60"
+  },
+  {
+    "institution_id": "I108192572",
+    "name": "HEC Montr\u00e9al",
+    "country_code": "CA",
+    "ror": "https://ror.org/05ww3wq27"
+  },
+  {
+    "institution_id": "I4210164802",
+    "name": "Mila - Quebec Artificial Intelligence Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/05c22rx21"
+  },
+  {
+    "institution_id": "I156087764",
+    "name": "University of California, Merced",
+    "country_code": "US",
+    "ror": "https://ror.org/00d9ah105"
+  },
+  {
+    "institution_id": "I193775966",
+    "name": "Yonsei University",
+    "country_code": "KR",
+    "ror": "https://ror.org/01wjejq96"
+  },
+  {
+    "institution_id": "I139660479",
+    "name": "Central South University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00f1zfq44"
+  },
+  {
+    "institution_id": "I170215575",
+    "name": "National University of Defense Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/05d2yfz11"
+  },
+  {
+    "institution_id": "I4210159865",
+    "name": "Xiangya Hospital Central South University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05c1yfj14"
+  },
+  {
+    "institution_id": "I16609230",
+    "name": "Hunan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05htk5m33"
+  },
+  {
+    "institution_id": "I141568987",
+    "name": "Hong Kong Baptist University",
+    "country_code": "HK",
+    "ror": "https://ror.org/0145fw131"
+  },
+  {
+    "institution_id": "I76130692",
+    "name": "Zhejiang University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00a2xv884"
+  },
+  {
+    "institution_id": "I35440088",
+    "name": "ETH Zurich",
+    "country_code": "CH",
+    "ror": "https://ror.org/05a28rw58"
+  },
+  {
+    "institution_id": "I4405255049",
+    "name": "Institute of Geodesy and Photogrammetry",
+    "country_code": "CH",
+    "ror": "https://ror.org/02j3zj861"
+  },
+  {
+    "institution_id": "I1343180700",
+    "name": "Intel (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/01ek73717"
+  },
+  {
+    "institution_id": "I5124864",
+    "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    "country_code": "CH",
+    "ror": "https://ror.org/02s376052"
+  },
+  {
+    "institution_id": "I63966007",
+    "name": "Massachusetts Institute of Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/042nb2s44"
+  },
+  {
+    "institution_id": "I4210120115",
+    "name": "Robert Bosch (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/02venad53"
+  },
+  {
+    "institution_id": "I148283060",
+    "name": "Lawrence Berkeley National Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/02jbv0t02"
+  },
+  {
+    "institution_id": "I4210137306",
+    "name": "Stanford Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/03mtd9a03"
+  },
+  {
+    "institution_id": "I4210105015",
+    "name": "Stanford Health Care",
+    "country_code": "US",
+    "ror": "https://ror.org/019wqcg20"
+  },
+  {
+    "institution_id": "I4210155350",
+    "name": "Purple Mountain Laboratories",
+    "country_code": "CN",
+    "ror": "https://ror.org/04zcbk583"
+  },
+  {
+    "institution_id": "I76569877",
+    "name": "Southeast University",
+    "country_code": "CN",
+    "ror": "https://ror.org/04ct4d772"
+  },
+  {
+    "institution_id": "I190082696",
+    "name": "Durham University",
+    "country_code": "GB",
+    "ror": "https://ror.org/01v29qb04"
+  },
+  {
+    "institution_id": "I1294671590",
+    "name": "Centre National de la Recherche Scientifique",
+    "country_code": "FR",
+    "ror": "https://ror.org/02feahw73"
+  },
+  {
+    "institution_id": "I4210097418",
+    "name": "Laboratoire des signaux et syst\u00e8mes",
+    "country_code": "FR",
+    "ror": "https://ror.org/00skw9v43"
+  },
+  {
+    "institution_id": "I4210107720",
+    "name": "CentraleSup\u00e9lec",
+    "country_code": "FR",
+    "ror": "https://ror.org/019tcpt25"
+  },
+  {
+    "institution_id": "I4210115038",
+    "name": "Huawei Technologies (Canada)",
+    "country_code": "CA",
+    "ror": "https://ror.org/026venb53"
+  },
+  {
+    "institution_id": "I20089843",
+    "name": "Princeton University",
+    "country_code": "US",
+    "ror": "https://ror.org/00hx57361"
+  },
+  {
+    "institution_id": "I141595442",
+    "name": "University of Bucharest",
+    "country_code": "RO",
+    "ror": "https://ror.org/02x2v6p15"
+  },
+  {
+    "institution_id": "I67357951",
+    "name": "KIIT University",
+    "country_code": "IN",
+    "ror": "https://ror.org/00k8zt527"
+  },
+  {
+    "institution_id": "I74796645",
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "country_code": "IN",
+    "ror": "https://ror.org/001p3jz28"
+  },
+  {
+    "institution_id": "I154970844",
+    "name": "Jaypee Institute of Information Technology",
+    "country_code": "IN",
+    "ror": "https://ror.org/05sttyy11"
+  },
+  {
+    "institution_id": "I4210159968",
+    "name": "Duke Kunshan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/04sr5ys16"
+  },
+  {
+    "institution_id": "I4210157426",
+    "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",
+    "country_code": "IT",
+    "ror": "https://ror.org/05eva6s33"
+  },
+  {
+    "institution_id": "I52590639",
+    "name": "Nottingham Trent University",
+    "country_code": "GB",
+    "ror": "https://ror.org/04xyxjd90"
+  },
+  {
+    "institution_id": "I251738",
+    "name": "Edinburgh Napier University",
+    "country_code": "GB",
+    "ror": "https://ror.org/03zjvnn91"
+  },
+  {
+    "institution_id": "I157773358",
+    "name": "Sun Yat-sen University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0064kty71"
+  },
+  {
+    "institution_id": "I169689159",
+    "name": "PLA Information Engineering University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00mm1qk40"
+  },
+  {
+    "institution_id": "I40120149",
+    "name": "University of Oxford",
+    "country_code": "GB",
+    "ror": "https://ror.org/052gg0110"
+  },
+  {
+    "institution_id": "I177877127",
+    "name": "The University of Western Australia",
+    "country_code": "AU",
+    "ror": "https://ror.org/047272k79"
+  },
+  {
+    "institution_id": "I179647637",
+    "name": "Universidad Aut\u00f3noma del Estado de M\u00e9xico",
+    "country_code": "MX",
+    "ror": "https://ror.org/0079gpv38"
+  },
+  {
+    "institution_id": "I4210165121",
+    "name": "Instituto Tecnologico de Orizaba",
+    "country_code": "MX",
+    "ror": "https://ror.org/05vpj2s72"
+  },
+  {
+    "institution_id": "I115455960",
+    "name": "Centre for Quantum Technologies",
+    "country_code": "SG",
+    "ror": "https://ror.org/01mgdzc49"
+  },
+  {
+    "institution_id": "I47508984",
+    "name": "Imperial College London",
+    "country_code": "GB",
+    "ror": "https://ror.org/041kmwe10"
+  },
+  {
+    "institution_id": "I194744927",
+    "name": "National Institute of Education",
+    "country_code": "SG",
+    "ror": "https://ror.org/02fhgbp51"
+  },
+  {
+    "institution_id": "I4210114908",
+    "name": "UMI MajuLab",
+    "country_code": "SG",
+    "ror": "https://ror.org/027jrtw17"
+  },
+  {
+    "institution_id": "I109736498",
+    "name": "Canadian Institute for Advanced Research",
+    "country_code": "CA",
+    "ror": "https://ror.org/01sdtdd95"
+  },
+  {
+    "institution_id": "I55016150",
+    "name": "Manav Rachna International Institute of Research and Studies",
+    "country_code": "IN",
+    "ror": "https://ror.org/02kf4r633"
+  },
+  {
+    "institution_id": "I1323093577",
+    "name": "BML Munjal University",
+    "country_code": "IN",
+    "ror": "https://ror.org/058ay3j75"
+  },
+  {
+    "institution_id": "I191972202",
+    "name": "Amity University",
+    "country_code": "IN",
+    "ror": "https://ror.org/02n9z0v62"
+  },
+  {
+    "institution_id": "I2802542264",
+    "name": "University Hospital of Basel",
+    "country_code": "CH",
+    "ror": "https://ror.org/04k51q396"
+  },
+  {
+    "institution_id": "I64295750",
+    "name": "Indian Institute of Technology Indore",
+    "country_code": "IN",
+    "ror": "https://ror.org/01hhf7w52"
+  },
+  {
+    "institution_id": "I2802476451",
+    "name": "Wellcome Sanger Institute",
+    "country_code": "GB",
+    "ror": "https://ror.org/05cy4wa09"
+  },
+  {
+    "institution_id": "I4210112316",
+    "name": "Altius Institute for Biomedical Sciences",
+    "country_code": "US",
+    "ror": "https://ror.org/01xf55557"
+  },
+  {
+    "institution_id": "I36258959",
+    "name": "University of California San Diego",
+    "country_code": "US",
+    "ror": "https://ror.org/0168r3w48"
+  },
+  {
+    "institution_id": "I1303153112",
+    "name": "European Bioinformatics Institute",
+    "country_code": "GB",
+    "ror": "https://ror.org/02catss52"
+  },
+  {
+    "institution_id": "I4210090236",
+    "name": "National Human Genome Research Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/00baak391"
+  },
+  {
+    "institution_id": "I122411786",
+    "name": "California Institute of Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/05dxps055"
+  },
+  {
+    "institution_id": "I107606265",
+    "name": "Broad Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/05a0ya142"
+  },
+  {
+    "institution_id": "I185103710",
+    "name": "University of California, Santa Cruz",
+    "country_code": "US",
+    "ror": "https://ror.org/03s65by71"
+  },
+  {
+    "institution_id": "I1283280774",
+    "name": "Brigham and Women's Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/04b6nzv94"
+  },
+  {
+    "institution_id": "I4394709089",
+    "name": "Institute for Stem Cell Biology and Regenerative Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/02vbab064"
+  },
+  {
+    "institution_id": "I145311948",
+    "name": "Johns Hopkins University",
+    "country_code": "US",
+    "ror": "https://ror.org/00za53h95"
+  },
+  {
+    "institution_id": "I4210158752",
+    "name": "Montreal Clinical Research Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/05m8pzq90"
+  },
+  {
+    "institution_id": "I5023651",
+    "name": "McGill University",
+    "country_code": "CA",
+    "ror": "https://ror.org/01pxwe438"
+  },
+  {
+    "institution_id": "I70931966",
+    "name": "Universit\u00e9 de Montr\u00e9al",
+    "country_code": "CA",
+    "ror": "https://ror.org/0161xgx34"
+  },
+  {
+    "institution_id": "I4210089535",
+    "name": "Sanford Consortium for Regenerative Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/00cemh325"
+  },
+  {
+    "institution_id": "I4405258931",
+    "name": "MIT Computer Science and Artificial Intelligence Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/01e85r662"
+  },
+  {
+    "institution_id": "I166722992",
+    "name": "University of Massachusetts Chan Medical School",
+    "country_code": "US",
+    "ror": "https://ror.org/0464eyp60"
+  },
+  {
+    "institution_id": "I170486558",
+    "name": "Universitat Pompeu Fabra",
+    "country_code": "ES",
+    "ror": "https://ror.org/04n0g0b29"
+  },
+  {
+    "institution_id": "I4210132884",
+    "name": "Barcelona Institute of Science and Technology",
+    "country_code": "ES",
+    "ror": "https://ror.org/03kpps236"
+  },
+  {
+    "institution_id": "I4210137962",
+    "name": "Centre for Genomic Regulation",
+    "country_code": "ES",
+    "ror": "https://ror.org/03wyzt892"
+  },
+  {
+    "institution_id": "I4210145894",
+    "name": "HudsonAlpha Institute for Biotechnology",
+    "country_code": "US",
+    "ror": "https://ror.org/04nz0wq19"
+  },
+  {
+    "institution_id": "I4210103341",
+    "name": "University of Wisconsin Carbone Cancer Center",
+    "country_code": "US",
+    "ror": "https://ror.org/01e4byj08"
+  },
+  {
+    "institution_id": "I4210089486",
+    "name": "Fred Hutch Cancer Center",
+    "country_code": "US",
+    "ror": "https://ror.org/007ps6h72"
+  },
+  {
+    "institution_id": "I116953780",
+    "name": "Tongji University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03rc6as71"
+  },
+  {
+    "institution_id": "I4210127126",
+    "name": "Shanghai Pulmonary Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/033nbnf69"
+  },
+  {
+    "institution_id": "I1334819555",
+    "name": "Memorial Sloan Kettering Cancer Center",
+    "country_code": "US",
+    "ror": "https://ror.org/02yrq0923"
+  },
+  {
+    "institution_id": "I1307098950",
+    "name": "Salk Institute for Biological Studies",
+    "country_code": "US",
+    "ror": "https://ror.org/03xez1567"
+  },
+  {
+    "institution_id": "I4210150094",
+    "name": "Ludwig Cancer Research",
+    "country_code": "US",
+    "ror": "https://ror.org/05qdwtz81"
+  },
+  {
+    "institution_id": "I111088046",
+    "name": "Boston University",
+    "country_code": "US",
+    "ror": "https://ror.org/05qwgg493"
+  },
+  {
+    "institution_id": "I82495205",
+    "name": "University of Alabama in Huntsville",
+    "country_code": "US",
+    "ror": "https://ror.org/02zsxwr40"
+  },
+  {
+    "institution_id": "I142947616",
+    "name": "Institute of Cancer Research",
+    "country_code": "GB",
+    "ror": "https://ror.org/043jzw605"
+  },
+  {
+    "institution_id": "I97565354",
+    "name": "University of Lausanne",
+    "country_code": "CH",
+    "ror": "https://ror.org/019whta54"
+  },
+  {
+    "institution_id": "I52357470",
+    "name": "The Ohio State University",
+    "country_code": "US",
+    "ror": "https://ror.org/00rs6vg23"
+  },
+  {
+    "institution_id": "I32971472",
+    "name": "Yale University",
+    "country_code": "US",
+    "ror": "https://ror.org/03v76x132"
+  },
+  {
+    "institution_id": "I170897317",
+    "name": "Duke University",
+    "country_code": "US",
+    "ror": "https://ror.org/00py81415"
+  },
+  {
+    "institution_id": "I165733156",
+    "name": "University of Georgia",
+    "country_code": "US",
+    "ror": "https://ror.org/00te3t702"
+  },
+  {
+    "institution_id": "I2750212522",
+    "name": "Cold Spring Harbor Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/02qz8b764"
+  },
+  {
+    "institution_id": "I1344073410",
+    "name": "Howard Hughes Medical Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/006w34k90"
+  },
+  {
+    "institution_id": "I103163165",
+    "name": "Florida State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05g3dte14"
+  },
+  {
+    "institution_id": "I134560555",
+    "name": "Universit\u00e9 Toulouse III - Paul Sabatier",
+    "country_code": "FR",
+    "ror": "https://ror.org/02v6kpv12"
+  },
+  {
+    "institution_id": "I154526488",
+    "name": "Inserm",
+    "country_code": "FR",
+    "ror": "https://ror.org/02vjkv261"
+  },
+  {
+    "institution_id": "I176063091",
+    "name": "\u00c9cole Nationale V\u00e9t\u00e9rinaire de Toulouse",
+    "country_code": "FR",
+    "ror": "https://ror.org/03m3gzv89"
+  },
+  {
+    "institution_id": "I4210088668",
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+    "country_code": "FR",
+    "ror": "https://ror.org/003vg9w96"
+  },
+  {
+    "institution_id": "I4210122796",
+    "name": "Institut de Recherche en Sant\u00e9 Digestive",
+    "country_code": "FR",
+    "ror": "https://ror.org/034nb0f30"
+  },
+  {
+    "institution_id": "I4405258862",
+    "name": "Universit\u00e9 de Toulouse",
+    "country_code": "FR",
+    "ror": "https://ror.org/01ahyrz84"
+  },
+  {
+    "institution_id": "I75929689",
+    "name": "UConn Health",
+    "country_code": "US",
+    "ror": "https://ror.org/02kzs4y22"
+  },
+  {
+    "institution_id": "I204250578",
+    "name": "University of California, Irvine",
+    "country_code": "US",
+    "ror": "https://ror.org/04gyf1771"
+  },
+  {
+    "institution_id": "I63772739",
+    "name": "Florida Atlantic University",
+    "country_code": "US",
+    "ror": "https://ror.org/05p8w6387"
+  },
+  {
+    "institution_id": "I173888879",
+    "name": "SINTEF",
+    "country_code": "NO",
+    "ror": "https://ror.org/01f677e56"
+  },
+  {
+    "institution_id": "I4387930215",
+    "name": "SINTEF Digital",
+    "country_code": "NO",
+    "ror": "https://ror.org/028m52w57"
+  },
+  {
+    "institution_id": "I848706",
+    "name": "Sungkyunkwan University",
+    "country_code": "KR",
+    "ror": "https://ror.org/04q78tk20"
+  },
+  {
+    "institution_id": "I207547235",
+    "name": "Benha University",
+    "country_code": "EG",
+    "ror": "https://ror.org/03tn5ee41"
+  },
+  {
+    "institution_id": "I4400009028",
+    "name": "Galala University",
+    "country_code": "EG",
+    "ror": "https://ror.org/04x3ne739"
+  },
+  {
+    "institution_id": "I200284239",
+    "name": "Universidade de Santiago de Compostela",
+    "country_code": "ES",
+    "ror": "https://ror.org/030eybx10"
+  },
+  {
+    "institution_id": "I138689650",
+    "name": "University of Padua",
+    "country_code": "IT",
+    "ror": "https://ror.org/00240q980"
+  },
+  {
+    "institution_id": "I108290504",
+    "name": "University of Pisa",
+    "country_code": "IT",
+    "ror": "https://ror.org/03ad39j10"
+  },
+  {
+    "institution_id": "I169108374",
+    "name": "University of the Basque Country",
+    "country_code": "ES",
+    "ror": "https://ror.org/000xsnr85"
+  },
+  {
+    "institution_id": "I4210113430",
+    "name": "Tecnalia",
+    "country_code": "ES",
+    "ror": "https://ror.org/02fv8hj62"
+  },
+  {
+    "institution_id": "I173304897",
+    "name": "Universidad de Granada",
+    "country_code": "ES",
+    "ror": "https://ror.org/04njjy449"
+  },
+  {
+    "institution_id": "I11701301",
+    "name": "Griffith University",
+    "country_code": "AU",
+    "ror": "https://ror.org/02sc3r913"
+  },
+  {
+    "institution_id": "I37796252",
+    "name": "Beijing University of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/037b1pp87"
+  },
+  {
+    "institution_id": "I16365422",
+    "name": "Hefei University of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/02czkny70"
+  },
+  {
+    "institution_id": "I4210123185",
+    "name": "Zhejiang Lab",
+    "country_code": "CN",
+    "ror": "https://ror.org/02m2h7991"
+  },
+  {
+    "institution_id": "I60134161",
+    "name": "Nagoya University",
+    "country_code": "JP",
+    "ror": "https://ror.org/04chrp450"
+  },
+  {
+    "institution_id": "I4405285284",
+    "name": "TIER IV (Japan)",
+    "country_code": "JP",
+    "ror": "https://ror.org/0549f7h08"
+  },
+  {
+    "institution_id": "I4210142583",
+    "name": "Snap (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/04dgkhg68"
+  },
+  {
+    "institution_id": "I41832843",
+    "name": "University of Tabriz",
+    "country_code": "IR",
+    "ror": "https://ror.org/01papkj44"
+  },
+  {
+    "institution_id": "I1290206253",
+    "name": "Microsoft (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/00d0nc645"
+  },
+  {
+    "institution_id": "I1292875679",
+    "name": "Commonwealth Scientific and Industrial Research Organisation",
+    "country_code": "AU",
+    "ror": "https://ror.org/03qn8fb07"
+  },
+  {
+    "institution_id": "I42894916",
+    "name": "Data61",
+    "country_code": "AU",
+    "ror": "https://ror.org/03q397159"
+  },
+  {
+    "institution_id": "I4210160376",
+    "name": "International Centre for Radio Astronomy Research",
+    "country_code": "AU",
+    "ror": "https://ror.org/05sd1pp77"
+  },
+  {
+    "institution_id": "I1321305853",
+    "name": "National Bureau of Economic Research",
+    "country_code": "US",
+    "ror": "https://ror.org/04grmx538"
+  },
+  {
+    "institution_id": "I47720641",
+    "name": "Huazhong University of Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/00p991c53"
+  },
+  {
+    "institution_id": "I121847817",
+    "name": "The Graduate Center, CUNY",
+    "country_code": "US",
+    "ror": "https://ror.org/00awd9g61"
+  },
+  {
+    "institution_id": "I174216632",
+    "name": "City University of New York",
+    "country_code": "US",
+    "ror": "https://ror.org/00453a208"
+  },
+  {
+    "institution_id": "I125687163",
+    "name": "City College of New York",
+    "country_code": "US",
+    "ror": "https://ror.org/00wmhkr98"
+  },
+  {
+    "institution_id": "I4210135521",
+    "name": "Max Planck Institute for Intelligent Systems",
+    "country_code": "DE",
+    "ror": "https://ror.org/04fq9j139"
+  },
+  {
+    "institution_id": "I45683168",
+    "name": "Polytechnique Montr\u00e9al",
+    "country_code": "CA",
+    "ror": "https://ror.org/05f8d4e86"
+  },
+  {
+    "institution_id": "I4210124331",
+    "name": "Duhok Polytechnic University",
+    "country_code": "IQ",
+    "ror": "https://ror.org/024kjbt21"
+  },
+  {
+    "institution_id": "I117015748",
+    "name": "Purdue University Northwest",
+    "country_code": "US",
+    "ror": "https://ror.org/04keq6987"
+  },
+  {
+    "institution_id": "I11957088",
+    "name": "Michigan Technological University",
+    "country_code": "US",
+    "ror": "https://ror.org/0036rpn28"
+  },
+  {
+    "institution_id": "I70983195",
+    "name": "Syracuse University",
+    "country_code": "US",
+    "ror": "https://ror.org/025r5qe02"
+  },
+  {
+    "institution_id": "I4405252660",
+    "name": "NCCR Catalysis",
+    "country_code": "CH",
+    "ror": "https://ror.org/03qf6ek79"
+  },
+  {
+    "institution_id": "I4405258108",
+    "name": "Future House, Inc.",
+    "country_code": "US",
+    "ror": "https://ror.org/0044ybt68"
+  },
+  {
+    "institution_id": "I5388228",
+    "name": "University of Rochester",
+    "country_code": "US",
+    "ror": "https://ror.org/022kthw22"
+  },
+  {
+    "institution_id": "I4210126328",
+    "name": "IBM Research - Zurich",
+    "country_code": "CH",
+    "ror": "https://ror.org/02js37d36"
+  },
+  {
+    "institution_id": "I4405257960",
+    "name": "DeepSeek (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/05wa54d95"
+  },
+  {
+    "institution_id": "I30809798",
+    "name": "ShanghaiTech University",
+    "country_code": "CN",
+    "ror": "https://ror.org/030bhh786"
+  },
+  {
+    "institution_id": "I4392021250",
+    "name": "State Key Laboratory of Networking and Switching Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/00qtv5q45"
+  },
+  {
+    "institution_id": "I150229711",
+    "name": "University of Electronic Science and Technology of China",
+    "country_code": "CN",
+    "ror": "https://ror.org/04qr3zq92"
+  },
+  {
+    "institution_id": "I4405270329",
+    "name": "National Key Laboratory of Science and Technology on Communications",
+    "country_code": "CN",
+    "ror": "https://ror.org/00geq9r75"
+  },
+  {
+    "institution_id": "I4391768253",
+    "name": "State Key Laboratory of Millimeter Waves",
+    "country_code": "CN",
+    "ror": "https://ror.org/02q1v5910"
+  },
+  {
+    "institution_id": "I4405274904",
+    "name": "China Mobile Research Institute",
+    "country_code": "CN",
+    "ror": "https://ror.org/02k01dh53"
+  },
+  {
+    "institution_id": "I126231945",
+    "name": "Queen's University Belfast",
+    "country_code": "GB",
+    "ror": "https://ror.org/00hswnk62"
+  },
+  {
+    "institution_id": "I130701444",
+    "name": "Georgia Institute of Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/01zkghx44"
+  },
+  {
+    "institution_id": "I28290843",
+    "name": "University of Surrey",
+    "country_code": "GB",
+    "ror": "https://ror.org/00ks66431"
+  },
+  {
+    "institution_id": "I78650965",
+    "name": "Technische Universit\u00e4t Dresden",
+    "country_code": "DE",
+    "ror": "https://ror.org/042aqky30"
+  },
+  {
+    "institution_id": "I118905719",
+    "name": "University of Primorska",
+    "country_code": "SI",
+    "ror": "https://ror.org/05xefg082"
+  },
+  {
+    "institution_id": "I153976015",
+    "name": "University of Ljubljana",
+    "country_code": "SI",
+    "ror": "https://ror.org/05njb9z20"
+  },
+  {
+    "institution_id": "I21203515",
+    "name": "Kazan Federal University",
+    "country_code": "RU",
+    "ror": "https://ror.org/05256ym39"
+  },
+  {
+    "institution_id": "I118987531",
+    "name": "Anhui Jianzhu University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0108wjw08"
+  },
+  {
+    "institution_id": "I4210156464",
+    "name": "Anhui Xinhua University",
+    "country_code": "CN",
+    "ror": "https://ror.org/053d7x641"
+  },
+  {
+    "institution_id": "I79576946",
+    "name": "University of Pennsylvania",
+    "country_code": "US",
+    "ror": "https://ror.org/00b30xv10"
+  },
+  {
+    "institution_id": "I24830596",
+    "name": "Hertie School",
+    "country_code": "DE",
+    "ror": "https://ror.org/0473a4773"
+  },
+  {
+    "institution_id": "I4210167039",
+    "name": "ServiceNow (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/05xr0bc04"
+  },
+  {
+    "institution_id": "I4210086490",
+    "name": "Mercator Research Institute on Global Commons and Climate Change",
+    "country_code": "DE",
+    "ror": "https://ror.org/002jq3415"
+  },
+  {
+    "institution_id": "I4577782",
+    "name": "Technische Universit\u00e4t Berlin",
+    "country_code": "DE",
+    "ror": "https://ror.org/03v4gjf40"
+  },
+  {
+    "institution_id": "I95457486",
+    "name": "University of California, Berkeley",
+    "country_code": "US",
+    "ror": "https://ror.org/01an7q238"
+  },
+  {
+    "institution_id": "I205783295",
+    "name": "Cornell University",
+    "country_code": "US",
+    "ror": "https://ror.org/05bnh6r87"
+  },
+  {
+    "institution_id": "I4210145761",
+    "name": "Shenzhen Institutes of Advanced Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/04gh4er46"
+  },
+  {
+    "institution_id": "I4391012619",
+    "name": "Shanghai Artificial Intelligence Laboratory",
+    "country_code": "CN",
+    "ror": "https://ror.org/03wkvpx79"
+  },
+  {
+    "institution_id": "I197347611",
+    "name": "Korea University",
+    "country_code": "KR",
+    "ror": "https://ror.org/047dqcg40"
+  },
+  {
+    "institution_id": "I28777354",
+    "name": "Sejong University",
+    "country_code": "KR",
+    "ror": "https://ror.org/00aft1q37"
+  },
+  {
+    "institution_id": "I4210113297",
+    "name": "Google (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/024bc3e07"
+  },
+  {
+    "institution_id": "I100532134",
+    "name": "Lyon 1 Universit\u00e9",
+    "country_code": "FR",
+    "ror": "https://ror.org/029brtt94"
+  },
+  {
+    "institution_id": "I113428412",
+    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "country_code": "FR",
+    "ror": "https://ror.org/04zmssz18"
+  },
+  {
+    "institution_id": "I203339264",
+    "name": "Universit\u00e9 de Lyon",
+    "country_code": "FR",
+    "ror": "https://ror.org/01rk35k63"
+  },
+  {
+    "institution_id": "I4210144566",
+    "name": "Laboratoire de l'Informatique du Parall\u00e9lisme",
+    "country_code": "FR",
+    "ror": "https://ror.org/04msnz457"
+  },
+  {
+    "institution_id": "I12079687",
+    "name": "Edith Cowan University",
+    "country_code": "AU",
+    "ror": "https://ror.org/05jhnwe22"
+  },
+  {
+    "institution_id": "I189914110",
+    "name": "University of Cuenca",
+    "country_code": "EC",
+    "ror": "https://ror.org/04r23zn56"
+  },
+  {
+    "institution_id": "I51441396",
+    "name": "Bauhaus-Universit\u00e4t Weimar",
+    "country_code": "DE",
+    "ror": "https://ror.org/033bb5z47"
+  },
+  {
+    "institution_id": "I114112103",
+    "name": "Leibniz University Hannover",
+    "country_code": "DE",
+    "ror": "https://ror.org/0304hq317"
+  },
+  {
+    "institution_id": "I141445968",
+    "name": "Ton Duc Thang University",
+    "country_code": "VN",
+    "ror": "https://ror.org/01drq0835"
+  },
+  {
+    "institution_id": "I189109744",
+    "name": "Indian Institute of Technology Dhanbad",
+    "country_code": "IN",
+    "ror": "https://ror.org/013v3cc28"
+  },
+  {
+    "institution_id": "I4405260736",
+    "name": "Dayananda Sagar College of Engineering",
+    "country_code": "IN",
+    "ror": "https://ror.org/046qksq74"
+  },
+  {
+    "institution_id": "I161046081",
+    "name": "University of Freiburg",
+    "country_code": "DE",
+    "ror": "https://ror.org/0245cg223"
+  },
+  {
+    "institution_id": "I4210139777",
+    "name": "Berlin Institute of Health at Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+    "country_code": "DE",
+    "ror": "https://ror.org/0493xsw21"
+  },
+  {
+    "institution_id": "I2801240073",
+    "name": "University Medical Center Freiburg",
+    "country_code": "DE",
+    "ror": "https://ror.org/03vzbgh69"
+  },
+  {
+    "institution_id": "I4405263145",
+    "name": "ELLIS Institute T\u00fcbingen",
+    "country_code": "DE",
+    "ror": "https://ror.org/036z3g533"
+  },
+  {
+    "institution_id": "I3923682",
+    "name": "Soochow University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05t8y2r12"
+  },
+  {
+    "institution_id": "I241749",
+    "name": "University of Cambridge",
+    "country_code": "GB",
+    "ror": "https://ror.org/013meh722"
+  },
+  {
+    "institution_id": "I4387153749",
+    "name": "Central European University - Budapest Campus",
+    "country_code": "HU",
+    "ror": "https://ror.org/02s3xwp33"
+  },
+  {
+    "institution_id": "I2277624104",
+    "name": "Fondazione Bruno Kessler",
+    "country_code": "IT",
+    "ror": "https://ror.org/01j33xk10"
+  },
+  {
+    "institution_id": "I166337079",
+    "name": "Queen Mary University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/026zzn846"
+  },
+  {
+    "institution_id": "I39063666",
+    "name": "University of Catania",
+    "country_code": "IT",
+    "ror": "https://ror.org/03a64bh57"
+  },
+  {
+    "institution_id": "I4210112164",
+    "name": "Complexity Science Hub",
+    "country_code": "AT",
+    "ror": "https://ror.org/023dz9m50"
+  },
+  {
+    "institution_id": "I4210128584",
+    "name": "The Alan Turing Institute",
+    "country_code": "GB",
+    "ror": "https://ror.org/035dkdb55"
+  },
+  {
+    "institution_id": "I21491767",
+    "name": "Aix-Marseille Universit\u00e9",
+    "country_code": "FR",
+    "ror": "https://ror.org/035xkbk20"
+  },
+  {
+    "institution_id": "I4210120427",
+    "name": "Institut de Biologie du D\u00e9veloppement Marseille",
+    "country_code": "FR",
+    "ror": "https://ror.org/02me5cy06"
+  },
+  {
+    "institution_id": "I4210138206",
+    "name": "Institut de Math\u00e9matiques de Marseille",
+    "country_code": "FR",
+    "ror": "https://ror.org/042h2y225"
+  },
+  {
+    "institution_id": "I4210142724",
+    "name": "Centrale M\u00e9diterran\u00e9e",
+    "country_code": "FR",
+    "ror": "https://ror.org/040baw385"
+  },
+  {
+    "institution_id": "I4210119109",
+    "name": "Indiana University Bloomington",
+    "country_code": "US",
+    "ror": "https://ror.org/02k40bc56"
+  },
+  {
+    "institution_id": "I592451",
+    "name": "Indiana University",
+    "country_code": "US",
+    "ror": "https://ror.org/01kg8sb98"
+  },
+  {
+    "institution_id": "I134940468",
+    "name": "Institute for Scientific Interchange",
+    "country_code": "IT",
+    "ror": "https://ror.org/00te2x188"
+  },
+  {
+    "institution_id": "I4210132770",
+    "name": "ISI Foundation",
+    "country_code": "US",
+    "ror": "https://ror.org/03ebhsy64"
+  },
+  {
+    "institution_id": "I157725225",
+    "name": "University of Illinois Urbana-Champaign",
+    "country_code": "US",
+    "ror": "https://ror.org/047426m28"
+  },
+  {
+    "institution_id": "I204722609",
+    "name": "Queen's University",
+    "country_code": "CA",
+    "ror": "https://ror.org/02y72wh86"
+  },
+  {
+    "institution_id": "I1321296531",
+    "name": "National Institute of Standards and Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/05xpvk416"
+  },
+  {
+    "institution_id": "I1311688040",
+    "name": "Amazon (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/04mv4n011"
+  },
+  {
+    "institution_id": "I181233156",
+    "name": "University of Oregon",
+    "country_code": "US",
+    "ror": "https://ror.org/0293rh119"
+  },
+  {
+    "institution_id": "I2898391981",
+    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)",
+    "country_code": "DE",
+    "ror": "https://ror.org/04bwf3e34"
+  },
+  {
+    "institution_id": "I62916508",
+    "name": "Technical University of Munich",
+    "country_code": "DE",
+    "ror": "https://ror.org/02kkvpp62"
+  },
+  {
+    "institution_id": "I37461747",
+    "name": "Wuhan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/033vjfk17"
+  },
+  {
+    "institution_id": "I154425047",
+    "name": "University of Alberta",
+    "country_code": "CA",
+    "ror": "https://ror.org/0160cpw27"
+  },
+  {
+    "institution_id": "I56085075",
+    "name": "University of Tartu",
+    "country_code": "EE",
+    "ror": "https://ror.org/03z77qz90"
+  },
+  {
+    "institution_id": "I189196454",
+    "name": "The University of Texas at Arlington",
+    "country_code": "US",
+    "ror": "https://ror.org/019kgqr73"
+  },
+  {
+    "institution_id": "I72816309",
+    "name": "Drexel University",
+    "country_code": "US",
+    "ror": "https://ror.org/04bdffz58"
+  },
+  {
+    "institution_id": "I2800274787",
+    "name": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",
+    "country_code": "DE",
+    "ror": "https://ror.org/02tbr6331"
+  },
+  {
+    "institution_id": "I4401727010",
+    "name": "Berlin Institute for the Foundations of Learning and Data",
+    "country_code": "DE",
+    "ror": "https://ror.org/05dsfb086"
+  },
+  {
+    "institution_id": "I7877124",
+    "name": "Charit\u00e9 \u2013 Universit\u00e4tsmedizin Berlin",
+    "country_code": "DE",
+    "ror": "https://ror.org/001w7jn25"
+  },
+  {
+    "institution_id": "I87707601",
+    "name": "Deutsche Forschungsgemeinschaft",
+    "country_code": "DE",
+    "ror": "https://ror.org/018mejw64"
+  },
+  {
+    "institution_id": "I130238516",
+    "name": "University of Minnesota",
+    "country_code": "US",
+    "ror": "https://ror.org/017zqws13"
+  },
+  {
+    "institution_id": "I170201317",
+    "name": "University of Pittsburgh",
+    "country_code": "US",
+    "ror": "https://ror.org/01an3r305"
+  },
+  {
+    "institution_id": "I53110688",
+    "name": "University of C\u00f3rdoba",
+    "country_code": "ES",
+    "ror": "https://ror.org/05yc77b46"
+  },
+  {
+    "institution_id": "I157674565",
+    "name": "University of Li\u00e8ge",
+    "country_code": "BE",
+    "ror": "https://ror.org/00afp2z80"
+  },
+  {
+    "institution_id": "I202697423",
+    "name": "University of Zurich",
+    "country_code": "CH",
+    "ror": "https://ror.org/02crff812"
+  },
+  {
+    "institution_id": "I16391192",
+    "name": "Tel Aviv University",
+    "country_code": "IL",
+    "ror": "https://ror.org/04mhzgx49"
+  },
+  {
+    "institution_id": "I2802619606",
+    "name": "TUM Klinikum",
+    "country_code": "DE",
+    "ror": "https://ror.org/04jc43x05"
+  },
+  {
+    "institution_id": "I197251160",
+    "name": "Hebrew University of Jerusalem",
+    "country_code": "IL",
+    "ror": "https://ror.org/03qxff017"
+  },
+  {
+    "institution_id": "I2802934949",
+    "name": "Radboud University Medical Center",
+    "country_code": "NL",
+    "ror": "https://ror.org/05wg1m734"
+  },
+  {
+    "institution_id": "I17937529",
+    "name": "German Cancer Research Center",
+    "country_code": "DE",
+    "ror": "https://ror.org/04cdgtt98"
+  },
+  {
+    "institution_id": "I3018771216",
+    "name": "LMU Klinikum",
+    "country_code": "DE",
+    "ror": "https://ror.org/02jet3w32"
+  },
+  {
+    "institution_id": "I8204097",
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "country_code": "DE",
+    "ror": "https://ror.org/05591te55"
+  },
+  {
+    "institution_id": "I4210109354",
+    "name": "Institut de Recherche contre les Cancers de l\u2019Appareil Digestif",
+    "country_code": "FR",
+    "ror": "https://ror.org/01xyqts46"
+  },
+  {
+    "institution_id": "I2799899409",
+    "name": "Hadassah Medical Center",
+    "country_code": "IL",
+    "ror": "https://ror.org/01cqmqj90"
+  },
+  {
+    "institution_id": "I2799810450",
+    "name": "Sheba Medical Center",
+    "country_code": "IL",
+    "ror": "https://ror.org/020rzx487"
+  },
+  {
+    "institution_id": "I16362100",
+    "name": "Rafael Advanced Defense Systems (Israel)",
+    "country_code": "IL",
+    "ror": "https://ror.org/016mey390"
+  },
+  {
+    "institution_id": "I3018134672",
+    "name": "Helmholtz Munich",
+    "country_code": "DE",
+    "ror": "https://ror.org/00cfam450"
+  },
+  {
+    "institution_id": "I4405260263",
+    "name": "Institut f\u00fcr Diagnostische und Interventionelle Neuroradiologie",
+    "country_code": "DE",
+    "ror": "https://ror.org/03g9zwv89"
+  },
+  {
+    "institution_id": "I4210111013",
+    "name": "Nanjing Drum Tower Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/026axqv54"
+  },
+  {
+    "institution_id": "I881766915",
+    "name": "Nanjing University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01rxvg760"
+  },
+  {
+    "institution_id": "I183935753",
+    "name": "King's College London",
+    "country_code": "GB",
+    "ror": "https://ror.org/0220mzb33"
+  },
+  {
+    "institution_id": "I4405258795",
+    "name": "Kakao Brain (South Korea)",
+    "country_code": "KR",
+    "ror": "https://ror.org/017agdj19"
+  },
+  {
+    "institution_id": "I2799803557",
+    "name": "Barcelona Supercomputing Center",
+    "country_code": "ES",
+    "ror": "https://ror.org/05sd8tv96"
+  },
+  {
+    "institution_id": "I4210137873",
+    "name": "Fraunhofer Institute for Digital Medicine",
+    "country_code": "DE",
+    "ror": "https://ror.org/04farme71"
+  },
+  {
+    "institution_id": "I124055696",
+    "name": "University of Copenhagen",
+    "country_code": "DK",
+    "ror": "https://ror.org/035b05819"
+  },
+  {
+    "institution_id": "I4210151799",
+    "name": "Siemens Healthcare (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/054962n91"
+  },
+  {
+    "institution_id": "I223822909",
+    "name": "Heidelberg University",
+    "country_code": "DE",
+    "ror": "https://ror.org/038t36y30"
+  },
+  {
+    "institution_id": "I9617848",
+    "name": "Universitat Polit\u00e8cnica de Catalunya",
+    "country_code": "ES",
+    "ror": "https://ror.org/03mb6wj31"
+  },
+  {
+    "institution_id": "I94509681",
+    "name": "Technische Universit\u00e4t Braunschweig",
+    "country_code": "DE",
+    "ror": "https://ror.org/010nsgg66"
+  },
+  {
+    "institution_id": "I24676775",
+    "name": "Indian Institute of Technology Madras",
+    "country_code": "IN",
+    "ror": "https://ror.org/03v0r5n49"
+  },
+  {
+    "institution_id": "I2802194831",
+    "name": "Samsung Medical Center",
+    "country_code": "KR",
+    "ror": "https://ror.org/05a15z872"
+  },
+  {
+    "institution_id": "I86987016",
+    "name": "KTH Royal Institute of Technology",
+    "country_code": "SE",
+    "ror": "https://ror.org/026vcq606"
+  },
+  {
+    "institution_id": "I4401727009",
+    "name": "Sensetime (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/049wsmj07"
+  },
+  {
+    "institution_id": "I186272606",
+    "name": "Guangdong University of Foreign Studies",
+    "country_code": "CN",
+    "ror": "https://ror.org/00fhc9y79"
+  },
+  {
+    "institution_id": "I4210086647",
+    "name": "Philips (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/001tk4253"
+  },
+  {
+    "institution_id": "I36399199",
+    "name": "Nanjing University of Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/00xp9wg62"
+  },
+  {
+    "institution_id": "I2802164966",
+    "name": "University Hospital Heidelberg",
+    "country_code": "DE",
+    "ror": "https://ror.org/013czdx64"
+  },
+  {
+    "institution_id": "I180437899",
+    "name": "University of Bremen",
+    "country_code": "DE",
+    "ror": "https://ror.org/04ers2y35"
+  },
+  {
+    "institution_id": "I887968799",
+    "name": "RWTH Aachen University",
+    "country_code": "DE",
+    "ror": "https://ror.org/04xfq0f34"
+  },
+  {
+    "institution_id": "I34809795",
+    "name": "Medizinische Hochschule Hannover",
+    "country_code": "DE",
+    "ror": "https://ror.org/00f2yqf98"
+  },
+  {
+    "institution_id": "I98704320",
+    "name": "Icahn School of Medicine at Mount Sinai",
+    "country_code": "US",
+    "ror": "https://ror.org/04a9tmd77"
+  },
+  {
+    "institution_id": "I4405260609",
+    "name": "NAVER Cloud (South Korea)",
+    "country_code": "KR",
+    "ror": "https://ror.org/041051y78"
+  },
+  {
+    "institution_id": "I60922564",
+    "name": "Naver (South Korea)",
+    "country_code": "KR",
+    "ror": "https://ror.org/04nzrnx83"
+  },
+  {
+    "institution_id": "I157485424",
+    "name": "Korea Advanced Institute of Science and Technology",
+    "country_code": "KR",
+    "ror": "https://ror.org/05apxxy63"
+  },
+  {
+    "institution_id": "I186129607",
+    "name": "Canadian University of Dubai",
+    "country_code": "AE",
+    "ror": "https://ror.org/029zgsn59"
+  },
+  {
+    "institution_id": "I55732556",
+    "name": "Arizona State University",
+    "country_code": "US",
+    "ror": "https://ror.org/03efmqc40"
+  },
+  {
+    "institution_id": "I130769515",
+    "name": "Pennsylvania State University",
+    "country_code": "US",
+    "ror": "https://ror.org/04p491231"
+  },
+  {
+    "institution_id": "I162868743",
+    "name": "Tianjin University",
+    "country_code": "CN",
+    "ror": "https://ror.org/012tb2g32"
+  },
+  {
+    "institution_id": "I1327163397",
+    "name": "State University of New York",
+    "country_code": "US",
+    "ror": "https://ror.org/01q1z8k08"
+  },
+  {
+    "institution_id": "I392282",
+    "name": "University at Albany, State University of New York",
+    "country_code": "US",
+    "ror": "https://ror.org/012zs8222"
+  },
+  {
+    "institution_id": "I4210134512",
+    "name": "GE Global Research (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/03e06qt98"
+  },
+  {
+    "institution_id": "I59553526",
+    "name": "Stony Brook University",
+    "country_code": "US",
+    "ror": "https://ror.org/05qghxh33"
+  },
+  {
+    "institution_id": "I36090812",
+    "name": "Netaji Subhas University of Technology",
+    "country_code": "IN",
+    "ror": "https://ror.org/01fczmh85"
+  },
+  {
+    "institution_id": "I33586908",
+    "name": "Pandit Deendayal Energy University",
+    "country_code": "IN",
+    "ror": "https://ror.org/02nsv5p42"
+  },
+  {
+    "institution_id": "I79510175",
+    "name": "Cardiff University",
+    "country_code": "GB",
+    "ror": "https://ror.org/03kk7td41"
+  },
+  {
+    "institution_id": "I155781252",
+    "name": "University of South Carolina",
+    "country_code": "US",
+    "ror": "https://ror.org/02b6qw903"
+  },
+  {
+    "institution_id": "I4210138251",
+    "name": "Indian Institute of Information Technology, Nagpur",
+    "country_code": "IN",
+    "ror": "https://ror.org/03e2e3s57"
+  },
+  {
+    "institution_id": "I76777374",
+    "name": "Central University of Rajasthan",
+    "country_code": "IN",
+    "ror": "https://ror.org/056y7zx62"
+  },
+  {
+    "institution_id": "I4387153466",
+    "name": "Weill Cornell Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/02r109517"
+  },
+  {
+    "institution_id": "I33213144",
+    "name": "University of Florida",
+    "country_code": "US",
+    "ror": "https://ror.org/02y3ad647"
+  },
+  {
+    "institution_id": "I184942183",
+    "name": "University of Oslo",
+    "country_code": "NO",
+    "ror": "https://ror.org/01xtthb56"
+  },
+  {
+    "institution_id": "I74413500",
+    "name": "University of Windsor",
+    "country_code": "CA",
+    "ror": "https://ror.org/01gw3d370"
+  },
+  {
+    "institution_id": "I37802460",
+    "name": "Northwest University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00z3td547"
+  },
+  {
+    "institution_id": "I82951845",
+    "name": "RMIT University",
+    "country_code": "AU",
+    "ror": "https://ror.org/04ttjf776"
+  },
+  {
+    "institution_id": "I152269853",
+    "name": "Qilu University of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/04hyzq608"
+  },
+  {
+    "institution_id": "I4210142748",
+    "name": "Shandong Academy of Sciences",
+    "country_code": "CN",
+    "ror": "https://ror.org/04y8d6y55"
+  },
+  {
+    "institution_id": "I105094715",
+    "name": "National Institute of Technology Kurukshetra",
+    "country_code": "IN",
+    "ror": "https://ror.org/04909p852"
+  },
+  {
+    "institution_id": "I125989756",
+    "name": "Skolkovo Institute of Science and Technology",
+    "country_code": "RU",
+    "ror": "https://ror.org/03f9nc143"
+  },
+  {
+    "institution_id": "I169877490",
+    "name": "University of Mumbai",
+    "country_code": "IN",
+    "ror": "https://ror.org/032hdk172"
+  },
+  {
+    "institution_id": "I4405260939",
+    "name": "Thakur College of Engineering and Technology",
+    "country_code": "IN",
+    "ror": "https://ror.org/04gt8an83"
+  },
+  {
+    "institution_id": "I889804353",
+    "name": "Robert Bosch (Germany)",
+    "country_code": "DE",
+    "ror": "https://ror.org/01fe0jt45"
+  },
+  {
+    "institution_id": "I106785703",
+    "name": "Institut polytechnique de Grenoble",
+    "country_code": "FR",
+    "ror": "https://ror.org/05sbt2524"
+  },
+  {
+    "institution_id": "I4210124956",
+    "name": "GIPSA-Lab",
+    "country_code": "FR",
+    "ror": "https://ror.org/02wrme198"
+  },
+  {
+    "institution_id": "I899635006",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "country_code": "FR",
+    "ror": "https://ror.org/02rx3b187"
+  },
+  {
+    "institution_id": "I4210137199",
+    "name": "Aerospace Information Research Institute",
+    "country_code": "CN",
+    "ror": "https://ror.org/0419fj215"
+  },
+  {
+    "institution_id": "I80606768",
+    "name": "Universidad de Extremadura",
+    "country_code": "ES",
+    "ror": "https://ror.org/0174shg90"
+  },
+  {
+    "institution_id": "I4210148047",
+    "name": "Nicolae B\u0103lcescu Land Forces Academy",
+    "country_code": "RO",
+    "ror": "https://ror.org/03kyen796"
+  },
+  {
+    "institution_id": "I4210149165",
+    "name": "Universitatea Din Petrosani",
+    "country_code": "RO",
+    "ror": "https://ror.org/055k3dh55"
+  },
+  {
+    "institution_id": "I124121301",
+    "name": "Lucian Blaga University of Sibiu",
+    "country_code": "RO",
+    "ror": "https://ror.org/026gdz537"
+  },
+  {
+    "institution_id": "I26072440",
+    "name": "Indian Institute of Information Technology Allahabad",
+    "country_code": "IN",
+    "ror": "https://ror.org/03rgjt374"
+  },
+  {
+    "institution_id": "I1288043984",
+    "name": "Techno India University",
+    "country_code": "IN",
+    "ror": "https://ror.org/00v1y6t69"
+  },
+  {
+    "institution_id": "I6498739",
+    "name": "Indian Statistical Institute",
+    "country_code": "IN",
+    "ror": "https://ror.org/00q2w1j53"
+  },
+  {
+    "institution_id": "I4210103986",
+    "name": "Jingdong (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/01dkjkq64"
+  },
+  {
+    "institution_id": "I4387154858",
+    "name": "Odyssey Therapeutics (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/02asmqs25"
+  },
+  {
+    "institution_id": "I4405256023",
+    "name": "Graduate School of China Academy of Engineering Physics",
+    "country_code": "CN",
+    "ror": "https://ror.org/03p41qy95"
+  },
+  {
+    "institution_id": "I134421475",
+    "name": "National Physical Laboratory",
+    "country_code": "GB",
+    "ror": "https://ror.org/015w2mp89"
+  },
+  {
+    "institution_id": "I4210128053",
+    "name": "Institute of Remote Sensing and Digital Earth",
+    "country_code": "CN",
+    "ror": "https://ror.org/02cjszf03"
+  },
+  {
+    "institution_id": "I141945490",
+    "name": "University of British Columbia",
+    "country_code": "CA",
+    "ror": "https://ror.org/03rmrcq20"
+  },
+  {
+    "institution_id": "I143804889",
+    "name": "Loughborough University",
+    "country_code": "GB",
+    "ror": "https://ror.org/04vg4w365"
+  },
+  {
+    "institution_id": "I63634437",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "country_code": "ES",
+    "ror": "https://ror.org/01cby8j38"
+  },
+  {
+    "institution_id": "I196349391",
+    "name": "Universit\u00e4t Ulm",
+    "country_code": "DE",
+    "ror": "https://ror.org/032000t02"
+  },
+  {
+    "institution_id": "I102335020",
+    "name": "Karlsruhe Institute of Technology",
+    "country_code": "DE",
+    "ror": "https://ror.org/04t3en479"
+  },
+  {
+    "institution_id": "I1288882113",
+    "name": "Boston Children's Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/00dvg7y05"
+  },
+  {
+    "institution_id": "I4210117453",
+    "name": "Dana-Farber Cancer Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/02jzgtq86"
+  },
+  {
+    "institution_id": "I4405263983",
+    "name": "Institute of Computational Biology",
+    "country_code": "DE",
+    "ror": "https://ror.org/00kg2yq63"
+  },
+  {
+    "institution_id": "I22465464",
+    "name": "University of M\u00fcnster",
+    "country_code": "DE",
+    "ror": "https://ror.org/00pd74e08"
+  },
+  {
+    "institution_id": "I52099693",
+    "name": "University of York",
+    "country_code": "GB",
+    "ror": "https://ror.org/04m01e293"
+  },
+  {
+    "institution_id": "I4387152582",
+    "name": "A'Sharqiyah University",
+    "country_code": "OM",
+    "ror": "https://ror.org/044v96v72"
+  },
+  {
+    "institution_id": "I4210134189",
+    "name": "Xiamen University Malaysia",
+    "country_code": "MY",
+    "ror": "https://ror.org/0331wa828"
+  },
+  {
+    "institution_id": "I1343551460",
+    "name": "The University of Texas MD Anderson Cancer Center",
+    "country_code": "US",
+    "ror": "https://ror.org/04twxam07"
+  },
+  {
+    "institution_id": "I4388482659",
+    "name": "Albaydha University",
+    "country_code": "YE",
+    "ror": "https://ror.org/0505vtn61"
+  },
+  {
+    "institution_id": "I173029219",
+    "name": "Multimedia University",
+    "country_code": "MY",
+    "ror": "https://ror.org/04zrbnc33"
+  },
+  {
+    "institution_id": "I4210142395",
+    "name": "Torrens University Australia",
+    "country_code": "AU",
+    "ror": "https://ror.org/0351xae06"
+  },
+  {
+    "institution_id": "I59475050",
+    "name": "Jamia Millia Islamia",
+    "country_code": "IN",
+    "ror": "https://ror.org/00pnhhv55"
+  },
+  {
+    "institution_id": "I163072128",
+    "name": "Galgotias College of Engineering & Technology",
+    "country_code": "IN",
+    "ror": "https://ror.org/04a85ht85"
+  },
+  {
+    "institution_id": "I70971781",
+    "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+    "country_code": "IN",
+    "ror": "https://ror.org/03xt0bg88"
+  },
+  {
+    "institution_id": "I252758333",
+    "name": "Govind Ballabh Pant University of Agriculture and Technology",
+    "country_code": "IN",
+    "ror": "https://ror.org/02msjvh03"
+  },
+  {
+    "institution_id": "I4210140267",
+    "name": "Ikerlan",
+    "country_code": "ES",
+    "ror": "https://ror.org/03hp1m080"
+  },
+  {
+    "institution_id": "I2802176441",
+    "name": "Basque Center for Applied Mathematics",
+    "country_code": "ES",
+    "ror": "https://ror.org/03b21sh32"
+  },
+  {
+    "institution_id": "I51235708",
+    "name": "Universidade Federal do Esp\u00edrito Santo",
+    "country_code": "BR",
+    "ror": "https://ror.org/05sxf4h28"
+  },
+  {
+    "institution_id": "I4210160371",
+    "name": "Instituto Federal do Esp\u00edrito Santo",
+    "country_code": "BR",
+    "ror": "https://ror.org/05rshs160"
+  },
+  {
+    "institution_id": "I4403386549",
+    "name": "Munich Center for Machine Learning",
+    "country_code": "DE",
+    "ror": "https://ror.org/02nfy3535"
+  },
+  {
+    "institution_id": "I200332995",
+    "name": "TU Dortmund University",
+    "country_code": "DE",
+    "ror": "https://ror.org/01k97gp34"
+  },
+  {
+    "institution_id": "I4405260893",
+    "name": "Institut f\u00fcr Medizinische Informationsverarbeitung, Biometrie und Epidemiologie",
+    "country_code": "DE",
+    "ror": "https://ror.org/04eb1yz45"
+  },
+  {
+    "institution_id": "I4210136150",
+    "name": "L3S Research Center",
+    "country_code": "DE",
+    "ror": "https://ror.org/039t4wk02"
+  },
+  {
+    "institution_id": "I4210121775",
+    "name": "FORTH Institute of Computer Science",
+    "country_code": "GR",
+    "ror": "https://ror.org/02tf48g55"
+  },
+  {
+    "institution_id": "I8901234",
+    "name": "Foundation for Research and Technology Hellas",
+    "country_code": "GR",
+    "ror": "https://ror.org/052rphn09"
+  },
+  {
+    "institution_id": "I2802635041",
+    "name": "Technische Informationsbibliothek (TIB)",
+    "country_code": "DE",
+    "ror": "https://ror.org/04aj4c181"
+  },
+  {
+    "institution_id": "I4210093649",
+    "name": "Information Technologies Institute",
+    "country_code": "GR",
+    "ror": "https://ror.org/0069akp70"
+  },
+  {
+    "institution_id": "I4210134249",
+    "name": "Centre for Research and Technology Hellas",
+    "country_code": "GR",
+    "ror": "https://ror.org/03bndpq63"
+  },
+  {
+    "institution_id": "I4210101898",
+    "name": "GESIS - Leibniz Institute for the Social Sciences",
+    "country_code": "DE",
+    "ror": "https://ror.org/018afyw53"
+  },
+  {
+    "institution_id": "I204136569",
+    "name": "The Open University",
+    "country_code": "GB",
+    "ror": "https://ror.org/05mzfcs16"
+  },
+  {
+    "institution_id": "I99464096",
+    "name": "KU Leuven",
+    "country_code": "BE",
+    "ror": "https://ror.org/05f950310"
+  },
+  {
+    "institution_id": "I144648426",
+    "name": "Norwegian Computing Center",
+    "country_code": "NO",
+    "ror": "https://ror.org/02gm7te43"
+  },
+  {
+    "institution_id": "I88830068",
+    "name": "Shaanxi Normal University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0170z8493"
+  },
+  {
+    "institution_id": "I4405265933",
+    "name": "United Imaging Intelligence (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/01s8ddd88"
+  },
+  {
+    "institution_id": "I83714178",
+    "name": "Shenyang Jianzhu University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01zr73v18"
+  },
+  {
+    "institution_id": "I4210122598",
+    "name": "BenevolentAI (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/02z480994"
+  },
+  {
+    "institution_id": "I91045830",
+    "name": "Texas A&M University",
+    "country_code": "US",
+    "ror": "https://ror.org/01f5ytq51"
+  },
+  {
+    "institution_id": "I74775410",
+    "name": "Rice University",
+    "country_code": "US",
+    "ror": "https://ror.org/008zs3103"
+  },
+  {
+    "institution_id": "I165143802",
+    "name": "The University of Queensland",
+    "country_code": "AU",
+    "ror": "https://ror.org/00rqy9422"
+  },
+  {
+    "institution_id": "I1341412227",
+    "name": "IBM (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/05hh8d621"
+  },
+  {
+    "institution_id": "I150468666",
+    "name": "Emory University",
+    "country_code": "US",
+    "ror": "https://ror.org/03czfpz43"
+  },
+  {
+    "institution_id": "I186143895",
+    "name": "Lehigh University",
+    "country_code": "US",
+    "ror": "https://ror.org/012afjb06"
+  },
+  {
+    "institution_id": "I78577930",
+    "name": "Columbia University",
+    "country_code": "US",
+    "ror": "https://ror.org/00hj8s172"
+  },
+  {
+    "institution_id": "I133837150",
+    "name": "University of Huddersfield",
+    "country_code": "GB",
+    "ror": "https://ror.org/05t1h8f27"
+  },
+  {
+    "institution_id": "I1293035123",
+    "name": "Met Office",
+    "country_code": "GB",
+    "ror": "https://ror.org/01ch2yn61"
+  },
+  {
+    "institution_id": "I23923803",
+    "name": "University of Exeter",
+    "country_code": "GB",
+    "ror": "https://ror.org/03yghzc09"
+  },
+  {
+    "institution_id": "I153921779",
+    "name": "Philadelphia University",
+    "country_code": "JO",
+    "ror": "https://ror.org/05mqvn149"
+  },
+  {
+    "institution_id": "I131249849",
+    "name": "Oregon State University",
+    "country_code": "US",
+    "ror": "https://ror.org/00ysfqy60"
+  },
+  {
+    "institution_id": "I87111246",
+    "name": "Catholic University of Korea",
+    "country_code": "KR",
+    "ror": "https://ror.org/01fpnj063"
+  },
+  {
+    "institution_id": "I4405271894",
+    "name": "Samsung Biomedical Research Institute",
+    "country_code": "KR",
+    "ror": "https://ror.org/037pjb504"
+  },
+  {
+    "institution_id": "I4210089985",
+    "name": "Amazon (Germany)",
+    "country_code": "DE",
+    "ror": "https://ror.org/00b9ktm87"
+  },
+  {
+    "institution_id": "I146620803",
+    "name": "Wenzhou University",
+    "country_code": "CN",
+    "ror": "https://ror.org/020hxh324"
+  },
+  {
+    "institution_id": "I63169043",
+    "name": "United International University",
+    "country_code": "BD",
+    "ror": "https://ror.org/01tqv1p28"
+  },
+  {
+    "institution_id": "I63548447",
+    "name": "Lappeenranta-Lahti University of Technology",
+    "country_code": "FI",
+    "ror": "https://ror.org/0208vgz68"
+  },
+  {
+    "institution_id": "I29894533",
+    "name": "Charles Darwin University",
+    "country_code": "AU",
+    "ror": "https://ror.org/048zcaj52"
+  },
+  {
+    "institution_id": "I183697816",
+    "name": "Bangladesh University of Engineering and Technology",
+    "country_code": "BD",
+    "ror": "https://ror.org/05a1qpv97"
+  },
+  {
+    "institution_id": "I59746437",
+    "name": "Open University of Cyprus",
+    "country_code": "CY",
+    "ror": "https://ror.org/033sm2k57"
+  },
+  {
+    "institution_id": "I192756129",
+    "name": "University of Macedonia",
+    "country_code": "GR",
+    "ror": "https://ror.org/05fg6gr82"
+  },
+  {
+    "institution_id": "I146966710",
+    "name": "Asian University for Women",
+    "country_code": "BD",
+    "ror": "https://ror.org/01wp52t96"
+  },
+  {
+    "institution_id": "I38538140",
+    "name": "Asian Institute of Technology",
+    "country_code": "TH",
+    "ror": "https://ror.org/0403qcr87"
+  },
+  {
+    "institution_id": "I67031392",
+    "name": "Carleton University",
+    "country_code": "CA",
+    "ror": "https://ror.org/02qtvee93"
+  },
+  {
+    "institution_id": "I138564716",
+    "name": "Prince Mohammad bin Fahd University",
+    "country_code": "SA",
+    "ror": "https://ror.org/03d64na34"
+  },
+  {
+    "institution_id": "I3132364740",
+    "name": "University of Fiji",
+    "country_code": "FJ",
+    "ror": "https://ror.org/0008bt423"
+  },
+  {
+    "institution_id": "I74899385",
+    "name": "Central Queensland University",
+    "country_code": "AU",
+    "ror": "https://ror.org/023q4bk22"
+  },
+  {
+    "institution_id": "I103356709",
+    "name": "Obuda University",
+    "country_code": "HU",
+    "ror": "https://ror.org/00ax71d21"
+  },
+  {
+    "institution_id": "I4210166576",
+    "name": "First Affiliated Hospital Zhejiang University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05m1p5x56"
+  },
+  {
+    "institution_id": "I145847075",
+    "name": "TU Wien",
+    "country_code": "AT",
+    "ror": "https://ror.org/04d836q62"
+  },
+  {
+    "institution_id": "I4210097074",
+    "name": "Theiss Research",
+    "country_code": "US",
+    "ror": "https://ror.org/00scjnx30"
+  },
+  {
+    "institution_id": "I4210147263",
+    "name": "Material Measurement Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/04a0y3b96"
+  },
+  {
+    "institution_id": "I111979921",
+    "name": "Northwestern University",
+    "country_code": "US",
+    "ror": "https://ror.org/000e0be47"
+  },
+  {
+    "institution_id": "I118118575",
+    "name": "New Jersey Institute of Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/05e74xb87"
+  },
+  {
+    "institution_id": "I47251452",
+    "name": "Wake Forest University",
+    "country_code": "US",
+    "ror": "https://ror.org/0207ad724"
+  },
+  {
+    "institution_id": "I183067930",
+    "name": "Shanghai Jiao Tong University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0220qvk04"
+  },
+  {
+    "institution_id": "I1325675289",
+    "name": "Moorfields Eye Hospital NHS Foundation Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/03zaddr67"
+  },
+  {
+    "institution_id": "I4210088407",
+    "name": "NIHR Moorfields Biomedical Research Centre",
+    "country_code": "GB",
+    "ror": "https://ror.org/004hydx84"
+  },
+  {
+    "institution_id": "I201448701",
+    "name": "University of Washington",
+    "country_code": "US",
+    "ror": "https://ror.org/00cvxb145"
+  },
+  {
+    "institution_id": "I205051169",
+    "name": "Kingston University London",
+    "country_code": "GB",
+    "ror": "https://ror.org/05bbqza97"
+  },
+  {
+    "institution_id": "I130828816",
+    "name": "University of Leeds",
+    "country_code": "GB",
+    "ror": "https://ror.org/024mrxd33"
+  },
+  {
+    "institution_id": "I1324925910",
+    "name": "St Thomas' Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/054gk2851"
+  },
+  {
+    "institution_id": "I177639307",
+    "name": "University of Dundee",
+    "country_code": "GB",
+    "ror": "https://ror.org/03h2bxq36"
+  },
+  {
+    "institution_id": "I146655781",
+    "name": "University of Liverpool",
+    "country_code": "GB",
+    "ror": "https://ror.org/04xs57h96"
+  },
+  {
+    "institution_id": "I2799390153",
+    "name": "Leeds Teaching Hospitals NHS Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/00v4dac24"
+  },
+  {
+    "institution_id": "I7882870",
+    "name": "University of Glasgow",
+    "country_code": "GB",
+    "ror": "https://ror.org/00vtgdb53"
+  },
+  {
+    "institution_id": "I2802266942",
+    "name": "Gloucestershire Hospitals NHS Foundation Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/04mw34986"
+  },
+  {
+    "institution_id": "I165862685",
+    "name": "St George's, University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/040f08y74"
+  },
+  {
+    "institution_id": "I1118541",
+    "name": "University of East Anglia",
+    "country_code": "GB",
+    "ror": "https://ror.org/026k5mg93"
+  },
+  {
+    "institution_id": "I4405260083",
+    "name": "UCL Queen Square Institute of Neurology",
+    "country_code": "GB",
+    "ror": "https://ror.org/0370htr03"
+  },
+  {
+    "institution_id": "I2802775644",
+    "name": "Royal Liverpool University Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/01ycr6b80"
+  },
+  {
+    "institution_id": "I1308923049",
+    "name": "University Hospitals Birmingham NHS Foundation Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/014ja3n03"
+  },
+  {
+    "institution_id": "I79619799",
+    "name": "University of Birmingham",
+    "country_code": "GB",
+    "ror": "https://ror.org/03angcq70"
+  },
+  {
+    "institution_id": "I105036370",
+    "name": "AstraZeneca (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/04r9x1a08"
+  },
+  {
+    "institution_id": "I4210089382",
+    "name": "Cancer Research UK Cambridge Center",
+    "country_code": "GB",
+    "ror": "https://ror.org/0068m0j38"
+  },
+  {
+    "institution_id": "I2799766170",
+    "name": "Royal Papworth Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/05mqgrb58"
+  },
+  {
+    "institution_id": "I4210104974",
+    "name": "Papworth Hospital NHS Foundation Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/01qbebb31"
+  },
+  {
+    "institution_id": "I2802466933",
+    "name": "Cambridge University Hospitals NHS Foundation Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/04v54gj93"
+  },
+  {
+    "institution_id": "I4210096640",
+    "name": "Royal Brompton Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/00cv4n034"
+  },
+  {
+    "institution_id": "I76134821",
+    "name": "Medical University of Vienna",
+    "country_code": "AT",
+    "ror": "https://ror.org/05n3x4p02"
+  },
+  {
+    "institution_id": "I133731052",
+    "name": "University of Helsinki",
+    "country_code": "FI",
+    "ror": "https://ror.org/040af2s02"
+  },
+  {
+    "institution_id": "I1330995197",
+    "name": "Boehringer Ingelheim (Germany)",
+    "country_code": "DE",
+    "ror": "https://ror.org/00q32j219"
+  },
+  {
+    "institution_id": "I4210156194",
+    "name": "Addenbrooke's Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/055vbxf86"
+  },
+  {
+    "institution_id": "I5847235",
+    "name": "University of Petroleum and Energy Studies",
+    "country_code": "IN",
+    "ror": "https://ror.org/04q2jes40"
+  },
+  {
+    "institution_id": "I189090001",
+    "name": "Novo Nordisk (Denmark)",
+    "country_code": "DK",
+    "ror": "https://ror.org/0435rc536"
+  },
+  {
+    "institution_id": "I4210115097",
+    "name": "Hospital Cl\u00ednic de Barcelona",
+    "country_code": "ES",
+    "ror": "https://ror.org/02a2kzf50"
+  },
+  {
+    "institution_id": "I4210160192",
+    "name": "Consorci Institut D'Investigacions Biomediques August Pi I Sunyer",
+    "country_code": "ES",
+    "ror": "https://ror.org/054vayn55"
+  },
+  {
+    "institution_id": "I71999127",
+    "name": "Universitat de Barcelona",
+    "country_code": "ES",
+    "ror": "https://ror.org/021018s57"
+  },
+  {
+    "institution_id": "I4210094118",
+    "name": "Universit\u00e4tsklinikum T\u00fcbingen",
+    "country_code": "DE",
+    "ror": "https://ror.org/00pjgxh97"
+  },
+  {
+    "institution_id": "I4210150093",
+    "name": "Max Planck Institute of Biochemistry",
+    "country_code": "DE",
+    "ror": "https://ror.org/04py35477"
+  },
+  {
+    "institution_id": "I4210100468",
+    "name": "University Hospital Zurich",
+    "country_code": "CH",
+    "ror": "https://ror.org/01462r250"
+  },
+  {
+    "institution_id": "I4210151100",
+    "name": "DKFZ-ZMBH Alliance",
+    "country_code": "DE",
+    "ror": "https://ror.org/05x8b4491"
+  },
+  {
+    "institution_id": "I4210089594",
+    "name": "Spanish National Cancer Research Centre",
+    "country_code": "ES",
+    "ror": "https://ror.org/00bvhmc43"
+  },
+  {
+    "institution_id": "I200777214",
+    "name": "National and Kapodistrian University of Athens",
+    "country_code": "GR",
+    "ror": "https://ror.org/04gnjpq42"
+  },
+  {
+    "institution_id": "I4210119545",
+    "name": "Aretaeio Hospital",
+    "country_code": "GR",
+    "ror": "https://ror.org/02qvqb543"
+  },
+  {
+    "institution_id": "I4210086903",
+    "name": "Azienda Ospedaliera Citta' della Salute e della Scienza di Torino",
+    "country_code": "IT",
+    "ror": "https://ror.org/001f7a930"
+  },
+  {
+    "institution_id": "I55143463",
+    "name": "University of Turin",
+    "country_code": "IT",
+    "ror": "https://ror.org/048tbm396"
+  },
+  {
+    "institution_id": "I4210116691",
+    "name": "Wellcome/MRC Institute of Metabolic Science",
+    "country_code": "GB",
+    "ror": "https://ror.org/0264dxb48"
+  },
+  {
+    "institution_id": "I45084792",
+    "name": "University of Florence",
+    "country_code": "IT",
+    "ror": "https://ror.org/04jr1s763"
+  },
+  {
+    "institution_id": "I4210094062",
+    "name": "University Medical Center of the Johannes Gutenberg University Mainz",
+    "country_code": "DE",
+    "ror": "https://ror.org/00q1fsf04"
+  },
+  {
+    "institution_id": "I4389425352",
+    "name": "NIHR Cambridge Biomedical Research Centre",
+    "country_code": "GB",
+    "ror": "https://ror.org/05m8dr349"
+  },
+  {
+    "institution_id": "I2799502834",
+    "name": "H\u00f4pital Beaujon",
+    "country_code": "FR",
+    "ror": "https://ror.org/03jyzk483"
+  },
+  {
+    "institution_id": "I4210097159",
+    "name": "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+    "country_code": "FR",
+    "ror": "https://ror.org/00pg5jh14"
+  },
+  {
+    "institution_id": "I4387154366",
+    "name": "Universit\u00e9 Paris Diderot",
+    "country_code": "FR",
+    "ror": "https://ror.org/02n7qrg46"
+  },
+  {
+    "institution_id": "I1339471597",
+    "name": "Humanitas University",
+    "country_code": "IT",
+    "ror": "https://ror.org/020dggs04"
+  },
+  {
+    "institution_id": "I4210112713",
+    "name": "University Hospital Schleswig-Holstein",
+    "country_code": "DE",
+    "ror": "https://ror.org/01tvm6f46"
+  },
+  {
+    "institution_id": "I4210087996",
+    "name": "Klinikum Klagenfurt",
+    "country_code": "AT",
+    "ror": "https://ror.org/007xcwj53"
+  },
+  {
+    "institution_id": "I4210132578",
+    "name": "University Hospital Frankfurt",
+    "country_code": "DE",
+    "ror": "https://ror.org/03f6n9m15"
+  },
+  {
+    "institution_id": "I4210108711",
+    "name": "University Medical Center Hamburg-Eppendorf",
+    "country_code": "DE",
+    "ror": "https://ror.org/01zgy1s35"
+  },
+  {
+    "institution_id": "I4404532900",
+    "name": "Istituto Oncologico della Svizzera Italiana",
+    "country_code": "CH",
+    "ror": "https://ror.org/04tty5b50"
+  },
+  {
+    "institution_id": "I4210156450",
+    "name": "University Medical Centre Mannheim",
+    "country_code": "DE",
+    "ror": "https://ror.org/05sxbyd35"
+  },
+  {
+    "institution_id": "I44260953",
+    "name": "Heinrich Heine University D\u00fcsseldorf",
+    "country_code": "DE",
+    "ror": "https://ror.org/024z2rq82"
+  },
+  {
+    "institution_id": "I180923762",
+    "name": "University of Cologne",
+    "country_code": "DE",
+    "ror": "https://ror.org/00rcxh774"
+  },
+  {
+    "institution_id": "I4387153978",
+    "name": "Medizinische Fakult\u00e4t Mannheim",
+    "country_code": "DE",
+    "ror": "https://ror.org/02m1z0a87"
+  },
+  {
+    "institution_id": "I4210095248",
+    "name": "German Rheumatism Research Centre",
+    "country_code": "DE",
+    "ror": "https://ror.org/00shv0x82"
+  },
+  {
+    "institution_id": "I4210115305",
+    "name": "German Center for Infection Research",
+    "country_code": "DE",
+    "ror": "https://ror.org/028s4q594"
+  },
+  {
+    "institution_id": "I118564535",
+    "name": "University of Bern",
+    "country_code": "CH",
+    "ror": "https://ror.org/02k7v4d05"
+  },
+  {
+    "institution_id": "I2801112126",
+    "name": "University Hospital of Bern",
+    "country_code": "CH",
+    "ror": "https://ror.org/01q9sj412"
+  },
+  {
+    "institution_id": "I1324220072",
+    "name": "Mount Sinai Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/01zkyz108"
+  },
+  {
+    "institution_id": "I4390039328",
+    "name": "Tisch Cancer Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/0317dzj93"
+  },
+  {
+    "institution_id": "I916559398",
+    "name": "Kindai University",
+    "country_code": "JP",
+    "ror": "https://ror.org/05kt9ap64"
+  },
+  {
+    "institution_id": "I2803004286",
+    "name": "Taipei Veterans General Hospital",
+    "country_code": "TW",
+    "ror": "https://ror.org/03ymy8z76"
+  },
+  {
+    "institution_id": "I4387156312",
+    "name": "National Yang Ming University",
+    "country_code": "TW",
+    "ror": "https://ror.org/009h5ks85"
+  },
+  {
+    "institution_id": "I4210160510",
+    "name": "Institut pour l'avanc\u00e9e des biosciences",
+    "country_code": "FR",
+    "ror": "https://ror.org/05kwbf598"
+  },
+  {
+    "institution_id": "I2800555055",
+    "name": "Centre Hospitalier Universitaire de Grenoble",
+    "country_code": "FR",
+    "ror": "https://ror.org/041rhpw39"
+  },
+  {
+    "institution_id": "I123338534",
+    "name": "Universit\u00e0 degli Studi del Piemonte Orientale \u201cAmedeo Avogadro\u201d",
+    "country_code": "IT",
+    "ror": "https://ror.org/04387x656"
+  },
+  {
+    "institution_id": "I2801748203",
+    "name": "Hammersmith Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/05jg8yp15"
+  },
+  {
+    "institution_id": "I919571938",
+    "name": "The University of Texas Health Science Center at Houston",
+    "country_code": "US",
+    "ror": "https://ror.org/03gds6c39"
+  },
+  {
+    "institution_id": "I216286881",
+    "name": "Botswana International University of Science and Technology",
+    "country_code": "BW",
+    "ror": "https://ror.org/04cr2sq58"
+  },
+  {
+    "institution_id": "I4210111500",
+    "name": "Fraunhofer Institute of Optronics, System Technologies and Image Exploitation",
+    "country_code": "DE",
+    "ror": "https://ror.org/01zx97922"
+  },
+  {
+    "institution_id": "I3018473509",
+    "name": "Fraunhofer Institute for Manufacturing Engineering and Automation",
+    "country_code": "DE",
+    "ror": "https://ror.org/01rvqha10"
+  },
+  {
+    "institution_id": "I33932797",
+    "name": "University of Gour Banga",
+    "country_code": "IN",
+    "ror": "https://ror.org/00pyh2y32"
+  },
+  {
+    "institution_id": "I22265921",
+    "name": "National Central University",
+    "country_code": "TW",
+    "ror": "https://ror.org/00944ve71"
+  },
+  {
+    "institution_id": "I2802567020",
+    "name": "Copenhagen University Hospital",
+    "country_code": "DK",
+    "ror": "https://ror.org/05bpbnx46"
+  },
+  {
+    "institution_id": "I2800288331",
+    "name": "Hospital Israelita Albert Einstein",
+    "country_code": "BR",
+    "ror": "https://ror.org/04cwrbc27"
+  },
+  {
+    "institution_id": "I4405269264",
+    "name": "Stanford Cardiovascular Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/03kk52s14"
+  },
+  {
+    "institution_id": "I174306211",
+    "name": "Technion \u2013 Israel Institute of Technology",
+    "country_code": "IL",
+    "ror": "https://ror.org/03qryx823"
+  },
+  {
+    "institution_id": "I107672454",
+    "name": "Dartmouth College",
+    "country_code": "US",
+    "ror": "https://ror.org/049s0rh22"
+  },
+  {
+    "institution_id": "I80543232",
+    "name": "K. N. Toosi University of Technology",
+    "country_code": "IR",
+    "ror": "https://ror.org/0433abe34"
+  },
+  {
+    "institution_id": "I84248293",
+    "name": "Babol Noshirvani University of Technology",
+    "country_code": "IR",
+    "ror": "https://ror.org/02zc85170"
+  },
+  {
+    "institution_id": "I4210087295",
+    "name": "Centre Tecnologic de Telecomunicacions de Catalunya",
+    "country_code": "ES",
+    "ror": "https://ror.org/001cwea56"
+  },
+  {
+    "institution_id": "I44461941",
+    "name": "University of Houston",
+    "country_code": "US",
+    "ror": "https://ror.org/048sx0r50"
+  },
+  {
+    "institution_id": "I9570713",
+    "name": "Tafresh University",
+    "country_code": "IR",
+    "ror": "https://ror.org/040f6ar92"
+  },
+  {
+    "institution_id": "I75027704",
+    "name": "University of Tennessee at Knoxville",
+    "country_code": "US",
+    "ror": "https://ror.org/020f3ap87"
+  },
+  {
+    "institution_id": "I140172145",
+    "name": "University of Connecticut",
+    "country_code": "US",
+    "ror": "https://ror.org/02der9h97"
+  },
+  {
+    "institution_id": "I4390039302",
+    "name": "Rutgers Health",
+    "country_code": "US",
+    "ror": "https://ror.org/029z02k15"
+  },
+  {
+    "institution_id": "I4405260184",
+    "name": "The Jackson Laboratory for Genomic Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/03cew3973"
+  },
+  {
+    "institution_id": "I4210123426",
+    "name": "Academic Bridge Program",
+    "country_code": "QA",
+    "ror": "https://ror.org/03062bd88"
+  },
+  {
+    "institution_id": "I92528248",
+    "name": "Qatar Foundation",
+    "country_code": "QA",
+    "ror": "https://ror.org/01cawbq05"
+  },
+  {
+    "institution_id": "I885383172",
+    "name": "National University of Malaysia",
+    "country_code": "MY",
+    "ror": "https://ror.org/00bw8d226"
+  },
+  {
+    "institution_id": "I90610274",
+    "name": "University of Engineering and Technology Peshawar",
+    "country_code": "PK",
+    "ror": "https://ror.org/00p034093"
+  },
+  {
+    "institution_id": "I115228651",
+    "name": "Agency for Science, Technology and Research",
+    "country_code": "SG",
+    "ror": "https://ror.org/036wvzt09"
+  },
+  {
+    "institution_id": "I3004594783",
+    "name": "Institute of High Performance Computing",
+    "country_code": "SG",
+    "ror": "https://ror.org/02n0ejh50"
+  },
+  {
+    "institution_id": "I4210116917",
+    "name": "Singapore Eye Research Institute",
+    "country_code": "SG",
+    "ror": "https://ror.org/02crz6e12"
+  },
+  {
+    "institution_id": "I1307195382",
+    "name": "St Bartholomew's Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/00nh9x179"
+  },
+  {
+    "institution_id": "I153648349",
+    "name": "University of Leicester",
+    "country_code": "GB",
+    "ror": "https://ror.org/04h699437"
+  },
+  {
+    "institution_id": "I225661044",
+    "name": "Barts Health NHS Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/00b31g692"
+  },
+  {
+    "institution_id": "I36162470",
+    "name": "University of Zakho",
+    "country_code": "IQ",
+    "ror": "https://ror.org/05sd1pz50"
+  },
+  {
+    "institution_id": "I4210149920",
+    "name": "William Harvey Research Institute",
+    "country_code": "GB",
+    "ror": "https://ror.org/0574dzy90"
+  },
+  {
+    "institution_id": "I119439378",
+    "name": "University of Verona",
+    "country_code": "IT",
+    "ror": "https://ror.org/039bp8j42"
+  },
+  {
+    "institution_id": "I4210142469",
+    "name": "Health Data Research UK",
+    "country_code": "GB",
+    "ror": "https://ror.org/04rtjaj74"
+  },
+  {
+    "institution_id": "I126520041",
+    "name": "University of Science and Technology of China",
+    "country_code": "CN",
+    "ror": "https://ror.org/04c4dkn09"
+  },
+  {
+    "institution_id": "I9842412",
+    "name": "Nanjing University of Aeronautics and Astronautics",
+    "country_code": "CN",
+    "ror": "https://ror.org/01scyh794"
+  },
+  {
+    "institution_id": "I24603500",
+    "name": "University of Massachusetts Amherst",
+    "country_code": "US",
+    "ror": "https://ror.org/0072zz521"
+  },
+  {
+    "institution_id": "I4210098248",
+    "name": "Fraunhofer Institute for Algorithms and Scientific Computing",
+    "country_code": "DE",
+    "ror": "https://ror.org/00trw9c49"
+  },
+  {
+    "institution_id": "I46305995",
+    "name": "Taiyuan University of Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/01wcbdc92"
+  },
+  {
+    "institution_id": "I176790772",
+    "name": "Murdoch University",
+    "country_code": "AU",
+    "ror": "https://ror.org/00r4sry34"
+  },
+  {
+    "institution_id": "I4210120293",
+    "name": "Max Planck Institute of Quantum Optics",
+    "country_code": "DE",
+    "ror": "https://ror.org/01vekys64"
+  },
+  {
+    "institution_id": "I4210142743",
+    "name": "Munich Center for Quantum Science and Technology",
+    "country_code": "DE",
+    "ror": "https://ror.org/04xrcta15"
+  },
+  {
+    "institution_id": "I2738703131",
+    "name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+    "country_code": "FR",
+    "ror": "https://ror.org/00jjx8s55"
+  },
+  {
+    "institution_id": "I4210099371",
+    "name": "Laboratoire Physiologie Cellulaire & V\u00e9g\u00e9tale",
+    "country_code": "FR",
+    "ror": "https://ror.org/00jxe7243"
+  },
+  {
+    "institution_id": "I4210123216",
+    "name": "Ru\u0111er Bo\u0161kovi\u0107 Institute",
+    "country_code": "HR",
+    "ror": "https://ror.org/02mw21745"
+  },
+  {
+    "institution_id": "I4210161592",
+    "name": "MRC London Institute of Medical Sciences",
+    "country_code": "GB",
+    "ror": "https://ror.org/05p1n6x86"
+  },
+  {
+    "institution_id": "I4390039303",
+    "name": "Stanford Cancer Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/014qe3j22"
+  },
+  {
+    "institution_id": "I4405258907",
+    "name": "BC Children's Hospital Research Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/01cvasn76"
+  },
+  {
+    "institution_id": "I1281400175",
+    "name": "Oslo University Hospital",
+    "country_code": "NO",
+    "ror": "https://ror.org/00j9c2840"
+  },
+  {
+    "institution_id": "I184531372",
+    "name": "OsloMet \u2013 Oslo Metropolitan University",
+    "country_code": "NO",
+    "ror": "https://ror.org/04q12yn84"
+  },
+  {
+    "institution_id": "I4210153474",
+    "name": "Simula Metropolitan Center for Digital Engineering",
+    "country_code": "NO",
+    "ror": "https://ror.org/04xtarr15"
+  },
+  {
+    "institution_id": "I4210093417",
+    "name": "Swedish Medical Center",
+    "country_code": "US",
+    "ror": "https://ror.org/004jktf35"
+  },
+  {
+    "institution_id": "I190249584",
+    "name": "Universit\u00e4t Innsbruck",
+    "country_code": "AT",
+    "ror": "https://ror.org/054pv6659"
+  },
+  {
+    "institution_id": "I180242103",
+    "name": "Stockholm School of Economics",
+    "country_code": "SE",
+    "ror": "https://ror.org/01s5jzh92"
+  },
+  {
+    "institution_id": "I193223587",
+    "name": "University of Trento",
+    "country_code": "IT",
+    "ror": "https://ror.org/05trd4x28"
+  },
+  {
+    "institution_id": "I4210130445",
+    "name": "Max Planck Institute for Human Cognitive and Brain Sciences",
+    "country_code": "DE",
+    "ror": "https://ror.org/0387jng26"
+  },
+  {
+    "institution_id": "I204465549",
+    "name": "Washington University in St. Louis",
+    "country_code": "US",
+    "ror": "https://ror.org/01yc7t268"
+  },
+  {
+    "institution_id": "I95674353",
+    "name": "UCLouvain",
+    "country_code": "BE",
+    "ror": "https://ror.org/02495e989"
+  },
+  {
+    "institution_id": "I4405258058",
+    "name": "Baycrest Academy for Research and Education",
+    "country_code": "CA",
+    "ror": "https://ror.org/001fxzj49"
+  },
+  {
+    "institution_id": "I4405263474",
+    "name": "Rotman Research Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/01kvpec59"
+  },
+  {
+    "institution_id": "I114090438",
+    "name": "Goethe University Frankfurt",
+    "country_code": "DE",
+    "ror": "https://ror.org/04cvxnb49"
+  },
+  {
+    "institution_id": "I887064364",
+    "name": "University of Amsterdam",
+    "country_code": "NL",
+    "ror": "https://ror.org/04dkp9463"
+  },
+  {
+    "institution_id": "I4210102764",
+    "name": "D\u2019Or Institute for Research and Education",
+    "country_code": "BR",
+    "ror": "https://ror.org/01mar7r17"
+  },
+  {
+    "institution_id": "I19700959",
+    "name": "Florida International University",
+    "country_code": "US",
+    "ror": "https://ror.org/02gz6gg07"
+  },
+  {
+    "institution_id": "I13469542",
+    "name": "Vrije Universiteit Brussel",
+    "country_code": "BE",
+    "ror": "https://ror.org/006e5kg04"
+  },
+  {
+    "institution_id": "I32597200",
+    "name": "Ghent University",
+    "country_code": "BE",
+    "ror": "https://ror.org/00cv9y106"
+  },
+  {
+    "institution_id": "I131651094",
+    "name": "University of Denver",
+    "country_code": "US",
+    "ror": "https://ror.org/04w7skc03"
+  },
+  {
+    "institution_id": "I171892758",
+    "name": "Forschungszentrum J\u00fclich",
+    "country_code": "DE",
+    "ror": "https://ror.org/02nv7yv05"
+  },
+  {
+    "institution_id": "I127077003",
+    "name": "IMT School for Advanced Studies Lucca",
+    "country_code": "IT",
+    "ror": "https://ror.org/035gh3a49"
+  },
+  {
+    "institution_id": "I4210158500",
+    "name": "National Institute of Mental Health",
+    "country_code": "US",
+    "ror": "https://ror.org/04xeg9z08"
+  },
+  {
+    "institution_id": "I2801360556",
+    "name": "CEA Paris-Saclay - Etablissement de Saclay",
+    "country_code": "FR",
+    "ror": "https://ror.org/01fv25t22"
+  },
+  {
+    "institution_id": "I4210128565",
+    "name": "CEA Paris-Saclay",
+    "country_code": "FR",
+    "ror": "https://ror.org/03n15ch10"
+  },
+  {
+    "institution_id": "I3018483916",
+    "name": "University Medical Center Utrecht",
+    "country_code": "NL",
+    "ror": "https://ror.org/0575yy874"
+  },
+  {
+    "institution_id": "I84392919",
+    "name": "Temple University",
+    "country_code": "US",
+    "ror": "https://ror.org/00kx1jb78"
+  },
+  {
+    "institution_id": "I1338135719",
+    "name": "Centre for Addiction and Mental Health",
+    "country_code": "CA",
+    "ror": "https://ror.org/03e71c577"
+  },
+  {
+    "institution_id": "I4405280014",
+    "name": "Campbell Family Mental Health Research Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/02ab2j218"
+  },
+  {
+    "institution_id": "I250153783",
+    "name": "Kessler Foundation",
+    "country_code": "US",
+    "ror": "https://ror.org/05hacyq28"
+  },
+  {
+    "institution_id": "I4210158385",
+    "name": "Taipei Medical University-Shuang Ho Hospital",
+    "country_code": "TW",
+    "ror": "https://ror.org/04k9dce70"
+  },
+  {
+    "institution_id": "I47519274",
+    "name": "Taipei Medical University",
+    "country_code": "TW",
+    "ror": "https://ror.org/05031qk94"
+  },
+  {
+    "institution_id": "I134820265",
+    "name": "Consejo Superior de Investigaciones Cient\u00edficas",
+    "country_code": "ES",
+    "ror": "https://ror.org/02gfc7t72"
+  },
+  {
+    "institution_id": "I4210087099",
+    "name": "Instituto de Neurociencias",
+    "country_code": "ES",
+    "ror": "https://ror.org/000nhpy59"
+  },
+  {
+    "institution_id": "I1850255",
+    "name": "University of Basel",
+    "country_code": "CH",
+    "ror": "https://ror.org/02s6k3f65"
+  },
+  {
+    "institution_id": "I169521973",
+    "name": "University of New Mexico",
+    "country_code": "US",
+    "ror": "https://ror.org/05fs6jp91"
+  },
+  {
+    "institution_id": "I55712492",
+    "name": "Zhejiang University of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/02djqfd08"
+  },
+  {
+    "institution_id": "I60158472",
+    "name": "Concordia University",
+    "country_code": "CA",
+    "ror": "https://ror.org/0420zvk78"
+  },
+  {
+    "institution_id": "I2800006345",
+    "name": "Leiden University Medical Center",
+    "country_code": "NL",
+    "ror": "https://ror.org/05xvt9f17"
+  },
+  {
+    "institution_id": "I4405269186",
+    "name": "Connecticut Institute for the Brain and Cognitive Sciences",
+    "country_code": "US",
+    "ror": "https://ror.org/03bnah904"
+  },
+  {
+    "institution_id": "I63525965",
+    "name": "Western Sydney University",
+    "country_code": "AU",
+    "ror": "https://ror.org/03t52dk35"
+  },
+  {
+    "institution_id": "I1292859797",
+    "name": "Montreal Neurological Institute and Hospital",
+    "country_code": "CA",
+    "ror": "https://ror.org/05ghs6f64"
+  },
+  {
+    "institution_id": "I4210132398",
+    "name": "Kempenhaeghe",
+    "country_code": "NL",
+    "ror": "https://ror.org/03bbe8e53"
+  },
+  {
+    "institution_id": "I83019370",
+    "name": "Eindhoven University of Technology",
+    "country_code": "NL",
+    "ror": "https://ror.org/02c2kyt77"
+  },
+  {
+    "institution_id": "I4210093049",
+    "name": "Leibniz Institute for Resilience Research",
+    "country_code": "DE",
+    "ror": "https://ror.org/00q5t0010"
+  },
+  {
+    "institution_id": "I4210086768",
+    "name": "Max Planck Institute for Empirical Aesthetics",
+    "country_code": "DE",
+    "ror": "https://ror.org/000rdbk18"
+  },
+  {
+    "institution_id": "I114395901",
+    "name": "University of Nebraska\u2013Lincoln",
+    "country_code": "US",
+    "ror": "https://ror.org/043mer456"
+  },
+  {
+    "institution_id": "I4210089003",
+    "name": "Max Planck Institute for Psycholinguistics",
+    "country_code": "NL",
+    "ror": "https://ror.org/00671me87"
+  },
+  {
+    "institution_id": "I165779595",
+    "name": "The University of Melbourne",
+    "country_code": "AU",
+    "ror": "https://ror.org/01ej9dk98"
+  },
+  {
+    "institution_id": "I71270174",
+    "name": "Victoria University",
+    "country_code": "AU",
+    "ror": "https://ror.org/04j757h98"
+  },
+  {
+    "institution_id": "I4210155268",
+    "name": "Salesforce (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/057315g56"
+  },
+  {
+    "institution_id": "I37987034",
+    "name": "Guangzhou University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05ar8rn06"
+  },
+  {
+    "institution_id": "I4210156221",
+    "name": "Allen Institute for Artificial Intelligence",
+    "country_code": "US",
+    "ror": "https://ror.org/05w520734"
+  },
+  {
+    "institution_id": "I142606810",
+    "name": "Pacific Northwest National Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/05h992307"
+  },
+  {
+    "institution_id": "I68522396",
+    "name": "Flemish Institute for Technological Research",
+    "country_code": "BE",
+    "ror": "https://ror.org/04gq0w522"
+  },
+  {
+    "institution_id": "I177969490",
+    "name": "University of Southern Denmark",
+    "country_code": "DK",
+    "ror": "https://ror.org/03yrrjy16"
+  },
+  {
+    "institution_id": "I219193219",
+    "name": "Purdue University West Lafayette",
+    "country_code": "US",
+    "ror": "https://ror.org/02dqehb95"
+  },
+  {
+    "institution_id": "I110757952",
+    "name": "Slovak University of Technology in Bratislava",
+    "country_code": "SK",
+    "ror": "https://ror.org/0561ghm58"
+  },
+  {
+    "institution_id": "I4210144844",
+    "name": "Laboratoire d\u2019Analyse et de Math\u00e9matiques Appliqu\u00e9es",
+    "country_code": "FR",
+    "ror": "https://ror.org/0581g8849"
+  },
+  {
+    "institution_id": "I4210154111",
+    "name": "Universit\u00e9 Gustave Eiffel",
+    "country_code": "FR",
+    "ror": "https://ror.org/03x42jk29"
+  },
+  {
+    "institution_id": "I72951846",
+    "name": "Washington State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05dk0ce17"
+  },
+  {
+    "institution_id": "I108907416",
+    "name": "Latakia University",
+    "country_code": "SY",
+    "ror": "https://ror.org/04nqts970"
+  },
+  {
+    "institution_id": "I4210095996",
+    "name": "IBM (Germany)",
+    "country_code": "DE",
+    "ror": "https://ror.org/00pm7rm97"
+  },
+  {
+    "institution_id": "I4210150097",
+    "name": "Xanadu Quantum Technologies (Canada)",
+    "country_code": "CA",
+    "ror": "https://ror.org/05qj0n416"
+  },
+  {
+    "institution_id": "I75951250",
+    "name": "Freie Universit\u00e4t Berlin",
+    "country_code": "DE",
+    "ror": "https://ror.org/046ak2485"
+  },
+  {
+    "institution_id": "I92403157",
+    "name": "University of Science and Technology Beijing",
+    "country_code": "CN",
+    "ror": "https://ror.org/02egmk993"
+  },
+  {
+    "institution_id": "I196679689",
+    "name": "Joint Genome Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/04xm1d337"
+  },
+  {
+    "institution_id": "I1343871089",
+    "name": "Los Alamos National Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/01e41cf67"
+  },
+  {
+    "institution_id": "I129774422",
+    "name": "University of Vienna",
+    "country_code": "AT",
+    "ror": "https://ror.org/03prydq77"
+  },
+  {
+    "institution_id": "I176601375",
+    "name": "Khalifa University of Science and Technology",
+    "country_code": "AE",
+    "ror": "https://ror.org/05hffr360"
+  },
+  {
+    "institution_id": "I199440890",
+    "name": "American University of Sharjah",
+    "country_code": "AE",
+    "ror": "https://ror.org/001g2fj96"
+  },
+  {
+    "institution_id": "I29891158",
+    "name": "University of Sharjah",
+    "country_code": "AE",
+    "ror": "https://ror.org/00engpz63"
+  },
+  {
+    "institution_id": "I100930933",
+    "name": "University College Dublin",
+    "country_code": "IE",
+    "ror": "https://ror.org/05m7pjf47"
+  },
+  {
+    "institution_id": "I122266389",
+    "name": "University of Nebraska at Omaha",
+    "country_code": "US",
+    "ror": "https://ror.org/04yrkc140"
+  },
+  {
+    "institution_id": "I121797337",
+    "name": "Leiden University",
+    "country_code": "NL",
+    "ror": "https://ror.org/027bh9e22"
+  },
+  {
+    "institution_id": "I206509152",
+    "name": "Cape Coast Technical University",
+    "country_code": "GH",
+    "ror": "https://ror.org/002mzw222"
+  },
+  {
+    "institution_id": "I27031042",
+    "name": "University of Mines and Technology",
+    "country_code": "GH",
+    "ror": "https://ror.org/00br9cf93"
+  },
+  {
+    "institution_id": "I4405256866",
+    "name": "ByteDance (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/04m8av638"
+  },
+  {
+    "institution_id": "I4210111288",
+    "name": "Meta (United Kingdom)",
+    "country_code": "GB",
+    "ror": "https://ror.org/020ye1821"
+  },
+  {
+    "institution_id": "I135598925",
+    "name": "Kyushu University",
+    "country_code": "JP",
+    "ror": "https://ror.org/00p4k0j84"
+  },
+  {
+    "institution_id": "I87216513",
+    "name": "Michigan State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05hs6h993"
+  },
+  {
+    "institution_id": "I82880672",
+    "name": "Beihang University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00wk2mp56"
+  },
+  {
+    "institution_id": "I99043593",
+    "name": "Macquarie University",
+    "country_code": "AU",
+    "ror": "https://ror.org/01sf06y89"
+  },
+  {
+    "institution_id": "I4210128045",
+    "name": "Abai Kazakh National Pedagogical University",
+    "country_code": "KZ",
+    "ror": "https://ror.org/02bvvhn54"
+  },
+  {
+    "institution_id": "I4210114974",
+    "name": "IMEC",
+    "country_code": "BE",
+    "ror": "https://ror.org/02kcbn207"
+  },
+  {
+    "institution_id": "I42934936",
+    "name": "Dublin City University",
+    "country_code": "IE",
+    "ror": "https://ror.org/04a1a1e81"
+  },
+  {
+    "institution_id": "I4405269194",
+    "name": "Insight SFI Research Centre for Data Analytics",
+    "country_code": "IE",
+    "ror": "https://ror.org/03c01dw55"
+  },
+  {
+    "institution_id": "I283854653",
+    "name": "Machine Intelligence Research Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/01h4ass90"
+  },
+  {
+    "institution_id": "I79891267",
+    "name": "Singapore Management University",
+    "country_code": "SG",
+    "ror": "https://ror.org/050qmg959"
+  },
+  {
+    "institution_id": "I4405272793",
+    "name": "Behbahan Khatam Alanbia University of Technology",
+    "country_code": "IR",
+    "ror": "https://ror.org/04qkytk14"
+  },
+  {
+    "institution_id": "I23946033",
+    "name": "University of Tehran",
+    "country_code": "IR",
+    "ror": "https://ror.org/05vf56z40"
+  },
+  {
+    "institution_id": "I57328836",
+    "name": "North Dakota State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05h1bnb22"
+  },
+  {
+    "institution_id": "I4210144576",
+    "name": "Fraunhofer Institute for Intelligent Analysis and Information Systems",
+    "country_code": "DE",
+    "ror": "https://ror.org/04nc32781"
+  },
+  {
+    "institution_id": "I3019415892",
+    "name": "Fraunhofer Institute for Industrial Mathematics",
+    "country_code": "DE",
+    "ror": "https://ror.org/019hjw009"
+  },
+  {
+    "institution_id": "I66867065",
+    "name": "East China Normal University",
+    "country_code": "CN",
+    "ror": "https://ror.org/02n96ep67"
+  },
+  {
+    "institution_id": "I143923087",
+    "name": "Sultan Idris Education University",
+    "country_code": "MY",
+    "ror": "https://ror.org/005bjd415"
+  },
+  {
+    "institution_id": "I50357001",
+    "name": "Universidad Carlos III de Madrid",
+    "country_code": "ES",
+    "ror": "https://ror.org/03ths8210"
+  },
+  {
+    "institution_id": "I135120706",
+    "name": "University of Baghdad",
+    "country_code": "IQ",
+    "ror": "https://ror.org/007f1da21"
+  },
+  {
+    "institution_id": "I4210100492",
+    "name": "Valahia University of Targoviste",
+    "country_code": "RO",
+    "ror": "https://ror.org/00ywqar95"
+  },
+  {
+    "institution_id": "I180825142",
+    "name": "City, University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/04489at23"
+  },
+  {
+    "institution_id": "I4401726869",
+    "name": "City St George's, University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/047ybhc09"
+  },
+  {
+    "institution_id": "I130442723",
+    "name": "Universidade Federal do Rio Grande do Sul",
+    "country_code": "BR",
+    "ror": "https://ror.org/041yk2d64"
+  },
+  {
+    "institution_id": "I79272384",
+    "name": "University of Maryland, Baltimore County",
+    "country_code": "US",
+    "ror": "https://ror.org/02qskvh78"
+  },
+  {
+    "institution_id": "I51622183",
+    "name": "Shaanxi University of Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/034t3zs45"
+  },
+  {
+    "institution_id": "I4210121771",
+    "name": "First Affiliated Hospital of Xi'an Jiaotong University",
+    "country_code": "CN",
+    "ror": "https://ror.org/02tbvhh96"
+  },
+  {
+    "institution_id": "I4210163928",
+    "name": "First Hospital of Xi'an",
+    "country_code": "CN",
+    "ror": "https://ror.org/05hg8d082"
+  },
+  {
+    "institution_id": "I3133134087",
+    "name": "Lanzhou Jiaotong University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03144pv92"
+  },
+  {
+    "institution_id": "I36515993",
+    "name": "Eastern Mediterranean University",
+    "country_code": "CY",
+    "ror": "https://ror.org/00excyz84"
+  },
+  {
+    "institution_id": "I4210092408",
+    "name": "Toulouse School of Economics",
+    "country_code": "FR",
+    "ror": "https://ror.org/00ff5f522"
+  },
+  {
+    "institution_id": "I4210140326",
+    "name": "Centre for Economic Policy Research",
+    "country_code": "GB",
+    "ror": "https://ror.org/04jzmdh37"
+  },
+  {
+    "institution_id": "I4210123059",
+    "name": "St George Hospital",
+    "country_code": "AU",
+    "ror": "https://ror.org/02pk13h45"
+  },
+  {
+    "institution_id": "I4405270359",
+    "name": "NSW Health Pathology",
+    "country_code": "AU",
+    "ror": "https://ror.org/00hwmnh71"
+  },
+  {
+    "institution_id": "I4210114444",
+    "name": "Meta (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/01zbnvs85"
+  },
+  {
+    "institution_id": "I4210151627",
+    "name": "National Energy Research Scientific Computing Center",
+    "country_code": "US",
+    "ror": "https://ror.org/05v3mvq14"
+  },
+  {
+    "institution_id": "I158716096",
+    "name": "University of Peloponnese",
+    "country_code": "GR",
+    "ror": "https://ror.org/04d4d3c02"
+  },
+  {
+    "institution_id": "I4405263052",
+    "name": "Tsinghua Shenzhen International Graduate School",
+    "country_code": "CN",
+    "ror": "https://ror.org/01vceef04"
+  },
+  {
+    "institution_id": "I4210114115",
+    "name": "IBM Research - Thomas J. Watson Research Center",
+    "country_code": "US",
+    "ror": "https://ror.org/0265w5591"
+  },
+  {
+    "institution_id": "I102149020",
+    "name": "University of North Carolina at Charlotte",
+    "country_code": "US",
+    "ror": "https://ror.org/04dawnj30"
+  },
+  {
+    "institution_id": "I127591826",
+    "name": "University of Dayton",
+    "country_code": "US",
+    "ror": "https://ror.org/021v3qy27"
+  },
+  {
+    "institution_id": "I162577319",
+    "name": "The University of Texas at Dallas",
+    "country_code": "US",
+    "ror": "https://ror.org/049emcs32"
+  },
+  {
+    "institution_id": "I9694494",
+    "name": "Parul University",
+    "country_code": "IN",
+    "ror": "https://ror.org/024v3fg07"
+  },
+  {
+    "institution_id": "I4387154200",
+    "name": "Sankalchand Patel University",
+    "country_code": "IN",
+    "ror": "https://ror.org/037y7xs42"
+  },
+  {
+    "institution_id": "I113940042",
+    "name": "Shanghai University",
+    "country_code": "CN",
+    "ror": "https://ror.org/006teas31"
+  },
+  {
+    "institution_id": "I4210128818",
+    "name": "Institute of Software",
+    "country_code": "CN",
+    "ror": "https://ror.org/033dfsn42"
+  },
+  {
+    "institution_id": "I192455969",
+    "name": "York University",
+    "country_code": "CA",
+    "ror": "https://ror.org/05fq50484"
+  },
+  {
+    "institution_id": "I125133608",
+    "name": "Royal Bank of Canada",
+    "country_code": "CA",
+    "ror": "https://ror.org/03hgnwx26"
+  },
+  {
+    "institution_id": "I4210116741",
+    "name": "Innopolis University",
+    "country_code": "RU",
+    "ror": "https://ror.org/02b7jh107"
+  },
+  {
+    "institution_id": "I929597975",
+    "name": "National University of Sciences and Technology",
+    "country_code": "PK",
+    "ror": "https://ror.org/03w2j5y17"
+  },
+  {
+    "institution_id": "I46247651",
+    "name": "University of Manitoba",
+    "country_code": "CA",
+    "ror": "https://ror.org/02gfys938"
+  },
+  {
+    "institution_id": "I4210117195",
+    "name": "HUN-REN Institute for Computer Science and Control",
+    "country_code": "HU",
+    "ror": "https://ror.org/0249v7n71"
+  },
+  {
+    "institution_id": "I4405253225",
+    "name": "Mitsubishi Electric Research Laboratories (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/00e2e3n51"
+  },
+  {
+    "institution_id": "I17145004",
+    "name": "Northwestern Polytechnical University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01y0j0j86"
+  },
+  {
+    "institution_id": "I4210117513",
+    "name": "10X Genomics (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/01sxvbm95"
+  },
+  {
+    "institution_id": "I125839683",
+    "name": "Beijing Institute of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/01skt4w74"
+  },
+  {
+    "institution_id": "I84218800",
+    "name": "University of California, Davis",
+    "country_code": "US",
+    "ror": "https://ror.org/05rrcem69"
+  },
+  {
+    "institution_id": "I121883995",
+    "name": "Johannes Kepler University of Linz",
+    "country_code": "AT",
+    "ror": "https://ror.org/052r2xn60"
+  },
+  {
+    "institution_id": "I4210136804",
+    "name": "Natel Energy (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/03r5tj610"
+  },
+  {
+    "institution_id": "I1306266525",
+    "name": "Goddard Space Flight Center",
+    "country_code": "US",
+    "ror": "https://ror.org/0171mag52"
+  },
+  {
+    "institution_id": "I13134134",
+    "name": "Universidad de Cantabria",
+    "country_code": "ES",
+    "ror": "https://ror.org/046ffzj20"
+  },
+  {
+    "institution_id": "I4405259921",
+    "name": "IHCantabria - Instituto de Hidr\u00e1ulica Ambiental de la Universidad de Cantabria",
+    "country_code": "ES",
+    "ror": "https://ror.org/02y384f44"
+  },
+  {
+    "institution_id": "I138006243",
+    "name": "University of Arizona",
+    "country_code": "US",
+    "ror": "https://ror.org/03m2x1q45"
+  },
+  {
+    "institution_id": "I891191580",
+    "name": "Aalborg University",
+    "country_code": "DK",
+    "ror": "https://ror.org/04m5j1k67"
+  },
+  {
+    "institution_id": "I163340411",
+    "name": "Hohai University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01wd4xt90"
+  },
+  {
+    "institution_id": "I167027274",
+    "name": "Nanjing Forestry University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03m96p165"
+  },
+  {
+    "institution_id": "I4210114891",
+    "name": "Institute of Forest Resource Information Techniques",
+    "country_code": "CN",
+    "ror": "https://ror.org/01h5d6x15"
+  },
+  {
+    "institution_id": "I4210128615",
+    "name": "Chinese Academy of Forestry",
+    "country_code": "CN",
+    "ror": "https://ror.org/0360dkv71"
+  },
+  {
+    "institution_id": "I12615008",
+    "name": "Beijing Normal-Hong Kong Baptist University",
+    "country_code": "CN",
+    "ror": "https://ror.org/04snvc712"
+  },
+  {
+    "institution_id": "I25254941",
+    "name": "Beijing Normal University",
+    "country_code": "CN",
+    "ror": "https://ror.org/022k4wk35"
+  },
+  {
+    "institution_id": "I4405280756",
+    "name": "Beijing Normal University, Zhuhai",
+    "country_code": "CN",
+    "ror": "https://ror.org/03czfbj71"
+  },
+  {
+    "institution_id": "I14243506",
+    "name": "Hong Kong Polytechnic University",
+    "country_code": "HK",
+    "ror": "https://ror.org/0030zas98"
+  },
+  {
+    "institution_id": "I107766831",
+    "name": "NSF National Center for Atmospheric Research",
+    "country_code": "US",
+    "ror": "https://ror.org/05cvfcr44"
+  },
+  {
+    "institution_id": "I4210122344",
+    "name": "US Climate Variability and Predictability Program",
+    "country_code": "US",
+    "ror": "https://ror.org/01z1bz177"
+  },
+  {
+    "institution_id": "I4210104335",
+    "name": "Institute for Basic Science",
+    "country_code": "KR",
+    "ror": "https://ror.org/00y0zf565"
+  },
+  {
+    "institution_id": "I4387152864",
+    "name": "IBS Center for Climate Physics",
+    "country_code": "KR",
+    "ror": "https://ror.org/05ds44a85"
+  },
+  {
+    "institution_id": "I4921948",
+    "name": "Pusan National University",
+    "country_code": "KR",
+    "ror": "https://ror.org/01an57a31"
+  },
+  {
+    "institution_id": "I191217947",
+    "name": "NOAA Geophysical Fluid Dynamics Laboratory",
+    "country_code": "US",
+    "ror": "https://ror.org/03vmn1898"
+  },
+  {
+    "institution_id": "I4403386791",
+    "name": "University of Texas Institute for Geophysics",
+    "country_code": "US",
+    "ror": "https://ror.org/00fj73d18"
+  },
+  {
+    "institution_id": "I152304114",
+    "name": "Lamont-Doherty Earth Observatory",
+    "country_code": "US",
+    "ror": "https://ror.org/02e2tgs60"
+  },
+  {
+    "institution_id": "I39804081",
+    "name": "Sorbonne Universit\u00e9",
+    "country_code": "FR",
+    "ror": "https://ror.org/02en5vm52"
+  },
+  {
+    "institution_id": "I1342547582",
+    "name": "Environment and Climate Change Canada",
+    "country_code": "CA",
+    "ror": "https://ror.org/026ny0e17"
+  },
+  {
+    "institution_id": "I212119943",
+    "name": "University of Victoria",
+    "country_code": "CA",
+    "ror": "https://ror.org/04s5mat29"
+  },
+  {
+    "institution_id": "I161675122",
+    "name": "Cooperative Institute for Research in Environmental Sciences",
+    "country_code": "US",
+    "ror": "https://ror.org/00bdqav06"
+  },
+  {
+    "institution_id": "I4405257520",
+    "name": "Institute for Atmospheric and Climate Science",
+    "country_code": "CH",
+    "ror": "https://ror.org/05bzz1e33"
+  },
+  {
+    "institution_id": "I182286215",
+    "name": "Institute of Arctic and Alpine Research",
+    "country_code": "US",
+    "ror": "https://ror.org/00924z688"
+  },
+  {
+    "institution_id": "I4210163131",
+    "name": "Max Planck Institute for Meteorology",
+    "country_code": "DE",
+    "ror": "https://ror.org/05esem239"
+  },
+  {
+    "institution_id": "I205349734",
+    "name": "Hokkaido University",
+    "country_code": "JP",
+    "ror": "https://ror.org/02e16g702"
+  },
+  {
+    "institution_id": "I3129773123",
+    "name": "Bennett University",
+    "country_code": "IN",
+    "ror": "https://ror.org/00an5hx75"
+  },
+  {
+    "institution_id": "I4401726783",
+    "name": "VIT-AP University",
+    "country_code": "IN",
+    "ror": "https://ror.org/007v4hf75"
+  },
+  {
+    "institution_id": "I876193797",
+    "name": "Vellore Institute of Technology University",
+    "country_code": "IN",
+    "ror": "https://ror.org/00qzypv28"
+  },
+  {
+    "institution_id": "I48890080",
+    "name": "Brandon University",
+    "country_code": "CA",
+    "ror": "https://ror.org/02qp25a50"
+  },
+  {
+    "institution_id": "I110360157",
+    "name": "Lovely Professional University",
+    "country_code": "IN",
+    "ror": "https://ror.org/00et6q107"
+  },
+  {
+    "institution_id": "I74319210",
+    "name": "Chitkara University",
+    "country_code": "IN",
+    "ror": "https://ror.org/057d6z539"
+  },
+  {
+    "institution_id": "I4405271667",
+    "name": "Beijing National Research Center for Information Science and Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/02tcm9e24"
+  },
+  {
+    "institution_id": "I173759888",
+    "name": "Hunan Normal University",
+    "country_code": "CN",
+    "ror": "https://ror.org/053w1zy07"
+  },
+  {
+    "institution_id": "I36819085",
+    "name": "Northwest University",
+    "country_code": "US",
+    "ror": "https://ror.org/00y7snj24"
+  },
+  {
+    "institution_id": "I2799853436",
+    "name": "Johns Hopkins Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/037zgn354"
+  },
+  {
+    "institution_id": "I4210150714",
+    "name": "Johns Hopkins Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/05cb1k848"
+  },
+  {
+    "institution_id": "I4210126298",
+    "name": "Duke Medical Center",
+    "country_code": "US",
+    "ror": "https://ror.org/03njmea73"
+  },
+  {
+    "institution_id": "I154986956",
+    "name": "European Centre for Medium-Range Weather Forecasts",
+    "country_code": "GB",
+    "ror": "https://ror.org/014w0fd65"
+  },
+  {
+    "institution_id": "I4405277658",
+    "name": "Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly",
+    "country_code": "SG",
+    "ror": "https://ror.org/03gjns624"
+  },
+  {
+    "institution_id": "I98251732",
+    "name": "McMaster University",
+    "country_code": "CA",
+    "ror": "https://ror.org/02fa3aq29"
+  },
+  {
+    "institution_id": "I183934855",
+    "name": "Genentech",
+    "country_code": "US",
+    "ror": "https://ror.org/04gndp242"
+  },
+  {
+    "institution_id": "I4210113435",
+    "name": "Roche (Italy)",
+    "country_code": "IT",
+    "ror": "https://ror.org/01x544h30"
+  },
+  {
+    "institution_id": "I12912129",
+    "name": "Northeastern University",
+    "country_code": "US",
+    "ror": "https://ror.org/04t5xt781"
+  },
+  {
+    "institution_id": "I4405261603",
+    "name": "N\u00eemes Universit\u00e9",
+    "country_code": "FR",
+    "ror": "https://ror.org/05jhv1f87"
+  },
+  {
+    "institution_id": "I66456633",
+    "name": "Universit\u00e9 de N\u00eemes",
+    "country_code": "FR",
+    "ror": "https://ror.org/044t4x544"
+  },
+  {
+    "institution_id": "I112859197",
+    "name": "Universit\u00e0 di Camerino",
+    "country_code": "IT",
+    "ror": "https://ror.org/0005w8d69"
+  },
+  {
+    "institution_id": "I4210110792",
+    "name": "CRAN",
+    "country_code": "FR",
+    "ror": "https://ror.org/022r5hc56"
+  },
+  {
+    "institution_id": "I90183372",
+    "name": "Universit\u00e9 de Lorraine",
+    "country_code": "FR",
+    "ror": "https://ror.org/04vfs2w97"
+  },
+  {
+    "institution_id": "I60053951",
+    "name": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+    "country_code": "ES",
+    "ror": "https://ror.org/01460j859"
+  },
+  {
+    "institution_id": "I66083562",
+    "name": "Systems Research Institute",
+    "country_code": "PL",
+    "ror": "https://ror.org/0111cp837"
+  },
+  {
+    "institution_id": "I155173764",
+    "name": "Rochester Institute of Technology",
+    "country_code": "US",
+    "ror": "https://ror.org/00v4yb702"
+  },
+  {
+    "institution_id": "I111950717",
+    "name": "Macau University of Science and Technology",
+    "country_code": "MO",
+    "ror": "https://ror.org/03jqs2n27"
+  },
+  {
+    "institution_id": "I193073490",
+    "name": "Siksha O Anusandhan University",
+    "country_code": "IN",
+    "ror": "https://ror.org/056ep7w45"
+  },
+  {
+    "institution_id": "I4210097354",
+    "name": "Sun Yat-sen Memorial Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/01px77p81"
+  },
+  {
+    "institution_id": "I24185976",
+    "name": "Sichuan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/011ashp19"
+  },
+  {
+    "institution_id": "I2800091995",
+    "name": "West China Medical Center of Sichuan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/040nggs60"
+  },
+  {
+    "institution_id": "I4210089761",
+    "name": "West China Hospital of Sichuan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/007mrxy13"
+  },
+  {
+    "institution_id": "I4210107668",
+    "name": "Guangzhou Regenerative Medicine and Health Guangdong Laboratory",
+    "country_code": "CN",
+    "ror": "https://ror.org/01n179w26"
+  },
+  {
+    "institution_id": "I161350542",
+    "name": "China Three Gorges University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0419nfc77"
+  },
+  {
+    "institution_id": "I4210136596",
+    "name": "First Affiliated Hospital of Anhui Medical University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03t1yn780"
+  },
+  {
+    "institution_id": "I4210140357",
+    "name": "Renmin Hospital of Wuhan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03ekhbz91"
+  },
+  {
+    "institution_id": "I4210098361",
+    "name": "First Affiliated Hospital of Guangzhou Medical University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00z0j0d77"
+  },
+  {
+    "institution_id": "I4210154954",
+    "name": "State Key Laboratory of Respiratory Disease",
+    "country_code": "CN",
+    "ror": "https://ror.org/04hja5e04"
+  },
+  {
+    "institution_id": "I4210146956",
+    "name": "Third Affiliated Hospital of Sun Yat-sen University",
+    "country_code": "CN",
+    "ror": "https://ror.org/04tm3k558"
+  },
+  {
+    "institution_id": "I79817857",
+    "name": "University of Guelph",
+    "country_code": "CA",
+    "ror": "https://ror.org/01r7awg59"
+  },
+  {
+    "institution_id": "I17974374",
+    "name": "Universidade de S\u00e3o Paulo",
+    "country_code": "BR",
+    "ror": "https://ror.org/036rp1748"
+  },
+  {
+    "institution_id": "I31575130",
+    "name": "SOAS University of London",
+    "country_code": "GB",
+    "ror": "https://ror.org/04vrxay34"
+  },
+  {
+    "institution_id": "I154130895",
+    "name": "University of Auckland",
+    "country_code": "NZ",
+    "ror": "https://ror.org/03b94tp07"
+  },
+  {
+    "institution_id": "I3129379329",
+    "name": "Sokoto State University",
+    "country_code": "NG",
+    "ror": "https://ror.org/00zgr4s34"
+  },
+  {
+    "institution_id": "I157386601",
+    "name": "North South University",
+    "country_code": "BD",
+    "ror": "https://ror.org/05wdbfp45"
+  },
+  {
+    "institution_id": "I178450904",
+    "name": "Universidad Nacional de Educaci\u00f3n a Distancia",
+    "country_code": "ES",
+    "ror": "https://ror.org/02msb5n36"
+  },
+  {
+    "institution_id": "I2801316944",
+    "name": "Cancer Research UK",
+    "country_code": "GB",
+    "ror": "https://ror.org/054225q67"
+  },
+  {
+    "institution_id": "I131729948",
+    "name": "University of Salerno",
+    "country_code": "IT",
+    "ror": "https://ror.org/0192m2k53"
+  },
+  {
+    "institution_id": "I182534213",
+    "name": "Universidade do Porto",
+    "country_code": "PT",
+    "ror": "https://ror.org/043pwc612"
+  },
+  {
+    "institution_id": "I51601045",
+    "name": "University of Bath",
+    "country_code": "GB",
+    "ror": "https://ror.org/002h8g185"
+  },
+  {
+    "institution_id": "I18014758",
+    "name": "Simon Fraser University",
+    "country_code": "CA",
+    "ror": "https://ror.org/0213rcc28"
+  },
+  {
+    "institution_id": "I149672521",
+    "name": "Federation University",
+    "country_code": "AU",
+    "ror": "https://ror.org/05qbzwv83"
+  },
+  {
+    "institution_id": "I4405286315",
+    "name": "Fukushima Renewable Energy Institute, AIST",
+    "country_code": "JP",
+    "ror": "https://ror.org/01sfpkt42"
+  },
+  {
+    "institution_id": "I73613424",
+    "name": "National Institute of Advanced Industrial Science and Technology",
+    "country_code": "JP",
+    "ror": "https://ror.org/01703db54"
+  },
+  {
+    "institution_id": "I79156528",
+    "name": "Universiti Tenaga Nasional",
+    "country_code": "MY",
+    "ror": "https://ror.org/03kxdn807"
+  },
+  {
+    "institution_id": "I209803261",
+    "name": "University of Nizwa",
+    "country_code": "OM",
+    "ror": "https://ror.org/01pxe3r04"
+  },
+  {
+    "institution_id": "I39555362",
+    "name": "University of Warwick",
+    "country_code": "GB",
+    "ror": "https://ror.org/01a77tt86"
+  },
+  {
+    "institution_id": "I158842170",
+    "name": "Chongqing University",
+    "country_code": "CN",
+    "ror": "https://ror.org/023rhb549"
+  },
+  {
+    "institution_id": "I205237279",
+    "name": "Nankai University",
+    "country_code": "CN",
+    "ror": "https://ror.org/01y1kjr75"
+  },
+  {
+    "institution_id": "I145894827",
+    "name": "Indian Institute of Technology Kharagpur",
+    "country_code": "IN",
+    "ror": "https://ror.org/03w5sq511"
+  },
+  {
+    "institution_id": "I149919469",
+    "name": "California Polytechnic State University",
+    "country_code": "US",
+    "ror": "https://ror.org/001gpfp45"
+  },
+  {
+    "institution_id": "I1316064682",
+    "name": "LinkedIn (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/02fyxhe35"
+  },
+  {
+    "institution_id": "I1317621060",
+    "name": "Indian Institute of Technology Guwahati",
+    "country_code": "IN",
+    "ror": "https://ror.org/0022nd079"
+  },
+  {
+    "institution_id": "I196934937",
+    "name": "Liaocheng University",
+    "country_code": "CN",
+    "ror": "https://ror.org/03yh0n709"
+  },
+  {
+    "institution_id": "I183638586",
+    "name": "Parthenope University of Naples",
+    "country_code": "IT",
+    "ror": "https://ror.org/05pcv4v03"
+  },
+  {
+    "institution_id": "I143302722",
+    "name": "University of Kentucky",
+    "country_code": "US",
+    "ror": "https://ror.org/02k3smh20"
+  },
+  {
+    "institution_id": "I184999862",
+    "name": "Universidad de Salamanca",
+    "country_code": "ES",
+    "ror": "https://ror.org/02f40zc51"
+  },
+  {
+    "institution_id": "I4405270328",
+    "name": "Ant Group (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/00g5w7n47"
+  },
+  {
+    "institution_id": "I98600543",
+    "name": "Seoul Women's University",
+    "country_code": "KR",
+    "ror": "https://ror.org/04b2fhx54"
+  },
+  {
+    "institution_id": "I2802709434",
+    "name": "Rigshospitalet",
+    "country_code": "DK",
+    "ror": "https://ror.org/03mchdq19"
+  },
+  {
+    "institution_id": "I143397708",
+    "name": "Innsbruck Medical University",
+    "country_code": "AT",
+    "ror": "https://ror.org/03pt86f80"
+  },
+  {
+    "institution_id": "I2799434747",
+    "name": "Douglas Mental Health University Institute",
+    "country_code": "CA",
+    "ror": "https://ror.org/05dk2r620"
+  },
+  {
+    "institution_id": "I4405276480",
+    "name": "McGill University Research Centre for Studies in Aging",
+    "country_code": "CA",
+    "ror": "https://ror.org/05h8ts335"
+  },
+  {
+    "institution_id": "I1297540436",
+    "name": "Biogen (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/02jqkb192"
+  },
+  {
+    "institution_id": "I125749732",
+    "name": "Western University",
+    "country_code": "CA",
+    "ror": "https://ror.org/02grkyz14"
+  },
+  {
+    "institution_id": "I153718931",
+    "name": "University of Ottawa",
+    "country_code": "CA",
+    "ror": "https://ror.org/03c4mmv16"
+  },
+  {
+    "institution_id": "I33217400",
+    "name": "Universit\u00e9 du Qu\u00e9bec en Outaouais",
+    "country_code": "CA",
+    "ror": "https://ror.org/011pqxa69"
+  },
+  {
+    "institution_id": "I4405262572",
+    "name": "Institute of Mental Health Research",
+    "country_code": "CA",
+    "ror": "https://ror.org/042cm9p56"
+  },
+  {
+    "institution_id": "I155660961",
+    "name": "University of Turku",
+    "country_code": "FI",
+    "ror": "https://ror.org/05vghhr25"
+  },
+  {
+    "institution_id": "I2801970007",
+    "name": "Turku University Hospital",
+    "country_code": "FI",
+    "ror": "https://ror.org/05dbzj528"
+  },
+  {
+    "institution_id": "I4210089242",
+    "name": "D\u00fcsseldorf University Hospital",
+    "country_code": "DE",
+    "ror": "https://ror.org/006k2kk72"
+  },
+  {
+    "institution_id": "I3143470655",
+    "name": "Institute for Health Metrics and Evaluation",
+    "country_code": "US",
+    "ror": "https://ror.org/02684h094"
+  },
+  {
+    "institution_id": "I58048189",
+    "name": "Shahid Beheshti University of Medical Sciences",
+    "country_code": "IR",
+    "ror": "https://ror.org/034m2b326"
+  },
+  {
+    "institution_id": "I145019703",
+    "name": "Al-Zaytoonah University of Jordan",
+    "country_code": "JO",
+    "ror": "https://ror.org/04a5b0p13"
+  },
+  {
+    "institution_id": "I11892038",
+    "name": "University of Nigeria",
+    "country_code": "NG",
+    "ror": "https://ror.org/01sn1yx84"
+  },
+  {
+    "institution_id": "I868834043",
+    "name": "University of the West of Scotland",
+    "country_code": "GB",
+    "ror": "https://ror.org/04w3d2v20"
+  },
+  {
+    "institution_id": "I163205636",
+    "name": "Tabriz University of Medical Sciences",
+    "country_code": "IR",
+    "ror": "https://ror.org/04krpx645"
+  },
+  {
+    "institution_id": "I180670191",
+    "name": "University of California, San Francisco",
+    "country_code": "US",
+    "ror": "https://ror.org/043mz5j54"
+  },
+  {
+    "institution_id": "I4403928363",
+    "name": "Advanced Diagnostic and Interventional Radiology Research Center",
+    "country_code": "IR",
+    "ror": "https://ror.org/00mvm1h40"
+  },
+  {
+    "institution_id": "I70640408",
+    "name": "Tehran University of Medical Sciences",
+    "country_code": "IR",
+    "ror": "https://ror.org/01c4pz451"
+  },
+  {
+    "institution_id": "I182000528",
+    "name": "Ajman University",
+    "country_code": "AE",
+    "ror": "https://ror.org/01j1rma10"
+  },
+  {
+    "institution_id": "I84524832",
+    "name": "Alexandria University",
+    "country_code": "EG",
+    "ror": "https://ror.org/00mzz1w90"
+  },
+  {
+    "institution_id": "I199693650",
+    "name": "Umm al-Qura University",
+    "country_code": "SA",
+    "ror": "https://ror.org/01xjqrm90"
+  },
+  {
+    "institution_id": "I191240316",
+    "name": "University of Hull",
+    "country_code": "GB",
+    "ror": "https://ror.org/04nkhwh30"
+  },
+  {
+    "institution_id": "I69768126",
+    "name": "Hull York Medical School",
+    "country_code": "GB",
+    "ror": "https://ror.org/0003e4m70"
+  },
+  {
+    "institution_id": "I156216236",
+    "name": "Qassim University",
+    "country_code": "SA",
+    "ror": "https://ror.org/01wsfe280"
+  },
+  {
+    "institution_id": "I114972647",
+    "name": "University of Jordan",
+    "country_code": "JO",
+    "ror": "https://ror.org/05k89ew48"
+  },
+  {
+    "institution_id": "I28022161",
+    "name": "King Saud University",
+    "country_code": "SA",
+    "ror": "https://ror.org/02f81g417"
+  },
+  {
+    "institution_id": "I88694374",
+    "name": "Marshall University",
+    "country_code": "US",
+    "ror": "https://ror.org/02erqft81"
+  },
+  {
+    "institution_id": "I1330342723",
+    "name": "Mayo Clinic",
+    "country_code": "US",
+    "ror": "https://ror.org/02qp3tb03"
+  },
+  {
+    "institution_id": "I4210127938",
+    "name": "Mayo Clinic Hospital",
+    "country_code": "US",
+    "ror": "https://ror.org/03660jn93"
+  },
+  {
+    "institution_id": "I204588832",
+    "name": "Islamic Azad University, Karaj",
+    "country_code": "IR",
+    "ror": "https://ror.org/01y4xm534"
+  },
+  {
+    "institution_id": "I145487455",
+    "name": "Cairo University",
+    "country_code": "EG",
+    "ror": "https://ror.org/03q21mh05"
+  },
+  {
+    "institution_id": "I2801278263",
+    "name": "Komar University of Science and Technology",
+    "country_code": "IQ",
+    "ror": "https://ror.org/05azws991"
+  },
+  {
+    "institution_id": "I6033180",
+    "name": "University of Duhok",
+    "country_code": "IQ",
+    "ror": "https://ror.org/02g07ds81"
+  },
+  {
+    "institution_id": "I4400600929",
+    "name": "Federal University Wukari",
+    "country_code": "NG",
+    "ror": "https://ror.org/04t8bw757"
+  },
+  {
+    "institution_id": "I919958821",
+    "name": "Bayero University Kano",
+    "country_code": "NG",
+    "ror": "https://ror.org/049pzty39"
+  },
+  {
+    "institution_id": "I8764889",
+    "name": "University of Gondar",
+    "country_code": "ET",
+    "ror": "https://ror.org/0595gz585"
+  },
+  {
+    "institution_id": "I116768543",
+    "name": "Zanjan University of Medical Sciences",
+    "country_code": "IR",
+    "ror": "https://ror.org/01xf7jb19"
+  },
+  {
+    "institution_id": "I57092466",
+    "name": "Bahir Dar University",
+    "country_code": "ET",
+    "ror": "https://ror.org/01670bg46"
+  },
+  {
+    "institution_id": "I4405282822",
+    "name": "Universidad de la Sierra Sur",
+    "country_code": "MX",
+    "ror": "https://ror.org/00h2ky441"
+  },
+  {
+    "institution_id": "I4210163674",
+    "name": "National Heart Foundation Hospital & Research Institute",
+    "country_code": "BD",
+    "ror": "https://ror.org/04sqj7m79"
+  },
+  {
+    "institution_id": "I60559429",
+    "name": "Nazarbayev University",
+    "country_code": "KZ",
+    "ror": "https://ror.org/052bx8q98"
+  },
+  {
+    "institution_id": "I4405254834",
+    "name": "Federal Medical Centre Abuja",
+    "country_code": "NG",
+    "ror": "https://ror.org/029kbaf30"
+  },
+  {
+    "institution_id": "I254651091",
+    "name": "University of Health and Allied Sciences",
+    "country_code": "GH",
+    "ror": "https://ror.org/054tfvs49"
+  },
+  {
+    "institution_id": "I28166907",
+    "name": "Karolinska Institutet",
+    "country_code": "SE",
+    "ror": "https://ror.org/056d84691"
+  },
+  {
+    "institution_id": "I4210088963",
+    "name": "University of Ha'il",
+    "country_code": "SA",
+    "ror": "https://ror.org/013w98a82"
+  },
+  {
+    "institution_id": "I120230055",
+    "name": "Poznan University of Medical Sciences",
+    "country_code": "PL",
+    "ror": "https://ror.org/02zbb2597"
+  },
+  {
+    "institution_id": "I1293502524",
+    "name": "Loma Linda University Medical Center",
+    "country_code": "US",
+    "ror": "https://ror.org/03et1qs84"
+  },
+  {
+    "institution_id": "I146367977",
+    "name": "Applied Science Private University",
+    "country_code": "JO",
+    "ror": "https://ror.org/01ah6nb52"
+  },
+  {
+    "institution_id": "I199702508",
+    "name": "Jouf University",
+    "country_code": "SA",
+    "ror": "https://ror.org/02zsyt821"
+  },
+  {
+    "institution_id": "I4210087348",
+    "name": "National Cancer Centre Japan",
+    "country_code": "JP",
+    "ror": "https://ror.org/0025ww868"
+  },
+  {
+    "institution_id": "I4210092806",
+    "name": "St. Luke's International University",
+    "country_code": "JP",
+    "ror": "https://ror.org/00e5yzw53"
+  },
+  {
+    "institution_id": "I4391012626",
+    "name": "King Salman International University",
+    "country_code": "EG",
+    "ror": "https://ror.org/04gj69425"
+  },
+  {
+    "institution_id": "I156983542",
+    "name": "Jordan University of Science and Technology",
+    "country_code": "JO",
+    "ror": "https://ror.org/03y8mtb59"
+  },
+  {
+    "institution_id": "I49828101",
+    "name": "Hamad Medical Corporation",
+    "country_code": "QA",
+    "ror": "https://ror.org/02zwb6n98"
+  },
+  {
+    "institution_id": "I94800806",
+    "name": "Birzeit University",
+    "country_code": "PS",
+    "ror": "https://ror.org/0256kw398"
+  },
+  {
+    "institution_id": "I201726411",
+    "name": "United Arab Emirates University",
+    "country_code": "AE",
+    "ror": "https://ror.org/01km6p862"
+  },
+  {
+    "institution_id": "I4210089966",
+    "name": "London School of Hygiene & Tropical Medicine",
+    "country_code": "GB",
+    "ror": "https://ror.org/00a0jsq62"
+  },
+  {
+    "institution_id": "I4405262518",
+    "name": "Institut de Recherche Clinique du B\u00e9nin",
+    "country_code": "BJ",
+    "ror": "https://ror.org/03s917w10"
+  },
+  {
+    "institution_id": "I4210139578",
+    "name": "Karnali Academy of Health Sciences",
+    "country_code": "NP",
+    "ror": "https://ror.org/03tm6xb43"
+  },
+  {
+    "institution_id": "I10947320",
+    "name": "South African Medical Research Council",
+    "country_code": "ZA",
+    "ror": "https://ror.org/05q60vz69"
+  },
+  {
+    "institution_id": "I26092322",
+    "name": "Stellenbosch University",
+    "country_code": "ZA",
+    "ror": "https://ror.org/05bk57929"
+  },
+  {
+    "institution_id": "I95023434",
+    "name": "University of KwaZulu-Natal",
+    "country_code": "ZA",
+    "ror": "https://ror.org/04qzfn040"
+  },
+  {
+    "institution_id": "I894372087",
+    "name": "Olabisi Onabanjo University",
+    "country_code": "NG",
+    "ror": "https://ror.org/05jt4c572"
+  },
+  {
+    "institution_id": "I1292894508",
+    "name": "Roswell Park Comprehensive Cancer Center",
+    "country_code": "US",
+    "ror": "https://ror.org/0499dwk57"
+  },
+  {
+    "institution_id": "I63190737",
+    "name": "University at Buffalo, State University of New York",
+    "country_code": "US",
+    "ror": "https://ror.org/01y64my43"
+  },
+  {
+    "institution_id": "I119443389",
+    "name": "East Tennessee State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05rfqv493"
+  },
+  {
+    "institution_id": "I4210118383",
+    "name": "Melanoma Institute Australia",
+    "country_code": "AU",
+    "ror": "https://ror.org/02jxrhq31"
+  },
+  {
+    "institution_id": "I200433483",
+    "name": "Bowen University",
+    "country_code": "NG",
+    "ror": "https://ror.org/02avtbn34"
+  },
+  {
+    "institution_id": "I4210095046",
+    "name": "Bowen University Teaching Hospital",
+    "country_code": "NG",
+    "ror": "https://ror.org/00qs33y73"
+  },
+  {
+    "institution_id": "I4210101494",
+    "name": "Wolaita Sodo University",
+    "country_code": "ET",
+    "ror": "https://ror.org/0106a2j17"
+  },
+  {
+    "institution_id": "I4387155186",
+    "name": "University of Medical Sciences, Ondo",
+    "country_code": "NG",
+    "ror": "https://ror.org/00q898q52"
+  },
+  {
+    "institution_id": "I181631907",
+    "name": "University of Ibadan",
+    "country_code": "NG",
+    "ror": "https://ror.org/03wx2rr30"
+  },
+  {
+    "institution_id": "I35601441",
+    "name": "Osun State University",
+    "country_code": "NG",
+    "ror": "https://ror.org/00e16h982"
+  },
+  {
+    "institution_id": "I74813324",
+    "name": "Mekelle University",
+    "country_code": "ET",
+    "ror": "https://ror.org/04bpyvy69"
+  },
+  {
+    "institution_id": "I923003605",
+    "name": "Jashore University of Science and Technology",
+    "country_code": "BD",
+    "ror": "https://ror.org/04eqvyq94"
+  },
+  {
+    "institution_id": "I4210118361",
+    "name": "Apollo Institute of Medical Sciences & Research",
+    "country_code": "IN",
+    "ror": "https://ror.org/02f65mn87"
+  },
+  {
+    "institution_id": "I91819753",
+    "name": "Padjadjaran University",
+    "country_code": "ID",
+    "ror": "https://ror.org/00xqf8t64"
+  },
+  {
+    "institution_id": "I145876445",
+    "name": "University of Education, Winneba",
+    "country_code": "GH",
+    "ror": "https://ror.org/00y1ekh28"
+  },
+  {
+    "institution_id": "I90871651",
+    "name": "University of Toledo",
+    "country_code": "US",
+    "ror": "https://ror.org/01pbdzh19"
+  },
+  {
+    "institution_id": "I4405269172",
+    "name": "Metro North Hospital and Health Service",
+    "country_code": "AU",
+    "ror": "https://ror.org/03a0hqz22"
+  },
+  {
+    "institution_id": "I304011483",
+    "name": "Grigore T. Popa University of Medicine and Pharmacy",
+    "country_code": "RO",
+    "ror": "https://ror.org/03hd30t45"
+  },
+  {
+    "institution_id": "I4210087859",
+    "name": "Institutul Regional de Oncologie",
+    "country_code": "RO",
+    "ror": "https://ror.org/006w57p51"
+  },
+  {
+    "institution_id": "I142016965",
+    "name": "King Edward Medical University",
+    "country_code": "PK",
+    "ror": "https://ror.org/02rrbpf42"
+  },
+  {
+    "institution_id": "I4388446371",
+    "name": "Wachemo University",
+    "country_code": "ET",
+    "ror": "https://ror.org/0058xky36"
+  },
+  {
+    "institution_id": "I1309827724",
+    "name": "International Vaccine Institute",
+    "country_code": "KR",
+    "ror": "https://ror.org/02yfanq70"
+  },
+  {
+    "institution_id": "I74648663",
+    "name": "Rajarata University of Sri Lanka",
+    "country_code": "LK",
+    "ror": "https://ror.org/04dd86x86"
+  },
+  {
+    "institution_id": "I4210144925",
+    "name": "Technological University Dublin",
+    "country_code": "IE",
+    "ror": "https://ror.org/04t0qbt32"
+  },
+  {
+    "institution_id": "I181343428",
+    "name": "University of Zagreb",
+    "country_code": "HR",
+    "ror": "https://ror.org/00mv6sv71"
+  },
+  {
+    "institution_id": "I4390039327",
+    "name": "Faculty of Electrical Engineering and Computing in Zagreb",
+    "country_code": "HR",
+    "ror": "https://ror.org/04e90ca47"
+  },
+  {
+    "institution_id": "I4210113215",
+    "name": "IRCCS Ospedale Galeazzi - Sant'Ambrogio",
+    "country_code": "IT",
+    "ror": "https://ror.org/01vyrje42"
+  },
+  {
+    "institution_id": "I16656306",
+    "name": "Meiji University",
+    "country_code": "JP",
+    "ror": "https://ror.org/02rqvrp93"
+  },
+  {
+    "institution_id": "I92869138",
+    "name": "BOKU University",
+    "country_code": "AT",
+    "ror": "https://ror.org/057ff4y42"
+  },
+  {
+    "institution_id": "I67415387",
+    "name": "Lancaster University",
+    "country_code": "GB",
+    "ror": "https://ror.org/04f2nsd36"
+  },
+  {
+    "institution_id": "I162096671",
+    "name": "Universidad de Los Andes",
+    "country_code": "CO",
+    "ror": "https://ror.org/02mhbdp94"
+  },
+  {
+    "institution_id": "I184656255",
+    "name": "University of Liechtenstein",
+    "country_code": "LI",
+    "ror": "https://ror.org/01qjrx392"
+  },
+  {
+    "institution_id": "I54009628",
+    "name": "University of Bayreuth",
+    "country_code": "DE",
+    "ror": "https://ror.org/0234wmv40"
+  },
+  {
+    "institution_id": "I91712215",
+    "name": "Saarland University",
+    "country_code": "DE",
+    "ror": "https://ror.org/01jdpyv68"
+  },
+  {
+    "institution_id": "I11123151",
+    "name": "Northwest Missouri State University",
+    "country_code": "US",
+    "ror": "https://ror.org/05maved80"
+  },
+  {
+    "institution_id": "I4210129763",
+    "name": "Helmholtz-Institute Ulm",
+    "country_code": "DE",
+    "ror": "https://ror.org/034rhsb33"
+  },
+  {
+    "institution_id": "I4210148201",
+    "name": "Ho Chi Minh City University of Technology and Engineering",
+    "country_code": "VN",
+    "ror": "https://ror.org/05hzn5427"
+  },
+  {
+    "institution_id": "I113409471",
+    "name": "Kumoh National Institute of Technology",
+    "country_code": "KR",
+    "ror": "https://ror.org/05dkjfz60"
+  },
+  {
+    "institution_id": "I78974044",
+    "name": "East China University of Political Science and Law",
+    "country_code": "CN",
+    "ror": "https://ror.org/01d1erx18"
+  },
+  {
+    "institution_id": "I1309849503",
+    "name": "RAND Corporation",
+    "country_code": "US",
+    "ror": "https://ror.org/00f2z7n96"
+  },
+  {
+    "institution_id": "I20121455",
+    "name": "Bielefeld University",
+    "country_code": "DE",
+    "ror": "https://ror.org/02hpadn98"
+  },
+  {
+    "institution_id": "I4210112253",
+    "name": "Honda (Germany)",
+    "country_code": "DE",
+    "ror": "https://ror.org/022c1xk47"
+  },
+  {
+    "institution_id": "I90610280",
+    "name": "South China University of Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/0530pts50"
+  },
+  {
+    "institution_id": "I4210116480",
+    "name": "Flanders Make (Belgium)",
+    "country_code": "BE",
+    "ror": "https://ror.org/02ndjfz59"
+  },
+  {
+    "institution_id": "I181547552",
+    "name": "Baylor College of Medicine",
+    "country_code": "US",
+    "ror": "https://ror.org/02pttbw34"
+  },
+  {
+    "institution_id": "I4210153928",
+    "name": "VIB-KU Leuven Center for Brain & Disease Research",
+    "country_code": "BE",
+    "ror": "https://ror.org/045c7t348"
+  },
+  {
+    "institution_id": "I4210100286",
+    "name": "Chan Zuckerberg Biohub San Francisco",
+    "country_code": "US",
+    "ror": "https://ror.org/00knt4f32"
+  },
+  {
+    "institution_id": "I12708293",
+    "name": "SIB Swiss Institute of Bioinformatics",
+    "country_code": "CH",
+    "ror": "https://ror.org/002n09z45"
+  },
+  {
+    "institution_id": "I4575257",
+    "name": "Hanyang University",
+    "country_code": "KR",
+    "ror": "https://ror.org/046865y68"
+  },
+  {
+    "institution_id": "I161103922",
+    "name": "Philipps University of Marburg",
+    "country_code": "DE",
+    "ror": "https://ror.org/01rdrb571"
+  },
+  {
+    "institution_id": "I4405252512",
+    "name": "Centro Champalimaud",
+    "country_code": "PT",
+    "ror": "https://ror.org/007rd1x46"
+  },
+  {
+    "institution_id": "I4210090567",
+    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "country_code": "US",
+    "ror": "https://ror.org/00adh9b73"
+  },
+  {
+    "institution_id": "I2802742124",
+    "name": "John Radcliffe Hospital",
+    "country_code": "GB",
+    "ror": "https://ror.org/0080acb59"
+  },
+  {
+    "institution_id": "I4210110594",
+    "name": "MRC Weatherall Institute of Molecular Medicine",
+    "country_code": "GB",
+    "ror": "https://ror.org/01q496a73"
+  },
+  {
+    "institution_id": "I188891513",
+    "name": "Sanford Burnham Prebys Medical Discovery Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/03m1g2s55"
+  },
+  {
+    "institution_id": "I2801317318",
+    "name": "Hospital for Sick Children",
+    "country_code": "CA",
+    "ror": "https://ror.org/057q4rt57"
+  },
+  {
+    "institution_id": "I4210111405",
+    "name": "Centro Andaluz de Biolog\u00eda del Desarrollo",
+    "country_code": "ES",
+    "ror": "https://ror.org/01v5e3436"
+  },
+  {
+    "institution_id": "I170203145",
+    "name": "MRC Laboratory of Molecular Biology",
+    "country_code": "GB",
+    "ror": "https://ror.org/00tw3jy02"
+  },
+  {
+    "institution_id": "I87048295",
+    "name": "Wellcome Trust",
+    "country_code": "GB",
+    "ror": "https://ror.org/029chgv08"
+  },
+  {
+    "institution_id": "I201841394",
+    "name": "Universit\u00e9 C\u00f4te d'Azur",
+    "country_code": "FR",
+    "ror": "https://ror.org/019tgvf94"
+  },
+  {
+    "institution_id": "I4210117840",
+    "name": "Institut de Biologie Valrose",
+    "country_code": "FR",
+    "ror": "https://ror.org/03bnma344"
+  },
+  {
+    "institution_id": "I123387679",
+    "name": "Uppsala University",
+    "country_code": "SE",
+    "ror": "https://ror.org/048a87296"
+  },
+  {
+    "institution_id": "I154570441",
+    "name": "University of California, Santa Barbara",
+    "country_code": "US",
+    "ror": "https://ror.org/02t274463"
+  },
+  {
+    "institution_id": "I4210113761",
+    "name": "Institut Jacques Monod",
+    "country_code": "FR",
+    "ror": "https://ror.org/02c5gc203"
+  },
+  {
+    "institution_id": "I4405287053",
+    "name": "Donnelly Centre for Cellular and Biomolecular Research",
+    "country_code": "CA",
+    "ror": "https://ror.org/0400kyd42"
+  },
+  {
+    "institution_id": "I4210160469",
+    "name": "Ciena (Canada)",
+    "country_code": "CA",
+    "ror": "https://ror.org/05agqdk49"
+  },
+  {
+    "institution_id": "I34771391",
+    "name": "University of Cyprus",
+    "country_code": "CY",
+    "ror": "https://ror.org/02qjrjx09"
+  },
+  {
+    "institution_id": "I14245010",
+    "name": "University of Kragujevac",
+    "country_code": "RS",
+    "ror": "https://ror.org/04f7vj627"
+  },
+  {
+    "institution_id": "I1322918889",
+    "name": "United States Department of Veterans Affairs",
+    "country_code": "US",
+    "ror": "https://ror.org/05rsv9s98"
+  },
+  {
+    "institution_id": "I2801671727",
+    "name": "VA Boston Healthcare System",
+    "country_code": "US",
+    "ror": "https://ror.org/04v00sg98"
+  },
+  {
+    "institution_id": "I1324682000",
+    "name": "Regenstrief Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/05f2ywb48"
+  },
+  {
+    "institution_id": "I174458059",
+    "name": "National Technical University of Athens",
+    "country_code": "GR",
+    "ror": "https://ror.org/03cx6bg69"
+  },
+  {
+    "institution_id": "I55741626",
+    "name": "Technical University of Crete",
+    "country_code": "GR",
+    "ror": "https://ror.org/03f8bz564"
+  },
+  {
+    "institution_id": "I2614128279",
+    "name": "Dalle Molle Institute for Artificial Intelligence Research",
+    "country_code": "CH",
+    "ror": "https://ror.org/013355g38"
+  },
+  {
+    "institution_id": "I57201433",
+    "name": "Universit\u00e0 della Svizzera italiana",
+    "country_code": "CH",
+    "ror": "https://ror.org/03c4atk17"
+  },
+  {
+    "institution_id": "I93860229",
+    "name": "Politecnico di Milano",
+    "country_code": "IT",
+    "ror": "https://ror.org/01nffqt88"
+  },
+  {
+    "institution_id": "I2803209242",
+    "name": "University of California System",
+    "country_code": "US",
+    "ror": "https://ror.org/00pjdza24"
+  },
+  {
+    "institution_id": "I885392262",
+    "name": "GITAM University",
+    "country_code": "IN",
+    "ror": "https://ror.org/0440p1d37"
+  },
+  {
+    "institution_id": "I55215948",
+    "name": "Tata Consultancy Services (India)",
+    "country_code": "IN",
+    "ror": "https://ror.org/01b9n8m42"
+  },
+  {
+    "institution_id": "I81433678",
+    "name": "Sikkim Manipal University",
+    "country_code": "IN",
+    "ror": "https://ror.org/010gckf65"
+  },
+  {
+    "institution_id": "I110217816",
+    "name": "Dongduk Women's University",
+    "country_code": "KR",
+    "ror": "https://ror.org/039p7ck60"
+  },
+  {
+    "institution_id": "I80180929",
+    "name": "Universidad de Murcia",
+    "country_code": "ES",
+    "ror": "https://ror.org/03p3aeb86"
+  },
+  {
+    "institution_id": "I4405253476",
+    "name": "Bundesamt f\u00fcr R\u00fcstung armasuisse",
+    "country_code": "CH",
+    "ror": "https://ror.org/00pw7mk43"
+  },
+  {
+    "institution_id": "I4390039307",
+    "name": "Winship Cancer Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/02gars961"
+  },
+  {
+    "institution_id": "I186903577",
+    "name": "University of Luxembourg",
+    "country_code": "LU",
+    "ror": "https://ror.org/036x5ad56"
+  },
+  {
+    "institution_id": "I909555",
+    "name": "SES (Luxembourg)",
+    "country_code": "LU",
+    "ror": "https://ror.org/00526y629"
+  },
+  {
+    "institution_id": "I4210130112",
+    "name": "China Academy of Information and Communications Technology",
+    "country_code": "CN",
+    "ror": "https://ror.org/038dte259"
+  },
+  {
+    "institution_id": "I152815399",
+    "name": "Singapore University of Technology and Design",
+    "country_code": "SG",
+    "ror": "https://ror.org/05j6fvn87"
+  },
+  {
+    "institution_id": "I96673099",
+    "name": "Technical University of Denmark",
+    "country_code": "DK",
+    "ror": "https://ror.org/04qtj9h94"
+  },
+  {
+    "institution_id": "I129902397",
+    "name": "Dalhousie University",
+    "country_code": "CA",
+    "ror": "https://ror.org/01e6qks80"
+  },
+  {
+    "institution_id": "I3133171086",
+    "name": "Band\u0131rma Onyedi Eyl\u00fcl University",
+    "country_code": "TR",
+    "ror": "https://ror.org/02mtr7g38"
+  },
+  {
+    "institution_id": "I4210105707",
+    "name": "Klaip\u0117dos valstybin\u0117 kolegija / Higher Education Institution",
+    "country_code": "LT",
+    "ror": "https://ror.org/01cm4sr79"
+  },
+  {
+    "institution_id": "I33926330",
+    "name": "Al-Balqa Applied University",
+    "country_code": "JO",
+    "ror": "https://ror.org/00qedmt22"
+  },
+  {
+    "institution_id": "I143396566",
+    "name": "F\u0131rat University",
+    "country_code": "TR",
+    "ror": "https://ror.org/05teb7b63"
+  },
+  {
+    "institution_id": "I3122934890",
+    "name": "Jan Evangelista Purkyn\u011b University in \u00dast\u00ed nad Labem",
+    "country_code": "CZ",
+    "ror": "https://ror.org/04vjwcp92"
+  },
+  {
+    "institution_id": "I35913352",
+    "name": "Prague University of Economics and Business",
+    "country_code": "CZ",
+    "ror": "https://ror.org/029ecwj92"
+  },
+  {
+    "institution_id": "I21250087",
+    "name": "Charles University",
+    "country_code": "CZ",
+    "ror": "https://ror.org/024d6js02"
+  },
+  {
+    "institution_id": "I118501908",
+    "name": "National Research University Higher School of Economics",
+    "country_code": "RU",
+    "ror": "https://ror.org/055f7t516"
+  },
+  {
+    "institution_id": "I4210143797",
+    "name": "Sony (Japan)",
+    "country_code": "JP",
+    "ror": "https://ror.org/04wzv3n59"
+  },
+  {
+    "institution_id": "I204866599",
+    "name": "VA Palo Alto Health Care System",
+    "country_code": "US",
+    "ror": "https://ror.org/00nr17z89"
+  },
+  {
+    "institution_id": "I4210094678",
+    "name": "Universit\u00e4tsklinikum des Saarlandes",
+    "country_code": "DE",
+    "ror": "https://ror.org/00nvxt968"
+  },
+  {
+    "institution_id": "I51713134",
+    "name": "University of Colorado Anschutz",
+    "country_code": "US",
+    "ror": "https://ror.org/03wmf1y16"
+  },
+  {
+    "institution_id": "I913958620",
+    "name": "Erasmus University Rotterdam",
+    "country_code": "NL",
+    "ror": "https://ror.org/057w15z03"
+  },
+  {
+    "institution_id": "I4405281272",
+    "name": "Alibaba DAMO Academy (China)",
+    "country_code": "CN",
+    "ror": "https://ror.org/0448px924"
+  },
+  {
+    "institution_id": "I191208505",
+    "name": "Xiamen University",
+    "country_code": "CN",
+    "ror": "https://ror.org/00mcjh785"
+  },
+  {
+    "institution_id": "I184840846",
+    "name": "Virginia Commonwealth University",
+    "country_code": "US",
+    "ror": "https://ror.org/02nkdxk79"
+  },
+  {
+    "institution_id": "I154851008",
+    "name": "Indian Institute of Technology Roorkee",
+    "country_code": "IN",
+    "ror": "https://ror.org/00582g326"
+  },
+  {
+    "institution_id": "I154099455",
+    "name": "Shandong University",
+    "country_code": "CN",
+    "ror": "https://ror.org/0207yh398"
+  },
+  {
+    "institution_id": "I4210110431",
+    "name": "Microsoft (Netherlands)",
+    "country_code": "NL",
+    "ror": "https://ror.org/01x21tj82"
+  },
+  {
+    "institution_id": "I142899784",
+    "name": "University of Sfax",
+    "country_code": "TN",
+    "ror": "https://ror.org/04d4sd432"
+  },
+  {
+    "institution_id": "I52207611",
+    "name": "Al Baha University",
+    "country_code": "SA",
+    "ror": "https://ror.org/0403jak37"
+  },
+  {
+    "institution_id": "I4394709116",
+    "name": "UNSW Canberra",
+    "country_code": "AU",
+    "ror": "https://ror.org/0125wpx05"
+  },
+  {
+    "institution_id": "I4210120485",
+    "name": "Academy of Mathematics and Systems Science",
+    "country_code": "CN",
+    "ror": "https://ror.org/02jkmyk67"
+  },
+  {
+    "institution_id": "I196829312",
+    "name": "La Trobe University",
+    "country_code": "AU",
+    "ror": "https://ror.org/01rxfrp27"
+  },
+  {
+    "institution_id": "I202276237",
+    "name": "Medical University of Graz",
+    "country_code": "AT",
+    "ror": "https://ror.org/02n0bts35"
+  },
+  {
+    "institution_id": "I4210159420",
+    "name": "Shanghai Children's Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/05pea1m70"
+  },
+  {
+    "institution_id": "I74801974",
+    "name": "The University of Tokyo",
+    "country_code": "JP",
+    "ror": "https://ror.org/057zh3y96"
+  },
+  {
+    "institution_id": "I4210118728",
+    "name": "State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing",
+    "country_code": "CN",
+    "ror": "https://ror.org/02bpap860"
+  },
+  {
+    "institution_id": "I4210126580",
+    "name": "RIKEN Center for Advanced Intelligence Project",
+    "country_code": "JP",
+    "ror": "https://ror.org/03ckxwf91"
+  },
+  {
+    "institution_id": "I137902535",
+    "name": "North Carolina State University",
+    "country_code": "US",
+    "ror": "https://ror.org/04tj63d06"
+  },
+  {
+    "institution_id": "I4210146711",
+    "name": "Sun Yat-sen University Cancer Center",
+    "country_code": "CN",
+    "ror": "https://ror.org/0400g8r85"
+  },
+  {
+    "institution_id": "I4210104539",
+    "name": "Shenzhen Maternity and Child Healthcare Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/01me2d674"
+  },
+  {
+    "institution_id": "I4210154480",
+    "name": "Chongqing Cancer Hospital",
+    "country_code": "CN",
+    "ror": "https://ror.org/047d8yx24"
+  },
+  {
+    "institution_id": "I4210162753",
+    "name": "First Affiliated Hospital of Jinan University",
+    "country_code": "CN",
+    "ror": "https://ror.org/05d5vvz89"
+  },
+  {
+    "institution_id": "I4210128921",
+    "name": "The First Affiliated Hospital, Sun Yat-sen University",
+    "country_code": "CN",
+    "ror": "https://ror.org/037p24858"
+  },
+  {
+    "institution_id": "I1282927834",
+    "name": "Cedars-Sinai Medical Center",
+    "country_code": "US",
+    "ror": "https://ror.org/02pammg90"
+  },
+  {
+    "institution_id": "I1314596251",
+    "name": "Allen Institute for Brain Science",
+    "country_code": "US",
+    "ror": "https://ror.org/00dcv1019"
+  },
+  {
+    "institution_id": "I1301553790",
+    "name": "J. Craig Venter Institute",
+    "country_code": "US",
+    "ror": "https://ror.org/049r1ts75"
+  },
+  {
+    "institution_id": "I2799886695",
+    "name": "Veterans Health Administration",
+    "country_code": "US",
+    "ror": "https://ror.org/05eq41471"
+  },
+  {
+    "institution_id": "I126744593",
+    "name": "University of Maryland, Baltimore",
+    "country_code": "US",
+    "ror": "https://ror.org/04rq5mt64"
+  },
+  {
+    "institution_id": "I66946132",
+    "name": "University of Maryland, College Park",
+    "country_code": "US",
+    "ror": "https://ror.org/047s2c258"
+  },
+  {
+    "institution_id": "I2802336062",
+    "name": "Harborview Medical Center",
+    "country_code": "US",
+    "ror": "https://ror.org/059jq5127"
+  },
+  {
+    "institution_id": "I1311191458",
+    "name": "La Jolla Institute for Immunology",
+    "country_code": "US",
+    "ror": "https://ror.org/05vkpd318"
+  },
+  {
+    "institution_id": "I149218525",
+    "name": "Ankara University",
+    "country_code": "TR",
+    "ror": "https://ror.org/01wntqw50"
+  },
+  {
+    "institution_id": "I149717392",
+    "name": "Siirt \u00dcniversitesi",
+    "country_code": "TR",
+    "ror": "https://ror.org/05ptwtz25"
+  },
+  {
+    "institution_id": "I173207729",
+    "name": "University of Engineering and Technology Taxila",
+    "country_code": "PK",
+    "ror": "https://ror.org/03v00ka07"
+  },
+  {
+    "institution_id": "I177721651",
+    "name": "Oakland University",
+    "country_code": "US",
+    "ror": "https://ror.org/01ythxj32"
+  },
+  {
+    "institution_id": "I4210130704",
+    "name": "University of Michigan\u2013Dearborn",
+    "country_code": "US",
+    "ror": "https://ror.org/035wtm547"
+  },
+  {
+    "institution_id": "I41156924",
+    "name": "Victoria University of Wellington",
+    "country_code": "NZ",
+    "ror": "https://ror.org/0040r6f76"
+  },
+  {
+    "institution_id": "I25217355",
+    "name": "University of Pavia",
+    "country_code": "IT",
+    "ror": "https://ror.org/00s6t1f81"
+  },
+  {
+    "institution_id": "I839966561",
+    "name": "Lone Star College",
+    "country_code": "US",
+    "ror": "https://ror.org/059j9s184"
+  },
+  {
+    "institution_id": "I2801533059",
+    "name": "German Center for Neurodegenerative Diseases",
+    "country_code": "DE",
+    "ror": "https://ror.org/043j0f473"
+  },
+  {
+    "institution_id": "I4210127055",
+    "name": "Athinoula A. Martinos Center for Biomedical Imaging",
+    "country_code": "US",
+    "ror": "https://ror.org/032q5ym94"
+  },
+  {
+    "institution_id": "I124227911",
+    "name": "Ben-Gurion University of the Negev",
+    "country_code": "IL",
+    "ror": "https://ror.org/05tkyf982"
+  },
+  {
+    "institution_id": "I165831266",
+    "name": "Nirma University",
+    "country_code": "IN",
+    "ror": "https://ror.org/05qkq7x38"
+  },
+  {
+    "institution_id": "I122754148",
+    "name": "SAS Institute (United States)",
+    "country_code": "US",
+    "ror": "https://ror.org/01093z329"
+  },
+  {
+    "institution_id": "I269685040",
+    "name": "Koszalin University of Technology",
+    "country_code": "PL",
+    "ror": "https://ror.org/00x6dk626"
+  },
+  {
+    "institution_id": "I11923345",
+    "name": "Wroc\u0142aw University of Science and Technology",
+    "country_code": "PL",
+    "ror": "https://ror.org/008fyn775"
+  },
+  {
+    "institution_id": "I4210134534",
+    "name": "National Institute of Allergy and Infectious Diseases",
+    "country_code": "US",
+    "ror": "https://ror.org/043z4tv69"
+  },
+  {
+    "institution_id": "I3005327000",
+    "name": "Institute for Infocomm Research",
+    "country_code": "SG",
+    "ror": "https://ror.org/053rfa017"
+  },
+  {
+    "institution_id": "I198012923",
+    "name": "University of Staffordshire",
+    "country_code": "GB",
+    "ror": "https://ror.org/00d6k8y35"
+  },
+  {
+    "institution_id": "I3018325552",
+    "name": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Cear\u00e1",
+    "country_code": "BR",
+    "ror": "https://ror.org/02225fd27"
+  }
+]
