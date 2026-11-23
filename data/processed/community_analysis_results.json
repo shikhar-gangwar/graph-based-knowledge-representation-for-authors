@@ -1,0 +1,137 @@
+{
+  "network_metrics": {
+    "nodes": 3650,
+    "edges": 7702,
+    "components": 883,
+    "gcc_size": 42,
+    "gcc_percentage": 1.15,
+    "average_degree": 4.22,
+    "maximum_degree": 41,
+    "density": 0.001157,
+    "transitivity": 0.9927
+  },
+  "community_detection": {
+    "algorithm": "Louvain",
+    "seed": 42,
+    "weight_metric": "Newman co-authorship",
+    "modularity_q": 0.9985,
+    "num_communities": 883,
+    "largest_5_sizes": [
+      42,
+      14,
+      13,
+      13,
+      13
+    ]
+  },
+  "top_communities": [
+    {
+      "community_id": 1,
+      "size_authors": 42,
+      "internal_edges": 861,
+      "top_authors": [
+        "J. Pow-Sang (deg=41)",
+        "H. Brenner (deg=41)",
+        "S. Thibodeau (deg=41)",
+        "B. Nordestgaard (deg=41)"
+      ],
+      "predominant_cso_topics": [
+        "Validation",
+        "Hierarchical System",
+        "Cryptography",
+        "Probability",
+        "Computer Security"
+      ],
+      "key_venues": [
+        "V_bioinform"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size_authors": 14,
+      "internal_edges": 35,
+      "top_authors": [
+        "Shao-Yi Chien (deg=9)",
+        "Min Sun (deg=8)",
+        "Chia-han Lee (deg=5)",
+        "Shao-Wen Yang (deg=5)"
+      ],
+      "predominant_cso_topics": [
+        "Artificial Intelligence",
+        "Computer Science",
+        "Human Computer Interaction",
+        "Computer Vision",
+        "User Interfaces"
+      ],
+      "key_venues": [
+        "V_2016_ieee_international_conferen_2e4b94",
+        "V_acm_multimedia",
+        "V_2017_ieee_international_conferen_579449"
+      ]
+    },
+    {
+      "community_id": 3,
+      "size_authors": 13,
+      "internal_edges": 43,
+      "top_authors": [
+        "N. Hammerla (deg=12)",
+        "Sebastian Mellor (deg=7)",
+        "Robin J. Thompson (deg=7)",
+        "Eugen Berlin (deg=7)"
+      ],
+      "predominant_cso_topics": [
+        "Artificial Intelligence",
+        "Computer Science",
+        "Computer Systems",
+        "Communication Channels",
+        "Smart Phones"
+      ],
+      "key_venues": [
+        "V_getmbl",
+        "V_arxiv"
+      ]
+    },
+    {
+      "community_id": 4,
+      "size_authors": 13,
+      "internal_edges": 78,
+      "top_authors": [
+        "A. Hasegawa (deg=12)",
+        "Shuhei Noguchi (deg=12)",
+        "I. Abugessaisa (deg=12)",
+        "Sachi Kato (deg=12)"
+      ],
+      "predominant_cso_topics": [
+        "Computer Security",
+        "Semantics",
+        "Distributed Computer Systems",
+        "Servers",
+        "Multimedia Systems"
+      ],
+      "key_venues": [
+        "V_nucleic_acids_res"
+      ]
+    },
+    {
+      "community_id": 5,
+      "size_authors": 13,
+      "internal_edges": 78,
+      "top_authors": [
+        "R. Barber (deg=12)",
+        "Fatma \u00d6zcan (deg=12)",
+        "Ren\u00e9 M\u00fcller (deg=12)",
+        "A. Storm (deg=12)"
+      ],
+      "predominant_cso_topics": [
+        "Communication Channels",
+        "Graphical User Interfaces",
+        "Strategic Planning",
+        "Big Data",
+        "Digital Storage"
+      ],
+      "key_venues": [
+        "V_sigmod_conference"
+      ]
+    }
+  ]
+}
