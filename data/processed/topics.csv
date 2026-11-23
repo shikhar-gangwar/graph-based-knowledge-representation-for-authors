@@ -1,0 +1,520 @@
+topic_id,name,subfield,field,domain
+T12026,Explainable Artificial Intelligence (XAI),Artificial Intelligence,Computer Science,Physical Sciences
+T10743,Software Testing and Debugging Techniques,Software,Computer Science,Physical Sciences
+T11689,Adversarial Robustness in Machine Learning,Artificial Intelligence,Computer Science,Physical Sciences
+T11574,Artificial Intelligence in Games,Artificial Intelligence,Computer Science,Physical Sciences
+T13904,Artificial Intelligence Applications,Artificial Intelligence,Computer Science,Physical Sciences
+T10462,Reinforcement Learning in Robotics,Artificial Intelligence,Computer Science,Physical Sciences
+T10100,Metaheuristic Optimization Algorithms Research,Artificial Intelligence,Computer Science,Physical Sciences
+T10963,Advanced Optimization Algorithms Research,Numerical Analysis,Mathematics,Physical Sciences
+T11115,Topology Optimization in Engineering,Civil and Structural Engineering,Engineering,Physical Sciences
+T11273,Advanced Graph Neural Networks,Artificial Intelligence,Computer Science,Physical Sciences
+T10064,Complex Network Analysis Techniques,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+T12536,Topological and Geometric Data Analysis,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T10320,Neural Networks and Applications,Artificial Intelligence,Computer Science,Physical Sciences
+T10036,Advanced Neural Network Applications,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10028,Topic Modeling,Artificial Intelligence,Computer Science,Physical Sciences
+T10181,Natural Language Processing Techniques,Artificial Intelligence,Computer Science,Physical Sciences
+T10286,Information Retrieval and Search Behavior,Information Systems,Computer Science,Physical Sciences
+T10764,Privacy-Preserving Technologies in Data,Artificial Intelligence,Computer Science,Physical Sciences
+T11612,Stochastic Gradient Optimization Techniques,Artificial Intelligence,Computer Science,Physical Sciences
+T10237,Cryptography and Data Security,Computer Networks and Communications,Computer Science,Physical Sciences
+T10201,Speech Recognition and Synthesis,Artificial Intelligence,Computer Science,Physical Sciences
+T12101,Advanced Bandit Algorithms Research,Management Science and Operations Research,Decision Sciences,Social Sciences
+T11307,Domain Adaptation and Few-Shot Learning,Artificial Intelligence,Computer Science,Physical Sciences
+T12072,Machine Learning and Algorithms,Artificial Intelligence,Computer Science,Physical Sciences
+T10862,AI in cancer detection,Artificial Intelligence,Computer Science,Physical Sciences
+T12422,Radiomics and Machine Learning in Medical Imaging,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences
+T12357,Digital Media Forensic Detection,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10775,Generative Adversarial Networks and Image Synthesis,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11946,Antenna Design and Optimization,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T11550,Text and Document Classification Technologies,Artificial Intelligence,Computer Science,Physical Sciences
+T10664,Sentiment Analysis and Opinion Mining,Artificial Intelligence,Computer Science,Physical Sciences
+T10883,Ethics and Social Impacts of AI,Artificial Intelligence,Computer Science,Physical Sciences
+T13364,"Digitalization, Law, and Regulation",Law,Social Sciences,Social Sciences
+T11714,Multimodal Machine Learning Applications,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11424,Security and Verification in Computing,Hardware and Architecture,Computer Science,Physical Sciences
+T10052,Medical Image Segmentation Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T14381,"Psychiatry, Mental Health, Neuroscience",Artificial Intelligence,Computer Science,Physical Sciences
+T10906,AI-based Problem Solving and Planning,Artificial Intelligence,Computer Science,Physical Sciences
+T13062,Cognitive Computing and Networks,Artificial Intelligence,Computer Science,Physical Sciences
+T11901,Bayesian Methods and Mixture Models,Artificial Intelligence,Computer Science,Physical Sciences
+T13398,Data Analysis with R,Statistics and Probability,Mathematics,Physical Sciences
+T10637,Advanced Clustering Algorithms Research,Artificial Intelligence,Computer Science,Physical Sciences
+T10601,Handwritten Text Recognition Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T12031,Speech and dialogue systems,Artificial Intelligence,Computer Science,Physical Sciences
+T10057,Face and Expression Recognition,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10682,Quantum Computing Algorithms and Architecture,Artificial Intelligence,Computer Science,Physical Sciences
+T11804,Quantum many-body systems,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T10020,Quantum Information and Cryptography,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T11652,Imbalanced Data Classification Techniques,Artificial Intelligence,Computer Science,Physical Sciences
+T12535,Machine Learning and Data Classification,Artificial Intelligence,Computer Science,Physical Sciences
+T12761,Data Stream Mining Techniques,Artificial Intelligence,Computer Science,Physical Sciences
+T11326,Stock Market Forecasting Methods,Management Science and Operations Research,Decision Sciences,Social Sciences
+T10860,Speech and Audio Processing,Signal Processing,Computer Science,Physical Sciences
+T12384,Customer churn and segmentation,Marketing,"Business, Management and Accounting",Social Sciences
+T12814,Gaussian Processes and Bayesian Inference,Artificial Intelligence,Computer Science,Physical Sciences
+T10848,Advanced Multi-Objective Optimization Algorithms,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T10448,Memory and Neural Mechanisms,Cognitive Neuroscience,Neuroscience,Life Sciences
+T12262,Hate Speech and Cyberbullying Detection,Artificial Intelligence,Computer Science,Physical Sciences
+T11147,Misinformation and Its Impacts,Sociology and Political Science,Social Sciences,Social Sciences
+T11975,Evolutionary Algorithms and Applications,Artificial Intelligence,Computer Science,Physical Sciences
+T13702,Machine Learning in Healthcare,Artificial Intelligence,Computer Science,Physical Sciences
+T11396,Artificial Intelligence in Healthcare,Health Information Management,Health Professions,Health Sciences
+T10350,Electronic Health Records Systems,Health Information Management,Health Professions,Health Sciences
+T10456,Multi-Agent Systems and Negotiation,Artificial Intelligence,Computer Science,Physical Sciences
+T11031,Game Theory and Applications,Management Science and Operations Research,Decision Sciences,Social Sciences
+T11303,Bayesian Modeling and Causal Inference,Artificial Intelligence,Computer Science,Physical Sciences
+T11902,Intelligent Tutoring Systems and Adaptive Learning,Artificial Intelligence,Computer Science,Physical Sciences
+T14414,Artificial Intelligence in Education,Education,Social Sciences,Social Sciences
+T11122,Online Learning and Analytics,Computer Science Applications,Computer Science,Physical Sciences
+T12611,Neural Networks and Reservoir Computing,Artificial Intelligence,Computer Science,Physical Sciences
+T10667,Emotion and Mood Recognition,Artificial Intelligence,Computer Science,Physical Sciences
+T10828,Biometric Identification and Security,Signal Processing,Computer Science,Physical Sciences
+T13308,Cybernetics and Technology in Society,History and Philosophy of Science,Arts and Humanities,Social Sciences
+T12942,Cultural Studies and Postmodernism,Communication,Social Sciences,Social Sciences
+T10627,Advanced Image and Video Retrieval Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10034,"Syntax, Semantics, Linguistic Variation",Language and Linguistics,Arts and Humanities,Social Sciences
+T13623,Linguistic Studies and Language Acquisition,Linguistics and Language,Social Sciences,Social Sciences
+T11024,Information Systems Theories and Implementation,Management Information Systems,"Business, Management and Accounting",Social Sciences
+T11871,Advanced Statistical Methods and Models,Statistics and Probability,Mathematics,Physical Sciences
+T12131,Wireless Signal Modulation Classification,Artificial Intelligence,Computer Science,Physical Sciences
+T10579,Cognitive Radio Networks and Spectrum Sensing,Computer Networks and Communications,Computer Science,Physical Sciences
+T11309,Music and Audio Processing,Signal Processing,Computer Science,Physical Sciences
+T10215,Semantic Web and Ontologies,Artificial Intelligence,Computer Science,Physical Sciences
+T11512,Anomaly Detection Techniques and Applications,Artificial Intelligence,Computer Science,Physical Sciences
+T10812,Human Pose and Action Recognition,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11439,Video Analysis and Summarization,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10545,Optimization and Variational Analysis,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T12128,AI in Service Interactions,Marketing,"Business, Management and Accounting",Social Sciences
+T10803,Innovative Human-Technology Interaction,Human-Computer Interaction,Computer Science,Physical Sciences
+T11605,Visual Attention and Saliency Detection,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11598,Internet Traffic Analysis and Secure E-voting,Artificial Intelligence,Computer Science,Physical Sciences
+T10400,Network Security and Intrusion Detection,Computer Networks and Communications,Computer Science,Physical Sciences
+T11165,Image and Video Quality Assessment,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10229,Geometric Analysis and Curvature Flows,Applied Mathematics,Mathematics,Physical Sciences
+T10622,Quantum Mechanics and Applications,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T10636,Innovative Teaching and Learning Methods,Developmental and Educational Psychology,Psychology,Social Sciences
+T12859,Cell Image Analysis Techniques,Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T12292,Graph Theory and Algorithms,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T11644,Spam and Phishing Detection,Information Systems,Computer Science,Physical Sciences
+T10403,Phonetics and Phonology Research,Experimental and Cognitive Psychology,Psychology,Social Sciences
+T10202,Lung Cancer Diagnosis and Treatment,Pulmonary and Respiratory Medicine,Medicine,Health Sciences
+T11344,Traffic Prediction and Management Techniques,Transportation,Social Sciences,Social Sciences
+T12127,Software System Performance and Reliability,Computer Networks and Communications,Computer Science,Physical Sciences
+T13088,Legal and Labor Studies,Industrial relations,"Business, Management and Accounting",Social Sciences
+T12874,Digital Imaging for Blood Diseases,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11448,Face recognition and analysis,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10002,Advanced Chemical Physics Studies,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T10581,Neural dynamics and brain function,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10502,Advanced Memory and Neural Computing,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T14350,"Innovation, Sustainability, Human-Machine Systems","Management, Monitoring, Policy and Law",Environmental Science,Physical Sciences
+T13310,Subtitles and Audiovisual Media,Language and Linguistics,Arts and Humanities,Social Sciences
+T10759,Translation Studies and Practices,Language and Linguistics,Arts and Humanities,Social Sciences
+T11636,Artificial Intelligence in Healthcare and Education,Health Informatics,Medicine,Health Sciences
+T11614,Cloud Data Security Solutions,Information Systems,Computer Science,Physical Sciences
+T14509,demographic modeling and climate adaptation,"Geography, Planning and Development",Social Sciences,Social Sciences
+T11021,ECG Monitoring and Analysis,Cardiology and Cardiovascular Medicine,Medicine,Health Sciences
+T10203,Recommender Systems and Techniques,Information Systems,Computer Science,Physical Sciences
+T11361,Digital Radiography and Breast Imaging,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences
+T10824,Image Retrieval and Classification Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T13643,Artificial Intelligence in Law,Law,Social Sciences,Social Sciences
+T11076,Policing Practices and Perceptions,Political Science and International Relations,Social Sciences,Social Sciences
+T10425,Cold Atom Physics and Bose-Einstein Condensates,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T10799,Data Visualization and Analytics,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+T10243,Statistical Methods and Bayesian Inference,Statistics and Probability,Mathematics,Physical Sciences
+T13141,Statistical Methods and Applications,Statistics and Probability,Mathematics,Physical Sciences
+T13720,Benford’s Law and Fraud Detection,Statistics and Probability,Mathematics,Physical Sciences
+T10538,Data Mining Algorithms and Applications,Information Systems,Computer Science,Physical Sciences
+T13969,Flooding and Environmental Impact,General Engineering,Engineering,Physical Sciences
+T10711,Target Tracking and Data Fusion in Sensor Networks,Artificial Intelligence,Computer Science,Physical Sciences
+T11233,Advanced Adaptive Filtering Techniques,Signal Processing,Computer Science,Physical Sciences
+T11325,Inertial Sensor and Navigation,Aerospace Engineering,Engineering,Physical Sciences
+T13083,Advanced Text Analysis Techniques,Artificial Intelligence,Computer Science,Physical Sciences
+T10591,Theoretical and Computational Physics,Condensed Matter Physics,Physics and Astronomy,Physical Sciences
+T13921,Biological Stains and Phytochemicals,Pathology and Forensic Medicine,Medicine,Health Sciences
+T11019,Image Enhancement Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T13373,Data Mining and Machine Learning Applications,Information Systems,Computer Science,Physical Sciences
+T14260,Impact of AI and Big Data on Business and Society,Management Science and Operations Research,Decision Sciences,Social Sciences
+T10845,Advanced Causal Inference Techniques,Statistics and Probability,Mathematics,Physical Sciences
+T10778,Philosophy of Biology and Scientific Explanation,History and Philosophy of Science,Arts and Humanities,Social Sciences
+T11010,"Logic, Reasoning, and Knowledge",Artificial Intelligence,Computer Science,Physical Sciences
+T10042,Neural and Behavioral Psychology Studies,Cognitive Neuroscience,Neuroscience,Life Sciences
+T12848,Psychological Testing and Assessment,Applied Psychology,Psychology,Social Sciences
+T11187,Nonlinear Dynamics and Pattern Formation,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+T10951,Cryptographic Implementations and Security,Artificial Intelligence,Computer Science,Physical Sciences
+T11130,Coding theory and cryptography,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences
+T11693,Cryptography and Residue Arithmetic,Information Systems,Computer Science,Physical Sciences
+T10720,Complexity and Algorithms in Graphs,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T13696,Technology's Impact on Media,Communication,Social Sciences,Social Sciences
+T11911,Spatial and Panel Data Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T12056,Markov Chains and Monte Carlo Methods,Statistics and Probability,Mathematics,Physical Sciences
+T11236,Control Systems and Identification,Control and Systems Engineering,Engineering,Physical Sciences
+T12784,Modular Robots and Swarm Intelligence,Mechanical Engineering,Engineering,Physical Sciences
+T11210,Mathematical Analysis and Transform Methods,Applied Mathematics,Mathematics,Physical Sciences
+T11045,"Privacy, Security, and Data Protection",Sociology and Political Science,Social Sciences,Social Sciences
+T10467,Psychometric Methodologies and Testing,Management Science and Operations Research,Decision Sciences,Social Sciences
+T12321,Insect Pheromone Research and Control,Insect Science,Agricultural and Biological Sciences,Life Sciences
+T12391,Artificial Immune Systems Applications,Artificial Intelligence,Computer Science,Physical Sciences
+T14025,Educational Technology and Assessment,Information Systems,Computer Science,Physical Sciences
+T12676,Machine Learning and ELM,Artificial Intelligence,Computer Science,Physical Sciences
+T13291,Political Theory and Democracy,Political Science and International Relations,Social Sciences,Social Sciences
+T10953,E-Government and Public Services,Political Science and International Relations,Social Sciences,Social Sciences
+T10876,Fault Detection and Control Systems,Control and Systems Engineering,Engineering,Physical Sciences
+T10218,Sepsis Diagnosis and Treatment,Critical Care and Intensive Care Medicine,Medicine,Health Sciences
+T13625,Journalism and Media Studies,Communication,Social Sciences,Social Sciences
+T10133,News Media Framing and Political Communication,Communication,Social Sciences,Social Sciences
+T11743,Political Economy and Marxism,Sociology and Political Science,Social Sciences,Social Sciences
+T11653,Financial Distress and Bankruptcy Prediction,Accounting,"Business, Management and Accounting",Social Sciences
+T12592,Opinion Dynamics and Social Influence,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+T10863,Voice and Speech Disorders,Speech and Hearing,Health Professions,Health Sciences
+T11704,Mobile Crowdsensing and Crowdsourcing,Computer Science Applications,Computer Science,Physical Sciences
+T11006,BIM and Construction Integration,Building and Construction,Engineering,Physical Sciences
+T12698,3D Modeling in Geospatial Applications,Building and Construction,Engineering,Physical Sciences
+T12380,Authorship Attribution and Profiling,Artificial Intelligence,Computer Science,Physical Sciences
+T12377,Digital Humanities and Scholarship,Literature and Literary Theory,Arts and Humanities,Social Sciences
+T13910,Computational and Text Analysis Methods,General Social Sciences,Social Sciences,Social Sciences
+T10531,Advanced Vision and Imaging,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10653,Robot Manipulation and Learning,Control and Systems Engineering,Engineering,Physical Sciences
+T10191,Robotics and Sensor-Based Localization,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10317,Advanced Database Systems and Queries,Information Systems,Computer Science,Physical Sciences
+T14330,Library Science and Information Systems,Information Systems,Computer Science,Physical Sciences
+T14280,Big Data Technologies and Applications,Information Systems and Management,Decision Sciences,Social Sciences
+T14201,Data Analysis and Archiving,Sociology and Political Science,Social Sciences,Social Sciences
+T11414,Quantum optics and atomic interactions,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T13935,Mathematical Control Systems and Analysis,Artificial Intelligence,Computer Science,Physical Sciences
+T11477,"Epistemology, Ethics, and Metaphysics",Philosophy,Arts and Humanities,Social Sciences
+T11707,Gaze Tracking and Assistive Technology,Human-Computer Interaction,Computer Science,Physical Sciences
+T10745,Heart Rate Variability and Autonomic Control,Cardiology and Cardiovascular Medicine,Medicine,Health Sciences
+T14435,Information Retrieval and Data Mining,Information Systems,Computer Science,Physical Sciences
+T14400,Medical Coding and Health Information,Health Information Management,Health Professions,Health Sciences
+T10792,Matrix Theory and Algorithms,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T10709,Social Robot Interaction and HRI,Social Psychology,Psychology,Social Sciences
+T13523,"Mathematics, Computing, and Information Processing",Computational Theory and Mathematics,Computer Science,Physical Sciences
+T14029,Thoreau and American Literature,Health Information Management,Health Professions,Health Sciences
+T12496,Color perception and design,Social Psychology,Psychology,Social Sciences
+T10586,Robotic Path Planning Algorithms,Control and Systems Engineering,Engineering,Physical Sciences
+T12119,Linguistics and Discourse Analysis,Linguistics and Language,Social Sciences,Social Sciences
+T10318,Criminal Justice and Corrections Analysis,Sociology and Political Science,Social Sciences,Social Sciences
+T12794,Adaptive Dynamic Programming Control,Control and Systems Engineering,Engineering,Physical Sciences
+T10791,Advanced Control Systems Optimization,Control and Systems Engineering,Engineering,Physical Sciences
+T13248,Healthcare Technology and Patient Monitoring,Surgery,Medicine,Health Sciences
+T10331,Video Surveillance and Tracking Methods,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11241,Advanced Malware Detection Techniques,Software,Computer Science,Physical Sciences
+T12034,Digital and Cyber Forensics,Information Systems,Computer Science,Physical Sciences
+T11640,Linguistic Variation and Morphology,Linguistics and Language,Social Sciences,Social Sciences
+T13912,"Language, Linguistics, Cultural Analysis",Language and Linguistics,Arts and Humanities,Social Sciences
+T11196,Non-Invasive Vital Sign Monitoring,Biomedical Engineering,Engineering,Physical Sciences
+T11932,Wireless Body Area Networks,Biomedical Engineering,Engineering,Physical Sciences
+T10582,Ethics in Clinical Research,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences
+T10609,Digital Marketing and Social Media,Marketing,"Business, Management and Accounting",Social Sciences
+T13170,Discrimination and Equality Law,Law,Social Sciences,Social Sciences
+T13812,AI and HR Technologies,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T11195,Simulation Techniques and Applications,Management Science and Operations Research,Decision Sciences,Social Sciences
+T10136,Statistical Methods and Inference,Statistics and Probability,Mathematics,Physical Sciences
+T10241,Functional Brain Connectivity Studies,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10444,Context-Aware Activity Recognition Systems,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10121,Building Energy and Comfort Optimization,Building and Construction,Engineering,Physical Sciences
+T10968,Statistical Distribution Estimation and Applications,Statistics and Probability,Mathematics,Physical Sciences
+T10820,Fuzzy Logic and Control Systems,Artificial Intelligence,Computer Science,Physical Sciences
+T11727,Advanced Algebra and Logic,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T11596,Constraint Satisfaction and Optimization,Artificial Intelligence,Computer Science,Physical Sciences
+T10500,Sparse and Compressive Sensing Techniques,Signal Processing,Computer Science,Physical Sciences
+T11937,Research Data Management Practices,Information Systems,Computer Science,Physical Sciences
+T11490,Hydrological Forecasting Using AI,Environmental Engineering,Environmental Science,Physical Sciences
+T10297,Philosophical Ethics and Theory,Philosophy,Arts and Humanities,Social Sciences
+T11099,Autonomous Vehicle Technology and Safety,Automotive Engineering,Engineering,Physical Sciences
+T13674,Computer Science and Engineering,Artificial Intelligence,Computer Science,Physical Sciences
+T12268,Deception detection and forensic psychology,Social Psychology,Psychology,Social Sciences
+T12135,Fuzzy Systems and Optimization,Statistics and Probability,Mathematics,Physical Sciences
+T10468,Photovoltaic System Optimization Techniques,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences
+T11276,Solar Radiation and Photovoltaics,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences
+T11500,Evacuation and Crowd Dynamics,Safety Research,Social Sciences,Social Sciences
+T13155,Digital Communication and Language,Linguistics and Language,Social Sciences,Social Sciences
+T11719,Data Quality and Management,Information Systems,Computer Science,Physical Sciences
+T11413,Risk and Portfolio Optimization,Management Science and Operations Research,Decision Sciences,Social Sciences
+T11710,Biomedical Text Mining and Ontologies,Health Informatics,Medicine,Health Sciences
+T10676,"Genetics, Aging, and Longevity in Model Organisms",Aging,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T10927,Access Control and Trust,Computer Networks and Communications,Computer Science,Physical Sciences
+T10567,Vehicle Routing Optimization Methods,Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+T10429,EEG and Brain-Computer Interfaces,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10784,Muscle activation and electromyography studies,Biomedical Engineering,Engineering,Physical Sciences
+T10734,Information and Cyber Security,Information Systems,Computer Science,Physical Sciences
+T11479,Smart Cities and Technologies,Urban Studies,Social Sciences,Social Sciences
+T11545,Advanced Banach Space Theory,Mathematical Physics,Mathematics,Physical Sciences
+T10142,Formal Methods in Verification,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T11329,Limits and Structures in Graph Theory,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences
+T13018,Seismology and Earthquake Studies,Artificial Intelligence,Computer Science,Physical Sciences
+T10110,earthquake and tectonic studies,Geophysics,Earth and Planetary Sciences,Physical Sciences
+T11757,Seismic Waves and Analysis,Geophysics,Earth and Planetary Sciences,Physical Sciences
+T10719,3D Shape Modeling and Analysis,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+T10314,Social and Intergroup Psychology,Sociology and Political Science,Social Sciences,Social Sciences
+T10772,Distributed systems and fault tolerance,Computer Networks and Communications,Computer Science,Physical Sciences
+T10299,Photonic and Optical Devices,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10249,Distributed Control Multi-Agent Systems,Control and Systems Engineering,Engineering,Physical Sciences
+T10125,Advanced Wireless Communication Techniques,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T11458,Advanced Wireless Communication Technologies,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T11438,Retinal Imaging and Analysis,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences
+T14394,Cognitive Science and Education Research,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10103,Reading and Literacy Development,Developmental and Educational Psychology,Psychology,Social Sciences
+T11904,Spatial Cognition and Navigation,Experimental and Cognitive Psychology,Psychology,Social Sciences
+T10688,Image and Signal Denoising Methods,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10208,Labor market dynamics and wage inequality,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T12313,Emotions and Moral Behavior,Social Psychology,Psychology,Social Sciences
+T12650,Aesthetic Perception and Analysis,Cognitive Neuroscience,Neuroscience,Life Sciences
+T12029,DNA and Biological Computing,Theoretical Computer Science,Mathematics,Physical Sciences
+T11252,Evolutionary Game Theory and Cooperation,Sociology and Political Science,Social Sciences,Social Sciences
+T10039,"Stellar, planetary, and galactic studies",Astronomy and Astrophysics,Physics and Astronomy,Physical Sciences
+T12917,Astronomy and Astrophysical Research,Instrumentation,Physics and Astronomy,Physical Sciences
+T13274,Expert finding and Q&A systems,Information Systems,Computer Science,Physical Sciences
+T10689,Remote-Sensing Image Classification,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T12478,Wikis in Education and Collaboration,Communication,Social Sciences,Social Sciences
+T10054,Parallel Computing and Optimization Techniques,Hardware and Architecture,Computer Science,Physical Sciences
+T11206,Model Reduction and Neural Networks,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+T13855,Aerospace Engineering and Control Systems,Aerospace Engineering,Engineering,Physical Sciences
+T10101,Cloud Computing and Resource Management,Information Systems,Computer Science,Physical Sciences
+T10102,scientometrics and bibliometrics research,Library and Information Sciences,Social Sciences,Social Sciences
+T10714,Software-Defined Networks and 5G,Computer Networks and Communications,Computer Science,Physical Sciences
+T12885,Digital Innovation in Industries,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences
+T12205,Time Series Analysis and Forecasting,Signal Processing,Computer Science,Physical Sciences
+T11106,Data Management and Algorithms,Information Systems,Computer Science,Physical Sciences
+T10244,Chaos control and synchronization,Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+T10588,Mathematical Dynamics and Fractals,Mathematical Physics,Mathematics,Physical Sciences
+T10055,Diverse Aspects of Tourism Research,"Tourism, Leisure and Hospitality Management","Business, Management and Accounting",Social Sciences
+T12488,Mental Health via Writing,Social Psychology,Psychology,Social Sciences
+T10040,Adaptive Control of Nonlinear Systems,Control and Systems Engineering,Engineering,Physical Sciences
+T11996,Random lasers and scattering media,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T12290,Human Motion and Animation,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+T10879,Robotic Locomotion and Control,Control and Systems Engineering,Engineering,Physical Sciences
+T10718,Political Philosophy and Ethics,Political Science and International Relations,Social Sciences,Social Sciences
+T10928,Probabilistic and Robust Engineering Design,Computational Mechanics,Engineering,Physical Sciences
+T11696,Conflict Management and Negotiation,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T10557,Social Media and Politics,Communication,Social Sciences,Social Sciences
+T12702,Brain Tumor Detection and Classification,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T10524,Traffic control and management,Control and Systems Engineering,Engineering,Physical Sciences
+T13650,Computational Physics and Python Applications,Software,Computer Science,Physical Sciences
+T13038,Internet of Things and AI,Information Systems,Computer Science,Physical Sciences
+T10273,IoT and Edge/Fog Computing,Computer Networks and Communications,Computer Science,Physical Sciences
+T11017,Chaos-based Image/Signal Encryption,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T11504,Advanced Authentication Protocols Security,Computer Networks and Communications,Computer Science,Physical Sciences
+T11158,Wireless Networks and Protocols,Computer Networks and Communications,Computer Science,Physical Sciences
+T13295,Safety Systems Engineering in Autonomy,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences
+T11572,Information Technology Governance and Strategy,Management Information Systems,"Business, Management and Accounting",Social Sciences
+T14036,Literary and Philosophical Studies,Law,Social Sciences,Social Sciences
+T10021,EFL/ESL Teaching and Learning,Language and Linguistics,Arts and Humanities,Social Sciences
+T13293,Engineering and Test Systems,Control and Systems Engineering,Engineering,Physical Sciences
+T10177,Palliative Care and End-of-Life Issues,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences
+T10370,Traffic and Road Safety,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences
+T10022,Semiconductor Quantum Structures and Devices,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+T10326,Indoor and Outdoor Localization Technologies,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10991,Game Theory and Voting Systems,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T12122,Physical Unclonable Functions (PUFs) and Hardware Security,Hardware and Architecture,Computer Science,Physical Sciences
+T10485,"Bullying, Victimization, and Aggression",Social Psychology,Psychology,Social Sciences
+T13745,Media and Digital Communication,Communication,Social Sciences,Social Sciences
+T10891,Radar Systems and Signal Processing,Aerospace Engineering,Engineering,Physical Sciences
+T10245,Metamaterials and Metasurfaces Applications,"Electronic, Optical and Magnetic Materials",Materials Science,Physical Sciences
+T11986,Scientific Computing and Data Management,Information Systems and Management,Decision Sciences,Social Sciences
+T11930,"Cardiac, Anesthesia and Surgical Outcomes",Cardiology and Cardiovascular Medicine,Medicine,Health Sciences
+T13500,Probability and Statistical Research,Statistics and Probability,Mathematics,Physical Sciences
+T11764,Evolution and Genetic Dynamics,Genetics,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T10211,Computational Drug Discovery Methods,Drug Discovery,"Pharmacology, Toxicology and Pharmaceutics",Life Sciences
+T10525,Human-Automation Interaction and Safety,Human Factors and Ergonomics,Social Sciences,Social Sciences
+T10271,Seismic Imaging and Inversion Techniques,Geophysics,Earth and Planetary Sciences,Physical Sciences
+T10982,Motor Control and Adaptation,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10158,Cancer Immunotherapy and Biomarkers,Oncology,Medicine,Health Sciences
+T11289,Single-cell and spatial transcriptomics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T11058,Ethics in Business and Education,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T10470,Usability and User Interface Design,Human-Computer Interaction,Computer Science,Physical Sciences
+T10702,Insect and Arachnid Ecology and Behavior,Insect Science,Agricultural and Biological Sciences,Life Sciences
+T13619,Geotechnical and Geomechanical Engineering,Mechanics of Materials,Engineering,Physical Sciences
+T12694,"Categorization, perception, and language",Experimental and Cognitive Psychology,Psychology,Social Sciences
+T12888,Military Strategy and Technology,Control and Systems Engineering,Engineering,Physical Sciences
+T10918,Memory Processes and Influences,Cognitive Neuroscience,Neuroscience,Life Sciences
+T13173,Gender Studies in Language,Gender Studies,Social Sciences,Social Sciences
+T11687,Teleoperation and Haptic Systems,Mechanical Engineering,Engineering,Physical Sciences
+T11476,Graph theory and applications,Discrete Mathematics and Combinatorics,Mathematics,Physical Sciences
+T10552,Colorectal Cancer Screening and Detection,Oncology,Medicine,Health Sciences
+T10696,Gastric Cancer Management and Outcomes,Oncology,Medicine,Health Sciences
+T10156,"LGBTQ Health, Identity, and Policy",Social Psychology,Psychology,Social Sciences
+T12519,Cybercrime and Law Enforcement Studies,Law,Social Sciences,Social Sciences
+T10199,Wildlife Ecology and Conservation,Ecology,Environmental Science,Physical Sciences
+T12943,COVID-19 Digital Contact Tracing,Information Systems,Computer Science,Physical Sciences
+T11948,Machine Learning in Materials Science,Materials Chemistry,Materials Science,Physical Sciences
+T12016,Web Data Mining and Analysis,Information Systems,Computer Science,Physical Sciences
+T10392,Cutaneous Melanoma Detection and Management,Oncology,Medicine,Health Sciences
+T13885,Geophysics and Sensor Technology,Geophysics,Earth and Planetary Sciences,Physical Sciences
+T14427,Environmental Monitoring and Data Management,"Management, Monitoring, Policy and Law",Environmental Science,Physical Sciences
+T10757,Geographic Information Systems Studies,"Geography, Planning and Development",Social Sciences,Social Sciences
+T13382,Robotics and Automated Systems,Control and Systems Engineering,Engineering,Physical Sciences
+T10481,Computer Graphics and Visualization Techniques,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+T13629,Text Readability and Simplification,Linguistics and Language,Social Sciences,Social Sciences
+T11953,"Neuroethics, Human Enhancement, Biomedical Innovations",Philosophy,Arts and Humanities,Social Sciences
+T14401,"Technology, Environment, Urban Planning",Philosophy,Arts and Humanities,Social Sciences
+T12879,Distributed Sensor Networks and Detection Algorithms,Computer Networks and Communications,Computer Science,Physical Sciences
+T11734,Decision Support System Applications,Management Information Systems,"Business, Management and Accounting",Social Sciences
+T11398,Hand Gesture Recognition Systems,Human-Computer Interaction,Computer Science,Physical Sciences
+T10964,Wireless Communication Security Techniques,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10126,"Logic, programming, and type systems",Software,Computer Science,Physical Sciences
+T10514,Numerical methods in engineering,Mechanics of Materials,Engineering,Physical Sciences
+T11270,Complex Systems and Time Series Analysis,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T13283,Mental Health Research Topics,Experimental and Cognitive Psychology,Psychology,Social Sciences
+T12303,Tensor decomposition and applications,Computational Mathematics,Mathematics,Physical Sciences
+T11357,Risk and Safety Analysis,"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences
+T11409,Advanced Wireless Network Optimization,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T12353,Lexicography and Language Studies,Language and Linguistics,Arts and Humanities,Social Sciences
+T11429,Semiconductor Lasers and Optical Devices,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T13717,Advanced Algorithms and Applications,Control and Systems Engineering,Engineering,Physical Sciences
+T10684,Acute Kidney Injury Research,Nephrology,Medicine,Health Sciences
+T12970,"Names, Identity, and Discrimination Research",Sociology and Political Science,Social Sciences,Social Sciences
+T12908,"Media, Gender, and Advertising",Gender Studies,Social Sciences,Social Sciences
+T10270,Blockchain Technology Applications and Security,Information Systems,Computer Science,Physical Sciences
+T13959,"Swearing, Euphemism, Multilingualism",Communication,Social Sciences,Social Sciences
+T10067,Stochastic processes and financial applications,Finance,"Economics, Econometrics and Finance",Social Sciences
+T10551,Scheduling and Optimization Algorithms,Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+T10529,Stress Responses and Cortisol,Behavioral Neuroscience,Neuroscience,Life Sciences
+T10068,Technology Adoption and User Behaviour,Information Systems and Management,Decision Sciences,Social Sciences
+T11659,Advanced Image Fusion Techniques,Media Technology,Engineering,Physical Sciences
+T13603,Corporate Social Responsibility and Sustainability,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T12157,Geochemistry and Geologic Mapping,Geochemistry and Petrology,Earth and Planetary Sciences,Physical Sciences
+T14123,Decolonial Thought and Epistemologies,Anthropology,Social Sciences,Social Sciences
+T11873,PAPR reduction in OFDM,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10540,Advanced Fluorescence Microscopy Techniques,Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T14389,"Innovation, Technology, and Society",Sociology and Political Science,Social Sciences,Social Sciences
+T14222,Knowledge Management and Technology,Information Systems and Management,Decision Sciences,Social Sciences
+T10466,Meteorological Phenomena and Simulations,Atmospheric Science,Earth and Planetary Sciences,Physical Sciences
+T13565,Education and Learning Interventions,Education,Social Sciences,Social Sciences
+T11820,Learning Styles and Cognitive Differences,Developmental and Educational Psychology,Psychology,Social Sciences
+T11026,Occupational and environmental lung diseases,Pulmonary and Respiratory Medicine,Medicine,Health Sciences
+T12851,Firm Innovation and Growth,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T10393,Economic Growth and Productivity,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T12125,Aerospace and Aviation Technology,Aerospace Engineering,Engineering,Physical Sciences
+T12799,Mobile and Web Applications,Information Systems,Computer Science,Physical Sciences
+T14432,Freedom of Expression and Defamation,Law,Social Sciences,Social Sciences
+T11416,Numerical Solvers for Ordinary Differential Equations,Numerical Analysis,Mathematics,Physical Sciences
+T14374,Statistical Methods in Epidemiology,Statistics and Probability,Mathematics,Physical Sciences
+T13362,Slime Mold and Myxomycetes Research,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,Life Sciences
+T13727,Linguistic and Sociocultural Studies,Linguistics and Language,Social Sciences,Social Sciences
+T10003,Innovation and Knowledge Management,Strategy and Management,"Business, Management and Accounting",Social Sciences
+T12160,African cultural and philosophical studies,Philosophy,Arts and Humanities,Social Sciences
+T12424,Earthquake Detection and Analysis,Geophysics,Earth and Planetary Sciences,Physical Sciences
+T12111,Industrial Vision Systems and Defect Detection,Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+T12515,Gender and Technology in Education,Gender Studies,Social Sciences,Social Sciences
+T13287,Robotic Process Automation Applications,Management Information Systems,"Business, Management and Accounting",Social Sciences
+T10213,Public Policy and Administration Research,Public Administration,Social Sciences,Social Sciences
+T11995,"FinTech, Crowdfunding, Digital Finance",Management Information Systems,"Business, Management and Accounting",Social Sciences
+T10124,Prostate Cancer Diagnosis and Treatment,Urology,Medicine,Health Sciences
+T11287,Cancer Genomics and Diagnostics,Cancer Research,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T10335,Colorectal Cancer Surgical Treatments,Oncology,Medicine,Health Sciences
+T12549,Image and Object Detection Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T14114,Digital Media and Philosophy,Communication,Social Sciences,Social Sciences
+T10853,"Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",Experimental and Cognitive Psychology,Psychology,Social Sciences
+T10767,Advanced Photonic Communication Systems,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10047,Financial Markets and Investment Strategies,Finance,"Economics, Econometrics and Finance",Social Sciences
+T10007,Monetary Policy and Economic Impact,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences
+T13979,Communication and COVID-19 Impact,Communication,Social Sciences,Social Sciences
+T11819,Data-Driven Disease Surveillance,Epidemiology,Medicine,Health Sciences
+T10383,"Language, Discourse, Communication Strategies",Language and Linguistics,Arts and Humanities,Social Sciences
+T11606,Infrastructure Maintenance and Monitoring,Civil and Structural Engineering,Engineering,Physical Sciences
+T11023,Prosthetics and Rehabilitation Robotics,Biomedical Engineering,Engineering,Physical Sciences
+T11775,COVID-19 diagnosis using AI,"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences
+T11645,"Urban, Neighborhood, and Segregation Studies",Sociology and Political Science,Social Sciences,Social Sciences
+T10162,Online and Blended Learning,Education,Social Sciences,Social Sciences
+T10260,Software Engineering Research,Information Systems,Computer Science,Physical Sciences
+T12238,Green IT and Sustainability,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T12379,Cancer Diagnosis and Treatment,Oncology,Medicine,Health Sciences
+T11300,Global Educational Policies and Reforms,Political Science and International Relations,Social Sciences,Social Sciences
+T11121,Public Relations and Crisis Communication,Communication,Social Sciences,Social Sciences
+T12210,Policy Transfer and Learning,Political Science and International Relations,Social Sciences,Social Sciences
+T12185,Regulation and Compliance Studies,Public Administration,Social Sciences,Social Sciences
+T10119,Sustainability and Climate Change Governance,Global and Planetary Change,Environmental Science,Physical Sciences
+T13498,Economic Development and Digital Transformation,"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences
+T11321,Error Correcting Code Techniques,Computer Networks and Communications,Computer Science,Physical Sciences
+T13851,"Law, AI, and Intellectual Property",Artificial Intelligence,Computer Science,Physical Sciences
+T11980,Human Mobility and Location-Based Analysis,Transportation,Social Sciences,Social Sciences
+T11105,Advanced Image Processing Techniques,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T12790,Nursing Diagnosis and Documentation,Research and Theory,Nursing,Health Sciences
+T10616,Smart Agriculture and AI,Plant Science,Agricultural and Biological Sciences,Life Sciences
+T10430,Software Engineering Techniques and Practices,Information Systems,Computer Science,Physical Sciences
+T10329,Thyroid Cancer Diagnosis and Treatment,"Endocrinology, Diabetes and Metabolism",Medicine,Health Sciences
+T10298,Urban Transport and Accessibility,Transportation,Social Sciences,Social Sciences
+T10763,Digital Transformation in Industry,Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+T10648,Virtual Reality Applications and Impacts,Human-Computer Interaction,Computer Science,Physical Sciences
+T10888,Augmented Reality Applications,Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+T12415,Employer Branding and e-HRM,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T10305,Power System Optimization and Stability,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T12451,Smart Grid and Power Systems,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T13309,Reliability and Agreement in Measurement,"Statistics, Probability and Uncertainty",Decision Sciences,Social Sciences
+T11185,Integrated Energy Systems Optimization,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T13975,"Energy, Economy, and Technology Trends","Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences
+T10917,Smart Grid Security and Resilience,Control and Systems Engineering,Engineering,Physical Sciences
+T14147,Innovative Approaches in Technology and Social Development,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences
+T10037,Physics of Superconductivity and Magnetism,Condensed Matter Physics,Physics and Astronomy,Physical Sciences
+T12079,IoT Networks and Protocols,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T11349,Music Technology and Sound Studies,Music,Arts and Humanities,Social Sciences
+T11741,Flexible and Reconfigurable Manufacturing Systems,Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+T13832,Advanced Decision-Making Techniques,Information Systems,Computer Science,Physical Sciences
+T13892,Aquatic life and conservation,Aquatic Science,Agricultural and Biological Sciences,Life Sciences
+T11977,Technology Use by Older Adults,Geriatrics and Gerontology,Medicine,Health Sciences
+T11265,Aging and Gerontology Research,Developmental and Educational Psychology,Psychology,Social Sciences
+T10058,Entrepreneurship Studies and Influences,Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences
+T12479,Web Application Security Vulnerabilities,Information Systems,Computer Science,Physical Sciences
+T11492,Academic integrity and plagiarism,Education,Social Sciences,Social Sciences
+T13516,Publishing and Scholarly Communication,Library and Information Sciences,Social Sciences,Social Sciences
+T12601,Web Applications and Data Management,Information Systems,Computer Science,Physical Sciences
+T12648,Academic Writing and Publishing,Library and Information Sciences,Social Sciences,Social Sciences
+T14458,Education and Work Dynamics,Sociology and Political Science,Social Sciences,Social Sciences
+T10258,Philosophy and Theoretical Science,Philosophy,Arts and Humanities,Social Sciences
+T13718,Media Influence and Politics,Sociology and Political Science,Social Sciences,Social Sciences
+T10672,Design Education and Practice,Mechanical Engineering,Engineering,Physical Sciences
+T10048,Particle physics theoretical and experimental studies,Nuclear and High Energy Physics,Physics and Astronomy,Physical Sciences
+T10959,Student Assessment and Feedback,Education,Social Sciences,Social Sciences
+T12326,Network Packet Processing and Optimization,Hardware and Architecture,Computer Science,Physical Sciences
+T12254,Machine Learning in Bioinformatics,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+T13081,Digital Education and Society,Education,Social Sciences,Social Sciences
+T10789,Interactive and Immersive Displays,Human-Computer Interaction,Computer Science,Physical Sciences
+T13216,Artistic and Creative Research,Visual Arts and Performing Arts,Arts and Humanities,Social Sciences
+T14254,Digital Media and Visual Art,Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+T13235,Management Theory and Practice,Organizational Behavior and Human Resource Management,"Business, Management and Accounting",Social Sciences
+T10315,Decision-Making and Behavioral Economics,General Decision Sciences,Decision Sciences,Social Sciences
+T14457,Intellectual Property Rights and Media,Law,Social Sciences,Social Sciences
+T10231,Pancreatic and Hepatic Oncology Research,Oncology,Medicine,Health Sciences
+T11040,Personality Traits and Psychology,Clinical Psychology,Psychology,Social Sciences
+T14234,Data Privacy and Cybersecurity,Law,Social Sciences,Social Sciences
+T14002,"Art, Technology, and Culture",Visual Arts and Performing Arts,Arts and Humanities,Social Sciences
+T10603,Smart Grid Energy Management,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T12520,Psychology of Moral and Emotional Judgment,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10029,Climate variability and models,Global and Planetary Change,Environmental Science,Physical Sciences
+T13530,Climate Change and Environmental Impact,Global and Planetary Change,Environmental Science,Physical Sciences
+T10730,Language Development and Disorders,Developmental and Educational Psychology,Psychology,Social Sciences
+T13913,Blockchain Technology in Education and Learning,Information Systems,Computer Science,Physical Sciences
+T11002,Indoor Air Quality and Microbial Exposure,"Health, Toxicology and Mutagenesis",Environmental Science,Physical Sciences
+T12194,Cultural Competency in Health Care,"Public Health, Environmental and Occupational Health",Medicine,Health Sciences
+T10656,Child and Animal Learning Development,Developmental and Educational Psychology,Psychology,Social Sciences
+T14185,"Research, Science, and Academia",Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences
+T11454,Cultural Differences and Values,Social Psychology,Psychology,Social Sciences
+T13286,Modeling and Simulation Systems,Modeling and Simulation,Mathematics,Physical Sciences
+T13151,Business Strategies and Innovation,Strategy and Management,"Business, Management and Accounting",Social Sciences
+T10829,Interconnection Networks and Systems,Computer Networks and Communications,Computer Science,Physical Sciences
+T13918,Advanced Data and IoT Technologies,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T14074,Persona Design and Applications,Human-Computer Interaction,Computer Science,Physical Sciences
+T11918,Forecasting Techniques and Applications,Management Science and Operations Research,Decision Sciences,Social Sciences
+T11079,Creativity in Education and Neuroscience,Experimental and Cognitive Psychology,Psychology,Social Sciences
+T13432,Environmental Sustainability and Technology,"Management, Monitoring, Policy and Law",Environmental Science,Physical Sciences
+T10465,Neurobiology of Language and Bilingualism,Cognitive Neuroscience,Neuroscience,Life Sciences
+T10374,Advanced Graph Theory Research,Computational Theory and Mathematics,Computer Science,Physical Sciences
+T10646,Experimental Behavioral Economics Studies,Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+T10747,Disaster Management and Resilience,Sociology and Political Science,Social Sciences,Social Sciences
+T10206,Meta-analysis and systematic reviews,"Statistics, Probability and Uncertainty",Decision Sciences,Social Sciences
+T13841,Psychology of Social Influence,Social Psychology,Psychology,Social Sciences
+T12320,Feminist Epistemology and Gender Studies,Sociology and Political Science,Social Sciences,Social Sciences
+T11519,Digital Mental Health Interventions,Applied Psychology,Psychology,Social Sciences
+T12522,Mathematics Education and Pedagogy,Education,Social Sciences,Social Sciences
+T14411,Undergraduate Neuroscience Education and Research,Education,Social Sciences,Social Sciences
+T13795,"Language, Communication, and Linguistic Studies",Communication,Social Sciences,Social Sciences
+T10556,Global Cancer Incidence and Screening,Oncology,Medicine,Health Sciences
+T10868,Soft Robotics and Applications,Biomedical Engineering,Engineering,Physical Sciences
+T11883,Embodied and Extended Cognition,Cognitive Neuroscience,Neuroscience,Life Sciences
+T13607,Academic Publishing and Open Access,Library and Information Sciences,Social Sciences,Social Sciences
+T13585,Technostress in Professional Settings,Social Psychology,Psychology,Social Sciences
+T12277,Frequency Control in Power Systems,Electrical and Electronic Engineering,Engineering,Physical Sciences
+T10223,Microgrid Control and Optimization,Control and Systems Engineering,Engineering,Physical Sciences
