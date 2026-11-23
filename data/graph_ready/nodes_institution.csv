@@ -1,0 +1,1138 @@
+institution_id:ID(Institution),name,country_code,ror
+I4210090411,Google DeepMind (United Kingdom),GB,https://ror.org/00971b260
+I139264467,Seoul National University,KR,https://ror.org/04h9pn542
+I1291425158,Google (United States),US,https://ror.org/00njsd438
+I1326498283,Institut national de recherche en sciences et technologies du numérique,FR,https://ror.org/02kvxyf05
+I277688954,Université Paris-Saclay,FR,https://ror.org/03xjwb503
+I200769079,Hong Kong University of Science and Technology,HK,https://ror.org/00q4vv597
+I160993911,Queensland University of Technology,AU,https://ror.org/03pnv4752
+I4210119257,University of Information Technology and Communications,IQ,https://ror.org/028h0pd91
+I171256487,University of Technology - Iraq,IQ,https://ror.org/01w1ehb86
+I4210115078,Middle Technical University,IQ,https://ror.org/02fvkg758
+I76835614,University of Missouri,US,https://ror.org/02ymw8z06
+I191420491,Universidad de Jaén,ES,https://ror.org/0122p5f64
+I4405266776,University of Sumer,IQ,https://ror.org/05fsahm30
+I11983389,Manchester Metropolitan University,GB,https://ror.org/02hstj355
+I99065089,Tsinghua University,CN,https://ror.org/03cve4549
+I139759216,Beijing University of Posts and Telecommunications,CN,https://ror.org/04w9fbh59
+I2250653659,Tencent (China),CN,https://ror.org/00hhjss72
+I19820366,Chinese Academy of Sciences,CN,https://ror.org/034t30j35
+I4210090176,Institute of Computing Technology,CN,https://ror.org/0090r4d87
+I4210165038,University of Chinese Academy of Sciences,CN,https://ror.org/05qbk4x57
+I98301712,Baidu (China),CN,https://ror.org/03vs3wt56
+I102322142,"Rutgers, The State University of New Jersey",US,https://ror.org/05vt9qd57
+I244572783,Symbiosis International University,IN,https://ror.org/005r2ww51
+I39586589,Swansea University,GB,https://ror.org/053fq8t95
+I169335092,University of North Carolina at Greensboro,US,https://ror.org/04fnxsj42
+I36234482,University of Bristol,GB,https://ror.org/0524sp257
+I19648265,Wright State University,US,https://ror.org/04qk6pt94
+I68891433,Indian Institute of Technology Delhi,IN,https://ror.org/049tgcd06
+I185163786,King Abdulaziz University,SA,https://ror.org/02ma4wv74
+I931969281,Middle Georgia State University,US,https://ror.org/01cwqb692
+I134140186,NIIT (India),IN,https://ror.org/05w6t8s34
+I142740786,University of Louisville,US,https://ror.org/01ckdn478
+I32394136,Northumbria University,GB,https://ror.org/049e6bc10
+I134085113,King Fahd University of Petroleum and Minerals,SA,https://ror.org/03yez3163
+I47818738,Sultan Qaboos University,OM,https://ror.org/04wq8zb47
+I122964287,National Institute of Technology Tiruchirappalli,IN,https://ror.org/047x65e68
+I4210131537,MBS School of Business,FR,https://ror.org/037tw3m02
+I27878738,Fore School of Management,IN,https://ror.org/02m044a46
+I150870154,Indian Institute of Management Ahmedabad,IN,https://ror.org/02egcpy68
+I91136226,University of Sheffield,GB,https://ror.org/05krs5044
+I9300472,Bournemouth University,GB,https://ror.org/05wwcw481
+I31746571,UNSW Sydney,AU,https://ror.org/03r8z3t63
+I129162050,TBS Education,FR,https://ror.org/0349y2q65
+I107077323,Worcester Polytechnic Institute,US,https://ror.org/05ejpqr48
+I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,https://ror.org/00f7hpc57
+I181647926,University of Strathclyde,GB,https://ror.org/00n3w3b69
+I71052956,University of Reading,GB,https://ror.org/05v62cm79
+I168719708,City University of Hong Kong,HK,https://ror.org/03q8dnn23
+I255234318,Universidad de Zaragoza,ES,https://ror.org/012a91z28
+I44430492,Indian Institute of Management Bangalore,IN,https://ror.org/02xxpjq61
+I204593131,College of Charleston,US,https://ror.org/00390t168
+I147554453,University of Bedfordshire,GB,https://ror.org/0400avk24
+I80281795,University of Otago,NZ,https://ror.org/01jmxt844
+I169199633,Aston University,GB,https://ror.org/05j0ve876
+I78715868,University of Arkansas at Fayetteville,US,https://ror.org/05jbt9m15
+I98358874,Delft University of Technology,NL,https://ror.org/02e2c7k09
+I171543936,Free University of Bozen-Bolzano,IT,https://ror.org/012ajp527
+I24027795,University of Johannesburg,ZA,https://ror.org/04z6c2n17
+I188538660,University of Colorado Boulder,US,https://ror.org/02ttsq026
+I2802236040,University of Colorado System,US,https://ror.org/00jc20583
+I28407311,University of Manchester,GB,https://ror.org/027m9bs27
+I9360294,University of Bologna,IT,https://ror.org/01111rn36
+I2613432,University of South Florida,US,https://ror.org/032db5x82
+I115475287,Oklahoma State University,US,https://ror.org/01g9vbr38
+I55060895,University of Greenwich,GB,https://ror.org/00bmj0a71
+I106165777,University of Central Florida,US,https://ror.org/036nfer12
+I107707843,Roskilde University,DK,https://ror.org/014axpa37
+I181418319,SKEMA Business School,FR,https://ror.org/036h8vg94
+I200650556,University of Agder,NO,https://ror.org/03x297z98
+I204778367,Norwegian University of Science and Technology,NO,https://ror.org/05xg72x27
+I78757542,University of Newcastle Australia,AU,https://ror.org/00eae9z71
+I84884186,Newcastle University,GB,https://ror.org/01kj2bm70
+I25846049,National Tsing Hua University,TW,https://ror.org/00zdnkx70
+I4394709253,Humans and management in society,FR,https://ror.org/04x97hf88
+I4390039323,Laboratoire d'Economie et de Management de Nantes Atlantique,FR,https://ror.org/04k51bq24
+I97188460,Nantes Université,FR,https://ror.org/03gnr7b55
+I2802797706,Prin. L. N. Welingkar Institute of Management Development and Research,IN,https://ror.org/0368a2w96
+I63098007,Liverpool John Moores University,GB,https://ror.org/04zfme737
+I74973139,Carnegie Mellon University,US,https://ror.org/05x2bcf33
+I165932596,National University of Singapore,SG,https://ror.org/01tgyzw49
+I2250955327,Huawei Technologies (China),CN,https://ror.org/00cmhce21
+I204983213,Harbin Institute of Technology,CN,https://ror.org/01yqg2h08
+I1304085615,Nvidia (United Kingdom),GB,https://ror.org/02kr42612
+I4210127875,Nvidia (United States),US,https://ror.org/03jdj4y14
+I4210151462,New York Genome Center,US,https://ror.org/05wf2ga96
+I57206974,New York University,US,https://ror.org/0190ak572
+I4210086933,NYU Langone Health,US,https://ror.org/005dvqh91
+I36672615,Courant Institute of Mathematical Sciences,US,https://ror.org/037tm7f56
+I114027177,University of North Carolina at Chapel Hill,US,https://ror.org/0130frc33
+I97018004,Stanford University,US,https://ror.org/00f54p054
+I194450716,Jilin University,CN,https://ror.org/00js3aw79
+I4210113369,Microsoft Research Asia (China),CN,https://ror.org/0300m5276
+I3133055985,Westlake University,CN,https://ror.org/05hfa4n20
+I4210112150,Institute of Automation,CN,https://ror.org/022c3hy66
+I20231570,Peking University,CN,https://ror.org/02v51f717
+I39422238,University of Illinois Chicago,US,https://ror.org/02mpq6x41
+I4405260899,Instituto de Investigación en Ingeniería de Aragón,ES,https://ror.org/04eqgej32
+I129604602,The University of Sydney,AU,https://ror.org/0384j8v12
+I115592961,Jiangsu University,CN,https://ror.org/03jc41j30
+I124357947,University of London,GB,https://ror.org/04cw6st05
+I98259816,"Birkbeck, University of London",GB,https://ror.org/02mb95055
+I36909309,National Institute of Technology Hamirpur,BD,https://ror.org/01nc8zs04
+I4210132580,Plymouth Marjon University,GB,https://ror.org/03f914y84
+I897542642,University of Plymouth,GB,https://ror.org/008n7pv89
+I78988378,Renmin University of China,CN,https://ror.org/041pakw92
+I136199984,Harvard University,US,https://ror.org/03vek6s52
+I4210087915,Massachusetts General Hospital,US,https://ror.org/002pd6e78
+I27804330,Brown University,US,https://ror.org/05gq02987
+I3045169105,Southern University of Science and Technology,CN,https://ror.org/049tv2d57
+I45129253,University College London,GB,https://ror.org/02jx3x895
+I177725633,Chinese University of Hong Kong,HK,https://ror.org/00t33hh48
+I4210116924,"Chinese University of Hong Kong, Shenzhen",CN,https://ror.org/02d5ks197
+I53964585,Weizmann Institute of Science,IL,https://ror.org/0316ej306
+I186995768,Università degli studi di Cassino e del Lazio Meridionale,IT,https://ror.org/04nxkaq16
+I4210099310,Consorzio Nazionale Interuniversitario per le Telecomunicazioni,IT,https://ror.org/0182a5n39
+I118347636,Australian National University,AU,https://ror.org/019wvm592
+I4210113480,Mohamed bin Zayed University of Artificial Intelligence,AE,https://ror.org/0258gkt32
+I56590836,Monash University,AU,https://ror.org/02bfwt286
+I4210116052,Inception Institute of Artificial Intelligence,AE,https://ror.org/02664zk40
+I102134673,Linköping University,SE,https://ror.org/05ynxx418
+I8087733,University of Tübingen,DE,https://ror.org/03a1kwz48
+I185261750,University of Toronto,CA,https://ror.org/03dbr7087
+I4210127509,Vector Institute,CA,https://ror.org/03kqdja62
+I59361560,Instituto Politécnico Nacional,MX,https://ror.org/059sp8j34
+I157492648,Autonomous University of Queretaro,MX,https://ror.org/00v8fdc16
+I889458895,University of Hong Kong,HK,https://ror.org/02zhqgq86
+I1299303238,National Institutes of Health,US,https://ror.org/01cwqze88
+I4210109390,National Center for Biotechnology Information,US,https://ror.org/02meqm098
+I56007636,Keele University,GB,https://ror.org/00340yn33
+I5681781,The University of Adelaide,AU,https://ror.org/00892tw58
+I114017466,University of Technology Sydney,AU,https://ror.org/03f0f6041
+I71267560,University of Naples Federico II,IT,https://ror.org/05290cv24
+I138549579,Scuola Internazionale Superiore di Studi Avanzati,IT,https://ror.org/004fze387
+I4210136793,Peng Cheng Laboratory,CN,https://ror.org/03qdqbt06
+I9927081,Aalto University,FI,https://ror.org/020hwjq30
+I172675005,Nanyang Technological University,SG,https://ror.org/02e7b5302
+I149704539,Deakin University,AU,https://ror.org/02czsnj07
+I180726961,Shenzhen University,CN,https://ror.org/01vy4gh70
+I64128412,Dibrugarh University,IN,https://ror.org/045kfbt16
+I57093077,Swinburne University of Technology,AU,https://ror.org/031rekg67
+I98381234,University of Oulu,FI,https://ror.org/03yj89h83
+I151746483,University of Waterloo,CA,https://ror.org/01aff2v68
+I4210156404,Institute of Information Engineering,CN,https://ror.org/04r53se39
+I4391768012,State Key Laboratory of Information Security,CN,https://ror.org/012cr4033
+I143578492,Asia University,TW,https://ror.org/038a1tp19
+I58236372,Ngee Ann Polytechnic,SG,https://ror.org/01w953x65
+I8696757,Singapore University of Social Sciences,SG,https://ror.org/01s57k749
+I159129438,Université du Québec à Montréal,CA,https://ror.org/002rjbv21
+I69737025,University of Chile,CL,https://ror.org/047gc3g35
+I5561750,University of Bari Aldo Moro,IT,https://ror.org/027ynra39
+I102248843,Vienna University of Economics and Business,AT,https://ror.org/03yn8s215
+I165339363,Universidad de Oviedo,ES,https://ror.org/006gksa02
+I861853513,Sapienza University of Rome,IT,https://ror.org/02be6w209
+I206945453,Paderborn University,DE,https://ror.org/058kzsd48
+I165799507,Rensselaer Polytechnic Institute,US,https://ror.org/01rtyzb94
+I135140700,University of Bonn,DE,https://ror.org/041nas322
+I66752286,University of Milano-Bicocca,IT,https://ror.org/01ynf4891
+I100066346,University of Stuttgart,DE,https://ror.org/04vnq7t77
+I43439940,University of Southampton,GB,https://ror.org/01ryk1543
+I3019848993,Mines Saint-Étienne,FR,https://ror.org/05a1dws80
+I4210100430,Google (Switzerland),CH,https://ror.org/014f9c269
+I60342839,Qatar University,QA,https://ror.org/00yhnba62
+I173911158,Iowa State University,US,https://ror.org/04rswrd78
+I859038795,Virginia Tech,US,https://ror.org/02smfhw86
+I223464139,Linnaeus University,SE,https://ror.org/00j9qag85
+I15059493,İzmir University of Economics,TR,https://ror.org/04hjr4202
+I166825849,Tampere University,FI,https://ror.org/033003e23
+I4387152565,Tampere University of Technology,FI,https://ror.org/02ba3pt07
+I4387153886,University of Tampere,FI,https://ror.org/05p6qqk79
+I27837315,University of Michigan,US,https://ror.org/00jmfr291
+I87445476,Xi'an Jiaotong University,CN,https://ror.org/017zhmm22
+I59433898,Brunel University of London,GB,https://ror.org/00dn4t376
+I86519309,The University of Texas at Austin,US,https://ror.org/00hj54h04
+I135310074,University of Wisconsin–Madison,US,https://ror.org/01y2jtd41
+I45928872,Alibaba Group (China),CN,https://ror.org/00k642b80
+I16733864,National Taiwan University,TW,https://ror.org/05bqach95
+I4405261251,The Hong Kong University of Science and Technology (Guangzhou),CN,https://ror.org/050h0vm43
+I98677209,University of Edinburgh,GB,https://ror.org/01nrxwf90
+I24943067,Fudan University,CN,https://ror.org/013q1eq08
+I4405259410,Meituan (China),CN,https://ror.org/0272kpg92
+I201181511,École Nationale Supérieure de Techniques Avancées,FR,https://ror.org/0309cs235
+I4210145102,Institut Polytechnique de Paris,FR,https://ror.org/042tfbd02
+I4405258625,École Nationale Supérieure de Techniques Avancées Paris,FR,https://ror.org/0106ccb15
+I188760350,Ollscoil na Gaillimhe – University of Galway,IE,https://ror.org/03bea9k73
+I4210126639,Valeo (Ireland),IE,https://ror.org/031sgpn76
+I220619192,Valeo (France),FR,https://ror.org/04ryqpf83
+I4210161460,OpenAI (United States),US,https://ror.org/05wx9n238
+I161318765,"University of California, Los Angeles",US,https://ror.org/046rm7j60
+I1174212,University of Southern California,US,https://ror.org/03taz7m60
+I108192572,HEC Montréal,CA,https://ror.org/05ww3wq27
+I4210164802,Mila - Quebec Artificial Intelligence Institute,CA,https://ror.org/05c22rx21
+I156087764,"University of California, Merced",US,https://ror.org/00d9ah105
+I193775966,Yonsei University,KR,https://ror.org/01wjejq96
+I139660479,Central South University,CN,https://ror.org/00f1zfq44
+I170215575,National University of Defense Technology,CN,https://ror.org/05d2yfz11
+I4210159865,Xiangya Hospital Central South University,CN,https://ror.org/05c1yfj14
+I16609230,Hunan University,CN,https://ror.org/05htk5m33
+I141568987,Hong Kong Baptist University,HK,https://ror.org/0145fw131
+I76130692,Zhejiang University,CN,https://ror.org/00a2xv884
+I35440088,ETH Zurich,CH,https://ror.org/05a28rw58
+I4405255049,Institute of Geodesy and Photogrammetry,CH,https://ror.org/02j3zj861
+I1343180700,Intel (United States),US,https://ror.org/01ek73717
+I5124864,École Polytechnique Fédérale de Lausanne,CH,https://ror.org/02s376052
+I63966007,Massachusetts Institute of Technology,US,https://ror.org/042nb2s44
+I4210120115,Robert Bosch (United States),US,https://ror.org/02venad53
+I148283060,Lawrence Berkeley National Laboratory,US,https://ror.org/02jbv0t02
+I4210137306,Stanford Medicine,US,https://ror.org/03mtd9a03
+I4210105015,Stanford Health Care,US,https://ror.org/019wqcg20
+I4210155350,Purple Mountain Laboratories,CN,https://ror.org/04zcbk583
+I76569877,Southeast University,CN,https://ror.org/04ct4d772
+I190082696,Durham University,GB,https://ror.org/01v29qb04
+I1294671590,Centre National de la Recherche Scientifique,FR,https://ror.org/02feahw73
+I4210097418,Laboratoire des signaux et systèmes,FR,https://ror.org/00skw9v43
+I4210107720,CentraleSupélec,FR,https://ror.org/019tcpt25
+I4210115038,Huawei Technologies (Canada),CA,https://ror.org/026venb53
+I20089843,Princeton University,US,https://ror.org/00hx57361
+I141595442,University of Bucharest,RO,https://ror.org/02x2v6p15
+I67357951,KIIT University,IN,https://ror.org/00k8zt527
+I74796645,"Birla Institute of Technology and Science, Pilani",IN,https://ror.org/001p3jz28
+I154970844,Jaypee Institute of Information Technology,IN,https://ror.org/05sttyy11
+I4210159968,Duke Kunshan University,CN,https://ror.org/04sr5ys16
+I4210157426,"Istituto Nazionale di Fisica Nucleare, Sezione di Roma I",IT,https://ror.org/05eva6s33
+I52590639,Nottingham Trent University,GB,https://ror.org/04xyxjd90
+I251738,Edinburgh Napier University,GB,https://ror.org/03zjvnn91
+I157773358,Sun Yat-sen University,CN,https://ror.org/0064kty71
+I169689159,PLA Information Engineering University,CN,https://ror.org/00mm1qk40
+I40120149,University of Oxford,GB,https://ror.org/052gg0110
+I177877127,The University of Western Australia,AU,https://ror.org/047272k79
+I179647637,Universidad Autónoma del Estado de México,MX,https://ror.org/0079gpv38
+I4210165121,Instituto Tecnologico de Orizaba,MX,https://ror.org/05vpj2s72
+I115455960,Centre for Quantum Technologies,SG,https://ror.org/01mgdzc49
+I47508984,Imperial College London,GB,https://ror.org/041kmwe10
+I194744927,National Institute of Education,SG,https://ror.org/02fhgbp51
+I4210114908,UMI MajuLab,SG,https://ror.org/027jrtw17
+I109736498,Canadian Institute for Advanced Research,CA,https://ror.org/01sdtdd95
+I55016150,Manav Rachna International Institute of Research and Studies,IN,https://ror.org/02kf4r633
+I1323093577,BML Munjal University,IN,https://ror.org/058ay3j75
+I191972202,Amity University,IN,https://ror.org/02n9z0v62
+I2802542264,University Hospital of Basel,CH,https://ror.org/04k51q396
+I64295750,Indian Institute of Technology Indore,IN,https://ror.org/01hhf7w52
+I2802476451,Wellcome Sanger Institute,GB,https://ror.org/05cy4wa09
+I4210112316,Altius Institute for Biomedical Sciences,US,https://ror.org/01xf55557
+I36258959,University of California San Diego,US,https://ror.org/0168r3w48
+I1303153112,European Bioinformatics Institute,GB,https://ror.org/02catss52
+I4210090236,National Human Genome Research Institute,US,https://ror.org/00baak391
+I122411786,California Institute of Technology,US,https://ror.org/05dxps055
+I107606265,Broad Institute,US,https://ror.org/05a0ya142
+I185103710,"University of California, Santa Cruz",US,https://ror.org/03s65by71
+I1283280774,Brigham and Women's Hospital,US,https://ror.org/04b6nzv94
+I4394709089,Institute for Stem Cell Biology and Regenerative Medicine,US,https://ror.org/02vbab064
+I145311948,Johns Hopkins University,US,https://ror.org/00za53h95
+I4210158752,Montreal Clinical Research Institute,CA,https://ror.org/05m8pzq90
+I5023651,McGill University,CA,https://ror.org/01pxwe438
+I70931966,Université de Montréal,CA,https://ror.org/0161xgx34
+I4210089535,Sanford Consortium for Regenerative Medicine,US,https://ror.org/00cemh325
+I4405258931,MIT Computer Science and Artificial Intelligence Laboratory,US,https://ror.org/01e85r662
+I166722992,University of Massachusetts Chan Medical School,US,https://ror.org/0464eyp60
+I170486558,Universitat Pompeu Fabra,ES,https://ror.org/04n0g0b29
+I4210132884,Barcelona Institute of Science and Technology,ES,https://ror.org/03kpps236
+I4210137962,Centre for Genomic Regulation,ES,https://ror.org/03wyzt892
+I4210145894,HudsonAlpha Institute for Biotechnology,US,https://ror.org/04nz0wq19
+I4210103341,University of Wisconsin Carbone Cancer Center,US,https://ror.org/01e4byj08
+I4210089486,Fred Hutch Cancer Center,US,https://ror.org/007ps6h72
+I116953780,Tongji University,CN,https://ror.org/03rc6as71
+I4210127126,Shanghai Pulmonary Hospital,CN,https://ror.org/033nbnf69
+I1334819555,Memorial Sloan Kettering Cancer Center,US,https://ror.org/02yrq0923
+I1307098950,Salk Institute for Biological Studies,US,https://ror.org/03xez1567
+I4210150094,Ludwig Cancer Research,US,https://ror.org/05qdwtz81
+I111088046,Boston University,US,https://ror.org/05qwgg493
+I82495205,University of Alabama in Huntsville,US,https://ror.org/02zsxwr40
+I142947616,Institute of Cancer Research,GB,https://ror.org/043jzw605
+I97565354,University of Lausanne,CH,https://ror.org/019whta54
+I52357470,The Ohio State University,US,https://ror.org/00rs6vg23
+I32971472,Yale University,US,https://ror.org/03v76x132
+I170897317,Duke University,US,https://ror.org/00py81415
+I165733156,University of Georgia,US,https://ror.org/00te3t702
+I2750212522,Cold Spring Harbor Laboratory,US,https://ror.org/02qz8b764
+I1344073410,Howard Hughes Medical Institute,US,https://ror.org/006w34k90
+I103163165,Florida State University,US,https://ror.org/05g3dte14
+I134560555,Université Toulouse III - Paul Sabatier,FR,https://ror.org/02v6kpv12
+I154526488,Inserm,FR,https://ror.org/02vjkv261
+I176063091,École Nationale Vétérinaire de Toulouse,FR,https://ror.org/03m3gzv89
+I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",FR,https://ror.org/003vg9w96
+I4210122796,Institut de Recherche en Santé Digestive,FR,https://ror.org/034nb0f30
+I4405258862,Université de Toulouse,FR,https://ror.org/01ahyrz84
+I75929689,UConn Health,US,https://ror.org/02kzs4y22
+I204250578,"University of California, Irvine",US,https://ror.org/04gyf1771
+I63772739,Florida Atlantic University,US,https://ror.org/05p8w6387
+I173888879,SINTEF,NO,https://ror.org/01f677e56
+I4387930215,SINTEF Digital,NO,https://ror.org/028m52w57
+I848706,Sungkyunkwan University,KR,https://ror.org/04q78tk20
+I207547235,Benha University,EG,https://ror.org/03tn5ee41
+I4400009028,Galala University,EG,https://ror.org/04x3ne739
+I200284239,Universidade de Santiago de Compostela,ES,https://ror.org/030eybx10
+I138689650,University of Padua,IT,https://ror.org/00240q980
+I108290504,University of Pisa,IT,https://ror.org/03ad39j10
+I169108374,University of the Basque Country,ES,https://ror.org/000xsnr85
+I4210113430,Tecnalia,ES,https://ror.org/02fv8hj62
+I173304897,Universidad de Granada,ES,https://ror.org/04njjy449
+I11701301,Griffith University,AU,https://ror.org/02sc3r913
+I37796252,Beijing University of Technology,CN,https://ror.org/037b1pp87
+I16365422,Hefei University of Technology,CN,https://ror.org/02czkny70
+I4210123185,Zhejiang Lab,CN,https://ror.org/02m2h7991
+I60134161,Nagoya University,JP,https://ror.org/04chrp450
+I4405285284,TIER IV (Japan),JP,https://ror.org/0549f7h08
+I4210142583,Snap (United States),US,https://ror.org/04dgkhg68
+I41832843,University of Tabriz,IR,https://ror.org/01papkj44
+I1290206253,Microsoft (United States),US,https://ror.org/00d0nc645
+I1292875679,Commonwealth Scientific and Industrial Research Organisation,AU,https://ror.org/03qn8fb07
+I42894916,Data61,AU,https://ror.org/03q397159
+I4210160376,International Centre for Radio Astronomy Research,AU,https://ror.org/05sd1pp77
+I1321305853,National Bureau of Economic Research,US,https://ror.org/04grmx538
+I47720641,Huazhong University of Science and Technology,CN,https://ror.org/00p991c53
+I121847817,"The Graduate Center, CUNY",US,https://ror.org/00awd9g61
+I174216632,City University of New York,US,https://ror.org/00453a208
+I125687163,City College of New York,US,https://ror.org/00wmhkr98
+I4210135521,Max Planck Institute for Intelligent Systems,DE,https://ror.org/04fq9j139
+I45683168,Polytechnique Montréal,CA,https://ror.org/05f8d4e86
+I4210124331,Duhok Polytechnic University,IQ,https://ror.org/024kjbt21
+I117015748,Purdue University Northwest,US,https://ror.org/04keq6987
+I11957088,Michigan Technological University,US,https://ror.org/0036rpn28
+I70983195,Syracuse University,US,https://ror.org/025r5qe02
+I4405252660,NCCR Catalysis,CH,https://ror.org/03qf6ek79
+I4405258108,"Future House, Inc.",US,https://ror.org/0044ybt68
+I5388228,University of Rochester,US,https://ror.org/022kthw22
+I4210126328,IBM Research - Zurich,CH,https://ror.org/02js37d36
+I4405257960,DeepSeek (China),CN,https://ror.org/05wa54d95
+I30809798,ShanghaiTech University,CN,https://ror.org/030bhh786
+I4392021250,State Key Laboratory of Networking and Switching Technology,CN,https://ror.org/00qtv5q45
+I150229711,University of Electronic Science and Technology of China,CN,https://ror.org/04qr3zq92
+I4405270329,National Key Laboratory of Science and Technology on Communications,CN,https://ror.org/00geq9r75
+I4391768253,State Key Laboratory of Millimeter Waves,CN,https://ror.org/02q1v5910
+I4405274904,China Mobile Research Institute,CN,https://ror.org/02k01dh53
+I126231945,Queen's University Belfast,GB,https://ror.org/00hswnk62
+I130701444,Georgia Institute of Technology,US,https://ror.org/01zkghx44
+I28290843,University of Surrey,GB,https://ror.org/00ks66431
+I78650965,Technische Universität Dresden,DE,https://ror.org/042aqky30
+I118905719,University of Primorska,SI,https://ror.org/05xefg082
+I153976015,University of Ljubljana,SI,https://ror.org/05njb9z20
+I21203515,Kazan Federal University,RU,https://ror.org/05256ym39
+I118987531,Anhui Jianzhu University,CN,https://ror.org/0108wjw08
+I4210156464,Anhui Xinhua University,CN,https://ror.org/053d7x641
+I79576946,University of Pennsylvania,US,https://ror.org/00b30xv10
+I24830596,Hertie School,DE,https://ror.org/0473a4773
+I4210167039,ServiceNow (United States),US,https://ror.org/05xr0bc04
+I4210086490,Mercator Research Institute on Global Commons and Climate Change,DE,https://ror.org/002jq3415
+I4577782,Technische Universität Berlin,DE,https://ror.org/03v4gjf40
+I95457486,"University of California, Berkeley",US,https://ror.org/01an7q238
+I205783295,Cornell University,US,https://ror.org/05bnh6r87
+I4210145761,Shenzhen Institutes of Advanced Technology,CN,https://ror.org/04gh4er46
+I4391012619,Shanghai Artificial Intelligence Laboratory,CN,https://ror.org/03wkvpx79
+I197347611,Korea University,KR,https://ror.org/047dqcg40
+I28777354,Sejong University,KR,https://ror.org/00aft1q37
+I4210113297,Google (United Kingdom),GB,https://ror.org/024bc3e07
+I100532134,Lyon 1 Université,FR,https://ror.org/029brtt94
+I113428412,École Normale Supérieure de Lyon,FR,https://ror.org/04zmssz18
+I203339264,Université de Lyon,FR,https://ror.org/01rk35k63
+I4210144566,Laboratoire de l'Informatique du Parallélisme,FR,https://ror.org/04msnz457
+I12079687,Edith Cowan University,AU,https://ror.org/05jhnwe22
+I189914110,University of Cuenca,EC,https://ror.org/04r23zn56
+I51441396,Bauhaus-Universität Weimar,DE,https://ror.org/033bb5z47
+I114112103,Leibniz University Hannover,DE,https://ror.org/0304hq317
+I141445968,Ton Duc Thang University,VN,https://ror.org/01drq0835
+I189109744,Indian Institute of Technology Dhanbad,IN,https://ror.org/013v3cc28
+I4405260736,Dayananda Sagar College of Engineering,IN,https://ror.org/046qksq74
+I161046081,University of Freiburg,DE,https://ror.org/0245cg223
+I4210139777,Berlin Institute of Health at Charité - Universitätsmedizin Berlin,DE,https://ror.org/0493xsw21
+I2801240073,University Medical Center Freiburg,DE,https://ror.org/03vzbgh69
+I4405263145,ELLIS Institute Tübingen,DE,https://ror.org/036z3g533
+I3923682,Soochow University,CN,https://ror.org/05t8y2r12
+I241749,University of Cambridge,GB,https://ror.org/013meh722
+I4387153749,Central European University - Budapest Campus,HU,https://ror.org/02s3xwp33
+I2277624104,Fondazione Bruno Kessler,IT,https://ror.org/01j33xk10
+I166337079,Queen Mary University of London,GB,https://ror.org/026zzn846
+I39063666,University of Catania,IT,https://ror.org/03a64bh57
+I4210112164,Complexity Science Hub,AT,https://ror.org/023dz9m50
+I4210128584,The Alan Turing Institute,GB,https://ror.org/035dkdb55
+I21491767,Aix-Marseille Université,FR,https://ror.org/035xkbk20
+I4210120427,Institut de Biologie du Développement Marseille,FR,https://ror.org/02me5cy06
+I4210138206,Institut de Mathématiques de Marseille,FR,https://ror.org/042h2y225
+I4210142724,Centrale Méditerranée,FR,https://ror.org/040baw385
+I4210119109,Indiana University Bloomington,US,https://ror.org/02k40bc56
+I592451,Indiana University,US,https://ror.org/01kg8sb98
+I134940468,Institute for Scientific Interchange,IT,https://ror.org/00te2x188
+I4210132770,ISI Foundation,US,https://ror.org/03ebhsy64
+I157725225,University of Illinois Urbana-Champaign,US,https://ror.org/047426m28
+I204722609,Queen's University,CA,https://ror.org/02y72wh86
+I1321296531,National Institute of Standards and Technology,US,https://ror.org/05xpvk416
+I1311688040,Amazon (United States),US,https://ror.org/04mv4n011
+I181233156,University of Oregon,US,https://ror.org/0293rh119
+I2898391981,Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR),DE,https://ror.org/04bwf3e34
+I62916508,Technical University of Munich,DE,https://ror.org/02kkvpp62
+I37461747,Wuhan University,CN,https://ror.org/033vjfk17
+I154425047,University of Alberta,CA,https://ror.org/0160cpw27
+I56085075,University of Tartu,EE,https://ror.org/03z77qz90
+I189196454,The University of Texas at Arlington,US,https://ror.org/019kgqr73
+I72816309,Drexel University,US,https://ror.org/04bdffz58
+I2800274787,"Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",DE,https://ror.org/02tbr6331
+I4401727010,Berlin Institute for the Foundations of Learning and Data,DE,https://ror.org/05dsfb086
+I7877124,Charité – Universitätsmedizin Berlin,DE,https://ror.org/001w7jn25
+I87707601,Deutsche Forschungsgemeinschaft,DE,https://ror.org/018mejw64
+I130238516,University of Minnesota,US,https://ror.org/017zqws13
+I170201317,University of Pittsburgh,US,https://ror.org/01an3r305
+I53110688,University of Córdoba,ES,https://ror.org/05yc77b46
+I157674565,University of Liège,BE,https://ror.org/00afp2z80
+I202697423,University of Zurich,CH,https://ror.org/02crff812
+I16391192,Tel Aviv University,IL,https://ror.org/04mhzgx49
+I2802619606,TUM Klinikum,DE,https://ror.org/04jc43x05
+I197251160,Hebrew University of Jerusalem,IL,https://ror.org/03qxff017
+I2802934949,Radboud University Medical Center,NL,https://ror.org/05wg1m734
+I17937529,German Cancer Research Center,DE,https://ror.org/04cdgtt98
+I3018771216,LMU Klinikum,DE,https://ror.org/02jet3w32
+I8204097,Ludwig-Maximilians-Universität München,DE,https://ror.org/05591te55
+I4210109354,Institut de Recherche contre les Cancers de l’Appareil Digestif,FR,https://ror.org/01xyqts46
+I2799899409,Hadassah Medical Center,IL,https://ror.org/01cqmqj90
+I2799810450,Sheba Medical Center,IL,https://ror.org/020rzx487
+I16362100,Rafael Advanced Defense Systems (Israel),IL,https://ror.org/016mey390
+I3018134672,Helmholtz Munich,DE,https://ror.org/00cfam450
+I4405260263,Institut für Diagnostische und Interventionelle Neuroradiologie,DE,https://ror.org/03g9zwv89
+I4210111013,Nanjing Drum Tower Hospital,CN,https://ror.org/026axqv54
+I881766915,Nanjing University,CN,https://ror.org/01rxvg760
+I183935753,King's College London,GB,https://ror.org/0220mzb33
+I4405258795,Kakao Brain (South Korea),KR,https://ror.org/017agdj19
+I2799803557,Barcelona Supercomputing Center,ES,https://ror.org/05sd8tv96
+I4210137873,Fraunhofer Institute for Digital Medicine,DE,https://ror.org/04farme71
+I124055696,University of Copenhagen,DK,https://ror.org/035b05819
+I4210151799,Siemens Healthcare (United States),US,https://ror.org/054962n91
+I223822909,Heidelberg University,DE,https://ror.org/038t36y30
+I9617848,Universitat Politècnica de Catalunya,ES,https://ror.org/03mb6wj31
+I94509681,Technische Universität Braunschweig,DE,https://ror.org/010nsgg66
+I24676775,Indian Institute of Technology Madras,IN,https://ror.org/03v0r5n49
+I2802194831,Samsung Medical Center,KR,https://ror.org/05a15z872
+I86987016,KTH Royal Institute of Technology,SE,https://ror.org/026vcq606
+I4401727009,Sensetime (China),CN,https://ror.org/049wsmj07
+I186272606,Guangdong University of Foreign Studies,CN,https://ror.org/00fhc9y79
+I4210086647,Philips (China),CN,https://ror.org/001tk4253
+I36399199,Nanjing University of Science and Technology,CN,https://ror.org/00xp9wg62
+I2802164966,University Hospital Heidelberg,DE,https://ror.org/013czdx64
+I180437899,University of Bremen,DE,https://ror.org/04ers2y35
+I887968799,RWTH Aachen University,DE,https://ror.org/04xfq0f34
+I34809795,Medizinische Hochschule Hannover,DE,https://ror.org/00f2yqf98
+I98704320,Icahn School of Medicine at Mount Sinai,US,https://ror.org/04a9tmd77
+I4405260609,NAVER Cloud (South Korea),KR,https://ror.org/041051y78
+I60922564,Naver (South Korea),KR,https://ror.org/04nzrnx83
+I157485424,Korea Advanced Institute of Science and Technology,KR,https://ror.org/05apxxy63
+I186129607,Canadian University of Dubai,AE,https://ror.org/029zgsn59
+I55732556,Arizona State University,US,https://ror.org/03efmqc40
+I130769515,Pennsylvania State University,US,https://ror.org/04p491231
+I162868743,Tianjin University,CN,https://ror.org/012tb2g32
+I1327163397,State University of New York,US,https://ror.org/01q1z8k08
+I392282,"University at Albany, State University of New York",US,https://ror.org/012zs8222
+I4210134512,GE Global Research (United States),US,https://ror.org/03e06qt98
+I59553526,Stony Brook University,US,https://ror.org/05qghxh33
+I36090812,Netaji Subhas University of Technology,IN,https://ror.org/01fczmh85
+I33586908,Pandit Deendayal Energy University,IN,https://ror.org/02nsv5p42
+I79510175,Cardiff University,GB,https://ror.org/03kk7td41
+I155781252,University of South Carolina,US,https://ror.org/02b6qw903
+I4210138251,"Indian Institute of Information Technology, Nagpur",IN,https://ror.org/03e2e3s57
+I76777374,Central University of Rajasthan,IN,https://ror.org/056y7zx62
+I4387153466,Weill Cornell Medicine,US,https://ror.org/02r109517
+I33213144,University of Florida,US,https://ror.org/02y3ad647
+I184942183,University of Oslo,NO,https://ror.org/01xtthb56
+I74413500,University of Windsor,CA,https://ror.org/01gw3d370
+I37802460,Northwest University,CN,https://ror.org/00z3td547
+I82951845,RMIT University,AU,https://ror.org/04ttjf776
+I152269853,Qilu University of Technology,CN,https://ror.org/04hyzq608
+I4210142748,Shandong Academy of Sciences,CN,https://ror.org/04y8d6y55
+I105094715,National Institute of Technology Kurukshetra,IN,https://ror.org/04909p852
+I125989756,Skolkovo Institute of Science and Technology,RU,https://ror.org/03f9nc143
+I169877490,University of Mumbai,IN,https://ror.org/032hdk172
+I4405260939,Thakur College of Engineering and Technology,IN,https://ror.org/04gt8an83
+I889804353,Robert Bosch (Germany),DE,https://ror.org/01fe0jt45
+I106785703,Institut polytechnique de Grenoble,FR,https://ror.org/05sbt2524
+I4210124956,GIPSA-Lab,FR,https://ror.org/02wrme198
+I899635006,Université Grenoble Alpes,FR,https://ror.org/02rx3b187
+I4210137199,Aerospace Information Research Institute,CN,https://ror.org/0419fj215
+I80606768,Universidad de Extremadura,ES,https://ror.org/0174shg90
+I4210148047,Nicolae Bălcescu Land Forces Academy,RO,https://ror.org/03kyen796
+I4210149165,Universitatea Din Petrosani,RO,https://ror.org/055k3dh55
+I124121301,Lucian Blaga University of Sibiu,RO,https://ror.org/026gdz537
+I26072440,Indian Institute of Information Technology Allahabad,IN,https://ror.org/03rgjt374
+I1288043984,Techno India University,IN,https://ror.org/00v1y6t69
+I6498739,Indian Statistical Institute,IN,https://ror.org/00q2w1j53
+I4210103986,Jingdong (China),CN,https://ror.org/01dkjkq64
+I4387154858,Odyssey Therapeutics (United States),US,https://ror.org/02asmqs25
+I4405256023,Graduate School of China Academy of Engineering Physics,CN,https://ror.org/03p41qy95
+I134421475,National Physical Laboratory,GB,https://ror.org/015w2mp89
+I4210128053,Institute of Remote Sensing and Digital Earth,CN,https://ror.org/02cjszf03
+I141945490,University of British Columbia,CA,https://ror.org/03rmrcq20
+I143804889,Loughborough University,GB,https://ror.org/04vg4w365
+I63634437,Universidad Autónoma de Madrid,ES,https://ror.org/01cby8j38
+I196349391,Universität Ulm,DE,https://ror.org/032000t02
+I102335020,Karlsruhe Institute of Technology,DE,https://ror.org/04t3en479
+I1288882113,Boston Children's Hospital,US,https://ror.org/00dvg7y05
+I4210117453,Dana-Farber Cancer Institute,US,https://ror.org/02jzgtq86
+I4405263983,Institute of Computational Biology,DE,https://ror.org/00kg2yq63
+I22465464,University of Münster,DE,https://ror.org/00pd74e08
+I52099693,University of York,GB,https://ror.org/04m01e293
+I4387152582,A'Sharqiyah University,OM,https://ror.org/044v96v72
+I4210134189,Xiamen University Malaysia,MY,https://ror.org/0331wa828
+I1343551460,The University of Texas MD Anderson Cancer Center,US,https://ror.org/04twxam07
+I4388482659,Albaydha University,YE,https://ror.org/0505vtn61
+I173029219,Multimedia University,MY,https://ror.org/04zrbnc33
+I4210142395,Torrens University Australia,AU,https://ror.org/0351xae06
+I59475050,Jamia Millia Islamia,IN,https://ror.org/00pnhhv55
+I163072128,Galgotias College of Engineering & Technology,IN,https://ror.org/04a85ht85
+I70971781,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,IN,https://ror.org/03xt0bg88
+I252758333,Govind Ballabh Pant University of Agriculture and Technology,IN,https://ror.org/02msjvh03
+I4210140267,Ikerlan,ES,https://ror.org/03hp1m080
+I2802176441,Basque Center for Applied Mathematics,ES,https://ror.org/03b21sh32
+I51235708,Universidade Federal do Espírito Santo,BR,https://ror.org/05sxf4h28
+I4210160371,Instituto Federal do Espírito Santo,BR,https://ror.org/05rshs160
+I4403386549,Munich Center for Machine Learning,DE,https://ror.org/02nfy3535
+I200332995,TU Dortmund University,DE,https://ror.org/01k97gp34
+I4405260893,"Institut für Medizinische Informationsverarbeitung, Biometrie und Epidemiologie",DE,https://ror.org/04eb1yz45
+I4210136150,L3S Research Center,DE,https://ror.org/039t4wk02
+I4210121775,FORTH Institute of Computer Science,GR,https://ror.org/02tf48g55
+I8901234,Foundation for Research and Technology Hellas,GR,https://ror.org/052rphn09
+I2802635041,Technische Informationsbibliothek (TIB),DE,https://ror.org/04aj4c181
+I4210093649,Information Technologies Institute,GR,https://ror.org/0069akp70
+I4210134249,Centre for Research and Technology Hellas,GR,https://ror.org/03bndpq63
+I4210101898,GESIS - Leibniz Institute for the Social Sciences,DE,https://ror.org/018afyw53
+I204136569,The Open University,GB,https://ror.org/05mzfcs16
+I99464096,KU Leuven,BE,https://ror.org/05f950310
+I144648426,Norwegian Computing Center,NO,https://ror.org/02gm7te43
+I88830068,Shaanxi Normal University,CN,https://ror.org/0170z8493
+I4405265933,United Imaging Intelligence (China),CN,https://ror.org/01s8ddd88
+I83714178,Shenyang Jianzhu University,CN,https://ror.org/01zr73v18
+I4210122598,BenevolentAI (United Kingdom),GB,https://ror.org/02z480994
+I91045830,Texas A&M University,US,https://ror.org/01f5ytq51
+I74775410,Rice University,US,https://ror.org/008zs3103
+I165143802,The University of Queensland,AU,https://ror.org/00rqy9422
+I1341412227,IBM (United States),US,https://ror.org/05hh8d621
+I150468666,Emory University,US,https://ror.org/03czfpz43
+I186143895,Lehigh University,US,https://ror.org/012afjb06
+I78577930,Columbia University,US,https://ror.org/00hj8s172
+I133837150,University of Huddersfield,GB,https://ror.org/05t1h8f27
+I1293035123,Met Office,GB,https://ror.org/01ch2yn61
+I23923803,University of Exeter,GB,https://ror.org/03yghzc09
+I153921779,Philadelphia University,JO,https://ror.org/05mqvn149
+I131249849,Oregon State University,US,https://ror.org/00ysfqy60
+I87111246,Catholic University of Korea,KR,https://ror.org/01fpnj063
+I4405271894,Samsung Biomedical Research Institute,KR,https://ror.org/037pjb504
+I4210089985,Amazon (Germany),DE,https://ror.org/00b9ktm87
+I146620803,Wenzhou University,CN,https://ror.org/020hxh324
+I63169043,United International University,BD,https://ror.org/01tqv1p28
+I63548447,Lappeenranta-Lahti University of Technology,FI,https://ror.org/0208vgz68
+I29894533,Charles Darwin University,AU,https://ror.org/048zcaj52
+I183697816,Bangladesh University of Engineering and Technology,BD,https://ror.org/05a1qpv97
+I59746437,Open University of Cyprus,CY,https://ror.org/033sm2k57
+I192756129,University of Macedonia,GR,https://ror.org/05fg6gr82
+I146966710,Asian University for Women,BD,https://ror.org/01wp52t96
+I38538140,Asian Institute of Technology,TH,https://ror.org/0403qcr87
+I67031392,Carleton University,CA,https://ror.org/02qtvee93
+I138564716,Prince Mohammad bin Fahd University,SA,https://ror.org/03d64na34
+I3132364740,University of Fiji,FJ,https://ror.org/0008bt423
+I74899385,Central Queensland University,AU,https://ror.org/023q4bk22
+I103356709,Obuda University,HU,https://ror.org/00ax71d21
+I4210166576,First Affiliated Hospital Zhejiang University,CN,https://ror.org/05m1p5x56
+I145847075,TU Wien,AT,https://ror.org/04d836q62
+I4210097074,Theiss Research,US,https://ror.org/00scjnx30
+I4210147263,Material Measurement Laboratory,US,https://ror.org/04a0y3b96
+I111979921,Northwestern University,US,https://ror.org/000e0be47
+I118118575,New Jersey Institute of Technology,US,https://ror.org/05e74xb87
+I47251452,Wake Forest University,US,https://ror.org/0207ad724
+I183067930,Shanghai Jiao Tong University,CN,https://ror.org/0220qvk04
+I1325675289,Moorfields Eye Hospital NHS Foundation Trust,GB,https://ror.org/03zaddr67
+I4210088407,NIHR Moorfields Biomedical Research Centre,GB,https://ror.org/004hydx84
+I201448701,University of Washington,US,https://ror.org/00cvxb145
+I205051169,Kingston University London,GB,https://ror.org/05bbqza97
+I130828816,University of Leeds,GB,https://ror.org/024mrxd33
+I1324925910,St Thomas' Hospital,GB,https://ror.org/054gk2851
+I177639307,University of Dundee,GB,https://ror.org/03h2bxq36
+I146655781,University of Liverpool,GB,https://ror.org/04xs57h96
+I2799390153,Leeds Teaching Hospitals NHS Trust,GB,https://ror.org/00v4dac24
+I7882870,University of Glasgow,GB,https://ror.org/00vtgdb53
+I2802266942,Gloucestershire Hospitals NHS Foundation Trust,GB,https://ror.org/04mw34986
+I165862685,"St George's, University of London",GB,https://ror.org/040f08y74
+I1118541,University of East Anglia,GB,https://ror.org/026k5mg93
+I4405260083,UCL Queen Square Institute of Neurology,GB,https://ror.org/0370htr03
+I2802775644,Royal Liverpool University Hospital,GB,https://ror.org/01ycr6b80
+I1308923049,University Hospitals Birmingham NHS Foundation Trust,GB,https://ror.org/014ja3n03
+I79619799,University of Birmingham,GB,https://ror.org/03angcq70
+I105036370,AstraZeneca (United Kingdom),GB,https://ror.org/04r9x1a08
+I4210089382,Cancer Research UK Cambridge Center,GB,https://ror.org/0068m0j38
+I2799766170,Royal Papworth Hospital,GB,https://ror.org/05mqgrb58
+I4210104974,Papworth Hospital NHS Foundation Trust,GB,https://ror.org/01qbebb31
+I2802466933,Cambridge University Hospitals NHS Foundation Trust,GB,https://ror.org/04v54gj93
+I4210096640,Royal Brompton Hospital,GB,https://ror.org/00cv4n034
+I76134821,Medical University of Vienna,AT,https://ror.org/05n3x4p02
+I133731052,University of Helsinki,FI,https://ror.org/040af2s02
+I1330995197,Boehringer Ingelheim (Germany),DE,https://ror.org/00q32j219
+I4210156194,Addenbrooke's Hospital,GB,https://ror.org/055vbxf86
+I5847235,University of Petroleum and Energy Studies,IN,https://ror.org/04q2jes40
+I189090001,Novo Nordisk (Denmark),DK,https://ror.org/0435rc536
+I4210115097,Hospital Clínic de Barcelona,ES,https://ror.org/02a2kzf50
+I4210160192,Consorci Institut D'Investigacions Biomediques August Pi I Sunyer,ES,https://ror.org/054vayn55
+I71999127,Universitat de Barcelona,ES,https://ror.org/021018s57
+I4210094118,Universitätsklinikum Tübingen,DE,https://ror.org/00pjgxh97
+I4210150093,Max Planck Institute of Biochemistry,DE,https://ror.org/04py35477
+I4210100468,University Hospital Zurich,CH,https://ror.org/01462r250
+I4210151100,DKFZ-ZMBH Alliance,DE,https://ror.org/05x8b4491
+I4210089594,Spanish National Cancer Research Centre,ES,https://ror.org/00bvhmc43
+I200777214,National and Kapodistrian University of Athens,GR,https://ror.org/04gnjpq42
+I4210119545,Aretaeio Hospital,GR,https://ror.org/02qvqb543
+I4210086903,Azienda Ospedaliera Citta' della Salute e della Scienza di Torino,IT,https://ror.org/001f7a930
+I55143463,University of Turin,IT,https://ror.org/048tbm396
+I4210116691,Wellcome/MRC Institute of Metabolic Science,GB,https://ror.org/0264dxb48
+I45084792,University of Florence,IT,https://ror.org/04jr1s763
+I4210094062,University Medical Center of the Johannes Gutenberg University Mainz,DE,https://ror.org/00q1fsf04
+I4389425352,NIHR Cambridge Biomedical Research Centre,GB,https://ror.org/05m8dr349
+I2799502834,Hôpital Beaujon,FR,https://ror.org/03jyzk483
+I4210097159,Assistance Publique – Hôpitaux de Paris,FR,https://ror.org/00pg5jh14
+I4387154366,Université Paris Diderot,FR,https://ror.org/02n7qrg46
+I1339471597,Humanitas University,IT,https://ror.org/020dggs04
+I4210112713,University Hospital Schleswig-Holstein,DE,https://ror.org/01tvm6f46
+I4210087996,Klinikum Klagenfurt,AT,https://ror.org/007xcwj53
+I4210132578,University Hospital Frankfurt,DE,https://ror.org/03f6n9m15
+I4210108711,University Medical Center Hamburg-Eppendorf,DE,https://ror.org/01zgy1s35
+I4404532900,Istituto Oncologico della Svizzera Italiana,CH,https://ror.org/04tty5b50
+I4210156450,University Medical Centre Mannheim,DE,https://ror.org/05sxbyd35
+I44260953,Heinrich Heine University Düsseldorf,DE,https://ror.org/024z2rq82
+I180923762,University of Cologne,DE,https://ror.org/00rcxh774
+I4387153978,Medizinische Fakultät Mannheim,DE,https://ror.org/02m1z0a87
+I4210095248,German Rheumatism Research Centre,DE,https://ror.org/00shv0x82
+I4210115305,German Center for Infection Research,DE,https://ror.org/028s4q594
+I118564535,University of Bern,CH,https://ror.org/02k7v4d05
+I2801112126,University Hospital of Bern,CH,https://ror.org/01q9sj412
+I1324220072,Mount Sinai Hospital,US,https://ror.org/01zkyz108
+I4390039328,Tisch Cancer Institute,US,https://ror.org/0317dzj93
+I916559398,Kindai University,JP,https://ror.org/05kt9ap64
+I2803004286,Taipei Veterans General Hospital,TW,https://ror.org/03ymy8z76
+I4387156312,National Yang Ming University,TW,https://ror.org/009h5ks85
+I4210160510,Institut pour l'avancée des biosciences,FR,https://ror.org/05kwbf598
+I2800555055,Centre Hospitalier Universitaire de Grenoble,FR,https://ror.org/041rhpw39
+I123338534,Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,IT,https://ror.org/04387x656
+I2801748203,Hammersmith Hospital,GB,https://ror.org/05jg8yp15
+I919571938,The University of Texas Health Science Center at Houston,US,https://ror.org/03gds6c39
+I216286881,Botswana International University of Science and Technology,BW,https://ror.org/04cr2sq58
+I4210111500,"Fraunhofer Institute of Optronics, System Technologies and Image Exploitation",DE,https://ror.org/01zx97922
+I3018473509,Fraunhofer Institute for Manufacturing Engineering and Automation,DE,https://ror.org/01rvqha10
+I33932797,University of Gour Banga,IN,https://ror.org/00pyh2y32
+I22265921,National Central University,TW,https://ror.org/00944ve71
+I2802567020,Copenhagen University Hospital,DK,https://ror.org/05bpbnx46
+I2800288331,Hospital Israelita Albert Einstein,BR,https://ror.org/04cwrbc27
+I4405269264,Stanford Cardiovascular Institute,US,https://ror.org/03kk52s14
+I174306211,Technion – Israel Institute of Technology,IL,https://ror.org/03qryx823
+I107672454,Dartmouth College,US,https://ror.org/049s0rh22
+I80543232,K. N. Toosi University of Technology,IR,https://ror.org/0433abe34
+I84248293,Babol Noshirvani University of Technology,IR,https://ror.org/02zc85170
+I4210087295,Centre Tecnologic de Telecomunicacions de Catalunya,ES,https://ror.org/001cwea56
+I44461941,University of Houston,US,https://ror.org/048sx0r50
+I9570713,Tafresh University,IR,https://ror.org/040f6ar92
+I75027704,University of Tennessee at Knoxville,US,https://ror.org/020f3ap87
+I140172145,University of Connecticut,US,https://ror.org/02der9h97
+I4390039302,Rutgers Health,US,https://ror.org/029z02k15
+I4405260184,The Jackson Laboratory for Genomic Medicine,US,https://ror.org/03cew3973
+I4210123426,Academic Bridge Program,QA,https://ror.org/03062bd88
+I92528248,Qatar Foundation,QA,https://ror.org/01cawbq05
+I885383172,National University of Malaysia,MY,https://ror.org/00bw8d226
+I90610274,University of Engineering and Technology Peshawar,PK,https://ror.org/00p034093
+I115228651,"Agency for Science, Technology and Research",SG,https://ror.org/036wvzt09
+I3004594783,Institute of High Performance Computing,SG,https://ror.org/02n0ejh50
+I4210116917,Singapore Eye Research Institute,SG,https://ror.org/02crz6e12
+I1307195382,St Bartholomew's Hospital,GB,https://ror.org/00nh9x179
+I153648349,University of Leicester,GB,https://ror.org/04h699437
+I225661044,Barts Health NHS Trust,GB,https://ror.org/00b31g692
+I36162470,University of Zakho,IQ,https://ror.org/05sd1pz50
+I4210149920,William Harvey Research Institute,GB,https://ror.org/0574dzy90
+I119439378,University of Verona,IT,https://ror.org/039bp8j42
+I4210142469,Health Data Research UK,GB,https://ror.org/04rtjaj74
+I126520041,University of Science and Technology of China,CN,https://ror.org/04c4dkn09
+I9842412,Nanjing University of Aeronautics and Astronautics,CN,https://ror.org/01scyh794
+I24603500,University of Massachusetts Amherst,US,https://ror.org/0072zz521
+I4210098248,Fraunhofer Institute for Algorithms and Scientific Computing,DE,https://ror.org/00trw9c49
+I46305995,Taiyuan University of Science and Technology,CN,https://ror.org/01wcbdc92
+I176790772,Murdoch University,AU,https://ror.org/00r4sry34
+I4210120293,Max Planck Institute of Quantum Optics,DE,https://ror.org/01vekys64
+I4210142743,Munich Center for Quantum Science and Technology,DE,https://ror.org/04xrcta15
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR,https://ror.org/00jjx8s55
+I4210099371,Laboratoire Physiologie Cellulaire & Végétale,FR,https://ror.org/00jxe7243
+I4210123216,Ruđer Bošković Institute,HR,https://ror.org/02mw21745
+I4210161592,MRC London Institute of Medical Sciences,GB,https://ror.org/05p1n6x86
+I4390039303,Stanford Cancer Institute,US,https://ror.org/014qe3j22
+I4405258907,BC Children's Hospital Research Institute,CA,https://ror.org/01cvasn76
+I1281400175,Oslo University Hospital,NO,https://ror.org/00j9c2840
+I184531372,OsloMet – Oslo Metropolitan University,NO,https://ror.org/04q12yn84
+I4210153474,Simula Metropolitan Center for Digital Engineering,NO,https://ror.org/04xtarr15
+I4210093417,Swedish Medical Center,US,https://ror.org/004jktf35
+I190249584,Universität Innsbruck,AT,https://ror.org/054pv6659
+I180242103,Stockholm School of Economics,SE,https://ror.org/01s5jzh92
+I193223587,University of Trento,IT,https://ror.org/05trd4x28
+I4210130445,Max Planck Institute for Human Cognitive and Brain Sciences,DE,https://ror.org/0387jng26
+I204465549,Washington University in St. Louis,US,https://ror.org/01yc7t268
+I95674353,UCLouvain,BE,https://ror.org/02495e989
+I4405258058,Baycrest Academy for Research and Education,CA,https://ror.org/001fxzj49
+I4405263474,Rotman Research Institute,CA,https://ror.org/01kvpec59
+I114090438,Goethe University Frankfurt,DE,https://ror.org/04cvxnb49
+I887064364,University of Amsterdam,NL,https://ror.org/04dkp9463
+I4210102764,D’Or Institute for Research and Education,BR,https://ror.org/01mar7r17
+I19700959,Florida International University,US,https://ror.org/02gz6gg07
+I13469542,Vrije Universiteit Brussel,BE,https://ror.org/006e5kg04
+I32597200,Ghent University,BE,https://ror.org/00cv9y106
+I131651094,University of Denver,US,https://ror.org/04w7skc03
+I171892758,Forschungszentrum Jülich,DE,https://ror.org/02nv7yv05
+I127077003,IMT School for Advanced Studies Lucca,IT,https://ror.org/035gh3a49
+I4210158500,National Institute of Mental Health,US,https://ror.org/04xeg9z08
+I2801360556,CEA Paris-Saclay - Etablissement de Saclay,FR,https://ror.org/01fv25t22
+I4210128565,CEA Paris-Saclay,FR,https://ror.org/03n15ch10
+I3018483916,University Medical Center Utrecht,NL,https://ror.org/0575yy874
+I84392919,Temple University,US,https://ror.org/00kx1jb78
+I1338135719,Centre for Addiction and Mental Health,CA,https://ror.org/03e71c577
+I4405280014,Campbell Family Mental Health Research Institute,CA,https://ror.org/02ab2j218
+I250153783,Kessler Foundation,US,https://ror.org/05hacyq28
+I4210158385,Taipei Medical University-Shuang Ho Hospital,TW,https://ror.org/04k9dce70
+I47519274,Taipei Medical University,TW,https://ror.org/05031qk94
+I134820265,Consejo Superior de Investigaciones Científicas,ES,https://ror.org/02gfc7t72
+I4210087099,Instituto de Neurociencias,ES,https://ror.org/000nhpy59
+I1850255,University of Basel,CH,https://ror.org/02s6k3f65
+I169521973,University of New Mexico,US,https://ror.org/05fs6jp91
+I55712492,Zhejiang University of Technology,CN,https://ror.org/02djqfd08
+I60158472,Concordia University,CA,https://ror.org/0420zvk78
+I2800006345,Leiden University Medical Center,NL,https://ror.org/05xvt9f17
+I4405269186,Connecticut Institute for the Brain and Cognitive Sciences,US,https://ror.org/03bnah904
+I63525965,Western Sydney University,AU,https://ror.org/03t52dk35
+I1292859797,Montreal Neurological Institute and Hospital,CA,https://ror.org/05ghs6f64
+I4210132398,Kempenhaeghe,NL,https://ror.org/03bbe8e53
+I83019370,Eindhoven University of Technology,NL,https://ror.org/02c2kyt77
+I4210093049,Leibniz Institute for Resilience Research,DE,https://ror.org/00q5t0010
+I4210086768,Max Planck Institute for Empirical Aesthetics,DE,https://ror.org/000rdbk18
+I114395901,University of Nebraska–Lincoln,US,https://ror.org/043mer456
+I4210089003,Max Planck Institute for Psycholinguistics,NL,https://ror.org/00671me87
+I165779595,The University of Melbourne,AU,https://ror.org/01ej9dk98
+I71270174,Victoria University,AU,https://ror.org/04j757h98
+I4210155268,Salesforce (United States),US,https://ror.org/057315g56
+I37987034,Guangzhou University,CN,https://ror.org/05ar8rn06
+I4210156221,Allen Institute for Artificial Intelligence,US,https://ror.org/05w520734
+I142606810,Pacific Northwest National Laboratory,US,https://ror.org/05h992307
+I68522396,Flemish Institute for Technological Research,BE,https://ror.org/04gq0w522
+I177969490,University of Southern Denmark,DK,https://ror.org/03yrrjy16
+I219193219,Purdue University West Lafayette,US,https://ror.org/02dqehb95
+I110757952,Slovak University of Technology in Bratislava,SK,https://ror.org/0561ghm58
+I4210144844,Laboratoire d’Analyse et de Mathématiques Appliquées,FR,https://ror.org/0581g8849
+I4210154111,Université Gustave Eiffel,FR,https://ror.org/03x42jk29
+I72951846,Washington State University,US,https://ror.org/05dk0ce17
+I108907416,Latakia University,SY,https://ror.org/04nqts970
+I4210095996,IBM (Germany),DE,https://ror.org/00pm7rm97
+I4210150097,Xanadu Quantum Technologies (Canada),CA,https://ror.org/05qj0n416
+I75951250,Freie Universität Berlin,DE,https://ror.org/046ak2485
+I92403157,University of Science and Technology Beijing,CN,https://ror.org/02egmk993
+I196679689,Joint Genome Institute,US,https://ror.org/04xm1d337
+I1343871089,Los Alamos National Laboratory,US,https://ror.org/01e41cf67
+I129774422,University of Vienna,AT,https://ror.org/03prydq77
+I176601375,Khalifa University of Science and Technology,AE,https://ror.org/05hffr360
+I199440890,American University of Sharjah,AE,https://ror.org/001g2fj96
+I29891158,University of Sharjah,AE,https://ror.org/00engpz63
+I100930933,University College Dublin,IE,https://ror.org/05m7pjf47
+I122266389,University of Nebraska at Omaha,US,https://ror.org/04yrkc140
+I121797337,Leiden University,NL,https://ror.org/027bh9e22
+I206509152,Cape Coast Technical University,GH,https://ror.org/002mzw222
+I27031042,University of Mines and Technology,GH,https://ror.org/00br9cf93
+I4405256866,ByteDance (China),CN,https://ror.org/04m8av638
+I4210111288,Meta (United Kingdom),GB,https://ror.org/020ye1821
+I135598925,Kyushu University,JP,https://ror.org/00p4k0j84
+I87216513,Michigan State University,US,https://ror.org/05hs6h993
+I82880672,Beihang University,CN,https://ror.org/00wk2mp56
+I99043593,Macquarie University,AU,https://ror.org/01sf06y89
+I4210128045,Abai Kazakh National Pedagogical University,KZ,https://ror.org/02bvvhn54
+I4210114974,IMEC,BE,https://ror.org/02kcbn207
+I42934936,Dublin City University,IE,https://ror.org/04a1a1e81
+I4405269194,Insight SFI Research Centre for Data Analytics,IE,https://ror.org/03c01dw55
+I283854653,Machine Intelligence Research Institute,US,https://ror.org/01h4ass90
+I79891267,Singapore Management University,SG,https://ror.org/050qmg959
+I4405272793,Behbahan Khatam Alanbia University of Technology,IR,https://ror.org/04qkytk14
+I23946033,University of Tehran,IR,https://ror.org/05vf56z40
+I57328836,North Dakota State University,US,https://ror.org/05h1bnb22
+I4210144576,Fraunhofer Institute for Intelligent Analysis and Information Systems,DE,https://ror.org/04nc32781
+I3019415892,Fraunhofer Institute for Industrial Mathematics,DE,https://ror.org/019hjw009
+I66867065,East China Normal University,CN,https://ror.org/02n96ep67
+I143923087,Sultan Idris Education University,MY,https://ror.org/005bjd415
+I50357001,Universidad Carlos III de Madrid,ES,https://ror.org/03ths8210
+I135120706,University of Baghdad,IQ,https://ror.org/007f1da21
+I4210100492,Valahia University of Targoviste,RO,https://ror.org/00ywqar95
+I180825142,"City, University of London",GB,https://ror.org/04489at23
+I4401726869,"City St George's, University of London",GB,https://ror.org/047ybhc09
+I130442723,Universidade Federal do Rio Grande do Sul,BR,https://ror.org/041yk2d64
+I79272384,"University of Maryland, Baltimore County",US,https://ror.org/02qskvh78
+I51622183,Shaanxi University of Science and Technology,CN,https://ror.org/034t3zs45
+I4210121771,First Affiliated Hospital of Xi'an Jiaotong University,CN,https://ror.org/02tbvhh96
+I4210163928,First Hospital of Xi'an,CN,https://ror.org/05hg8d082
+I3133134087,Lanzhou Jiaotong University,CN,https://ror.org/03144pv92
+I36515993,Eastern Mediterranean University,CY,https://ror.org/00excyz84
+I4210092408,Toulouse School of Economics,FR,https://ror.org/00ff5f522
+I4210140326,Centre for Economic Policy Research,GB,https://ror.org/04jzmdh37
+I4210123059,St George Hospital,AU,https://ror.org/02pk13h45
+I4405270359,NSW Health Pathology,AU,https://ror.org/00hwmnh71
+I4210114444,Meta (United States),US,https://ror.org/01zbnvs85
+I4210151627,National Energy Research Scientific Computing Center,US,https://ror.org/05v3mvq14
+I158716096,University of Peloponnese,GR,https://ror.org/04d4d3c02
+I4405263052,Tsinghua Shenzhen International Graduate School,CN,https://ror.org/01vceef04
+I4210114115,IBM Research - Thomas J. Watson Research Center,US,https://ror.org/0265w5591
+I102149020,University of North Carolina at Charlotte,US,https://ror.org/04dawnj30
+I127591826,University of Dayton,US,https://ror.org/021v3qy27
+I162577319,The University of Texas at Dallas,US,https://ror.org/049emcs32
+I9694494,Parul University,IN,https://ror.org/024v3fg07
+I4387154200,Sankalchand Patel University,IN,https://ror.org/037y7xs42
+I113940042,Shanghai University,CN,https://ror.org/006teas31
+I4210128818,Institute of Software,CN,https://ror.org/033dfsn42
+I192455969,York University,CA,https://ror.org/05fq50484
+I125133608,Royal Bank of Canada,CA,https://ror.org/03hgnwx26
+I4210116741,Innopolis University,RU,https://ror.org/02b7jh107
+I929597975,National University of Sciences and Technology,PK,https://ror.org/03w2j5y17
+I46247651,University of Manitoba,CA,https://ror.org/02gfys938
+I4210117195,HUN-REN Institute for Computer Science and Control,HU,https://ror.org/0249v7n71
+I4405253225,Mitsubishi Electric Research Laboratories (United States),US,https://ror.org/00e2e3n51
+I17145004,Northwestern Polytechnical University,CN,https://ror.org/01y0j0j86
+I4210117513,10X Genomics (United States),US,https://ror.org/01sxvbm95
+I125839683,Beijing Institute of Technology,CN,https://ror.org/01skt4w74
+I84218800,"University of California, Davis",US,https://ror.org/05rrcem69
+I121883995,Johannes Kepler University of Linz,AT,https://ror.org/052r2xn60
+I4210136804,Natel Energy (United States),US,https://ror.org/03r5tj610
+I1306266525,Goddard Space Flight Center,US,https://ror.org/0171mag52
+I13134134,Universidad de Cantabria,ES,https://ror.org/046ffzj20
+I4405259921,IHCantabria - Instituto de Hidráulica Ambiental de la Universidad de Cantabria,ES,https://ror.org/02y384f44
+I138006243,University of Arizona,US,https://ror.org/03m2x1q45
+I891191580,Aalborg University,DK,https://ror.org/04m5j1k67
+I163340411,Hohai University,CN,https://ror.org/01wd4xt90
+I167027274,Nanjing Forestry University,CN,https://ror.org/03m96p165
+I4210114891,Institute of Forest Resource Information Techniques,CN,https://ror.org/01h5d6x15
+I4210128615,Chinese Academy of Forestry,CN,https://ror.org/0360dkv71
+I12615008,Beijing Normal-Hong Kong Baptist University,CN,https://ror.org/04snvc712
+I25254941,Beijing Normal University,CN,https://ror.org/022k4wk35
+I4405280756,"Beijing Normal University, Zhuhai",CN,https://ror.org/03czfbj71
+I14243506,Hong Kong Polytechnic University,HK,https://ror.org/0030zas98
+I107766831,NSF National Center for Atmospheric Research,US,https://ror.org/05cvfcr44
+I4210122344,US Climate Variability and Predictability Program,US,https://ror.org/01z1bz177
+I4210104335,Institute for Basic Science,KR,https://ror.org/00y0zf565
+I4387152864,IBS Center for Climate Physics,KR,https://ror.org/05ds44a85
+I4921948,Pusan National University,KR,https://ror.org/01an57a31
+I191217947,NOAA Geophysical Fluid Dynamics Laboratory,US,https://ror.org/03vmn1898
+I4403386791,University of Texas Institute for Geophysics,US,https://ror.org/00fj73d18
+I152304114,Lamont-Doherty Earth Observatory,US,https://ror.org/02e2tgs60
+I39804081,Sorbonne Université,FR,https://ror.org/02en5vm52
+I1342547582,Environment and Climate Change Canada,CA,https://ror.org/026ny0e17
+I212119943,University of Victoria,CA,https://ror.org/04s5mat29
+I161675122,Cooperative Institute for Research in Environmental Sciences,US,https://ror.org/00bdqav06
+I4405257520,Institute for Atmospheric and Climate Science,CH,https://ror.org/05bzz1e33
+I182286215,Institute of Arctic and Alpine Research,US,https://ror.org/00924z688
+I4210163131,Max Planck Institute for Meteorology,DE,https://ror.org/05esem239
+I205349734,Hokkaido University,JP,https://ror.org/02e16g702
+I3129773123,Bennett University,IN,https://ror.org/00an5hx75
+I4401726783,VIT-AP University,IN,https://ror.org/007v4hf75
+I876193797,Vellore Institute of Technology University,IN,https://ror.org/00qzypv28
+I48890080,Brandon University,CA,https://ror.org/02qp25a50
+I110360157,Lovely Professional University,IN,https://ror.org/00et6q107
+I74319210,Chitkara University,IN,https://ror.org/057d6z539
+I4405271667,Beijing National Research Center for Information Science and Technology,CN,https://ror.org/02tcm9e24
+I173759888,Hunan Normal University,CN,https://ror.org/053w1zy07
+I36819085,Northwest University,US,https://ror.org/00y7snj24
+I2799853436,Johns Hopkins Medicine,US,https://ror.org/037zgn354
+I4210150714,Johns Hopkins Hospital,US,https://ror.org/05cb1k848
+I4210126298,Duke Medical Center,US,https://ror.org/03njmea73
+I154986956,European Centre for Medium-Range Weather Forecasts,GB,https://ror.org/014w0fd65
+I4405277658,Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly,SG,https://ror.org/03gjns624
+I98251732,McMaster University,CA,https://ror.org/02fa3aq29
+I183934855,Genentech,US,https://ror.org/04gndp242
+I4210113435,Roche (Italy),IT,https://ror.org/01x544h30
+I12912129,Northeastern University,US,https://ror.org/04t5xt781
+I4405261603,Nîmes Université,FR,https://ror.org/05jhv1f87
+I66456633,Université de Nîmes,FR,https://ror.org/044t4x544
+I112859197,Università di Camerino,IT,https://ror.org/0005w8d69
+I4210110792,CRAN,FR,https://ror.org/022r5hc56
+I90183372,Université de Lorraine,FR,https://ror.org/04vfs2w97
+I60053951,Universitat Politècnica de València,ES,https://ror.org/01460j859
+I66083562,Systems Research Institute,PL,https://ror.org/0111cp837
+I155173764,Rochester Institute of Technology,US,https://ror.org/00v4yb702
+I111950717,Macau University of Science and Technology,MO,https://ror.org/03jqs2n27
+I193073490,Siksha O Anusandhan University,IN,https://ror.org/056ep7w45
+I4210097354,Sun Yat-sen Memorial Hospital,CN,https://ror.org/01px77p81
+I24185976,Sichuan University,CN,https://ror.org/011ashp19
+I2800091995,West China Medical Center of Sichuan University,CN,https://ror.org/040nggs60
+I4210089761,West China Hospital of Sichuan University,CN,https://ror.org/007mrxy13
+I4210107668,Guangzhou Regenerative Medicine and Health Guangdong Laboratory,CN,https://ror.org/01n179w26
+I161350542,China Three Gorges University,CN,https://ror.org/0419nfc77
+I4210136596,First Affiliated Hospital of Anhui Medical University,CN,https://ror.org/03t1yn780
+I4210140357,Renmin Hospital of Wuhan University,CN,https://ror.org/03ekhbz91
+I4210098361,First Affiliated Hospital of Guangzhou Medical University,CN,https://ror.org/00z0j0d77
+I4210154954,State Key Laboratory of Respiratory Disease,CN,https://ror.org/04hja5e04
+I4210146956,Third Affiliated Hospital of Sun Yat-sen University,CN,https://ror.org/04tm3k558
+I79817857,University of Guelph,CA,https://ror.org/01r7awg59
+I17974374,Universidade de São Paulo,BR,https://ror.org/036rp1748
+I31575130,SOAS University of London,GB,https://ror.org/04vrxay34
+I154130895,University of Auckland,NZ,https://ror.org/03b94tp07
+I3129379329,Sokoto State University,NG,https://ror.org/00zgr4s34
+I157386601,North South University,BD,https://ror.org/05wdbfp45
+I178450904,Universidad Nacional de Educación a Distancia,ES,https://ror.org/02msb5n36
+I2801316944,Cancer Research UK,GB,https://ror.org/054225q67
+I131729948,University of Salerno,IT,https://ror.org/0192m2k53
+I182534213,Universidade do Porto,PT,https://ror.org/043pwc612
+I51601045,University of Bath,GB,https://ror.org/002h8g185
+I18014758,Simon Fraser University,CA,https://ror.org/0213rcc28
+I149672521,Federation University,AU,https://ror.org/05qbzwv83
+I4405286315,"Fukushima Renewable Energy Institute, AIST",JP,https://ror.org/01sfpkt42
+I73613424,National Institute of Advanced Industrial Science and Technology,JP,https://ror.org/01703db54
+I79156528,Universiti Tenaga Nasional,MY,https://ror.org/03kxdn807
+I209803261,University of Nizwa,OM,https://ror.org/01pxe3r04
+I39555362,University of Warwick,GB,https://ror.org/01a77tt86
+I158842170,Chongqing University,CN,https://ror.org/023rhb549
+I205237279,Nankai University,CN,https://ror.org/01y1kjr75
+I145894827,Indian Institute of Technology Kharagpur,IN,https://ror.org/03w5sq511
+I149919469,California Polytechnic State University,US,https://ror.org/001gpfp45
+I1316064682,LinkedIn (United States),US,https://ror.org/02fyxhe35
+I1317621060,Indian Institute of Technology Guwahati,IN,https://ror.org/0022nd079
+I196934937,Liaocheng University,CN,https://ror.org/03yh0n709
+I183638586,Parthenope University of Naples,IT,https://ror.org/05pcv4v03
+I143302722,University of Kentucky,US,https://ror.org/02k3smh20
+I184999862,Universidad de Salamanca,ES,https://ror.org/02f40zc51
+I4405270328,Ant Group (China),CN,https://ror.org/00g5w7n47
+I98600543,Seoul Women's University,KR,https://ror.org/04b2fhx54
+I2802709434,Rigshospitalet,DK,https://ror.org/03mchdq19
+I143397708,Innsbruck Medical University,AT,https://ror.org/03pt86f80
+I2799434747,Douglas Mental Health University Institute,CA,https://ror.org/05dk2r620
+I4405276480,McGill University Research Centre for Studies in Aging,CA,https://ror.org/05h8ts335
+I1297540436,Biogen (United States),US,https://ror.org/02jqkb192
+I125749732,Western University,CA,https://ror.org/02grkyz14
+I153718931,University of Ottawa,CA,https://ror.org/03c4mmv16
+I33217400,Université du Québec en Outaouais,CA,https://ror.org/011pqxa69
+I4405262572,Institute of Mental Health Research,CA,https://ror.org/042cm9p56
+I155660961,University of Turku,FI,https://ror.org/05vghhr25
+I2801970007,Turku University Hospital,FI,https://ror.org/05dbzj528
+I4210089242,Düsseldorf University Hospital,DE,https://ror.org/006k2kk72
+I3143470655,Institute for Health Metrics and Evaluation,US,https://ror.org/02684h094
+I58048189,Shahid Beheshti University of Medical Sciences,IR,https://ror.org/034m2b326
+I145019703,Al-Zaytoonah University of Jordan,JO,https://ror.org/04a5b0p13
+I11892038,University of Nigeria,NG,https://ror.org/01sn1yx84
+I868834043,University of the West of Scotland,GB,https://ror.org/04w3d2v20
+I163205636,Tabriz University of Medical Sciences,IR,https://ror.org/04krpx645
+I180670191,"University of California, San Francisco",US,https://ror.org/043mz5j54
+I4403928363,Advanced Diagnostic and Interventional Radiology Research Center,IR,https://ror.org/00mvm1h40
+I70640408,Tehran University of Medical Sciences,IR,https://ror.org/01c4pz451
+I182000528,Ajman University,AE,https://ror.org/01j1rma10
+I84524832,Alexandria University,EG,https://ror.org/00mzz1w90
+I199693650,Umm al-Qura University,SA,https://ror.org/01xjqrm90
+I191240316,University of Hull,GB,https://ror.org/04nkhwh30
+I69768126,Hull York Medical School,GB,https://ror.org/0003e4m70
+I156216236,Qassim University,SA,https://ror.org/01wsfe280
+I114972647,University of Jordan,JO,https://ror.org/05k89ew48
+I28022161,King Saud University,SA,https://ror.org/02f81g417
+I88694374,Marshall University,US,https://ror.org/02erqft81
+I1330342723,Mayo Clinic,US,https://ror.org/02qp3tb03
+I4210127938,Mayo Clinic Hospital,US,https://ror.org/03660jn93
+I204588832,"Islamic Azad University, Karaj",IR,https://ror.org/01y4xm534
+I145487455,Cairo University,EG,https://ror.org/03q21mh05
+I2801278263,Komar University of Science and Technology,IQ,https://ror.org/05azws991
+I6033180,University of Duhok,IQ,https://ror.org/02g07ds81
+I4400600929,Federal University Wukari,NG,https://ror.org/04t8bw757
+I919958821,Bayero University Kano,NG,https://ror.org/049pzty39
+I8764889,University of Gondar,ET,https://ror.org/0595gz585
+I116768543,Zanjan University of Medical Sciences,IR,https://ror.org/01xf7jb19
+I57092466,Bahir Dar University,ET,https://ror.org/01670bg46
+I4405282822,Universidad de la Sierra Sur,MX,https://ror.org/00h2ky441
+I4210163674,National Heart Foundation Hospital & Research Institute,BD,https://ror.org/04sqj7m79
+I60559429,Nazarbayev University,KZ,https://ror.org/052bx8q98
+I4405254834,Federal Medical Centre Abuja,NG,https://ror.org/029kbaf30
+I254651091,University of Health and Allied Sciences,GH,https://ror.org/054tfvs49
+I28166907,Karolinska Institutet,SE,https://ror.org/056d84691
+I4210088963,University of Ha'il,SA,https://ror.org/013w98a82
+I120230055,Poznan University of Medical Sciences,PL,https://ror.org/02zbb2597
+I1293502524,Loma Linda University Medical Center,US,https://ror.org/03et1qs84
+I146367977,Applied Science Private University,JO,https://ror.org/01ah6nb52
+I199702508,Jouf University,SA,https://ror.org/02zsyt821
+I4210087348,National Cancer Centre Japan,JP,https://ror.org/0025ww868
+I4210092806,St. Luke's International University,JP,https://ror.org/00e5yzw53
+I4391012626,King Salman International University,EG,https://ror.org/04gj69425
+I156983542,Jordan University of Science and Technology,JO,https://ror.org/03y8mtb59
+I49828101,Hamad Medical Corporation,QA,https://ror.org/02zwb6n98
+I94800806,Birzeit University,PS,https://ror.org/0256kw398
+I201726411,United Arab Emirates University,AE,https://ror.org/01km6p862
+I4210089966,London School of Hygiene & Tropical Medicine,GB,https://ror.org/00a0jsq62
+I4405262518,Institut de Recherche Clinique du Bénin,BJ,https://ror.org/03s917w10
+I4210139578,Karnali Academy of Health Sciences,NP,https://ror.org/03tm6xb43
+I10947320,South African Medical Research Council,ZA,https://ror.org/05q60vz69
+I26092322,Stellenbosch University,ZA,https://ror.org/05bk57929
+I95023434,University of KwaZulu-Natal,ZA,https://ror.org/04qzfn040
+I894372087,Olabisi Onabanjo University,NG,https://ror.org/05jt4c572
+I1292894508,Roswell Park Comprehensive Cancer Center,US,https://ror.org/0499dwk57
+I63190737,"University at Buffalo, State University of New York",US,https://ror.org/01y64my43
+I119443389,East Tennessee State University,US,https://ror.org/05rfqv493
+I4210118383,Melanoma Institute Australia,AU,https://ror.org/02jxrhq31
+I200433483,Bowen University,NG,https://ror.org/02avtbn34
+I4210095046,Bowen University Teaching Hospital,NG,https://ror.org/00qs33y73
+I4210101494,Wolaita Sodo University,ET,https://ror.org/0106a2j17
+I4387155186,"University of Medical Sciences, Ondo",NG,https://ror.org/00q898q52
+I181631907,University of Ibadan,NG,https://ror.org/03wx2rr30
+I35601441,Osun State University,NG,https://ror.org/00e16h982
+I74813324,Mekelle University,ET,https://ror.org/04bpyvy69
+I923003605,Jashore University of Science and Technology,BD,https://ror.org/04eqvyq94
+I4210118361,Apollo Institute of Medical Sciences & Research,IN,https://ror.org/02f65mn87
+I91819753,Padjadjaran University,ID,https://ror.org/00xqf8t64
+I145876445,"University of Education, Winneba",GH,https://ror.org/00y1ekh28
+I90871651,University of Toledo,US,https://ror.org/01pbdzh19
+I4405269172,Metro North Hospital and Health Service,AU,https://ror.org/03a0hqz22
+I304011483,Grigore T. Popa University of Medicine and Pharmacy,RO,https://ror.org/03hd30t45
+I4210087859,Institutul Regional de Oncologie,RO,https://ror.org/006w57p51
+I142016965,King Edward Medical University,PK,https://ror.org/02rrbpf42
+I4388446371,Wachemo University,ET,https://ror.org/0058xky36
+I1309827724,International Vaccine Institute,KR,https://ror.org/02yfanq70
+I74648663,Rajarata University of Sri Lanka,LK,https://ror.org/04dd86x86
+I4210144925,Technological University Dublin,IE,https://ror.org/04t0qbt32
+I181343428,University of Zagreb,HR,https://ror.org/00mv6sv71
+I4390039327,Faculty of Electrical Engineering and Computing in Zagreb,HR,https://ror.org/04e90ca47
+I4210113215,IRCCS Ospedale Galeazzi - Sant'Ambrogio,IT,https://ror.org/01vyrje42
+I16656306,Meiji University,JP,https://ror.org/02rqvrp93
+I92869138,BOKU University,AT,https://ror.org/057ff4y42
+I67415387,Lancaster University,GB,https://ror.org/04f2nsd36
+I162096671,Universidad de Los Andes,CO,https://ror.org/02mhbdp94
+I184656255,University of Liechtenstein,LI,https://ror.org/01qjrx392
+I54009628,University of Bayreuth,DE,https://ror.org/0234wmv40
+I91712215,Saarland University,DE,https://ror.org/01jdpyv68
+I11123151,Northwest Missouri State University,US,https://ror.org/05maved80
+I4210129763,Helmholtz-Institute Ulm,DE,https://ror.org/034rhsb33
+I4210148201,Ho Chi Minh City University of Technology and Engineering,VN,https://ror.org/05hzn5427
+I113409471,Kumoh National Institute of Technology,KR,https://ror.org/05dkjfz60
+I78974044,East China University of Political Science and Law,CN,https://ror.org/01d1erx18
+I1309849503,RAND Corporation,US,https://ror.org/00f2z7n96
+I20121455,Bielefeld University,DE,https://ror.org/02hpadn98
+I4210112253,Honda (Germany),DE,https://ror.org/022c1xk47
+I90610280,South China University of Technology,CN,https://ror.org/0530pts50
+I4210116480,Flanders Make (Belgium),BE,https://ror.org/02ndjfz59
+I181547552,Baylor College of Medicine,US,https://ror.org/02pttbw34
+I4210153928,VIB-KU Leuven Center for Brain & Disease Research,BE,https://ror.org/045c7t348
+I4210100286,Chan Zuckerberg Biohub San Francisco,US,https://ror.org/00knt4f32
+I12708293,SIB Swiss Institute of Bioinformatics,CH,https://ror.org/002n09z45
+I4575257,Hanyang University,KR,https://ror.org/046865y68
+I161103922,Philipps University of Marburg,DE,https://ror.org/01rdrb571
+I4405252512,Centro Champalimaud,PT,https://ror.org/007rd1x46
+I4210090567,National Institute of Diabetes and Digestive and Kidney Diseases,US,https://ror.org/00adh9b73
+I2802742124,John Radcliffe Hospital,GB,https://ror.org/0080acb59
+I4210110594,MRC Weatherall Institute of Molecular Medicine,GB,https://ror.org/01q496a73
+I188891513,Sanford Burnham Prebys Medical Discovery Institute,US,https://ror.org/03m1g2s55
+I2801317318,Hospital for Sick Children,CA,https://ror.org/057q4rt57
+I4210111405,Centro Andaluz de Biología del Desarrollo,ES,https://ror.org/01v5e3436
+I170203145,MRC Laboratory of Molecular Biology,GB,https://ror.org/00tw3jy02
+I87048295,Wellcome Trust,GB,https://ror.org/029chgv08
+I201841394,Université Côte d'Azur,FR,https://ror.org/019tgvf94
+I4210117840,Institut de Biologie Valrose,FR,https://ror.org/03bnma344
+I123387679,Uppsala University,SE,https://ror.org/048a87296
+I154570441,"University of California, Santa Barbara",US,https://ror.org/02t274463
+I4210113761,Institut Jacques Monod,FR,https://ror.org/02c5gc203
+I4405287053,Donnelly Centre for Cellular and Biomolecular Research,CA,https://ror.org/0400kyd42
+I4210160469,Ciena (Canada),CA,https://ror.org/05agqdk49
+I34771391,University of Cyprus,CY,https://ror.org/02qjrjx09
+I14245010,University of Kragujevac,RS,https://ror.org/04f7vj627
+I1322918889,United States Department of Veterans Affairs,US,https://ror.org/05rsv9s98
+I2801671727,VA Boston Healthcare System,US,https://ror.org/04v00sg98
+I1324682000,Regenstrief Institute,US,https://ror.org/05f2ywb48
+I174458059,National Technical University of Athens,GR,https://ror.org/03cx6bg69
+I55741626,Technical University of Crete,GR,https://ror.org/03f8bz564
+I2614128279,Dalle Molle Institute for Artificial Intelligence Research,CH,https://ror.org/013355g38
+I57201433,Università della Svizzera italiana,CH,https://ror.org/03c4atk17
+I93860229,Politecnico di Milano,IT,https://ror.org/01nffqt88
+I2803209242,University of California System,US,https://ror.org/00pjdza24
+I885392262,GITAM University,IN,https://ror.org/0440p1d37
+I55215948,Tata Consultancy Services (India),IN,https://ror.org/01b9n8m42
+I81433678,Sikkim Manipal University,IN,https://ror.org/010gckf65
+I110217816,Dongduk Women's University,KR,https://ror.org/039p7ck60
+I80180929,Universidad de Murcia,ES,https://ror.org/03p3aeb86
+I4405253476,Bundesamt für Rüstung armasuisse,CH,https://ror.org/00pw7mk43
+I4390039307,Winship Cancer Institute,US,https://ror.org/02gars961
+I186903577,University of Luxembourg,LU,https://ror.org/036x5ad56
+I909555,SES (Luxembourg),LU,https://ror.org/00526y629
+I4210130112,China Academy of Information and Communications Technology,CN,https://ror.org/038dte259
+I152815399,Singapore University of Technology and Design,SG,https://ror.org/05j6fvn87
+I96673099,Technical University of Denmark,DK,https://ror.org/04qtj9h94
+I129902397,Dalhousie University,CA,https://ror.org/01e6qks80
+I3133171086,Bandırma Onyedi Eylül University,TR,https://ror.org/02mtr7g38
+I4210105707,Klaipėdos valstybinė kolegija / Higher Education Institution,LT,https://ror.org/01cm4sr79
+I33926330,Al-Balqa Applied University,JO,https://ror.org/00qedmt22
+I143396566,Fırat University,TR,https://ror.org/05teb7b63
+I3122934890,Jan Evangelista Purkyně University in Ústí nad Labem,CZ,https://ror.org/04vjwcp92
+I35913352,Prague University of Economics and Business,CZ,https://ror.org/029ecwj92
+I21250087,Charles University,CZ,https://ror.org/024d6js02
+I118501908,National Research University Higher School of Economics,RU,https://ror.org/055f7t516
+I4210143797,Sony (Japan),JP,https://ror.org/04wzv3n59
+I204866599,VA Palo Alto Health Care System,US,https://ror.org/00nr17z89
+I4210094678,Universitätsklinikum des Saarlandes,DE,https://ror.org/00nvxt968
+I51713134,University of Colorado Anschutz,US,https://ror.org/03wmf1y16
+I913958620,Erasmus University Rotterdam,NL,https://ror.org/057w15z03
+I4405281272,Alibaba DAMO Academy (China),CN,https://ror.org/0448px924
+I191208505,Xiamen University,CN,https://ror.org/00mcjh785
+I184840846,Virginia Commonwealth University,US,https://ror.org/02nkdxk79
+I154851008,Indian Institute of Technology Roorkee,IN,https://ror.org/00582g326
+I154099455,Shandong University,CN,https://ror.org/0207yh398
+I4210110431,Microsoft (Netherlands),NL,https://ror.org/01x21tj82
+I142899784,University of Sfax,TN,https://ror.org/04d4sd432
+I52207611,Al Baha University,SA,https://ror.org/0403jak37
+I4394709116,UNSW Canberra,AU,https://ror.org/0125wpx05
+I4210120485,Academy of Mathematics and Systems Science,CN,https://ror.org/02jkmyk67
+I196829312,La Trobe University,AU,https://ror.org/01rxfrp27
+I202276237,Medical University of Graz,AT,https://ror.org/02n0bts35
+I4210159420,Shanghai Children's Hospital,CN,https://ror.org/05pea1m70
+I74801974,The University of Tokyo,JP,https://ror.org/057zh3y96
+I4210118728,State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing,CN,https://ror.org/02bpap860
+I4210126580,RIKEN Center for Advanced Intelligence Project,JP,https://ror.org/03ckxwf91
+I137902535,North Carolina State University,US,https://ror.org/04tj63d06
+I4210146711,Sun Yat-sen University Cancer Center,CN,https://ror.org/0400g8r85
+I4210104539,Shenzhen Maternity and Child Healthcare Hospital,CN,https://ror.org/01me2d674
+I4210154480,Chongqing Cancer Hospital,CN,https://ror.org/047d8yx24
+I4210162753,First Affiliated Hospital of Jinan University,CN,https://ror.org/05d5vvz89
+I4210128921,"The First Affiliated Hospital, Sun Yat-sen University",CN,https://ror.org/037p24858
+I1282927834,Cedars-Sinai Medical Center,US,https://ror.org/02pammg90
+I1314596251,Allen Institute for Brain Science,US,https://ror.org/00dcv1019
+I1301553790,J. Craig Venter Institute,US,https://ror.org/049r1ts75
+I2799886695,Veterans Health Administration,US,https://ror.org/05eq41471
+I126744593,"University of Maryland, Baltimore",US,https://ror.org/04rq5mt64
+I66946132,"University of Maryland, College Park",US,https://ror.org/047s2c258
+I2802336062,Harborview Medical Center,US,https://ror.org/059jq5127
+I1311191458,La Jolla Institute for Immunology,US,https://ror.org/05vkpd318
+I149218525,Ankara University,TR,https://ror.org/01wntqw50
+I149717392,Siirt Üniversitesi,TR,https://ror.org/05ptwtz25
+I173207729,University of Engineering and Technology Taxila,PK,https://ror.org/03v00ka07
+I177721651,Oakland University,US,https://ror.org/01ythxj32
+I4210130704,University of Michigan–Dearborn,US,https://ror.org/035wtm547
+I41156924,Victoria University of Wellington,NZ,https://ror.org/0040r6f76
+I25217355,University of Pavia,IT,https://ror.org/00s6t1f81
+I839966561,Lone Star College,US,https://ror.org/059j9s184
+I2801533059,German Center for Neurodegenerative Diseases,DE,https://ror.org/043j0f473
+I4210127055,Athinoula A. Martinos Center for Biomedical Imaging,US,https://ror.org/032q5ym94
+I124227911,Ben-Gurion University of the Negev,IL,https://ror.org/05tkyf982
+I165831266,Nirma University,IN,https://ror.org/05qkq7x38
+I122754148,SAS Institute (United States),US,https://ror.org/01093z329
+I269685040,Koszalin University of Technology,PL,https://ror.org/00x6dk626
+I11923345,Wrocław University of Science and Technology,PL,https://ror.org/008fyn775
+I4210134534,National Institute of Allergy and Infectious Diseases,US,https://ror.org/043z4tv69
+I3005327000,Institute for Infocomm Research,SG,https://ror.org/053rfa017
+I198012923,University of Staffordshire,GB,https://ror.org/00d6k8y35
+I3018325552,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",BR,https://ror.org/02225fd27
