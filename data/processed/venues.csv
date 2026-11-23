@@ -1,0 +1,905 @@
+venue_id,name,type,issn,publisher
+S4363608767,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),conference,,Association for Computing Machinery
+S137773608,Nature,journal,0028-0836,Nature Portfolio
+S16540516,Advances in Engineering Software,journal,0965-9978,Elsevier BV
+S4363608991,Conference on Empirical Methods in Natural Language Processing (EMNLP),conference,,Association for Computational Linguistics
+S4393917527,ACM SIGSAC Conference on Computer and Communications Security (CCS),conference,1543-7221,Association for Computing Machinery
+S4393915740,Proceedings of the conference - Association for Computational Linguistics. Meeting,conference,0736-587X,
+S4210175523,IEEE Transactions on Neural Networks and Learning Systems,journal,2162-237X,Institute of Electrical and Electronics Engineers
+S4306400155,AAAI Publications (The Association for the Advancement of Artificial Intelligence (AAAI)),repository,,Association for the Advancement of Artificial Intelligence
+S4363608774,Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),conference,,
+S2737955091,Journal Of Big Data,journal,2196-1115,Springer Science+Business Media
+S58069681,IEEE Transactions on Medical Imaging,journal,0278-0062,Institute of Electrical and Electronics Engineers
+S4210176548,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,conference,1063-6919,Institute of Electrical and Electronics Engineers
+S118988714,Journal of Machine Learning Research,journal,1532-4435,The MIT Press
+S10169007,Knowledge-Based Systems,journal,0950-7051,Elsevier BV
+S2736409588,Big Data & Society,journal,2053-9517,SAGE Publishing
+S106296714,Lecture notes in computer science,book series,0302-9743,Springer Science+Business Media
+S4306418620,IEEE European Symposium on Security and Privacy,conference,,Institute of Electrical and Electronics Engineers
+S59628311,Behavioral and Brain Sciences,journal,0140-525X,Cambridge University Press
+S4210233669,IEEE Symposium on Security and Privacy (S&P),conference,1081-6011,IEEE Computer Society
+S45693802,Neurocomputing,journal,0925-2312,Elsevier BV
+S2489169438,The R Journal,journal,2073-4859,R Foundation for Statistical Computing
+S148121101,New Journal of Physics,journal,1367-2630,IOP Publishing
+S2480581173,Progress in Artificial Intelligence,journal,2192-6352,Springer Science+Business Media
+S4306418031,Conference on Computational Natural Language Learning,conference,,
+S4363607879,IEEE International Conference on Acoustics Speech and Signal Processing,conference,1520-6149,Institute of Electrical and Electronics Engineers
+S13144211,Expert Systems with Applications,journal,0957-4174,Elsevier BV
+S88603889,New Media & Society,journal,1461-4448,SAGE Publishing
+S4306402636,Oxford University Research Archive (ORA) (University of Oxford),repository,,University of Oxford
+S159818241,International Journal of Industrial Engineering Computations,journal,1923-2934,Growing Science
+S4306419644,International Conference on Machine Learning,conference,,
+S111482492,Computers & Structures,journal,0045-7949,Elsevier BV
+S4377196569,DROPS (Schloss Dagstuhl – Leibniz Center for Informatics),repository,,Schloss Dagstuhl – Leibniz Center for Informatics
+S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2159-5399,Association for the Advancement of Artificial Intelligence
+S2898359650,Operations Research Perspectives,journal,2214-7160,Elsevier BV
+S2729999759,Transactions of the Association for Computational Linguistics,journal,2307-387X,Association for Computational Linguistics
+S196734849,Scientific Reports,journal,2045-2322,Nature Portfolio
+S171267539,International Journal of Artificial Intelligence in Education,journal,1560-4292,Springer Science+Business Media
+S4363608670,International Workshop on Semantic Evaluation (SemEval),conference,,Association for Computational Linguistics
+S70010600,Information Communication & Society,journal,1369-118X,Routledge
+S4363606243,neural information processing systems,conference,1049-5258,Neural Information Processing Systems Foundation
+S7407088301,Language Resources and Evaluation Conference (LREC),conference,,
+S2764900261,Communications in computer and information science,book series,1865-0929,Springer Science+Business Media
+S4210177235,Semantic Web,journal,1570-0844,IOS Press
+S2764346689,Swarm and Evolutionary Computation,journal,2210-6502,Elsevier BV
+S414566,Pattern Recognition,journal,0031-3203,Elsevier BV
+S157921468,ACM Computing Surveys,journal,0360-0300,Association for Computing Machinery
+S4363607743,CHI Conference on Human Factors in Computing Systems,conference,,Association for Computing Machinery
+S7407087899,International Conference on Information Systems Security and Privacy (ICISSP),conference,,
+S139930977,Journal of Artificial Intelligence Research,journal,1076-9757,AI Access Foundation
+S4406922847,Cambridge University Engineering Department Publications Database,repository,,
+S199944782,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal,0162-8828,IEEE Computer Society
+S2738600312,npj Quantum Information,journal,2056-6387,Nature Portfolio
+S92895470,Review of Educational Research,journal,0034-6543,SAGE Publishing
+S4210177785,Journal of Pathology Informatics,journal,2153-3539,Elsevier BV
+S114241109,IEEE Intelligent Systems,journal,1541-1672,Institute of Electrical and Electronics Engineers
+S7407088480,International World Wide Web Conference (WWW),conference,,Association for Computing Machinery
+S2486202937,IEICE Transactions on Information and Systems,journal,0916-8532,"Institute of Electronics, Information and Communication Engineers"
+S4306400562,Zenodo (CERN European Organization for Nuclear Research),repository,,European Organization for Nuclear Research
+S202381698,PLoS ONE,journal,1932-6203,Public Library of Science
+S4393918690,IEEE Winter Conference on Applications of Computer Vision,conference,2472-6737,Institute of Electrical and Electronics Engineers
+S18088403,Natural Language Engineering,journal,1351-3249,Cambridge University Press
+S137042341,Physical Review X,journal,2160-3308,American Physical Society
+S30698027,IEEE Transactions on Knowledge and Data Engineering,journal,1041-4347,IEEE Computer Society
+S64187185,Nature Communications,journal,2041-1723,Nature Portfolio
+S193920097,Mathematical Programming,journal,0025-5610,Springer Science+Business Media
+S14881475,Science and Engineering Ethics,journal,1353-3452,Springer Science+Business Media
+S7407086650,International Conference on Digital Image Computing: Techniques and Applications (DICTA),conference,,Institute of Electrical and Electronics Engineers
+S103482838,Communications of the ACM,journal,0001-0782,Association for Computing Machinery
+S4306525036,PubMed,repository,,National Institutes of Health
+S4363607707,International Joint Conference on Neural Networks (IJCNN),conference,2161-4407,Institute of Electrical and Electronics Engineers
+S4363608340,IEEE International Conference on Data Science and Advanced Analytics (DSAA),conference,,Institute of Electrical and Electronics Engineers
+S4363608440,INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION,conference,,Association for Computing Machinery
+S2498492389,Brain Informatics,journal,2198-4026,Springer Science+Business Media
+S129839026,Journal of the American Medical Informatics Association,journal,1067-5027,Oxford University Press
+S116571295,Medical Image Analysis,journal,1361-8415,Elsevier BV
+S151374650,Significance,journal,1740-9705,Oxford University Press
+S150263959,Statistical Methods in Medical Research,journal,0962-2802,SAGE Publishing
+S30128005,Journal of Network and Computer Applications,journal,1084-8045,Elsevier BV
+S99517592,Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences,journal,1364-503X,Royal Society
+S51360982,Automatica,journal,0005-1098,Elsevier BV
+S4306419637,International Conference on Learning Representations,conference,,
+S3880285,Science,journal,0036-8075,American Association for the Advancement of Science
+S7407087242,Conference on Machine Translation (WMT),conference,,
+S121920818,Data Mining and Knowledge Discovery,journal,1384-5810,Springer Science+Business Media
+S4210169297,IEEE/ACM Transactions on Audio Speech and Language Processing,journal,2329-9290,Institute of Electrical and Electronics Engineers
+S7407087243,IEEE International Conference on Advanced Computing (IACC),conference,,Institute of Electrical and Electronics Engineers
+S145009937,Journal of the Royal Statistical Society Series B (Statistical Methodology),journal,1369-7412,Oxford University Press
+S130224168,Journal of the American Mathematical Society,journal,0894-0347,American Mathematical Society
+S4210201744,Synthese Library/Synthese library,book series,0166-6991,Springer International Publishing
+S4393918409,Interspeech (USB),conference,2308-457X,
+S137478622,Behavior Research Methods,journal,1554-351X,Springer Science+Business Media
+S122814990,Artificial Intelligence Review,journal,0269-2821,Springer Science+Business Media
+S7407087395,Workshop on Representation Learning for NLP (RepL4NLP),conference,,Association for Computational Linguistics
+S4306418075,Conference on Learning Theory,conference,,Association for Computing Machinery
+S18522216,Media Culture & Society,journal,0163-4437,SAGE Publishing
+S4394736638,Journal of the American Statistical Association,journal,0162-1459,
+S7407086494,IEEE Conference on Computational Intelligence and Games (CIG),conference,,Institute of Electrical and Electronics Engineers
+S115173108,IEEE Transactions on Circuits and Systems for Video Technology,journal,1051-8215,Institute of Electrical and Electronics Engineers
+S184954342,IEEE Transactions on Automatic Control,journal,0018-9286,Institute of Electrical and Electronics Engineers
+S4363608932,Genetic and Evolutionary Computation Conference (GECCO),conference,,Association for Computing Machinery
+S2595095599,Frontiers in Robotics and AI,journal,2296-9144,Frontiers Media
+S104780363,IEEE Transactions on Affective Computing,journal,1949-3045,Institute of Electrical and Electronics Engineers
+S168680287,IEEE Transactions on Signal Processing,journal,1053-587X,Institute of Electrical and Electronics Engineers
+S2764977103,Journal of King Saud University - Engineering Sciences,journal,1018-3639,Elsevier BV
+S4306420590,Network and Distributed System Security Symposium,conference,,
+S4210187768,Human-computer interaction series,book series,1571-5035,Springer Nature
+S164566984,Physical Review A,journal,0556-2791,American Physical Society
+S125629831,Memetic Computing,journal,1865-9284,Springer Science+Business Media
+S7407104764,Workshop on Natural Language Processing and Computational Social Science (NLP+CSS),conference,,Association for Computational Linguistics
+S65753830,Soft Computing,journal,1432-7643,Springer Science+Business Media
+S2738898797,International Journal of Interactive Multimedia and Artificial Intelligence,journal,1989-1660,International University of La Rioja
+S23735784,Philosophy & Technology,journal,2210-5433,Springer Nature (Netherlands)
+S104797584,IEEE Computational Intelligence Magazine,journal,1556-603X,Institute of Electrical and Electronics Engineers
+S4210206007,International Journal of Computer Applications,journal,0975-8887,Foundation of Computer Science
+S4306419219,International Conference on Computational Linguistics,conference,1525-2477,
+S2764948052,The Association for Computational Linguistics,journal,,
+S108732581,Critical Care Medicine,journal,0090-3493,Lippincott Williams & Wilkins
+S7407107860,International Workshop on Audio/Visual Emotion Challenge (AVEC),conference,,Association for Computing Machinery
+S4210214883,Proceedings,conference,1550-4786,Institute of Electrical and Electronics Engineers
+S2764497610,Digital Journalism,journal,2167-0811,Taylor & Francis
+S4210219814,Environment and Planning D Society and Space,journal,0263-7758,SAGE Publishing
+S125754415,Proceedings of the National Academy of Sciences,journal,0027-8424,National Academy of Sciences
+S4306420577,National Conference on Artificial Intelligence,conference,,
+S4306421123,USENIX Security Symposium,conference,,
+S4210169241,Undergraduate topics in computer science,book series,1863-7310,
+S100601982,Communications in Mathematical Physics,journal,0010-3616,Springer Science+Business Media
+S7560371,Information Fusion,journal,1566-2535,Elsevier BV
+S7407105113,ISCA Speech Synthesis Workshop (SSW),conference,,
+S172073041,Automation in Construction,journal,0926-5805,Elsevier BV
+S4306423701,"International Conference on Global Trends in Signal Processing, Information Computing and Communication",conference,,Institute of Electrical and Electronics Engineers
+S4210217939,Proceedings - IEEE International Conference on Robotics and Automation/Proceedings,conference,1050-4729,Institute of Electrical and Electronics Engineers
+S147547362,Socio-Economic Review,journal,1475-1461,Oxford University Press
+S120348307,Procedia Computer Science,conference,1877-0509,Elsevier BV
+S5240358,IEEE Transactions on Biomedical Engineering,journal,0018-9294,Institute of Electrical and Electronics Engineers
+S4306463937,Springer eBooks,ebook platform,,Springer Nature
+S2972808588,TELKOMNIKA (Telecommunication Computing Electronics and Control),journal,1693-6930,Ahmad Dahlan University
+S24807848,Physical Review Letters,journal,0031-9007,American Physical Society
+S928796702,SIAM Journal on Optimization,journal,1052-6234,Society for Industrial and Applied Mathematics
+S2765007747,Journal of medical imaging,journal,2329-4302,SPIE
+S4210192142,Engineering,journal,2095-8099,Elsevier BV
+S2504380752,EPJ Data Science,journal,2193-1127,Springer Nature
+S133795288,IEEE Transactions on Dependable and Secure Computing,journal,1545-5971,IEEE Computer Society
+S4306418069,Conference on Innovations in Theoretical Computer Science,conference,,Association for Computing Machinery
+S4306400478,Ghent University Academic Bibliography (Ghent University),repository,,Ghent University
+S73484101,The International Journal of Robotics Research,journal,0278-3649,SAGE Publishing
+S97833917,ACM Transactions on Internet Technology,journal,1533-5399,Association for Computing Machinery
+S41034432,Quantum Information and Computation,journal,1533-7146,Rinton Press
+S138959710,Computer Methods and Programs in Biomedicine,journal,0169-2607,Elsevier BV
+S4363608114,IEEE Military Communications Conference (MILCOM),conference,,Institute of Electrical and Electronics Engineers
+S86300262,Federal probation,journal,0014-9128,
+S4210225372,Machine Learning and Applications An International Journal,journal,2394-0840,Academy and Industry Research Collaboration Center (AIRCC)
+S4393916651,Proceedings - International Conference on Pattern Recognition/Proceedings/International Conference on Pattern Recognition,conference,1041-3278,Institute of Electrical and Electronics Engineers
+S4306462995,Cambridge University Press eBooks,ebook platform,,Cambridge University Press
+S68686220,Proceedings of the IEEE,journal,0018-9219,Institute of Electrical and Electronics Engineers
+S185008460,Computer Vision and Image Understanding,journal,1077-3142,Elsevier BV
+S62148650,Machine Learning,journal,0885-6125,Springer Science+Business Media
+S4363608994,ACM Annual International Conference on Mobile Computing and Networking (MobiCom),conference,1543-5679,Association for Computing Machinery
+S2495854775,IEEE Journal of Biomedical and Health Informatics,journal,2168-2194,Institute of Electrical and Electronics Engineers
+S93284759,Journal of Business Research,journal,0148-2963,Elsevier BV
+S4210201516,Mathematical and Computational Applications,journal,1300-686X,Multidisciplinary Digital Publishing Institute
+S4306424877,Language Resources and Evaluation,journal,1574-020X,Springer Science+Business Media
+S4306417673,Annual Computer Security Applications Conference,conference,1063-9527,
+S4363607812,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC),conference,,
+S7407064376,Griffith Research Online,repository,,
+S153560523,SIAM Journal on Computing,journal,0097-5397,Society for Industrial and Applied Mathematics
+S4306532588,The New York Times,journal,0362-4331,
+S140556538,Applied Soft Computing,journal,1568-4946,Elsevier BV
+S4306420871,SIAM International Conference on Data Mining,conference,,
+S4210195017,International Journal of Data Science and Analytics,journal,2364-4168,Springer International Publishing
+S4210223945,Journal of Artificial Intelligence and Soft Computing Research,journal,2083-2567,"Polish Neural Network Society, the University of Social Sciences in Lodz & Czestochowa University of Technology"
+S30680879,Applied Computational Intelligence and Soft Computing,journal,1687-9724,Hindawi Publishing Corporation
+S7407086927,"ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys)",conference,,Association for Computing Machinery
+S72071028,Scandinavian Journal of Statistics,journal,0303-6898,Wiley
+S192650101,Information Sciences,journal,0020-0255,Elsevier BV
+S4306401293,Dialnet (Universidad de la Rioja),repository,,Universidad de La Rioja
+S4210171502,EURO Journal on Computational Optimization,journal,2192-4406,Springer Science+Business Media
+S4306419999,International Joint Conference on Artificial Intelligence,conference,,
+S28082686,Machine Intelligence Research,journal,1476-8186,Springer Science+Business Media
+S7407086350,The Speaker and Language Recognition Workshop (Odyssey),conference,,
+S4306463230,Elsevier eBooks,ebook platform,,Elsevier BV
+S103146128,Ethical Theory and Moral Practice,journal,1386-2820,Springer Science+Business Media
+S4393917016,IEEE SoutheastCon,conference,1091-0050,Institute of Electrical and Electronics Engineers
+S44811899,Analysis and Applications,journal,0219-5305,World Scientific
+S53142634,International Journal of Medical Informatics,journal,1386-5056,Elsevier BV
+S134177497,IEEE Transactions on Fuzzy Systems,journal,1063-6706,Institute of Electrical and Electronics Engineers
+S2497375143,Energy,journal,0360-5442,Elsevier BV
+S8427965,Biomedical Signal Processing and Control,journal,1746-8094,Elsevier BV
+S163534328,Marketing Science,journal,0732-2399,Institute for Operations Research and the Management Sciences
+S4210178532,Network Modeling Analysis in Health Informatics and Bioinformatics,journal,2192-6670,Springer Vienna
+S4363605953,IEEE Spoken Language Technology Workshop (SLT),conference,,Institute of Electrical and Electronics Engineers
+S204030396,Computers in Human Behavior,journal,0747-5632,Elsevier BV
+S7407105173,International Workshop on Natural Language Processing for Social Media (SocialNLP),conference,,Association for Computational Linguistics
+S2484288132,IEEE/CAA Journal of Automatica Sinica,journal,2329-9266,Institute of Electrical and Electronics Engineers
+S19778766,Frontiers in Computational Neuroscience,journal,1662-5188,Frontiers Media
+S7407086806,Workshop on Biomedical Language Processing (BioNLP),conference,,
+S7407086237,"Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)",conference,,Association for Computational Linguistics
+S4306402512,HAL,repository,,Centre pour la Communication Scientifique Directe
+S68913162,Journal of Information Science,journal,0165-5515,SAGE Publishing
+S4210231119,Aging,journal,1945-4589,Impact Journals LLC
+S4210240373,Journal of Computer Research and Development,journal,1000-1239,Science Press
+S2737270966,ComTech Computer Mathematics and Engineering Applications,journal,2087-1244,Bina Nusantara University
+S4306402195,CERN Document Server (European Organization for Nuclear Research),repository,,European Organization for Nuclear Research
+S155526855,Computational Linguistics,journal,0891-2017,Association for Computational Linguistics
+S7407088584,CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA),conference,,Association for Computing Machinery
+S147897268,Neural Computing and Applications,journal,0941-0643,Springer Science+Business Media
+S4363608773,International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR),conference,,Association for Computing Machinery
+S20211220,Journal of Web Semantics,journal,1570-8268,Elsevier BV
+S4306402556,Maryland Shared Open Access Repository (USMAI Consortium),repository,,
+S4363608757,ACM International Conference on Multimedia (ACM MM),conference,,Association for Computing Machinery
+S4306419382,"International Conference on Electrical, Electronics, and Optimization Techniques",conference,,Institute of Electrical and Electronics Engineers
+S4363607799,IEEE International Conference on Multimedia and Expo (ICME),conference,,Institute of Electrical and Electronics Engineers
+S81770430,Knowledge and Information Systems,journal,0219-3116,Springer Science+Business Media
+S93787993,IEEE Transactions on Evolutionary Computation,journal,1089-778X,Institute of Electrical and Electronics Engineers
+S4210201727,International Journal of Semantic Computing,journal,1793-7108,World Scientific
+S2477777830,International Journal of Information Engineering and Electronic Business,journal,2074-9031,MECS Publisher
+S2485537415,IEEE Access,journal,2169-3536,Institute of Electrical and Electronics Engineers
+S129236917,World Wide Web,journal,1386-145X,Springer Science+Business Media
+S4306400930,OPUS (Augsburg University),repository,,Augsburg University
+S2737427234,Science Advances,journal,2375-2548,American Association for the Advancement of Science
+S4363607764,IEEE/CVF International Conference on Computer Vision (ICCV),conference,,Institute of Electrical and Electronics Engineers
+S4210181928,Advances in computer vision and pattern recognition,book series,2191-6586,Springer International Publishing
+S4306418011,Conference of the European Chapter of the Association for Computational Linguistics,conference,,
+S120977877,IEEE Signal Processing Magazine,journal,1053-5888,Institute of Electrical and Electronics Engineers
+S4393918188,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),conference,2153-0858,Institute of Electrical and Electronics Engineers
+S4363609011,ACM Asia Conference on Computer and Communications Security (ASIA CCS),conference,,Association for Computing Machinery
+S6756005,ACM SIGIR Forum,journal,0163-5840,Association for Computing Machinery
+S172573765,JAMA,journal,0002-9955,American Medical Association
+S120392215,Nature Photonics,journal,1749-4885,Nature Portfolio
+S163019073,AI Magazine,journal,0738-4602,Association for the Advancement of Artificial Intelligence
+S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,conference,2162-3449,Association for the Advancement of Artificial Intelligence
+S2484188435,IEEE Transactions on Cognitive Communications and Networking,journal,2332-7731,Institute of Electrical and Electronics Engineers
+S4210226731,Big Data,journal,2167-6461,"Mary Ann Liebert, Inc."
+S64117906,Digital Signal Processing,journal,1051-2004,Elsevier BV
+S4210192229,IEEE International Midwest Symposium on Circuits and Systems (MWSCAS),conference,1548-3746,Institute of Electrical and Electronics Engineers
+S4306463855,Routledge eBooks,ebook platform,,Routledge
+S4210181444,IEEE Computer Security Foundations Workshop (CSFW),conference,1063-6900,Institute of Electrical and Electronics Engineers
+S4363607748,IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),conference,,Institute of Electrical and Electronics Engineers
+S7407088135,ACM Workshop on Artificial Intelligence and Security (AISec),conference,,Association for Computing Machinery
+S2734413303,National Science Review,journal,2053-714X,Oxford University Press
+S7407086083,Annual Meeting of the Association for Computational Linguistics: System Demonstrations (ACL Demo),conference,,
+S61310614,IEEE Transactions on Information Forensics and Security,journal,1556-6013,Institute of Electrical and Electronics Engineers
+S123019304,Neural Networks,journal,0893-6080,Elsevier BV
+S4306402302,Repository for Publications and Research Data (ETH Zurich),repository,,ETH Zurich
+S4210237340,Distill,journal,2476-0757,
+S4306419553,International Conference on Information Networking,conference,1976-7684,Institute of Electrical and Electronics Engineers
+S62468778,New England Journal of Medicine,journal,0028-4793,Massachusetts Medical Society
+S192894947,Mobile Networks and Applications,journal,1383-469X,Springer Science+Business Media
+S4210227276,Electronic Imaging,journal,2470-1173,Society for Imaging Science and Technology
+S4210226185,Proceedings of the VLDB Endowment,conference,2150-8097,Association for Computing Machinery
+S4393918241,International Conference on Speech Database and Assessments,conference,2163-3479,Institute of Electrical and Electronics Engineers
+S7407087865,IEEE International Conference on Intelligence and Security Informatics (ISI),conference,,Institute of Electrical and Electronics Engineers
+S4210190054,Lecture notes in geoinformation and cartography,book series,1863-2246,Springer Nature
+S157620343,American Sociological Review,journal,0003-1224,SAGE Publishing
+S4210169156,Lecture notes in networks and systems,book series,2367-3389,Springer International Publishing
+S4210229213,HORIZONS B,journal,1857-8578,St. Clement of Ohrid University of Bitola
+S100695177,The Astronomical Journal,journal,0004-6256,Institute of Physics
+S7407088860,Workshop on Noisy User-generated Text (W-NUT),conference,,Association for Computational Linguistics
+S4210203380,Synthesis lectures on human language technologies,journal,1947-4040,Morgan & Claypool Publishers
+S42167783,IEEE Journal of Selected Topics in Signal Processing,journal,1932-4553,Institute of Electrical and Electronics Engineers
+S7407088578,British Machine Vision Conference (BMVC),conference,,
+S49967189,Wireless Personal Communications,journal,0929-6212,Springer Science+Business Media
+S2492086750,ACM Transactions on Intelligent Systems and Technology,journal,2157-6904,Association for Computing Machinery
+S1393328,Inverse Problems,journal,0266-5611,IOP Publishing
+S4210185107,Communications in Mathematics and Statistics,journal,2194-671X,Springer Science+Business Media
+S4210176598,ACM SIGKDD Explorations Newsletter,journal,1931-0145,Association for Computing Machinery
+S4306420803,Robotics: Science and Systems,conference,,
+S4210225193,Schedae Informaticae,journal,0860-0295,Wydawnictwo Uniwersytetu Jagiellońskiego
+S73121659,Computer Science Review,journal,1574-0137,Elsevier BV
+S7407106023,International Conference on Computing Networking and Informatics (ICCNI),conference,,Institute of Electrical and Electronics Engineers
+S196034224,MIT Sloan Management Review,journal,1532-8937,Massachusetts Institute of Technology
+S7407119765,CoNLL Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies,conference,,Association for Computational Linguistics
+S13096939,Ethics and Information Technology,journal,1388-1957,Springer Science+Business Media
+S4306401777,Apollo (University of Cambridge),repository,,University of Cambridge
+S7407122635,Enlighten: Publications (University of Glasgow),repository,,University of Glasgow
+S4393918563,IEEE ... International Conference on Data Mining workshops,conference,2375-9259,Institute of Electrical and Electronics Engineers
+S4393918199,ACM International Conference on Information and Knowledge Management (CIKM),conference,2155-0751,Association for Computing Machinery
+S187806540,Chaos An Interdisciplinary Journal of Nonlinear Science,journal,1054-1500,American Institute of Physics
+S4210191041,IEEE Transactions on Cybernetics,journal,2168-2267,Institute of Electrical and Electronics Engineers
+S157485431,Journal of Travel Research,journal,0047-2875,SAGE Publishing
+S4210177720,Quantum Science and Technology,journal,2058-9565,IOP Publishing
+S177430994,Image and Vision Computing,journal,0262-8856,Elsevier BV
+S23629721,International Journal of Advanced Computer Science and Applications,journal,2156-5570,Science and Information Organization
+S4210169774,IEEE Robotics and Automation Letters,journal,2377-3766,Institute of Electrical and Electronics Engineers
+S148709879,Journal of Computational Physics,journal,0021-9991,Elsevier BV
+S91252481,Computer Speech & Language,journal,0885-2308,Elsevier BV
+S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,journal,2476-1249,Association for Computing Machinery
+S50280174,Radiology,journal,0033-8419,Radiological Society of North America
+S185067381,Journal of Statistical Physics,journal,0022-4715,Springer Science+Business Media
+S2737520951,Nanophotonics,journal,2192-8614,De Gruyter
+S185367456,ACM Transactions on Graphics,journal,0730-0301,Association for Computing Machinery
+S90119964,ACM Transactions on Database Systems,journal,0362-5915,Association for Computing Machinery
+S4363605353,IEEE Congress on Evolutionary Computation (CEC),conference,,Institute of Electrical and Electronics Engineers
+S7407107766,Workshop on Abusive Language Online (ALW),conference,,Association for Computational Linguistics
+S7407086087,ACM Conference on Computer Supported Cooperative Work (CSCW),conference,,Association for Computing Machinery
+S91329792,Journal of Intelligent & Robotic Systems,journal,0921-0296,Springer Science+Business Media
+S4306462844,Apress eBooks,ebook platform,,
+S900972176,Engineering Applications of Artificial Intelligence,journal,0952-1976,Elsevier BV
+S159450355,China Communications,journal,1673-5447,Institute of Electrical and Electronics Engineers
+S7407055101,CNR ExploRA,repository,,
+S4306418756,IEEE International Symposium on Dynamic Spectrum Access Networks,conference,,Institute of Electrical and Electronics Engineers
+S3006183880,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,journal,1364-5021,Royal Society
+S4306419645,International Conference on Machine Learning and Applications,conference,,Institute of Electrical and Electronics Engineers
+S7407096846,"IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)",conference,,Institute of Electrical and Electronics Engineers
+S4210183893,Proceedings of the ACM on Human-Computer Interaction,journal,2573-0142,Association for Computing Machinery
+S109565702,Applied Energy,journal,0306-2619,Elsevier BV
+S119757635,The Annals of Statistics,journal,0090-5364,Institute of Mathematical Statistics
+S205899252,IEEE Internet Computing,journal,1089-7801,IEEE Computer Society
+S4210188176,Foundations and Trends® in Machine Learning,journal,1935-8237,Now Publishers
+S4210223844,Proceedings - International Conference on Image Processing,conference,1522-4880,Institute of Electrical and Electronics Engineers
+S2596175017,Frontiers in ICT,journal,2297-198X,Frontiers Media
+S4306417680,Annual Meeting of the Special Interest Group on Discourse and Dialogue,conference,,
+S173776643,Communication Monographs,journal,0363-7751,Taylor & Francis
+S4306463922,Society for Industrial and Applied Mathematics eBooks,ebook platform,,Society for Industrial and Applied Mathematics
+S84409260,BioData Mining,journal,1756-0381,BioMed Central
+S4306423740,International Conference on ICT and Knowledge Engineering,conference,,Institute of Electrical and Electronics Engineers
+S7407089168,ACM SIGOPS Symposium on Operating Systems Principles (SOSP),conference,,Association for Computing Machinery
+S48031226,Journal of Ambient Intelligence and Humanized Computing,journal,1868-5137,Springer Science+Business Media
+S4306419715,International Conference on Natural Language Generation,conference,,
+S4210191919,Journal of Privacy and Confidentiality,journal,2575-8527,Society for Privacy and Confidentiality Research
+S4210213233,Science Robotics,journal,2470-9476,American Association for the Advancement of Science
+S4210239319,Modeling and optimization in science and technologies,book series,2196-7334,Springer International Publishing
+S193624734,IEEE Transactions on Aerospace and Electronic Systems,journal,0018-9251,Institute of Electrical and Electronics Engineers
+S4363608885,ACM International Conference on Web Search and Data Mining (WSDM),conference,,Association for Computing Machinery
+S4306462936,Bloomsbury Academic eBooks,ebook platform,,
+S4502562,IEEE Transactions on Information Theory,journal,0018-9448,Institute of Electrical and Electronics Engineers
+S160343789,The Journal of Ethics,journal,1382-4554,Springer Science+Business Media
+S4306417581,ACM Symposium on Applied Computing,conference,,Association for Computing Machinery
+S2491400915,IEEE Transactions on Big Data,journal,2332-7790,IEEE Computer Society
+S184777250,IEEE Transactions on Industrial Informatics,journal,1551-3203,Institute of Electrical and Electronics Engineers
+S107516304,BMC Medical Informatics and Decision Making,journal,1472-6947,BioMed Central
+S11622463,Journal of Biomedical Informatics,journal,1532-0464,Elsevier BV
+S2485147958,Journal of Computational Design and Engineering,journal,2288-4300,Oxford University Press
+S2764453006,Physical Review Applied,journal,2331-7019,American Physical Society
+S4210197613,Journal of the Association for Information Science and Technology,journal,2330-1635,Wiley
+S4210198592,IEEE Intelligent Vehicles Symposium,conference,1931-0587,Institute of Electrical and Electronics Engineers
+S68632876,Social Studies of Science,journal,0036-8539,SAGE Publishing
+S36625193,Journal of Healthcare Engineering,journal,2040-2295,Hindawi Publishing Corporation
+S192071280,Journal of Computational Science,journal,1877-7503,Elsevier BV
+S207023548,Neural Computation,journal,0899-7667,The MIT Press
+S2764866340,Nature Human Behaviour,journal,2397-3374,Nature Portfolio
+S137030581,IEEE Transactions on Multimedia,journal,1520-9210,Institute of Electrical and Electronics Engineers
+S4306419765,International Conference on Platform Technology and Service,conference,,Institute of Electrical and Electronics Engineers
+S4306402433,"Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",repository,,
+S2480266640,IEEE Internet of Things Journal,journal,2327-4662,Institute of Electrical and Electronics Engineers
+S4210224189,International Conference on Scientific and Statistical Database Management,conference,1551-6393,Institute of Electrical and Electronics Engineers
+S7407088419,ACM Web Science Conference (WebSci),conference,,Association for Computing Machinery
+S4306419159,International Conference on Automatic Face and Gesture Recognition,conference,1541-5058,Institute of Electrical and Electronics Engineers
+S4306418393,European Workshop on System Security,conference,,Association for Computing Machinery
+S19032547,BMC Bioinformatics,journal,1471-2105,BioMed Central
+S2764455111,PubMed Central,repository,,National Institutes of Health
+S4210189857,Frontiers of Information Technology & Electronic Engineering,journal,2095-9184,Springer Science+Business Media
+S2505707916,Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,journal,1942-4795,Wiley
+S4363608153,International Conference on Information Fusion (FUSION),conference,,
+S7407088164,ACM Conference on Hypertext and Social Media (HT),conference,,Association for Computing Machinery
+S7407087723,ACM Symposium on Theory of Computing (STOC),conference,,Association for Computing Machinery
+S150671403,Computers & Chemical Engineering,journal,0098-1354,Elsevier BV
+S38090728,Signal Processing Image Communication,journal,0923-5965,Elsevier BV
+S4210226432,Quantum,journal,2521-327X,Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften
+S160466889,Minds and Machines,journal,0924-6495,Springer Science+Business Media
+S45584542,Queue,journal,1542-7730,Association for Computing Machinery
+S196139623,Artificial Intelligence,journal,0004-3702,Elsevier BV
+S4306467597,Chapman & Hall/CRC eBooks,ebook platform,,Informa
+S7407088969,BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP),conference,,Association for Computational Linguistics
+S113237667,Business Horizons,journal,0007-6813,Elsevier BV
+S7407087688,Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP),conference,,Association for Computational Linguistics
+S160107561,SIAM Review,journal,0036-1445,Society for Industrial and Applied Mathematics
+S4210195431,npj Digital Medicine,journal,2398-6352,Nature Portfolio
+S4306463997,The MIT Press eBooks,ebook platform,,The MIT Press
+S203256638,Nature Medicine,journal,1078-8956,Nature Portfolio
+S185874209,BMC Medical Research Methodology,journal,1471-2288,BioMed Central
+S110206669,Multimedia Tools and Applications,journal,1380-7501,Springer Science+Business Media
+S35909690,Television & New Media,journal,1527-4764,SAGE Publishing
+S2764624792,Nature Biomedical Engineering,journal,2157-846X,Nature Portfolio
+S4306400423,University of Southern Denmark Research Portal (University of Southern Denmark),repository,,University of Southern Denmark
+S5407048695,Proceedings of the AAAI/ACM Conference on AI Ethics and Society,conference,3065-8365,Association for the Advancement of Artificial Intelligence
+S126294776,Journal of Mathematical Psychology,journal,0022-2496,Elsevier BV
+S4210234387,International Workshop on Quality of Service,conference,1548-615X,Institute of Electrical and Electronics Engineers
+S73260565,Reviews of Modern Physics,journal,0034-6861,American Physical Society
+S2764461748,Studies in computational intelligence,book series,1860-949X,Springer Nature
+S119722071,Annals of Internal Medicine,journal,0003-4819,American College of Physicians
+S156274416,Nature Physics,journal,1745-2473,Nature Portfolio
+S108821158,Geophysical Journal International,journal,0956-540X,Oxford University Press
+S4306419972,"International Convention on Information and Communication Technology, Electronics and Microelectronics",conference,,
+S105282323,Reports on Progress in Physics,journal,0034-4885,IOP Publishing
+S7407114481,Workshop for NLP Open Source Software (NLP-OSS),conference,,Association for Computational Linguistics
+S9536269,Sociological Methods & Research,journal,0049-1241,SAGE Publishing
+S7407086408,IEEE Security and Privacy Workshops (SPW),conference,,Institute of Electrical and Electronics Engineers
+S200967711,Medical Reference Services Quarterly,journal,0276-3869,Taylor & Francis
+S4306417597,Adaptive Agents and Multi-Agents Systems,conference,1548-8403,
+S4306419281,International Conference on Computing Communication Control and automation,conference,,Institute of Electrical and Electronics Engineers
+S169236886,Cell Reports,journal,2211-1247,Cell Press
+S2735135405,GigaScience,journal,2047-217X,University of Oxford
+S7407085958,IEEE National Aerospace and Electronics Conference (NAECON),conference,,Institute of Electrical and Electronics Engineers
+S4210187594,Journal of Physics Conference Series,conference,1742-6588,IOP Publishing
+S76633192,Journal of Business Ethics,journal,0167-4544,Springer Science+Business Media
+S4210219319,International series in management science/operations research/International series in operations research & management science,book series,0884-8289,Springer Science+Business Media
+S43319301,Foundations and Trends in Robotics,journal,1935-8253,Now Publishers
+S4210173141,IEEE Transactions on Image Processing,journal,1057-7149,Institute of Electrical and Electronics Engineers
+S69141925,IEEE Transactions on Mobile Computing,journal,1536-1233,IEEE Computer Society
+S4306401954,Lirias (KU Leuven),repository,,KU Leuven
+S101949793,Sensors,journal,1424-8220,Multidisciplinary Digital Publishing Institute
+S4306401925,Singapore Management University Institutional Knowledge (InK) (Singapore Management University),repository,,Singapore Management University
+S4210202650,Academy of Management Discoveries,journal,2168-1007,Academy of Management
+S4210216571,Lecture notes on data engineering and communications technologies,book series,2367-4520,Springer International Publishing
+S145569942,Gastric Cancer,journal,1436-3291,Springer Science+Business Media
+S4210214273,The Journal of Open Source Software,journal,2475-9066,Open Journals
+S2170549,Policy & Internet,journal,1944-2866,Wiley
+S4210183172,Proceedings on Privacy Enhancing Technologies,journal,2299-0984,De Gruyter Open
+S7407087958,"ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)",conference,,Association for Computing Machinery
+S4377196403,scholarworks - UTEP (The University of Texas at El Paso),repository,,The University of Texas at El Paso
+S147177414,AIChE Journal,journal,0001-1541,Wiley
+S4306420406,Joint Conference on Lexical and Computational Semantics,conference,,Association for Computational Linguistics
+S4377196390,TUbilio (Technical University of Darmstadt),repository,,Technische Universität Darmstadt
+S4306400321,Edinburgh Research Explorer (University of Edinburgh),repository,,University of Edinburgh
+S2735206538,The Journal of Legal Analysis,journal,1946-5319,Oxford University Press
+S4210197940,Optica,journal,2334-2536,Optica Publishing Group
+S179822231,Journal of Material Culture,journal,1359-1835,SAGE Publishing
+S59098468,Bulletin of the Seismological Society of America,journal,0037-1106,Seismological Society of America
+S4306400088,UvA-DARE (University of Amsterdam),repository,,University of Amsterdam
+S4210213891,Machine Learning and Knowledge Extraction,journal,2504-4990,Multidisciplinary Digital Publishing Institute
+S4210224842,IEEE Transactions on Games,journal,2475-1502,Institute of Electrical and Electronics Engineers
+S38677346,Evolutionary Computation,journal,1063-6560,The MIT Press
+S74726891,Applied Intelligence,journal,0924-669X,Springer Science+Business Media
+S186357190,Future Generation Computer Systems,journal,0167-739X,Elsevier BV
+S4210204165,Jurnal SIMADA (Sistem Informasi dan Manajemen Basis Data),journal,2615-7292,Informatics and Business Institute Darmajaya
+S4363608098,IEEE Annual Computing and Communication Workshop and Conference (CCWC),conference,,Institute of Electrical and Electronics Engineers
+S7407087743,IEEE Conference on Computer Communications (INFOCOM),conference,,Institute of Electrical and Electronics Engineers
+S4210209060,Big Data Mining and Analytics,journal,2096-0654,Tsinghua University Press
+S4210228715,Journal of Geophysical Research Solid Earth,journal,2169-9313,Wiley
+S183957208,Seismological Research Letters,journal,0895-0695,Seismological Society of America
+S54761077,Annual Reviews in Control,journal,1367-5788,Elsevier BV
+S2484352698,IEEE Transactions on Network Science and Engineering,journal,2327-4697,Institute of Electrical and Electronics Engineers
+S4363607709,IEEE International Conference on Big Data (BigData),conference,,Institute of Electrical and Electronics Engineers
+S2736465063,Journal of Imaging,journal,2313-433X,Multidisciplinary Digital Publishing Institute
+S25538012,International Journal of Computer Vision,journal,0920-5691,Springer Science+Business Media
+S120629676,IEEE Signal Processing Letters,journal,1070-9908,Institute of Electrical and Electronics Engineers
+S37879208,The American Journal of Surgical Pathology,journal,0147-5185,Lippincott Williams & Wilkins
+S4306463075,CRC Press eBooks,ebook platform,,CRC Press
+S2912241403,Nature Machine Intelligence,journal,2522-5839,Nature Portfolio
+S189354248,International Journal of Information Management,journal,0268-4012,Elsevier BV
+S4306464320,WORLD SCIENTIFIC eBooks,ebook platform,,World Scientific
+S4363608463,"ACM Conference on Fairness, Accountability, and Transparency (FAccT)",conference,,Association for Computing Machinery
+S172782825,California Management Review,journal,0008-1256,SAGE Publishing
+S4306511929,Harvard Data Science Review,journal,2644-2353,The MIT Press
+S7407104983,Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications,conference,,SPIE
+S90422530,IEEE Journal on Selected Areas in Communications,journal,0733-8716,Institute of Electrical and Electronics Engineers
+S4306464293,Wiley eBooks,ebook platform,,Wiley
+S4210202905,Electronics,journal,2079-9292,Multidisciplinary Digital Publishing Institute
+S2736981714,Journal of Electronic Science and Technology,journal,1674-862X,Elsevier BV
+S23688054,IEEE Communications Surveys & Tutorials,journal,1553-877X,Institute of Electrical and Electronics Engineers
+S4210231404,Frontiers of Computer Science,journal,2095-2228,Higher Education Press
+S4210219925,IBM Journal of Research and Development,journal,0018-8646,IBM
+S2485505216,Computational Social Networks,journal,2197-4314,Springer Science+Business Media
+S4306419201,International Conference on Communications,conference,1550-3607,Institute of Electrical and Electronics Engineers
+S4210219776,Information,journal,2078-2489,Multidisciplinary Digital Publishing Institute
+S4210189751,The Springer series on challenges in machine learning,book series,2520-131X,Springer International Publishing
+S4306463151,Edinburgh University Press eBooks,ebook platform,,Edinburgh University Press
+S7407088552,Clinical Natural Language Processing Workshop (ClinicalNLP),conference,,Association for Computational Linguistics
+S4210229136,Applied Physics Reviews,journal,1931-9401,American Institute of Physics
+S4210240769,Series in machine perception and artificial intelligence,book series,1793-0839,World Scientific
+S4210188457,Springer briefs in electrical and computer engineering,book series,2191-8112,Springer International Publishing
+S4210190593,Advanced Quantum Technologies,journal,2511-9044,Wiley
+S4363608203,"International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",conference,,Institute of Electrical and Electronics Engineers
+S65486112,Archives of Computational Methods in Engineering,journal,1134-3060,Springer Science+Business Media
+S27339233,Business & Information Systems Engineering,journal,1867-0202,Springer Nature
+S48633963,Physics Reports,journal,0370-1573,Elsevier BV
+S197939330,PLoS Medicine,journal,1549-1277,Public Library of Science
+S7407107528,BioNLP Workshop and Shared Task (BioNLP),conference,,Association for Computational Linguistics
+S4210180872,Journal of Artificial General Intelligence,journal,1946-0163,De Gruyter
+S190629608,Algorithms,journal,1999-4893,Multidisciplinary Digital Publishing Institute
+S33323087,Management Science,journal,0025-1909,Institute for Operations Research and the Management Sciences
+S33843192,The Hastings Center Report,journal,0093-0334,Wiley
+S4210238672,J — Multidisciplinary Scientific Journal,journal,2571-8800,Multidisciplinary Digital Publishing Institute
+S4210203267,International Journal of Scientific and Research Publications,journal,2250-3153,International Journal of Scientific and Research Publications
+S167961193,Journal of Statistical Software,journal,1548-7660,Foundation for Open Access Statistics
+S2898398052,Reviews in Physics,journal,2405-4283,Elsevier BV
+S196821226,Computers & Industrial Engineering,journal,0360-8352,Elsevier BV
+S4210210207,Journal of Management Analytics,journal,2327-0012,Taylor & Francis
+S7407113620,Workshop on New Frontiers in Summarization (NewSum),conference,,Association for Computational Linguistics
+S5405189,Autonomous Agents and Multi-Agent Systems,journal,1387-2532,Springer Science+Business Media
+S7407088663,IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU),conference,,Institute of Electrical and Electronics Engineers
+S78926909,The VLDB Journal,journal,1066-8888,Springer Science+Business Media
+S7407086669,International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),conference,,Association for Computing Machinery
+S128025751,Speech Communication,journal,0167-6393,Elsevier BV
+S151820558,Pattern Recognition Letters,journal,0167-8655,Elsevier BV
+S98010888,JNCI Journal of the National Cancer Institute,journal,0027-8874,Oxford University Press
+S84775595,IEEE Transactions on Visualization and Computer Graphics,journal,1077-2626,Institute of Electrical and Electronics Engineers
+S146764194,IEEE Wireless Communications,journal,1536-1284,Institute of Electrical and Electronics Engineers
+S158797327,IEEE Communications Magazine,journal,0163-6804,Institute of Electrical and Electronics Engineers
+S10936095,IEEE Transactions on Vehicular Technology,journal,0018-9545,Institute of Electrical and Electronics Engineers
+S4210190517,AI & Society,journal,0951-5666,Springer Nature
+S167943036,Journal of Statistical Mechanics Theory and Experiment,journal,1742-5468,Institute of Physics
+S71199174,Applied and Computational Harmonic Analysis,journal,1063-5203,Elsevier BV
+S4210239724,Nature Electronics,journal,2520-1131,Nature Portfolio
+S73024538,Journal of Database Management,journal,1063-8016,IGI Global
+S4210177192,Internet Policy Review,journal,2197-6775,Alexander von Humboldt Institute for Internet and Society
+S196647941,IEEE Transactions on Communications,journal,0090-6778,IEEE Communications Society
+S53135262,Journal of Educational and Behavioral Statistics,journal,1076-9986,SAGE Publishing
+S2739045047,Engaging Science Technology and Society,journal,2413-8053,Society for Social Studies of Science
+S4306400292,Research Archive of Indian Institute of Technology Hyderabad (Indian Institute of Technology Hyderabad),repository,,Indian Institute of Technology Hyderabad
+S7407086775,ACM International Conference on Intelligent User Interfaces (IUI),conference,,Association for Computing Machinery
+S2736978234,Journal of Global Health,journal,2047-2978,Edinburgh University Global Health Society
+S50368787,Electronic Notes in Theoretical Computer Science,journal,1571-0661,Elsevier BV
+S119587767,Journal of Business and Industrial Marketing,journal,0885-8624,Emerald Publishing Limited
+S7407087812,Workshop on Gender Bias in Natural Language Processing (GeBNLP),conference,,Association for Computational Linguistics
+S140302479,Bulletin of the American Meteorological Society,journal,0003-0007,American Meteorological Society
+S128425624,Current Biology,journal,0960-9822,Elsevier BV
+S933803995,Synthesis lectures on artificial intelligence and machine learning,journal,1939-4608,Morgan & Claypool Publishers
+S2494786546,Smart Learning Environments,journal,2196-7091,Springer Nature
+S161902083,Contemporary Physics,journal,0010-7514,Taylor & Francis
+S4377196309,NOT FOUND REPOSITORY (Indian Institute of Science Bangalore),repository,,Indian Institute of Science Bangalore
+S4306464156,University of Chicago Press eBooks,ebook platform,,University of Chicago Press
+S2506189754,ACM Transactions on Cyber-Physical Systems,journal,2378-962X,Association for Computing Machinery
+S4306401357,UTS ePRESS (University of Technology Sydney),repository,,University of Technology Sydney
+S173527311,IEEE Transactions on Network and Service Management,journal,1932-4537,Institute of Electrical and Electronics Engineers
+S111326731,IEEE Transactions on Geoscience and Remote Sensing,journal,0196-2892,Institute of Electrical and Electronics Engineers
+S4363608074,IEEE/WIC/ACM International Conference on Web Intelligence,conference,,
+S1983995261,PeerJ,journal,2167-8359,"PeerJ, Inc."
+S2764800400,Journal of Cryptographic Engineering,journal,2190-8508,Springer Science+Business Media
+S4363608224,IEEE International Conference on Distributed Computing Systems (ICDCS),conference,,Institute of Electrical and Electronics Engineers
+S4210240247,Physical Review Research,journal,2643-1564,American Physical Society
+S61906035,IEEE Security & Privacy,journal,1540-7993,Institute of Electrical and Electronics Engineers
+S4306400024,UCL Discovery (University College London),repository,,University College London
+S4210194376,AI Open,journal,2666-6510,Elsevier BV
+S28614077,BMC Genomics,journal,1471-2164,BioMed Central
+S4210235043,Physica D Nonlinear Phenomena,journal,0167-2789,Elsevier BV
+S2506060491,Systems Science & Control Engineering,journal,2164-2583,Taylor & Francis
+S7407096085,Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP),conference,,Association for Computational Linguistics
+S2737635154,Applied Computing and Informatics,journal,2210-8327,Elsevier BV
+S4210190811,International Journal of Human-Computer Studies,journal,1071-5819,Elsevier BV
+S162583102,Science China Technological Sciences,journal,1869-1900,Springer Science+Business Media
+S2738348041,Technologies,journal,2227-7080,Multidisciplinary Digital Publishing Institute
+S4210196546,Journal of Healthcare Informatics Research,journal,2509-498X,Springer Science+Business Media
+S4306463091,De Gruyter eBooks,ebook platform,,De Gruyter
+S4210201048,Machine Learning with Applications,journal,2666-8270,Elsevier BV
+S4210183364,Computers and Education Artificial Intelligence,journal,2666-920X,Elsevier BV
+S63459445,IEEE Transactions on Wireless Communications,journal,1536-1276,Institute of Electrical and Electronics Engineers
+S4210216920,International Journal of Engineering Applied Sciences and Technology,journal,2455-2143,IJEAST
+S4363604921,IEEE Symposium Series on Computational Intelligence (SSCI),conference,,Institute of Electrical and Electronics Engineers
+S39307421,Technological Forecasting and Social Change,journal,0040-1625,Elsevier BV
+S201710173,Government Information Quarterly,journal,0740-624X,Elsevier BV
+S65924262,Contemporary Accounting Research,journal,0823-9150,Wiley
+S4210198611,Computers in Human Behavior Reports,journal,2451-9588,Elsevier BV
+S4210173818,ACM Transactions on Interactive Intelligent Systems,journal,2160-6455,Association for Computing Machinery
+S4306401796,Rare & Special e-Zone (The Hong Kong University of Science and Technology),repository,,Hong Kong University of Science and Technology
+S7407106516,Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP),conference,,Association for Computational Linguistics
+S76877748,Public Administration Review,journal,0033-3352,Wiley
+S7407089288,International Conference on Information and Communication Systems (ICICS),conference,,Institute of Electrical and Electronics Engineers
+S2765063436,Annals of Data Science,journal,2198-5804,Springer Science+Business Media
+S120991925,Telecommunications Policy,journal,0308-5961,Elsevier BV
+S34010870,Communications in Computational Physics,journal,1815-2406,Cambridge University Press
+S43790123,Advances in experimental medicine and biology,book series,0065-2598,Springer Nature
+S193006928,Information Systems,journal,0306-4379,Elsevier BV
+S4406922691,Helda - University of Helsinki Institutional Repository,repository,,
+S4210172139,Methods in molecular biology,book series,1064-3745,Springer Science+Business Media
+S137519996,Electronic Markets,journal,1019-6781,Springer Science+Business Media
+S98984247,Computational Economics,journal,0927-7099,Springer Science+Business Media
+S7407089100,Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the International Joint Conference on Natural Language Processing (AACL-IJCNLP),conference,,Association for Computational Linguistics
+S11810700,International Journal of Research in Marketing,journal,0167-8116,Elsevier BV
+S169433491,Journal of Public Administration Research and Theory,journal,1053-1858,Oxford University Press
+S116900674,The Lancet Oncology,journal,1470-2045,Elsevier BV
+S4306420779,Recent Advances in Intrusion Detection,conference,,
+S7407105987,Workshop on NLP for Conversational AI (NLP4ConvAI),conference,,Association for Computational Linguistics
+S4210236562,Nature Cancer,journal,2662-1347,Nature Portfolio
+S50372074,Applied Mathematics and Computation,journal,0096-3003,Elsevier BV
+S4210169448,IEEE Transactions on Artificial Intelligence,journal,2691-4581,Institute of Electrical and Electronics Engineers
+S92709572,Journal of Interactive Marketing,journal,1094-9968,SAGE Publishing
+S4394735566,Computer law & security review,journal,2212-473X,Elsevier BV
+S4210186663,Journal of Responsible Technology,journal,2666-6596,Elsevier BV
+S186584794,IEEE Network,journal,0890-8044,Institute of Electrical and Electronics Engineers
+S4210174798,SN Computer Science,journal,2661-8907,Springer Nature
+S4306401575,Institutional Repository of Leibniz Universität Hannover (Leibniz Universität Hannover),repository,,Leibniz University Hannover
+S103047102,Optimization methods & software,journal,1026-7670,Taylor & Francis
+S4210168899,Augmented Human Research,journal,2365-4325,Springer Science+Business Media
+S49861241,The Lancet,journal,0099-5355,Elsevier BV
+S4210217596,Quantum Machine Intelligence,journal,2524-4906,Springer Science+Business Media
+S2596760093,Frontiers in Physics,journal,2296-424X,Frontiers Media
+S202254422,Evolving Systems,journal,1868-6478,Springer Science+Business Media
+S2898368220,ICT Express,journal,2405-9595,Elsevier BV
+S4363605240,International Forum on Electrical Engineering and Automation (IFEEA),conference,,Institute of Electrical and Electronics Engineers
+S7407086070,"SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",conference,,
+S4220651875,Annals of Computer Science and Information Systems,conference,2300-5963,Polskie Towarzystwo Informatyczne
+S4210201731,Frontiers in artificial intelligence and applications,journal,0922-6389,IOS Press
+S4210237014,The Lancet Digital Health,journal,2589-7500,Elsevier BV
+S149100181,Technology in Society,journal,0160-791X,Elsevier BV
+S3035517252,Applied Network Science,journal,2364-8228,Springer Nature
+S4363608389,International Conference on Electronic Communication and Artificial Intelligence (ICECAI),conference,,Institute of Electrical and Electronics Engineers
+S4306518315,Learning for Dynamics and Control,journal,,
+S39541053,International Journal of Public Administration,journal,0190-0692,Taylor & Francis
+S2764905038,Advances in intelligent systems and computing,book series,2194-5365,Springer Nature
+S4210193050,AIS Transactions on Human-Computer Interaction,journal,1944-3900,Association for Information Systems
+S95928045,Laser & Photonics Review,journal,1863-8880,Wiley
+S4210180398,Software Impacts,journal,2665-9638,Elsevier BV
+S4210182817,IEEE Transactions on Quantum Engineering,journal,2689-1808,Institute of Electrical and Electronics Engineers
+S143744711,Japanese Journal of Applied Physics,journal,0021-4922,Institute of Physics
+S127742747,Journal of Econometrics,journal,0304-4076,Elsevier BV
+S119153320,Journal of Decision System,journal,1246-0125,Taylor & Francis
+S4210203487,SCRIPTed A Journal of Law Technology & Society,journal,1744-2567,University of Edinburgh
+S4210206302,Humanities and Social Sciences Communications,journal,2055-1045,Palgrave Macmillan
+S2898090536,Clinical eHealth,journal,2588-9141,Elsevier BV
+S85785479,The Bottom Line Managing Library Finances,journal,0888-045X,Emerald Publishing Limited
+S124504522,Information Systems Management,journal,1058-0530,Taylor & Francis
+S4210200511,AI,journal,2673-2688,Multidisciplinary Digital Publishing Institute
+S143982487,Journal of Broadcasting & Electronic Media,journal,0883-8151,Taylor & Francis
+S4306523471,Proceedings of Machine Learning and Systems,journal,,
+S62238642,IEEE/ACM Transactions on Networking,journal,1063-6692,Institute of Electrical and Electronics Engineers
+S2764507669,JMIR Public Health and Surveillance,journal,2369-2960,JMIR Publications
+S7407086137,IEEE World Symposium on Applied Machine Intelligence and Informatics (SAMI),conference,,Institute of Electrical and Electronics Engineers
+S4210205812,Applied Sciences,journal,2076-3417,Multidisciplinary Digital Publishing Institute
+S4306517913,Künstliche Intell.,journal,0933-1875,
+S4377196266,elib (German Aerospace Center),repository,,Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
+S4210174653,ACM Transactions on Computing for Healthcare,journal,2637-8051,Association for Computing Machinery
+S144771191,IEEE Transactions on Intelligent Transportation Systems,journal,1524-9050,Institute of Electrical and Electronics Engineers
+S40006715,Computer Methods in Applied Mechanics and Engineering,journal,0045-7825,Elsevier BV
+S4210187899,"Studies in systems, decision and control",book series,2198-4182,Springer International Publishing
+S2898195457,Journal of Industrial Information Integration,journal,2452-414X,Elsevier BV
+S4210228084,Nature Computational Science,journal,2662-8457,Nature Portfolio
+S57293258,MIS Quarterly,journal,0276-7783,MIS Quarterly
+S181240966,International Journal on Semantic Web and Information Systems,journal,1552-6283,IGI Global
+S32114090,Mathematics and Computers in Simulation,journal,0378-4754,Elsevier BV
+S2898415742,CAAI Transactions on Intelligence Technology,journal,2468-2322,Institution of Engineering and Technology
+S7407105071,"ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)",conference,,Association for Computing Machinery
+S4210210251,IEEE Transactions on Emerging Topics in Computational Intelligence,journal,2471-285X,Institute of Electrical and Electronics Engineers
+S4363605144,Findings of the Association for Computational Linguistics: ACL (Findings of ACL),conference,,Association for Computational Linguistics
+S2531583244,Journal of Complex Networks,journal,2051-1310,Oxford University Press
+S5353659,The Journal of Finance,journal,0022-1082,Wiley
+S57950554,International Journal of Intelligent Systems,journal,0884-8173,Wiley
+S116712389,European Journal of Information Systems,journal,0960-085X,Palgrave Macmillan
+S4210179641,Transactions on computational science and computational intelligence,book series,2569-7080,Springer International Publishing
+S4210201537,International Journal of Educational Technology in Higher Education,journal,2365-9440,Springer Nature
+S173256270,Computers & Operations Research,journal,0305-0548,Elsevier BV
+S2898565713,Procedia CIRP,journal,2212-8271,Elsevier BV
+S129664799,Policy and Society,journal,1449-4035,Oxford University Press
+S134818455,Communications on Pure and Applied Mathematics,journal,0010-3640,Wiley
+S119212824,Journal of the Physical Society of Japan,journal,0031-9015,Physical Society of Japan
+S4210195673,PRX Quantum,journal,2691-3399,American Physical Society
+S41523882,ACM Transactions on Knowledge Discovery from Data,journal,1556-4681,Association for Computing Machinery
+S90466346,Interactive Learning Environments,journal,1049-4820,Taylor & Francis
+S4363605663,IEEE International Symposium on Industrial Electronics (ISIE),conference,,Institute of Electrical and Electronics Engineers
+S2181421,Science Technology & Human Values,journal,0162-2439,SAGE Publishing
+S4210231342,IEEE Transactions on Radiation and Plasma Medical Sciences,journal,2469-7303,Institute of Electrical and Electronics Engineers
+S4363605129,IEEE International Symposium on Biomedical Imaging (ISBI),conference,,Institute of Electrical and Electronics Engineers
+S2764413287,Alexandria Engineering Journal,journal,1110-0168,Elsevier BV
+S183644930,World Psychiatry,journal,1723-8617,Wiley
+S10134376,Sustainability,journal,2071-1050,Multidisciplinary Digital Publishing Institute
+S190936789,Journal of Cryptology,journal,0933-2790,Springer Science+Business Media
+S24978797,Tsinghua Science & Technology,journal,1007-0214,Tsinghua University Press
+S7407104641,Workshop on Online Abuse and Harms (WOAH),conference,,Association for Computational Linguistics
+S87797848,International Journal of Computers and Applications,journal,1206-212X,Taylor & Francis
+S2764570952,Social Media + Society,journal,2056-3051,SAGE Publishing
+S82675988,EURASIP Journal on Wireless Communications and Networking,journal,1687-1472,Springer Nature
+S4210189922,Architecture Structures and Construction,journal,2730-9886,Springer Nature
+S12529635,Computers & Security,journal,0167-4048,Elsevier BV
+S33108253,Journal of Bionic Engineering,journal,1672-6529,Elsevier BV
+S4210234597,SN Applied Sciences,journal,2523-3963,Springer Nature
+S4210211553,Global Transitions Proceedings,journal,2666-285X,Elsevier BV
+S5437875,Statistics and Computing,journal,0960-3174,Springer Science+Business Media
+S103321696,European Journal of Operational Research,journal,0377-2217,Elsevier BV
+S193040567,Communication Methods and Measures,journal,1931-2458,Taylor & Francis
+S60779006,Computers in Industry,journal,0166-3615,Elsevier BV
+S118992489,Journal of the ACM,journal,0004-5411,Association for Computing Machinery
+S2738238905,Informatics,journal,2227-9709,Multidisciplinary Digital Publishing Institute
+S4306400282,Open Access Journals at BC (Boston College),repository,,Boston College
+S115004586,Computer Communications,journal,0140-3664,Elsevier BV
+S60635053,Language and Linguistics Compass,journal,1749-818X,Wiley
+S34838331,Future Internet,journal,1999-5903,Multidisciplinary Digital Publishing Institute
+S195231649,Entropy,journal,1099-4300,Multidisciplinary Digital Publishing Institute
+S89333158,Engineering With Computers,journal,0177-0667,Springer Science+Business Media
+S4210200631,Data Science and Management,journal,2666-7649,KeAi
+S124973578,Acta Numerica,journal,0962-4929,Cambridge University Press
+S101091692,IEEE Technology and Society Magazine,journal,0278-0097,Institute of Electrical and Electronics Engineers
+S2483513740,International Journal of Information Technology and Computer Science,journal,2074-9007,MECS Publisher
+S4210179522,J-SAKTI (Jurnal Sains Komputer dan Informatika),journal,2548-9771,STIKOM Tunas Bangsa
+S70979639,Journal of Food Quality,journal,0146-9428,Hindawi Publishing Corporation
+S4210216480,Journal of Applied Science and Technology Trends,journal,2708-0757,Interdisciplinary Publishing Academia
+S2898407351,Materials Today Proceedings,journal,2214-7853,Elsevier BV
+S137309422,Journal of Applied Biomedicine,journal,0208-5216,Elsevier BV
+S4393919742,Transactions on machine learning research,journal,2835-8856,
+S166722454,Education and Information Technologies,journal,1360-2357,Springer Science+Business Media
+S4210210321,IEEE International Conference on Data Engineering (ICDE),conference,1084-4627,Institute of Electrical and Electronics Engineers
+S32326811,The Journal of Supercomputing,journal,0920-8542,Springer Science+Business Media
+S147498506,Statistics Surveys,journal,1935-7516,American Statistical Association
+S7407114087,Workshop on Knowledge Extraction and Integration for Deep Learning Architectures: Deep Learning Inside Out (DeeLIO),conference,,Association for Computational Linguistics
+S4306462882,Auerbach Publications eBooks,ebook platform,,
+S60115552,Computers Environment and Urban Systems,journal,0198-9715,Elsevier BV
+S2764999920,International Journal of Machine Learning and Cybernetics,journal,1868-8071,Springer Science+Business Media
+S4306462769,ACM eBooks,ebook platform,,Association for Computing Machinery
+S4210222429,BenchCouncil Transactions on Benchmarks Standards and Evaluations,journal,2772-4859,Elsevier BV
+S4210220416,Discover Artificial Intelligence,journal,2731-0809,Springer Nature
+S25671836,Cancer Cell,journal,1535-6108,Cell Press
+S4210241048,Energy and AI,journal,2666-5468,Elsevier BV
+S4210205383,Proceedings of the ... International Florida Artificial Intelligence Research Society Conference,conference,2334-0754,George A. Smathers Libraries
+S165559636,International Journal of Human-Computer Interaction,journal,1044-7318,Taylor & Francis
+S174847851,Information Processing & Management,journal,0020-0271,Elsevier BV
+S4306498701,"International Conference on Computation, Automation and Knowledge Management (ICCAKM)",conference,,Institute of Electrical and Electronics Engineers
+S2488537894,IEEE Transactions on Cognitive and Developmental Systems,journal,2379-8920,Institute of Electrical and Electronics Engineers
+S4210170298,APSIPA Transactions on Signal and Information Processing,journal,2048-7703,Cambridge University Press
+S4210170699,AI and Ethics,journal,2730-5953,Springer Nature
+S4210194934,Journal of Modern Power Systems and Clean Energy,journal,2196-5420,Springer Nature
+S4210201254,IEEE Internet of Things Magazine,journal,2576-3180,Institute of Electrical and Electronics Engineers
+S4210232664,npj Computational Materials,journal,2057-3960,Nature Portfolio
+S178916657,Computer,journal,0018-9162,IEEE Computer Society
+S63392143,Computer Networks,journal,1389-1286,Elsevier BV
+S4210180963,International Journal of Engineering Technology and Management Sciences,journal,2581-4621,
+S4363605604,Findings of the Association for Computational Linguistics: NAACL,conference,,Association for Computational Linguistics
+S133768115,Robotics and Autonomous Systems,journal,0921-8890,Elsevier BV
+S2764911704,Energy Strategy Reviews,journal,2211-467X,Elsevier BV
+S4377196282,Figshare,repository,,Figshare (United Kingdom)
+S4210192031,Mathematics,journal,2227-7390,Multidisciplinary Digital Publishing Institute
+S187991544,Journal of Applied Physics,journal,0021-8979,American Institute of Physics
+S57667410,Annals of Operations Research,journal,0254-5330,Springer Science+Business Media
+S106148199,Cluster Computing,journal,1386-7857,Springer Science+Business Media
+S4210224324,Accounting Auditing & Accountability Journal,journal,0951-3574,Emerald Publishing Limited
+S4210170170,ACM Transactions on Quantum Computing,journal,2643-6809,Association for Computing Machinery
+S4210174276,Internet of Things,journal,2542-6605,Elsevier BV
+S4210175768,Annual Symposium on Foundations of Computer Science,conference,0272-5428,Institute of Electrical and Electronics Engineers
+S7407086150,"International Conference on Social Networks Analysis, Management and Security (SNAMS)",conference,,Institute of Electrical and Electronics Engineers
+S125501549,Applied Artificial Intelligence,journal,0883-9514,Taylor & Francis
+S4210240835,Iraqi Journal for Computer Science and Mathematics,journal,2788-7421,
+S4210176459,IEEE Open Journal of the Computer Society,journal,2644-1268,Institute of Electrical and Electronics Engineers
+S107749620,Daedalus,journal,0011-5266,American Academy of Arts and Sciences
+S4210193178,Organization Theory,journal,2631-7877,SAGE Publishing
+S64417657,International Journal of Distributed Sensor Networks,journal,1550-1329,Hindawi Publishing Corporation
+S4306463409,IGI Global eBooks,ebook platform,,IGI Global
+S134482011,CIRP journal of manufacturing science and technology,journal,1878-0016,Elsevier BV
+S2764600325,Spatial Information Research,journal,2366-3294,Springer Science+Business Media
+S5407047243,International Journal of Academic and Industrial Research Innovations(IJAIRI),journal,3049-2343,
+S2764877105,Sustainable Energy Technologies and Assessments,journal,2213-1388,Elsevier BV
+S4210170642,Texts in computer science,book series,1868-0941,Springer International Publishing
+S55310782,Journal of Computing in Higher Education,journal,1042-1726,Springer Science+Business Media
+S130337233,The Gerontologist,journal,0016-9013,Oxford University Press
+S66201313,Journal of Business Venturing,journal,0883-9026,Elsevier BV
+S125608309,Journal of Service Research,journal,1094-6705,SAGE Publishing
+S7407087746,ACM Symposium on User Interface Software and Technology (UIST),conference,,Association for Computing Machinery
+S4210180977,Internet of Things and Cyber-Physical Systems,journal,2667-3452,Elsevier BV
+S133078663,Cognitive Computation,journal,1866-9956,Springer Science+Business Media
+S7407087740,International Joint Conference on Natural Language Processing and Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL),conference,,Association for Computational Linguistics
+S2764688611,Journal of Information Technology Case and Application Research,journal,1522-8053,Taylor & Francis
+S29331042,Political Analysis,journal,1047-1987,Cambridge University Press
+S2738008561,Education Sciences,journal,2227-7102,Multidisciplinary Digital Publishing Institute
+S4210202795,Sci,journal,2413-4155,Multidisciplinary Digital Publishing Institute
+S4387290862,Meta-Radiology,journal,2950-1628,Elsevier BV
+S4210228075,Computers,journal,2073-431X,Multidisciplinary Digital Publishing Institute
+S2764955546,Journal of King Saud University - Computer and Information Sciences,journal,1319-1578,Elsevier BV
+S4210198061,Patterns,journal,2666-3899,Elsevier BV
+S4387282513,International Research Journal of Modernization in Engineering Technology and Science,journal,2582-5208,
+S141152059,Annals of Biomedical Engineering,journal,0090-6964,Springer Science+Business Media
+S83133229,Journal of Computer Information Systems,journal,0887-4417,Taylor & Francis
+S7407115130,ACM Collective Intelligence Conference (CI),conference,,Association for Computing Machinery
+S4210233502,Research Methods in Applied Linguistics,journal,2772-7661,Elsevier BV
+S2736601860,Entrepreneurial Business and Economics Review,journal,2353-8821,Krakow University of Economics
+S182392644,Evolutionary Intelligence,journal,1864-5909,Springer Science+Business Media
+S4387283309,Frontiers in Computing and Intelligent Systems,journal,2832-6024,Darcy & Roy Press Co. Ltd.
+S8802318,Annals of the New York Academy of Sciences,journal,0077-8923,Wiley
+S192051125,Trends in Cognitive Sciences,journal,1364-6613,Elsevier BV
+S4210175367,Research for policy,book series,2662-3684,Springer Nature (Netherlands)
+S110189822,Journal of Data and Information Quality,journal,1936-1963,Association for Computing Machinery
+S88577320,Finance research letters,journal,1544-6131,Elsevier BV
+S4306401259,BOA (University of Milano-Bicocca),repository,,University of Milano-Bicocca
+S7407087532,ACM International Conference on AI in Finance (ICAIF),conference,,Association for Computing Machinery
+S4210238752,Big Data and Cognitive Computing,journal,2504-2289,Multidisciplinary Digital Publishing Institute
+S2596399182,Frontiers in Mechanical Engineering,journal,2297-3079,Frontiers Media
+S165666656,Sustainable Development,journal,0968-0802,Wiley
+S7424199,Public Choice,journal,0048-5829,Springer Science+Business Media
+S7407077413,GRACE: Global Review of AI Community Ethics,journal,2996-5837,Stanford University
+S1131227,Methods in Ecology and Evolution,journal,2041-210X,Wiley
+S108218269,Regulation & Governance,journal,1748-5983,Wiley
+S93630570,Journal of Product Innovation Management,journal,0737-6782,Wiley
+S205010575,Information and Software Technology,journal,0950-5849,Elsevier BV
+S102129144,First Monday,journal,1396-0458,University of Illinois at Chicago
+S4363608377,IEEE International Conference on Advanced Learning Technologies (ICALT),conference,,Institute of Electrical and Electronics Engineers
+S2738950867,Cureus,journal,2168-8184,"Cureus, Inc."
+S63576417,Internet Research,journal,1066-2243,Emerald Publishing Limited
+S4387278861,Journal of Computational and Cognitive Engineering,journal,2810-9503,Bon View Publishing Pte
+S4387291423,International Conference on Applied Engineering and Natural Sciences,conference,2980-3209,
+S107923245,Computing in Science & Engineering,journal,1521-9615,AIP Publishing
+S4210219410,Systems,journal,2079-8954,Multidisciplinary Digital Publishing Institute
+S139345353,New Biotechnology,journal,1871-6784,Elsevier BV
+S4387285670,Natural Language Processing Journal,journal,2949-7191,Elsevier BV
+S72232612,Expert Systems,journal,0266-4720,Wiley
+S144620930,IEEE Transactions on Robotics,journal,1552-3098,Institute of Electrical and Electronics Engineers
+S4210197709,Central European Management Journal,journal,2084-3356,Kozminski University
+S61286511,Information Development,journal,0266-6669,SAGE Publishing
+S4210234670,Nature Reviews Physics,journal,2522-5820,Nature Portfolio
+S4210168464,Social Sciences,journal,2076-0760,Multidisciplinary Digital Publishing Institute
+S4306421018,Systems and Information Engineering Design Symposium,conference,,Institute of Electrical and Electronics Engineers
+S7407106232,Workshop on Cross-Cultural Considerations in NLP (C3NLP),conference,,Association for Computational Linguistics
+S4387283396,Journal of Information and Intelligence,journal,2949-7159,Elsevier BV
+S127708089,Journal of Economic Literature,journal,0022-0515,American Economic Association
+S4387289248,Academic Platform Journal of Engineering and Smart Systems,journal,2822-2385,Academic Perpective
+S4210211086,Frontiers in Computer Science,journal,2624-9898,Frontiers Media
+S9692511,Frontiers in Psychology,journal,1664-1078,Frontiers Media
+S2765015152,International Journal of Computing and Digital Systems,journal,2210-142X,Deanship of Scientific Research
+S4210183939,Cognitive Robotics,journal,2667-2413,Elsevier BV
+S4210201879,Processes,journal,2227-9717,Multidisciplinary Digital Publishing Institute
+S46763546,Academy of Management Review,journal,0363-7425,Academy of Management
+S2490693980,IEEE Transactions on Computational Social Systems,journal,2329-924X,Institute of Electrical and Electronics Engineers
+S4210195848,Academic Journal of Nawroz University,journal,2520-789X,Nawroz University
+S4210208246,Science Insights Education Frontiers,journal,2578-9813,
+S2764827305,International Journal of Financial Studies,journal,2227-7072,Multidisciplinary Digital Publishing Institute
+S85265705,The Journal of Creative Behavior,journal,0022-0175,Wiley
+S4210184862,Decision Analytics Journal,journal,2772-6622,Elsevier BV
+S4210186815,Advances in Applied Energy,journal,2666-7924,Elsevier BV
+S202812398,Information Systems Research,journal,1047-7047,Institute for Operations Research and the Management Sciences
+S4210216266,Biomimetic Intelligence and Robotics,journal,2667-3797,Elsevier BV
+S183498172,Journal of the Franklin Institute,journal,0016-0032,Elsevier BV
+S4210206423,Biomimetics,journal,2313-7673,Multidisciplinary Digital Publishing Institute
+S4387281904,Intelligent Computing,journal,2771-5892,American Association for the Advancement of Science
+S4210170305,ACM Transactions on Management Information Systems,journal,2158-656X,Association for Computing Machinery
+S60973665,IEEE Engineering Management Review,journal,0360-8581,Institute of Electrical and Electronics Engineers
+S7407087861,IEEE Conference on Secure and Trustworthy Machine Learning (SaTML),conference,,Institute of Electrical and Electronics Engineers
+S15137598,Journal of Clinical Oncology,journal,0732-183X,Lippincott Williams & Wilkins
+S119630662,Computer Standards & Interfaces,journal,0920-5489,Elsevier BV
+S2738886008,TEM Journal,journal,2217-8309,UIKTEN
+S4210216081,Proceedings of the ACM on Programming Languages,journal,2475-1421,Association for Computing Machinery
+S4393917809,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",journal,1867-8211,
+S160628929,User Modeling and User-Adapted Interaction,journal,0924-1868,Springer Science+Business Media
+S4210207486,Human-Centric Intelligent Systems,journal,2667-1336,Springer Nature
+S4210197300,Neuromethods,book series,0893-2336,Humana Press
+S7407061942,Transactions on Graph Data and Knowledge,journal,2942-7517,Schloss Dagstuhl — Leibniz-Zentrum fuer Informatik
+S7407114448,BabyLM Challenge,conference,,Association for Computational Linguistics
+S189694085,IEEE Sensors Journal,journal,1530-437X,IEEE Sensors Council
+S4210217848,JAMA Network Open,journal,2574-3805,American Medical Association
+S27211427,Political Communication,journal,1058-4609,Taylor & Francis
+S4210197006,Frontiers in Artificial Intelligence,journal,2624-8212,Frontiers Media
+S4210186527,High-Confidence Computing,journal,2667-2952,Elsevier BV
+S4210189963,International Journal of Innovative Science and Research Technology (IJISRT),journal,2456-2165,
+S110346167,British Journal of Educational Technology,journal,0007-1013,Wiley
+S4210212817,Advanced Intelligent Systems,journal,2640-4567,Wiley
+S4387284451,Hybrid Advances,journal,2773-207X,Elsevier BV
+S4387997946,Cambridge Explorations in Arts and Sciences,journal,2977-1595,
+S4220651275,PNAS Nexus,journal,2752-6542,Oxford University Press
+S4404676885,Vicinagearth.,journal,3005-060X,"Academy of Medicine, Singapore"
+S121340289,Computers & Electrical Engineering,journal,0045-7906,Elsevier BV
+S4210217390,Algorithms for intelligent systems,book series,2524-7565,Springer Nature
+S4210235152,Frontiers in Human Dynamics,journal,2673-2726,Frontiers Media
+S7407107001,Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop (EACL SRW),conference,,Association for Computational Linguistics
+S33826441,African Journal of Biomedical Research,journal,1119-5096,African Journals OnLine
+S44278595,Computers in Biology and Medicine,journal,0010-4825,Elsevier BV
+S4387289859,Proceedings of the ACM on Management of Data,journal,2836-6573,Association for Computing Machinery
+S4210183760,Strategy Science,journal,2333-2050,Institute for Operations Research and the Management Sciences
+S7407086014,ACM SIGCOMM Conference (SIGCOMM),conference,,Association for Computing Machinery
+S4363605011,IEEE Globecom Workshops (GC Wkshps),conference,,Institute of Electrical and Electronics Engineers
+S2503711797,ACM Transactions on Spatial Algorithms and Systems,journal,2374-0353,Association for Computing Machinery
+S4210196583,Journal of Computational Social Science,journal,2432-2725,Springer Nature
+S4387289179,ACM Journal on Responsible Computing,journal,2832-0565,Association for Computing Machinery
+S130363450,IEEE Transactions on Learning Technologies,journal,1939-1382,Institute of Electrical and Electronics Engineers
+S126824455,IEEE Transactions on Consumer Electronics,journal,0098-3063,Institute of Electrical and Electronics Engineers
+S102949365,Strategic Management Journal,journal,0143-2095,Wiley
+S4210173684,Health informatics,journal,2197-3733,
+S7407087030,IEEE Conference on Artificial Intelligence (CAI),conference,,Institute of Electrical and Electronics Engineers
+S2764650051,JMIR Medical Informatics,journal,2291-9694,JMIR Publications
+S4387997405,Critical AI,journal,2834-703X,Duke University Press
+S4387285287,Journal of Automation and Intelligence,journal,2949-8554,Elsevier BV
+S4210206625,Journal of Engineering Research and Reports,journal,2582-2926,Sciencedomain International
+S7407087051,Findings of the Association for Computational Linguistics: EACL,conference,,Association for Computational Linguistics
+S7407119918,Automatic Speaker Verification Spoofing Countermeasures Workshop (ASVspoof),conference,,
+S4210207601,Journal of Applied Artificial Intelligence,journal,2709-5908,SABA Publishing
+S4394735545,ACM Transactions on Information Systems,journal,1046-8188,Association for Computing Machinery
+S4210218743,Science China Information Sciences,journal,1869-1919,Springer Nature
+S4404669927,Premier journal of science.,journal,3049-9011,Premier Science
+S6144335,The Journal of Strategic Information Systems,journal,0963-8687,Elsevier BV
+S5407042752,IEEE Transactions on Audio Speech and Language Processing,journal,2998-4173,Institute of Electrical and Electronics Engineers
+S13961689,IEEE/ASME Transactions on Mechatronics,journal,1083-4435,Institute of Electrical and Electronics Engineers
+S5407048873,SuperIntelligence - Robotics - Safety & Alignment,journal,3067-2627,
+S112778392,The Annals of Applied Statistics,journal,1932-6157,Institute of Mathematical Statistics
+S4306418317,European Conference on Computer Systems,conference,,Association for Computing Machinery
+S64744539,Organizational Behavior and Human Decision Processes,journal,0749-5978,Elsevier BV
+S4210167893,Communications Medicine,journal,2730-664X,Nature Portfolio
+S8351582,IEEE Transactions on Software Engineering,journal,0098-5589,IEEE Computer Society
+S4306486316,Carl Hanser Verlag GmbH & Co. KG eBooks,ebook platform,,
+S193109227,ACM Transactions on Computer Systems,journal,0734-2071,Association for Computing Machinery
+S181659395,Information Systems Frontiers,journal,1387-3326,Springer Science+Business Media
+S125775545,Operations Research,journal,0030-364X,Institute for Operations Research and the Management Sciences
+S142990027,Journal of Marketing,journal,0022-2429,SAGE Publishing
+S140962798,Neural Processing Letters,journal,1370-4621,Springer Science+Business Media
+S123849098,Behaviour and Information Technology,journal,0144-929X,Taylor & Francis
+S35363033,Information and Organization,journal,1471-7727,Elsevier BV
+S5407042906,npj Artificial Intelligence,journal,3005-1460,Springer Science+Business Media
+S2736633529,Journal of Sensor and Actuator Networks,journal,2224-2708,Multidisciplinary Digital Publishing Institute
+S4387286577,JMIR AI,journal,2817-1705,JMIR Publications
+S2737558550,Royal Society Open Science,journal,2054-5703,Royal Society
+S7407086742,International Conference on Learning Analytics and Knowledge (LAK),conference,,Association for Computing Machinery
+S36233454,Accountability in Research,journal,0898-9621,Taylor & Francis
+S4210217951,Journal of risk and financial management,journal,1911-8066,Multidisciplinary Digital Publishing Institute
+S4210213696,Discover Oncology,journal,2730-6011,Springer Nature
+S145089992,Journal of Hazardous Materials,journal,0304-3894,Elsevier BV
+S4210212326,Technology and innovation report .../Technology and innovation report,book series,2076-2917,United Nations
+S142627899,ACM Transactions on Software Engineering and Methodology,journal,1049-331X,Association for Computing Machinery
+S4210216867,Cell Reports Physical Science,journal,2666-3864,Elsevier BV
+S4210223820,World Journal of Advanced Research and Reviews,journal,2581-9615,GSC Online Press
+S4210226141,Drug Research,journal,2194-9379,Thieme Medical Publishers (Germany)
+S4210220516,Machine translation,book series,2522-8021,Springer International Publishing
+S4210178557,Matter,journal,2590-2385,Elsevier BV
+S4210172656,Applied Mathematics & Information Sciences,journal,1935-0090,Natural Sciences Publishing
+S4387290592,Journal of Electronics and Electrical Engineering,journal,2972-3280,Universal Wiser Publisher Pte. Ltd
+S196414289,Journal of Academic Ethics,journal,1570-1727,Springer Science+Business Media
+S68497187,Renewable and Sustainable Energy Reviews,journal,1364-0321,Elsevier BV
+S112141509,Advanced Engineering Informatics,journal,1474-0346,Elsevier BV
+S38883057,Information & Management,journal,0378-7206,Elsevier BV
+S5407042750,IEEE Transactions on Networking,journal,2998-4157,Institute of Electrical and Electronics Engineers
+S116775814,Computers and Electronics in Agriculture,journal,0168-1699,Elsevier BV
+S2486411021,Data Science and Engineering,journal,2364-1541,Springer Science+Business Media
+S4210191605,"Computers, materials & continua/Computers, materials & continua (Print)",journal,1546-2218,
