@@ -1,0 +1,19 @@
+# Python Dependencies for Academic Project Title 34
+# "Graph-Based Knowledge Graph for Research Collaboration Analysis"
+
+# Core Data Science & Network Analysis
+networkx>=3.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# HTTP Harvesting & API Requests
+requests>=2.28.0
+
+# Interactive Dashboard & Web Prototype
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Neo4j Graph Database Driver (for live Neo4j connectivity)
+neo4j>=5.0.0

@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & virtualenvs
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large raw uncompressed JSON dump (>100MB exceeds GitHub hard limit)
+# Note: Complete raw corpus is preserved in data/raw/openalex_raw_5000.json.gz
+data/raw/openalex_raw_5000.json
+
+# Scratch and log files
+*.log
