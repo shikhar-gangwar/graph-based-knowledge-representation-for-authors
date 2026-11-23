@@ -1,0 +1,7502 @@
+[
+  {
+    "paper_id": "W3177828909",
+    "topic_id": "T10044",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3177828909",
+    "topic_id": "T12254",
+    "score": 0.0045
+  },
+  {
+    "paper_id": "W3177828909",
+    "topic_id": "T11162",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W2995022099",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2995022099",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2995022099",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4366208220",
+    "topic_id": "T11307",
+    "score": 0.8276
+  },
+  {
+    "paper_id": "W4366208220",
+    "topic_id": "T10036",
+    "score": 0.1322
+  },
+  {
+    "paper_id": "W4366208220",
+    "topic_id": "T11714",
+    "score": 0.0187
+  },
+  {
+    "paper_id": "W4309674289",
+    "topic_id": "T10028",
+    "score": 0.6904
+  },
+  {
+    "paper_id": "W4309674289",
+    "topic_id": "T10181",
+    "score": 0.2415
+  },
+  {
+    "paper_id": "W4309674289",
+    "topic_id": "T12031",
+    "score": 0.0472
+  },
+  {
+    "paper_id": "W3140854437",
+    "topic_id": "T10036",
+    "score": 0.9937
+  },
+  {
+    "paper_id": "W3140854437",
+    "topic_id": "T10320",
+    "score": 0.0024
+  },
+  {
+    "paper_id": "W3140854437",
+    "topic_id": "T11307",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W2969896603",
+    "topic_id": "T10883",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2969896603",
+    "topic_id": "T12026",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2969896603",
+    "topic_id": "T13170",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3152893301",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3152893301",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3152893301",
+    "topic_id": "T10211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3041133507",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3041133507",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3041133507",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3021654819",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3021654819",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3021654819",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4360620450",
+    "topic_id": "T10883",
+    "score": 0.7705
+  },
+  {
+    "paper_id": "W4360620450",
+    "topic_id": "T13904",
+    "score": 0.2046
+  },
+  {
+    "paper_id": "W4360620450",
+    "topic_id": "T12128",
+    "score": 0.0074
+  },
+  {
+    "paper_id": "W3185341429",
+    "topic_id": "T10028",
+    "score": 0.8374
+  },
+  {
+    "paper_id": "W3185341429",
+    "topic_id": "T11307",
+    "score": 0.1355
+  },
+  {
+    "paper_id": "W3185341429",
+    "topic_id": "T10181",
+    "score": 0.022
+  },
+  {
+    "paper_id": "W4404534210",
+    "topic_id": "T10028",
+    "score": 0.9302
+  },
+  {
+    "paper_id": "W4404534210",
+    "topic_id": "T10286",
+    "score": 0.0258
+  },
+  {
+    "paper_id": "W4404534210",
+    "topic_id": "T10181",
+    "score": 0.0156
+  },
+  {
+    "paper_id": "W4221151978",
+    "topic_id": "T10481",
+    "score": 0.9751
+  },
+  {
+    "paper_id": "W4221151978",
+    "topic_id": "T10719",
+    "score": 0.0193
+  },
+  {
+    "paper_id": "W4221151978",
+    "topic_id": "T10775",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W4378212544",
+    "topic_id": "T11289",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4378212544",
+    "topic_id": "T10887",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4378212544",
+    "topic_id": "T10222",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4283026156",
+    "topic_id": "T10028",
+    "score": 0.9199
+  },
+  {
+    "paper_id": "W4283026156",
+    "topic_id": "T10181",
+    "score": 0.0565
+  },
+  {
+    "paper_id": "W4283026156",
+    "topic_id": "T11714",
+    "score": 0.005
+  },
+  {
+    "paper_id": "W4391136507",
+    "topic_id": "T10028",
+    "score": 0.9531
+  },
+  {
+    "paper_id": "W4391136507",
+    "topic_id": "T10181",
+    "score": 0.0371
+  },
+  {
+    "paper_id": "W4391136507",
+    "topic_id": "T11714",
+    "score": 0.004
+  },
+  {
+    "paper_id": "W3043971245",
+    "topic_id": "T10191",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3043971245",
+    "topic_id": "T11211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3043971245",
+    "topic_id": "T11325",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3187418919",
+    "topic_id": "T10036",
+    "score": 0.9902
+  },
+  {
+    "paper_id": "W3187418919",
+    "topic_id": "T11605",
+    "score": 0.004
+  },
+  {
+    "paper_id": "W3187418919",
+    "topic_id": "T11307",
+    "score": 0.0029
+  },
+  {
+    "paper_id": "W3034368386",
+    "topic_id": "T10036",
+    "score": 0.9961
+  },
+  {
+    "paper_id": "W3034368386",
+    "topic_id": "T11307",
+    "score": 0.0038
+  },
+  {
+    "paper_id": "W3034368386",
+    "topic_id": "T12535",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3094704314",
+    "topic_id": "T10100",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3094704314",
+    "topic_id": "T11975",
+    "score": 0.0063
+  },
+  {
+    "paper_id": "W3094704314",
+    "topic_id": "T11946",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4324046518",
+    "topic_id": "T11492",
+    "score": 0.9717
+  },
+  {
+    "paper_id": "W4324046518",
+    "topic_id": "T14414",
+    "score": 0.0282
+  },
+  {
+    "paper_id": "W4324046518",
+    "topic_id": "T11636",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4393065402",
+    "topic_id": "T13904",
+    "score": 0.3706
+  },
+  {
+    "paper_id": "W4393065402",
+    "topic_id": "T10906",
+    "score": 0.2336
+  },
+  {
+    "paper_id": "W4393065402",
+    "topic_id": "T10028",
+    "score": 0.1521
+  },
+  {
+    "paper_id": "W4319662928",
+    "topic_id": "T11636",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4319662928",
+    "topic_id": "T10254",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4319662928",
+    "topic_id": "T14414",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3194620979",
+    "topic_id": "T10891",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3194620979",
+    "topic_id": "T11458",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3194620979",
+    "topic_id": "T10326",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3034942609",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3034942609",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3034942609",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3119997354",
+    "topic_id": "T10036",
+    "score": 0.9746
+  },
+  {
+    "paper_id": "W3119997354",
+    "topic_id": "T11714",
+    "score": 0.0114
+  },
+  {
+    "paper_id": "W3119997354",
+    "topic_id": "T11307",
+    "score": 0.007
+  },
+  {
+    "paper_id": "W3016970897",
+    "topic_id": "T11307",
+    "score": 0.8511
+  },
+  {
+    "paper_id": "W3016970897",
+    "topic_id": "T11689",
+    "score": 0.0335
+  },
+  {
+    "paper_id": "W3016970897",
+    "topic_id": "T12535",
+    "score": 0.0246
+  },
+  {
+    "paper_id": "W4388823657",
+    "topic_id": "T10036",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4388823657",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4388823657",
+    "topic_id": "T11605",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3215201135",
+    "topic_id": "T12338",
+    "score": 0.9346
+  },
+  {
+    "paper_id": "W3215201135",
+    "topic_id": "T14414",
+    "score": 0.0333
+  },
+  {
+    "paper_id": "W3215201135",
+    "topic_id": "T11935",
+    "score": 0.0122
+  },
+  {
+    "paper_id": "W3097145107",
+    "topic_id": "T11937",
+    "score": 0.2942
+  },
+  {
+    "paper_id": "W3097145107",
+    "topic_id": "T10211",
+    "score": 0.1923
+  },
+  {
+    "paper_id": "W3097145107",
+    "topic_id": "T11710",
+    "score": 0.1438
+  },
+  {
+    "paper_id": "W4307468223",
+    "topic_id": "T10211",
+    "score": 0.7178
+  },
+  {
+    "paper_id": "W4307468223",
+    "topic_id": "T11710",
+    "score": 0.1802
+  },
+  {
+    "paper_id": "W4307468223",
+    "topic_id": "T11937",
+    "score": 0.0211
+  },
+  {
+    "paper_id": "W2982936646",
+    "topic_id": "T10763",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2982936646",
+    "topic_id": "T13027",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2982936646",
+    "topic_id": "T13038",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3040266635",
+    "topic_id": "T11512",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3040266635",
+    "topic_id": "T11689",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3040266635",
+    "topic_id": "T12127",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4288039037",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4288039037",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4288039037",
+    "topic_id": "T12814",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3141797743",
+    "topic_id": "T11307",
+    "score": 0.939
+  },
+  {
+    "paper_id": "W3141797743",
+    "topic_id": "T12072",
+    "score": 0.0555
+  },
+  {
+    "paper_id": "W3141797743",
+    "topic_id": "T11612",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3003265726",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3003265726",
+    "topic_id": "T10028",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3003265726",
+    "topic_id": "T10215",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4400134761",
+    "topic_id": "T13373",
+    "score": 0.4236
+  },
+  {
+    "paper_id": "W4400134761",
+    "topic_id": "T12072",
+    "score": 0.3274
+  },
+  {
+    "paper_id": "W4400134761",
+    "topic_id": "T13904",
+    "score": 0.1371
+  },
+  {
+    "paper_id": "W3102100346",
+    "topic_id": "T11689",
+    "score": 0.8408
+  },
+  {
+    "paper_id": "W3102100346",
+    "topic_id": "T12814",
+    "score": 0.0873
+  },
+  {
+    "paper_id": "W3102100346",
+    "topic_id": "T10036",
+    "score": 0.0315
+  },
+  {
+    "paper_id": "W3010336026",
+    "topic_id": "T10215",
+    "score": 0.7832
+  },
+  {
+    "paper_id": "W3010336026",
+    "topic_id": "T11273",
+    "score": 0.1633
+  },
+  {
+    "paper_id": "W3010336026",
+    "topic_id": "T12292",
+    "score": 0.0153
+  },
+  {
+    "paper_id": "W2910121883",
+    "topic_id": "T10036",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2910121883",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2910121883",
+    "topic_id": "T10627",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4288083516",
+    "topic_id": "T10036",
+    "score": 0.9668
+  },
+  {
+    "paper_id": "W4288083516",
+    "topic_id": "T11714",
+    "score": 0.0097
+  },
+  {
+    "paper_id": "W4288083516",
+    "topic_id": "T11307",
+    "score": 0.0093
+  },
+  {
+    "paper_id": "W3105081694",
+    "topic_id": "T11775",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3105081694",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3105081694",
+    "topic_id": "T11754",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2944356707",
+    "topic_id": "T10036",
+    "score": 0.9033
+  },
+  {
+    "paper_id": "W2944356707",
+    "topic_id": "T10320",
+    "score": 0.0468
+  },
+  {
+    "paper_id": "W2944356707",
+    "topic_id": "T10220",
+    "score": 0.0231
+  },
+  {
+    "paper_id": "W2998506103",
+    "topic_id": "T10220",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2998506103",
+    "topic_id": "T10876",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2998506103",
+    "topic_id": "T10780",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4378505261",
+    "topic_id": "T10462",
+    "score": 0.5708
+  },
+  {
+    "paper_id": "W4378505261",
+    "topic_id": "T11574",
+    "score": 0.3027
+  },
+  {
+    "paper_id": "W4378505261",
+    "topic_id": "T10906",
+    "score": 0.0533
+  },
+  {
+    "paper_id": "W3200673624",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3200673624",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3200673624",
+    "topic_id": "T11948",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2958089299",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2958089299",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2958089299",
+    "topic_id": "T13702",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4403370767",
+    "topic_id": "T11714",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4403370767",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4403370767",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3015606043",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3015606043",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3015606043",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4406800520",
+    "topic_id": "T13904",
+    "score": 0.4163
+  },
+  {
+    "paper_id": "W4406800520",
+    "topic_id": "T10028",
+    "score": 0.1191
+  },
+  {
+    "paper_id": "W4406800520",
+    "topic_id": "T10906",
+    "score": 0.1094
+  },
+  {
+    "paper_id": "W3003533476",
+    "topic_id": "T10462",
+    "score": 0.9287
+  },
+  {
+    "paper_id": "W3003533476",
+    "topic_id": "T11099",
+    "score": 0.0711
+  },
+  {
+    "paper_id": "W3003533476",
+    "topic_id": "T10370",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4387195417",
+    "topic_id": "T10775",
+    "score": 0.9971
+  },
+  {
+    "paper_id": "W4387195417",
+    "topic_id": "T11689",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4387195417",
+    "topic_id": "T10688",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3154258817",
+    "topic_id": "T10211",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3154258817",
+    "topic_id": "T11948",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3154258817",
+    "topic_id": "T12254",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2955639361",
+    "topic_id": "T10531",
+    "score": 0.9951
+  },
+  {
+    "paper_id": "W2955639361",
+    "topic_id": "T10036",
+    "score": 0.0024
+  },
+  {
+    "paper_id": "W2955639361",
+    "topic_id": "T13114",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W4225405705",
+    "topic_id": "T11948",
+    "score": 0.9868
+  },
+  {
+    "paper_id": "W4225405705",
+    "topic_id": "T10002",
+    "score": 0.0105
+  },
+  {
+    "paper_id": "W4225405705",
+    "topic_id": "T11206",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W4226287673",
+    "topic_id": "T10260",
+    "score": 0.939
+  },
+  {
+    "paper_id": "W4226287673",
+    "topic_id": "T10533",
+    "score": 0.0391
+  },
+  {
+    "paper_id": "W4226287673",
+    "topic_id": "T10028",
+    "score": 0.0089
+  },
+  {
+    "paper_id": "W4406152279",
+    "topic_id": "T11636",
+    "score": 0.9741
+  },
+  {
+    "paper_id": "W4406152279",
+    "topic_id": "T10028",
+    "score": 0.0078
+  },
+  {
+    "paper_id": "W4406152279",
+    "topic_id": "T13702",
+    "score": 0.0065
+  },
+  {
+    "paper_id": "W4322576964",
+    "topic_id": "T11458",
+    "score": 0.9595
+  },
+  {
+    "paper_id": "W4322576964",
+    "topic_id": "T10714",
+    "score": 0.0185
+  },
+  {
+    "paper_id": "W4322576964",
+    "topic_id": "T10936",
+    "score": 0.0078
+  },
+  {
+    "paper_id": "W4383218913",
+    "topic_id": "T10466",
+    "score": 0.9927
+  },
+  {
+    "paper_id": "W4383218913",
+    "topic_id": "T11490",
+    "score": 0.0034
+  },
+  {
+    "paper_id": "W4383218913",
+    "topic_id": "T11344",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4360884927",
+    "topic_id": "T10775",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W4360884927",
+    "topic_id": "T10688",
+    "score": 0.001
+  },
+  {
+    "paper_id": "W4360884927",
+    "topic_id": "T11689",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4386142022",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4386142022",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4386142022",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3039448353",
+    "topic_id": "T10719",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3039448353",
+    "topic_id": "T10036",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3039448353",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3023211159",
+    "topic_id": "T12676",
+    "score": 0.2861
+  },
+  {
+    "paper_id": "W3023211159",
+    "topic_id": "T13373",
+    "score": 0.1857
+  },
+  {
+    "paper_id": "W3023211159",
+    "topic_id": "T12072",
+    "score": 0.1193
+  },
+  {
+    "paper_id": "W4213212652",
+    "topic_id": "T10682",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4213212652",
+    "topic_id": "T11804",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4213212652",
+    "topic_id": "T10020",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2747680751",
+    "topic_id": "T10181",
+    "score": 0.9653
+  },
+  {
+    "paper_id": "W2747680751",
+    "topic_id": "T10028",
+    "score": 0.0328
+  },
+  {
+    "paper_id": "W2747680751",
+    "topic_id": "T12031",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W4383218413",
+    "topic_id": "T10052",
+    "score": 0.9844
+  },
+  {
+    "paper_id": "W4383218413",
+    "topic_id": "T14510",
+    "score": 0.0115
+  },
+  {
+    "paper_id": "W4383218413",
+    "topic_id": "T11636",
+    "score": 0.0014
+  },
+  {
+    "paper_id": "W3149839747",
+    "topic_id": "T12535",
+    "score": 0.5293
+  },
+  {
+    "paper_id": "W3149839747",
+    "topic_id": "T10036",
+    "score": 0.2039
+  },
+  {
+    "paper_id": "W3149839747",
+    "topic_id": "T10320",
+    "score": 0.0611
+  },
+  {
+    "paper_id": "W3035725276",
+    "topic_id": "T11307",
+    "score": 0.9785
+  },
+  {
+    "paper_id": "W3035725276",
+    "topic_id": "T12072",
+    "score": 0.0095
+  },
+  {
+    "paper_id": "W3035725276",
+    "topic_id": "T10028",
+    "score": 0.0036
+  },
+  {
+    "paper_id": "W4389991792",
+    "topic_id": "T11948",
+    "score": 0.8599
+  },
+  {
+    "paper_id": "W4389991792",
+    "topic_id": "T13904",
+    "score": 0.0883
+  },
+  {
+    "paper_id": "W4389991792",
+    "topic_id": "T10211",
+    "score": 0.0108
+  },
+  {
+    "paper_id": "W3045910546",
+    "topic_id": "T10222",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3045910546",
+    "topic_id": "T10269",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W3045910546",
+    "topic_id": "T12820",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3176923149",
+    "topic_id": "T10028",
+    "score": 0.9668
+  },
+  {
+    "paper_id": "W3176923149",
+    "topic_id": "T10181",
+    "score": 0.0114
+  },
+  {
+    "paper_id": "W3176923149",
+    "topic_id": "T11307",
+    "score": 0.0047
+  },
+  {
+    "paper_id": "W3003667836",
+    "topic_id": "T10763",
+    "score": 0.9746
+  },
+  {
+    "paper_id": "W3003667836",
+    "topic_id": "T13286",
+    "score": 0.0131
+  },
+  {
+    "paper_id": "W3003667836",
+    "topic_id": "T12000",
+    "score": 0.0022
+  },
+  {
+    "paper_id": "W4366262984",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4366262984",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4366262984",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4390692489",
+    "topic_id": "T10028",
+    "score": 0.5508
+  },
+  {
+    "paper_id": "W4390692489",
+    "topic_id": "T11273",
+    "score": 0.4177
+  },
+  {
+    "paper_id": "W4390692489",
+    "topic_id": "T10215",
+    "score": 0.0116
+  },
+  {
+    "paper_id": "W2953303875",
+    "topic_id": "T11099",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2953303875",
+    "topic_id": "T10525",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2953303875",
+    "topic_id": "T10805",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2799041689",
+    "topic_id": "T10667",
+    "score": 0.9814
+  },
+  {
+    "paper_id": "W2799041689",
+    "topic_id": "T11448",
+    "score": 0.0154
+  },
+  {
+    "paper_id": "W2799041689",
+    "topic_id": "T10057",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W3156333129",
+    "topic_id": "T10028",
+    "score": 0.8022
+  },
+  {
+    "paper_id": "W3156333129",
+    "topic_id": "T11550",
+    "score": 0.1492
+  },
+  {
+    "paper_id": "W3156333129",
+    "topic_id": "T10664",
+    "score": 0.0305
+  },
+  {
+    "paper_id": "W3007268491",
+    "topic_id": "T10689",
+    "score": 0.9712
+  },
+  {
+    "paper_id": "W3007268491",
+    "topic_id": "T10036",
+    "score": 0.0247
+  },
+  {
+    "paper_id": "W3007268491",
+    "topic_id": "T13282",
+    "score": 0.0025
+  },
+  {
+    "paper_id": "W4407142724",
+    "topic_id": "T10208",
+    "score": 0.2981
+  },
+  {
+    "paper_id": "W4407142724",
+    "topic_id": "T12128",
+    "score": 0.2228
+  },
+  {
+    "paper_id": "W4407142724",
+    "topic_id": "T13812",
+    "score": 0.1469
+  },
+  {
+    "paper_id": "W3162922479",
+    "topic_id": "T10028",
+    "score": 0.7539
+  },
+  {
+    "paper_id": "W3162922479",
+    "topic_id": "T10286",
+    "score": 0.084
+  },
+  {
+    "paper_id": "W3162922479",
+    "topic_id": "T11714",
+    "score": 0.0458
+  },
+  {
+    "paper_id": "W3023371261",
+    "topic_id": "T11307",
+    "score": 0.9536
+  },
+  {
+    "paper_id": "W3023371261",
+    "topic_id": "T10036",
+    "score": 0.0321
+  },
+  {
+    "paper_id": "W3023371261",
+    "topic_id": "T10627",
+    "score": 0.0061
+  },
+  {
+    "paper_id": "W3135588948",
+    "topic_id": "T11303",
+    "score": 0.9956
+  },
+  {
+    "paper_id": "W3135588948",
+    "topic_id": "T10845",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W3135588948",
+    "topic_id": "T12072",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4392173735",
+    "topic_id": "T11307",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4392173735",
+    "topic_id": "T12761",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4392173735",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2900896126",
+    "topic_id": "T10720",
+    "score": 0.3608
+  },
+  {
+    "paper_id": "W2900896126",
+    "topic_id": "T11612",
+    "score": 0.1321
+  },
+  {
+    "paper_id": "W2900896126",
+    "topic_id": "T10100",
+    "score": 0.1114
+  },
+  {
+    "paper_id": "W3148181069",
+    "topic_id": "T13373",
+    "score": 0.4897
+  },
+  {
+    "paper_id": "W3148181069",
+    "topic_id": "T10538",
+    "score": 0.3865
+  },
+  {
+    "paper_id": "W3148181069",
+    "topic_id": "T11396",
+    "score": 0.0676
+  },
+  {
+    "paper_id": "W3096947210",
+    "topic_id": "T10052",
+    "score": 0.9971
+  },
+  {
+    "paper_id": "W3096947210",
+    "topic_id": "T10036",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W3096947210",
+    "topic_id": "T11307",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W2966284335",
+    "topic_id": "T12535",
+    "score": 0.9175
+  },
+  {
+    "paper_id": "W2966284335",
+    "topic_id": "T10036",
+    "score": 0.062
+  },
+  {
+    "paper_id": "W2966284335",
+    "topic_id": "T11307",
+    "score": 0.0106
+  },
+  {
+    "paper_id": "W4288079542",
+    "topic_id": "T11147",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4288079542",
+    "topic_id": "T11644",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4288079542",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4396723768",
+    "topic_id": "T11948",
+    "score": 0.5371
+  },
+  {
+    "paper_id": "W4396723768",
+    "topic_id": "T10211",
+    "score": 0.3174
+  },
+  {
+    "paper_id": "W4396723768",
+    "topic_id": "T13904",
+    "score": 0.0343
+  },
+  {
+    "paper_id": "W4415124086",
+    "topic_id": "T10627",
+    "score": 0.853
+  },
+  {
+    "paper_id": "W4415124086",
+    "topic_id": "T10028",
+    "score": 0.0282
+  },
+  {
+    "paper_id": "W4415124086",
+    "topic_id": "T10317",
+    "score": 0.0272
+  },
+  {
+    "paper_id": "W3110989801",
+    "topic_id": "T11458",
+    "score": 0.9731
+  },
+  {
+    "paper_id": "W3110989801",
+    "topic_id": "T10936",
+    "score": 0.0087
+  },
+  {
+    "paper_id": "W3110989801",
+    "topic_id": "T12042",
+    "score": 0.0082
+  },
+  {
+    "paper_id": "W3156614709",
+    "topic_id": "T14414",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3156614709",
+    "topic_id": "T12260",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W3156614709",
+    "topic_id": "T11902",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W2950398529",
+    "topic_id": "T13530",
+    "score": 0.4153
+  },
+  {
+    "paper_id": "W2950398529",
+    "topic_id": "T13904",
+    "score": 0.1458
+  },
+  {
+    "paper_id": "W2950398529",
+    "topic_id": "T10471",
+    "score": 0.1183
+  },
+  {
+    "paper_id": "W4289639938",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4289639938",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4289639938",
+    "topic_id": "T10775",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4206484811",
+    "topic_id": "T10648",
+    "score": 0.958
+  },
+  {
+    "paper_id": "W4206484811",
+    "topic_id": "T10888",
+    "score": 0.0104
+  },
+  {
+    "paper_id": "W4206484811",
+    "topic_id": "T12942",
+    "score": 0.006
+  },
+  {
+    "paper_id": "W4389727268",
+    "topic_id": "T11975",
+    "score": 0.6538
+  },
+  {
+    "paper_id": "W4389727268",
+    "topic_id": "T13904",
+    "score": 0.1511
+  },
+  {
+    "paper_id": "W4389727268",
+    "topic_id": "T10028",
+    "score": 0.0221
+  },
+  {
+    "paper_id": "W3048804154",
+    "topic_id": "T10637",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3048804154",
+    "topic_id": "T13373",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3048804154",
+    "topic_id": "T11901",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2998847955",
+    "topic_id": "T11206",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W2998847955",
+    "topic_id": "T10514",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W2998847955",
+    "topic_id": "T10320",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4210827551",
+    "topic_id": "T10664",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4210827551",
+    "topic_id": "T10667",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4210827551",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4406170795",
+    "topic_id": "T12535",
+    "score": 0.7783
+  },
+  {
+    "paper_id": "W4406170795",
+    "topic_id": "T10320",
+    "score": 0.0746
+  },
+  {
+    "paper_id": "W4406170795",
+    "topic_id": "T11307",
+    "score": 0.0342
+  },
+  {
+    "paper_id": "W2889126882",
+    "topic_id": "T10682",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2889126882",
+    "topic_id": "T11804",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2889126882",
+    "topic_id": "T10002",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4412158322",
+    "topic_id": "T10028",
+    "score": 0.8384
+  },
+  {
+    "paper_id": "W4412158322",
+    "topic_id": "T10181",
+    "score": 0.1089
+  },
+  {
+    "paper_id": "W4412158322",
+    "topic_id": "T11689",
+    "score": 0.0156
+  },
+  {
+    "paper_id": "W3033513666",
+    "topic_id": "T10064",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3033513666",
+    "topic_id": "T11187",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3033513666",
+    "topic_id": "T14299",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2991046523",
+    "topic_id": "T10462",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2991046523",
+    "topic_id": "T11031",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2991046523",
+    "topic_id": "T12101",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4229042118",
+    "topic_id": "T11714",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4229042118",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4229042118",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3096230432",
+    "topic_id": "T12611",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3096230432",
+    "topic_id": "T10502",
+    "score": 0.0023
+  },
+  {
+    "paper_id": "W3096230432",
+    "topic_id": "T10299",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4382246105",
+    "topic_id": "T10028",
+    "score": 0.9946
+  },
+  {
+    "paper_id": "W4382246105",
+    "topic_id": "T10181",
+    "score": 0.0042
+  },
+  {
+    "paper_id": "W4382246105",
+    "topic_id": "T11307",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3094948551",
+    "topic_id": "T12535",
+    "score": 0.8345
+  },
+  {
+    "paper_id": "W3094948551",
+    "topic_id": "T13373",
+    "score": 0.0461
+  },
+  {
+    "paper_id": "W3094948551",
+    "topic_id": "T11652",
+    "score": 0.0239
+  },
+  {
+    "paper_id": "W3183048323",
+    "topic_id": "T11689",
+    "score": 0.9268
+  },
+  {
+    "paper_id": "W3183048323",
+    "topic_id": "T12814",
+    "score": 0.0363
+  },
+  {
+    "paper_id": "W3183048323",
+    "topic_id": "T10036",
+    "score": 0.0199
+  },
+  {
+    "paper_id": "W3155912831",
+    "topic_id": "T10764",
+    "score": 0.9673
+  },
+  {
+    "paper_id": "W3155912831",
+    "topic_id": "T10273",
+    "score": 0.0233
+  },
+  {
+    "paper_id": "W3155912831",
+    "topic_id": "T13038",
+    "score": 0.0073
+  },
+  {
+    "paper_id": "W3097300053",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3097300053",
+    "topic_id": "T11273",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3097300053",
+    "topic_id": "T12101",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3011594683",
+    "topic_id": "T10028",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3011594683",
+    "topic_id": "T10181",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W3011594683",
+    "topic_id": "T11714",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4388615774",
+    "topic_id": "T10211",
+    "score": 0.9644
+  },
+  {
+    "paper_id": "W4388615774",
+    "topic_id": "T10375",
+    "score": 0.009
+  },
+  {
+    "paper_id": "W4388615774",
+    "topic_id": "T11710",
+    "score": 0.0046
+  },
+  {
+    "paper_id": "W3171649327",
+    "topic_id": "T10028",
+    "score": 0.6304
+  },
+  {
+    "paper_id": "W3171649327",
+    "topic_id": "T10036",
+    "score": 0.2573
+  },
+  {
+    "paper_id": "W3171649327",
+    "topic_id": "T11307",
+    "score": 0.038
+  },
+  {
+    "paper_id": "W3011574394",
+    "topic_id": "T10028",
+    "score": 0.9927
+  },
+  {
+    "paper_id": "W3011574394",
+    "topic_id": "T10181",
+    "score": 0.0045
+  },
+  {
+    "paper_id": "W3011574394",
+    "topic_id": "T11307",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3097606775",
+    "topic_id": "T11307",
+    "score": 0.9912
+  },
+  {
+    "paper_id": "W3097606775",
+    "topic_id": "T10036",
+    "score": 0.0054
+  },
+  {
+    "paper_id": "W3097606775",
+    "topic_id": "T12072",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W4392353733",
+    "topic_id": "T11689",
+    "score": 0.9917
+  },
+  {
+    "paper_id": "W4392353733",
+    "topic_id": "T10764",
+    "score": 0.0028
+  },
+  {
+    "paper_id": "W4392353733",
+    "topic_id": "T11424",
+    "score": 0.0025
+  },
+  {
+    "paper_id": "W2992005611",
+    "topic_id": "T12814",
+    "score": 0.8657
+  },
+  {
+    "paper_id": "W2992005611",
+    "topic_id": "T12056",
+    "score": 0.0293
+  },
+  {
+    "paper_id": "W2992005611",
+    "topic_id": "T10320",
+    "score": 0.0261
+  },
+  {
+    "paper_id": "W3132191748",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3132191748",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3132191748",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3011667710",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3011667710",
+    "topic_id": "T12292",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3011667710",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3038004684",
+    "topic_id": "T11636",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3038004684",
+    "topic_id": "T11396",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3038004684",
+    "topic_id": "T13038",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4395010444",
+    "topic_id": "T10211",
+    "score": 0.9917
+  },
+  {
+    "paper_id": "W4395010444",
+    "topic_id": "T12281",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W4395010444",
+    "topic_id": "T10447",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3185585276",
+    "topic_id": "T11206",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3185585276",
+    "topic_id": "T11948",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W3185585276",
+    "topic_id": "T10320",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3000065748",
+    "topic_id": "T11122",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3000065748",
+    "topic_id": "T13676",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3000065748",
+    "topic_id": "T12260",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4392172801",
+    "topic_id": "T11714",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4392172801",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4392172801",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2984417636",
+    "topic_id": "T12056",
+    "score": 0.9463
+  },
+  {
+    "paper_id": "W2984417636",
+    "topic_id": "T11195",
+    "score": 0.0139
+  },
+  {
+    "paper_id": "W2984417636",
+    "topic_id": "T12814",
+    "score": 0.0097
+  },
+  {
+    "paper_id": "W3048565185",
+    "topic_id": "T10002",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3048565185",
+    "topic_id": "T12044",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3048565185",
+    "topic_id": "T11948",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2910094941",
+    "topic_id": "T10052",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W2910094941",
+    "topic_id": "T12702",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W2910094941",
+    "topic_id": "T12422",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3042609801",
+    "topic_id": "T12535",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3042609801",
+    "topic_id": "T11689",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3042609801",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2992272656",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2992272656",
+    "topic_id": "T11614",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2992272656",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4385878593",
+    "topic_id": "T14414",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4385878593",
+    "topic_id": "T11636",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4385878593",
+    "topic_id": "T11902",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3031781733",
+    "topic_id": "T11147",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3031781733",
+    "topic_id": "T11644",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3031781733",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3133542152",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3133542152",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3133542152",
+    "topic_id": "T10775",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3205100603",
+    "topic_id": "T10036",
+    "score": 0.5386
+  },
+  {
+    "paper_id": "W3205100603",
+    "topic_id": "T10331",
+    "score": 0.4504
+  },
+  {
+    "paper_id": "W3205100603",
+    "topic_id": "T11605",
+    "score": 0.0019
+  },
+  {
+    "paper_id": "W4297253404",
+    "topic_id": "T11710",
+    "score": 0.9263
+  },
+  {
+    "paper_id": "W4297253404",
+    "topic_id": "T10028",
+    "score": 0.0599
+  },
+  {
+    "paper_id": "W4297253404",
+    "topic_id": "T13702",
+    "score": 0.0051
+  },
+  {
+    "paper_id": "W4294559022",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4294559022",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4294559022",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3202428668",
+    "topic_id": "T12535",
+    "score": 0.45
+  },
+  {
+    "paper_id": "W3202428668",
+    "topic_id": "T10320",
+    "score": 0.282
+  },
+  {
+    "paper_id": "W3202428668",
+    "topic_id": "T12676",
+    "score": 0.0224
+  },
+  {
+    "paper_id": "W4291819654",
+    "topic_id": "T10036",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4291819654",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4291819654",
+    "topic_id": "T11605",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3100779497",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3100779497",
+    "topic_id": "T13702",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3100779497",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3137147200",
+    "topic_id": "T10036",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3137147200",
+    "topic_id": "T10320",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W3137147200",
+    "topic_id": "T10363",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3120392574",
+    "topic_id": "T10448",
+    "score": 0.9922
+  },
+  {
+    "paper_id": "W3120392574",
+    "topic_id": "T11904",
+    "score": 0.0035
+  },
+  {
+    "paper_id": "W3120392574",
+    "topic_id": "T10077",
+    "score": 0.0012
+  },
+  {
+    "paper_id": "W4294891500",
+    "topic_id": "T10270",
+    "score": 0.4067
+  },
+  {
+    "paper_id": "W4294891500",
+    "topic_id": "T10648",
+    "score": 0.1267
+  },
+  {
+    "paper_id": "W4294891500",
+    "topic_id": "T10273",
+    "score": 0.1116
+  },
+  {
+    "paper_id": "W3205626500",
+    "topic_id": "T12072",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3205626500",
+    "topic_id": "T11307",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W3205626500",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2771305881",
+    "topic_id": "T11105",
+    "score": 0.3665
+  },
+  {
+    "paper_id": "W2771305881",
+    "topic_id": "T10775",
+    "score": 0.314
+  },
+  {
+    "paper_id": "W2771305881",
+    "topic_id": "T10688",
+    "score": 0.3086
+  },
+  {
+    "paper_id": "W4226323522",
+    "topic_id": "T11719",
+    "score": 0.7891
+  },
+  {
+    "paper_id": "W4226323522",
+    "topic_id": "T12535",
+    "score": 0.1876
+  },
+  {
+    "paper_id": "W4226323522",
+    "topic_id": "T13373",
+    "score": 0.0104
+  },
+  {
+    "paper_id": "W3133814152",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3133814152",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3133814152",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2991382858",
+    "topic_id": "T10028",
+    "score": 0.9766
+  },
+  {
+    "paper_id": "W2991382858",
+    "topic_id": "T10181",
+    "score": 0.0165
+  },
+  {
+    "paper_id": "W2991382858",
+    "topic_id": "T11714",
+    "score": 0.0022
+  },
+  {
+    "paper_id": "W3047443805",
+    "topic_id": "T10689",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3047443805",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3047443805",
+    "topic_id": "T11273",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2971724044",
+    "topic_id": "T11918",
+    "score": 0.9893
+  },
+  {
+    "paper_id": "W2971724044",
+    "topic_id": "T12205",
+    "score": 0.008
+  },
+  {
+    "paper_id": "W2971724044",
+    "topic_id": "T11326",
+    "score": 0.0015
+  },
+  {
+    "paper_id": "W4283388932",
+    "topic_id": "T10775",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4283388932",
+    "topic_id": "T11714",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4283388932",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4389365236",
+    "topic_id": "T11902",
+    "score": 0.9019
+  },
+  {
+    "paper_id": "W4389365236",
+    "topic_id": "T14414",
+    "score": 0.0839
+  },
+  {
+    "paper_id": "W4389365236",
+    "topic_id": "T11122",
+    "score": 0.0109
+  },
+  {
+    "paper_id": "W4283791586",
+    "topic_id": "T10320",
+    "score": 0.9858
+  },
+  {
+    "paper_id": "W4283791586",
+    "topic_id": "T10036",
+    "score": 0.0043
+  },
+  {
+    "paper_id": "W4283791586",
+    "topic_id": "T12676",
+    "score": 0.0034
+  },
+  {
+    "paper_id": "W3216759837",
+    "topic_id": "T10775",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3216759837",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3216759837",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4399929809",
+    "topic_id": "T11689",
+    "score": 0.5933
+  },
+  {
+    "paper_id": "W4399929809",
+    "topic_id": "T11512",
+    "score": 0.3833
+  },
+  {
+    "paper_id": "W4399929809",
+    "topic_id": "T10036",
+    "score": 0.0037
+  },
+  {
+    "paper_id": "W2180187800",
+    "topic_id": "T10057",
+    "score": 0.8169
+  },
+  {
+    "paper_id": "W2180187800",
+    "topic_id": "T11448",
+    "score": 0.1571
+  },
+  {
+    "paper_id": "W2180187800",
+    "topic_id": "T10627",
+    "score": 0.0056
+  },
+  {
+    "paper_id": "W3212169067",
+    "topic_id": "T10682",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3212169067",
+    "topic_id": "T11804",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3212169067",
+    "topic_id": "T10002",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3180637455",
+    "topic_id": "T10689",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3180637455",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3180637455",
+    "topic_id": "T10640",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2962814013",
+    "topic_id": "T10273",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2962814013",
+    "topic_id": "T13038",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2962814013",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4385632485",
+    "topic_id": "T14414",
+    "score": 0.9922
+  },
+  {
+    "paper_id": "W4385632485",
+    "topic_id": "T11636",
+    "score": 0.0044
+  },
+  {
+    "paper_id": "W4385632485",
+    "topic_id": "T10883",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W4283318673",
+    "topic_id": "T11512",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4283318673",
+    "topic_id": "T12205",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4283318673",
+    "topic_id": "T10876",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4296079469",
+    "topic_id": "T12535",
+    "score": 0.469
+  },
+  {
+    "paper_id": "W4296079469",
+    "topic_id": "T11652",
+    "score": 0.4397
+  },
+  {
+    "paper_id": "W4296079469",
+    "topic_id": "T12676",
+    "score": 0.0203
+  },
+  {
+    "paper_id": "W3086436251",
+    "topic_id": "T10331",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3086436251",
+    "topic_id": "T11099",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3086436251",
+    "topic_id": "T10036",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2998718632",
+    "topic_id": "T12357",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W2998718632",
+    "topic_id": "T11448",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W2998718632",
+    "topic_id": "T10775",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3008115128",
+    "topic_id": "T11099",
+    "score": 0.8984
+  },
+  {
+    "paper_id": "W3008115128",
+    "topic_id": "T10036",
+    "score": 0.0974
+  },
+  {
+    "paper_id": "W3008115128",
+    "topic_id": "T11714",
+    "score": 0.0012
+  },
+  {
+    "paper_id": "W4378838672",
+    "topic_id": "T10887",
+    "score": 0.9844
+  },
+  {
+    "paper_id": "W4378838672",
+    "topic_id": "T10621",
+    "score": 0.0076
+  },
+  {
+    "paper_id": "W4378838672",
+    "topic_id": "T11289",
+    "score": 0.0029
+  },
+  {
+    "paper_id": "W3123909522",
+    "topic_id": "T11344",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3123909522",
+    "topic_id": "T11273",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3123909522",
+    "topic_id": "T10524",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4225598893",
+    "topic_id": "T11289",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4225598893",
+    "topic_id": "T10885",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4225598893",
+    "topic_id": "T10887",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4205129187",
+    "topic_id": "T10100",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4205129187",
+    "topic_id": "T11946",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4205129187",
+    "topic_id": "T10249",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4294647307",
+    "topic_id": "T12128",
+    "score": 0.9312
+  },
+  {
+    "paper_id": "W4294647307",
+    "topic_id": "T13904",
+    "score": 0.0257
+  },
+  {
+    "paper_id": "W4294647307",
+    "topic_id": "T10609",
+    "score": 0.0245
+  },
+  {
+    "paper_id": "W3045086480",
+    "topic_id": "T11458",
+    "score": 0.9795
+  },
+  {
+    "paper_id": "W3045086480",
+    "topic_id": "T10936",
+    "score": 0.01
+  },
+  {
+    "paper_id": "W3045086480",
+    "topic_id": "T12042",
+    "score": 0.0018
+  },
+  {
+    "paper_id": "W3128704025",
+    "topic_id": "T11206",
+    "score": 0.9946
+  },
+  {
+    "paper_id": "W3128704025",
+    "topic_id": "T10173",
+    "score": 0.0036
+  },
+  {
+    "paper_id": "W3128704025",
+    "topic_id": "T10360",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W3139080614",
+    "topic_id": "T10028",
+    "score": 0.7607
+  },
+  {
+    "paper_id": "W3139080614",
+    "topic_id": "T11307",
+    "score": 0.22
+  },
+  {
+    "paper_id": "W3139080614",
+    "topic_id": "T10181",
+    "score": 0.0117
+  },
+  {
+    "paper_id": "W4376226279",
+    "topic_id": "T11714",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4376226279",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4376226279",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3074741277",
+    "topic_id": "T11636",
+    "score": 0.8892
+  },
+  {
+    "paper_id": "W3074741277",
+    "topic_id": "T10862",
+    "score": 0.0458
+  },
+  {
+    "paper_id": "W3074741277",
+    "topic_id": "T10052",
+    "score": 0.0229
+  },
+  {
+    "paper_id": "W4386740800",
+    "topic_id": "T11948",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4386740800",
+    "topic_id": "T10002",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W4386740800",
+    "topic_id": "T11206",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3005893373",
+    "topic_id": "T11512",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3005893373",
+    "topic_id": "T12205",
+    "score": 0.0012
+  },
+  {
+    "paper_id": "W3005893373",
+    "topic_id": "T11871",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2909676666",
+    "topic_id": "T11099",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2909676666",
+    "topic_id": "T10805",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2909676666",
+    "topic_id": "T10525",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3179950556",
+    "topic_id": "T12535",
+    "score": 0.9937
+  },
+  {
+    "paper_id": "W3179950556",
+    "topic_id": "T12101",
+    "score": 0.0021
+  },
+  {
+    "paper_id": "W3179950556",
+    "topic_id": "T11612",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W3004493409",
+    "topic_id": "T10883",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3004493409",
+    "topic_id": "T12026",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3004493409",
+    "topic_id": "T13643",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2923915248",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2923915248",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2923915248",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4385988359",
+    "topic_id": "T10028",
+    "score": 0.979
+  },
+  {
+    "paper_id": "W4385988359",
+    "topic_id": "T10181",
+    "score": 0.0157
+  },
+  {
+    "paper_id": "W4385988359",
+    "topic_id": "T11714",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W4312597583",
+    "topic_id": "T10429",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4312597583",
+    "topic_id": "T10667",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W4312597583",
+    "topic_id": "T10784",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3021951958",
+    "topic_id": "T10273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3021951958",
+    "topic_id": "T14098",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3021951958",
+    "topic_id": "T11478",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3004919484",
+    "topic_id": "T10041",
+    "score": 0.6382
+  },
+  {
+    "paper_id": "W3004919484",
+    "topic_id": "T10118",
+    "score": 0.3577
+  },
+  {
+    "paper_id": "W3004919484",
+    "topic_id": "T11243",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4393936599",
+    "topic_id": "T10211",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4393936599",
+    "topic_id": "T11948",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4393936599",
+    "topic_id": "T12254",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4392240262",
+    "topic_id": "T10028",
+    "score": 0.9839
+  },
+  {
+    "paper_id": "W4392240262",
+    "topic_id": "T10181",
+    "score": 0.0142
+  },
+  {
+    "paper_id": "W4392240262",
+    "topic_id": "T11714",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4280651558",
+    "topic_id": "T12026",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W4280651558",
+    "topic_id": "T14414",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W4280651558",
+    "topic_id": "T11902",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W2998313947",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2998313947",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2998313947",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4405114800",
+    "topic_id": "T10775",
+    "score": 0.7974
+  },
+  {
+    "paper_id": "W4405114800",
+    "topic_id": "T11714",
+    "score": 0.1732
+  },
+  {
+    "paper_id": "W4405114800",
+    "topic_id": "T10028",
+    "score": 0.0183
+  },
+  {
+    "paper_id": "W2766820687",
+    "topic_id": "T11413",
+    "score": 0.7256
+  },
+  {
+    "paper_id": "W2766820687",
+    "topic_id": "T11612",
+    "score": 0.0483
+  },
+  {
+    "paper_id": "W2766820687",
+    "topic_id": "T10963",
+    "score": 0.0341
+  },
+  {
+    "paper_id": "W4382059335",
+    "topic_id": "T12111",
+    "score": 0.9341
+  },
+  {
+    "paper_id": "W4382059335",
+    "topic_id": "T10036",
+    "score": 0.0654
+  },
+  {
+    "paper_id": "W4382059335",
+    "topic_id": "T11606",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3202525453",
+    "topic_id": "T11234",
+    "score": 0.9033
+  },
+  {
+    "paper_id": "W3202525453",
+    "topic_id": "T10466",
+    "score": 0.0742
+  },
+  {
+    "paper_id": "W3202525453",
+    "topic_id": "T11490",
+    "score": 0.0179
+  },
+  {
+    "paper_id": "W3137125108",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3137125108",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3137125108",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4366988472",
+    "topic_id": "T10320",
+    "score": 0.6328
+  },
+  {
+    "paper_id": "W4366988472",
+    "topic_id": "T10036",
+    "score": 0.1586
+  },
+  {
+    "paper_id": "W4366988472",
+    "topic_id": "T13904",
+    "score": 0.1375
+  },
+  {
+    "paper_id": "W3089028909",
+    "topic_id": "T11512",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3089028909",
+    "topic_id": "T11689",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3089028909",
+    "topic_id": "T12127",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3022968840",
+    "topic_id": "T11289",
+    "score": 0.9595
+  },
+  {
+    "paper_id": "W3022968840",
+    "topic_id": "T10158",
+    "score": 0.0096
+  },
+  {
+    "paper_id": "W3022968840",
+    "topic_id": "T10336",
+    "score": 0.0049
+  },
+  {
+    "paper_id": "W4310135808",
+    "topic_id": "T11948",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4310135808",
+    "topic_id": "T10002",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4310135808",
+    "topic_id": "T10211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3019200173",
+    "topic_id": "T12357",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3019200173",
+    "topic_id": "T10775",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3019200173",
+    "topic_id": "T11147",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2295615964",
+    "topic_id": "T10331",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W2295615964",
+    "topic_id": "T11099",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W2295615964",
+    "topic_id": "T10036",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4391855109",
+    "topic_id": "T10028",
+    "score": 0.9761
+  },
+  {
+    "paper_id": "W4391855109",
+    "topic_id": "T10181",
+    "score": 0.0217
+  },
+  {
+    "paper_id": "W4391855109",
+    "topic_id": "T11714",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4320920085",
+    "topic_id": "T10912",
+    "score": 0.3901
+  },
+  {
+    "paper_id": "W4320920085",
+    "topic_id": "T14416",
+    "score": 0.3557
+  },
+  {
+    "paper_id": "W4320920085",
+    "topic_id": "T14512",
+    "score": 0.0801
+  },
+  {
+    "paper_id": "W4366091323",
+    "topic_id": "T10320",
+    "score": 0.6416
+  },
+  {
+    "paper_id": "W4366091323",
+    "topic_id": "T10036",
+    "score": 0.2479
+  },
+  {
+    "paper_id": "W4366091323",
+    "topic_id": "T13904",
+    "score": 0.0693
+  },
+  {
+    "paper_id": "W2971544482",
+    "topic_id": "T10273",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2971544482",
+    "topic_id": "T13038",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2971544482",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3208687975",
+    "topic_id": "T11948",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3208687975",
+    "topic_id": "T10002",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3208687975",
+    "topic_id": "T11206",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2797558164",
+    "topic_id": "T11448",
+    "score": 0.9966
+  },
+  {
+    "paper_id": "W2797558164",
+    "topic_id": "T10057",
+    "score": 0.0027
+  },
+  {
+    "paper_id": "W2797558164",
+    "topic_id": "T10828",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3137898953",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3137898953",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3137898953",
+    "topic_id": "T12814",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4390490761",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4390490761",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4390490761",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4386697749",
+    "topic_id": "T11438",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4386697749",
+    "topic_id": "T14384",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4386697749",
+    "topic_id": "T11636",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3119527628",
+    "topic_id": "T11775",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3119527628",
+    "topic_id": "T11636",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3119527628",
+    "topic_id": "T12422",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3120697286",
+    "topic_id": "T10616",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3120697286",
+    "topic_id": "T10111",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3120697286",
+    "topic_id": "T13038",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3138484572",
+    "topic_id": "T10158",
+    "score": 0.979
+  },
+  {
+    "paper_id": "W3138484572",
+    "topic_id": "T10073",
+    "score": 0.0186
+  },
+  {
+    "paper_id": "W3138484572",
+    "topic_id": "T10340",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W2798435682",
+    "topic_id": "T10203",
+    "score": 0.9561
+  },
+  {
+    "paper_id": "W2798435682",
+    "topic_id": "T12026",
+    "score": 0.0431
+  },
+  {
+    "paper_id": "W2798435682",
+    "topic_id": "T10286",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3160137267",
+    "topic_id": "T13702",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3160137267",
+    "topic_id": "T11396",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3160137267",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3170657538",
+    "topic_id": "T10243",
+    "score": 0.7983
+  },
+  {
+    "paper_id": "W3170657538",
+    "topic_id": "T12535",
+    "score": 0.0732
+  },
+  {
+    "paper_id": "W3170657538",
+    "topic_id": "T13373",
+    "score": 0.0173
+  },
+  {
+    "paper_id": "W3101981467",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3101981467",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3101981467",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4391836235",
+    "topic_id": "T10028",
+    "score": 0.8931
+  },
+  {
+    "paper_id": "W4391836235",
+    "topic_id": "T11948",
+    "score": 0.0412
+  },
+  {
+    "paper_id": "W4391836235",
+    "topic_id": "T11710",
+    "score": 0.027
+  },
+  {
+    "paper_id": "W3014372673",
+    "topic_id": "T10689",
+    "score": 0.9941
+  },
+  {
+    "paper_id": "W3014372673",
+    "topic_id": "T13890",
+    "score": 0.0046
+  },
+  {
+    "paper_id": "W3014372673",
+    "topic_id": "T10111",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4392193048",
+    "topic_id": "T13702",
+    "score": 0.6548
+  },
+  {
+    "paper_id": "W4392193048",
+    "topic_id": "T11636",
+    "score": 0.1792
+  },
+  {
+    "paper_id": "W4392193048",
+    "topic_id": "T10028",
+    "score": 0.0782
+  },
+  {
+    "paper_id": "W3002581072",
+    "topic_id": "T12357",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3002581072",
+    "topic_id": "T11147",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3002581072",
+    "topic_id": "T10388",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4283077289",
+    "topic_id": "T12026",
+    "score": 0.832
+  },
+  {
+    "paper_id": "W4283077289",
+    "topic_id": "T11911",
+    "score": 0.1621
+  },
+  {
+    "paper_id": "W4283077289",
+    "topic_id": "T10298",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4205430897",
+    "topic_id": "T10879",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4205430897",
+    "topic_id": "T10191",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4205430897",
+    "topic_id": "T10462",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3193068792",
+    "topic_id": "T12026",
+    "score": 0.5117
+  },
+  {
+    "paper_id": "W3193068792",
+    "topic_id": "T10028",
+    "score": 0.3303
+  },
+  {
+    "paper_id": "W3193068792",
+    "topic_id": "T10181",
+    "score": 0.0923
+  },
+  {
+    "paper_id": "W4389636360",
+    "topic_id": "T13910",
+    "score": 0.9697
+  },
+  {
+    "paper_id": "W4389636360",
+    "topic_id": "T10028",
+    "score": 0.0152
+  },
+  {
+    "paper_id": "W4389636360",
+    "topic_id": "T10664",
+    "score": 0.0109
+  },
+  {
+    "paper_id": "W3082766779",
+    "topic_id": "T10689",
+    "score": 0.436
+  },
+  {
+    "paper_id": "W3082766779",
+    "topic_id": "T13890",
+    "score": 0.2969
+  },
+  {
+    "paper_id": "W3082766779",
+    "topic_id": "T10111",
+    "score": 0.1231
+  },
+  {
+    "paper_id": "W4392004327",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4392004327",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4392004327",
+    "topic_id": "T12814",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3011742849",
+    "topic_id": "T11636",
+    "score": 0.9204
+  },
+  {
+    "paper_id": "W3011742849",
+    "topic_id": "T13702",
+    "score": 0.0517
+  },
+  {
+    "paper_id": "W3011742849",
+    "topic_id": "T11396",
+    "score": 0.0249
+  },
+  {
+    "paper_id": "W3135057764",
+    "topic_id": "T11775",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3135057764",
+    "topic_id": "T10052",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3135057764",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4408634392",
+    "topic_id": "T10052",
+    "score": 0.9624
+  },
+  {
+    "paper_id": "W4408634392",
+    "topic_id": "T11307",
+    "score": 0.0239
+  },
+  {
+    "paper_id": "W4408634392",
+    "topic_id": "T10036",
+    "score": 0.0096
+  },
+  {
+    "paper_id": "W3044960932",
+    "topic_id": "T10775",
+    "score": 0.6768
+  },
+  {
+    "paper_id": "W3044960932",
+    "topic_id": "T13904",
+    "score": 0.1771
+  },
+  {
+    "paper_id": "W3044960932",
+    "topic_id": "T14254",
+    "score": 0.067
+  },
+  {
+    "paper_id": "W4400135851",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4400135851",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4400135851",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3092103025",
+    "topic_id": "T10203",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3092103025",
+    "topic_id": "T10883",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3092103025",
+    "topic_id": "T10286",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2901114541",
+    "topic_id": "T11307",
+    "score": 0.8608
+  },
+  {
+    "paper_id": "W2901114541",
+    "topic_id": "T10036",
+    "score": 0.1047
+  },
+  {
+    "paper_id": "W2901114541",
+    "topic_id": "T10627",
+    "score": 0.0063
+  },
+  {
+    "paper_id": "W3198659451",
+    "topic_id": "T11307",
+    "score": 0.7944
+  },
+  {
+    "paper_id": "W3198659451",
+    "topic_id": "T10028",
+    "score": 0.2019
+  },
+  {
+    "paper_id": "W3198659451",
+    "topic_id": "T10036",
+    "score": 0.0018
+  },
+  {
+    "paper_id": "W2945526235",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2945526235",
+    "topic_id": "T11986",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2945526235",
+    "topic_id": "T11948",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4309080560",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4309080560",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4309080560",
+    "topic_id": "T10237",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3043426275",
+    "topic_id": "T12814",
+    "score": 0.9526
+  },
+  {
+    "paper_id": "W3043426275",
+    "topic_id": "T11689",
+    "score": 0.0241
+  },
+  {
+    "paper_id": "W3043426275",
+    "topic_id": "T10320",
+    "score": 0.008
+  },
+  {
+    "paper_id": "W4200400528",
+    "topic_id": "T11804",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4200400528",
+    "topic_id": "T10020",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4200400528",
+    "topic_id": "T11682",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4388667244",
+    "topic_id": "T10222",
+    "score": 0.9863
+  },
+  {
+    "paper_id": "W4388667244",
+    "topic_id": "T10015",
+    "score": 0.0061
+  },
+  {
+    "paper_id": "W4388667244",
+    "topic_id": "T10887",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4225597912",
+    "topic_id": "T11636",
+    "score": 0.4143
+  },
+  {
+    "paper_id": "W4225597912",
+    "topic_id": "T11396",
+    "score": 0.2947
+  },
+  {
+    "paper_id": "W4225597912",
+    "topic_id": "T11652",
+    "score": 0.1526
+  },
+  {
+    "paper_id": "W3039995705",
+    "topic_id": "T12026",
+    "score": 0.8403
+  },
+  {
+    "paper_id": "W3039995705",
+    "topic_id": "T10211",
+    "score": 0.1575
+  },
+  {
+    "paper_id": "W3039995705",
+    "topic_id": "T11948",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2985923507",
+    "topic_id": "T10241",
+    "score": 0.8403
+  },
+  {
+    "paper_id": "W2985923507",
+    "topic_id": "T11986",
+    "score": 0.0648
+  },
+  {
+    "paper_id": "W2985923507",
+    "topic_id": "T10378",
+    "score": 0.0141
+  },
+  {
+    "paper_id": "W4283392904",
+    "topic_id": "T11006",
+    "score": 0.9634
+  },
+  {
+    "paper_id": "W4283392904",
+    "topic_id": "T11606",
+    "score": 0.0102
+  },
+  {
+    "paper_id": "W4283392904",
+    "topic_id": "T13904",
+    "score": 0.0069
+  },
+  {
+    "paper_id": "W3045321166",
+    "topic_id": "T10028",
+    "score": 0.5601
+  },
+  {
+    "paper_id": "W3045321166",
+    "topic_id": "T13083",
+    "score": 0.3743
+  },
+  {
+    "paper_id": "W3045321166",
+    "topic_id": "T13629",
+    "score": 0.0168
+  },
+  {
+    "paper_id": "W4295122555",
+    "topic_id": "T10036",
+    "score": 0.9844
+  },
+  {
+    "paper_id": "W4295122555",
+    "topic_id": "T11307",
+    "score": 0.0092
+  },
+  {
+    "paper_id": "W4295122555",
+    "topic_id": "T10627",
+    "score": 0.0017
+  },
+  {
+    "paper_id": "W4210583065",
+    "topic_id": "T11289",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4210583065",
+    "topic_id": "T12859",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4210583065",
+    "topic_id": "T10887",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3159959439",
+    "topic_id": "T10028",
+    "score": 0.9243
+  },
+  {
+    "paper_id": "W3159959439",
+    "topic_id": "T11714",
+    "score": 0.0272
+  },
+  {
+    "paper_id": "W3159959439",
+    "topic_id": "T10181",
+    "score": 0.0228
+  },
+  {
+    "paper_id": "W4319983294",
+    "topic_id": "T11147",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4319983294",
+    "topic_id": "T11644",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4319983294",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3090789943",
+    "topic_id": "T10121",
+    "score": 0.9731
+  },
+  {
+    "paper_id": "W3090789943",
+    "topic_id": "T10791",
+    "score": 0.0247
+  },
+  {
+    "paper_id": "W3090789943",
+    "topic_id": "T11185",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3012922890",
+    "topic_id": "T10462",
+    "score": 0.9922
+  },
+  {
+    "paper_id": "W3012922890",
+    "topic_id": "T12101",
+    "score": 0.0049
+  },
+  {
+    "paper_id": "W3012922890",
+    "topic_id": "T12794",
+    "score": 0.0015
+  },
+  {
+    "paper_id": "W2997006708",
+    "topic_id": "T10036",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W2997006708",
+    "topic_id": "T11307",
+    "score": 0.0061
+  },
+  {
+    "paper_id": "W2997006708",
+    "topic_id": "T12535",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4400823820",
+    "topic_id": "T13373",
+    "score": 0.3616
+  },
+  {
+    "paper_id": "W4400823820",
+    "topic_id": "T11652",
+    "score": 0.1476
+  },
+  {
+    "paper_id": "W4400823820",
+    "topic_id": "T11396",
+    "score": 0.1105
+  },
+  {
+    "paper_id": "W4360995249",
+    "topic_id": "T10430",
+    "score": 0.3613
+  },
+  {
+    "paper_id": "W4360995249",
+    "topic_id": "T12127",
+    "score": 0.26
+  },
+  {
+    "paper_id": "W4360995249",
+    "topic_id": "T11986",
+    "score": 0.1
+  },
+  {
+    "paper_id": "W3075559820",
+    "topic_id": "T10682",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3075559820",
+    "topic_id": "T11804",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3075559820",
+    "topic_id": "T10020",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3184606595",
+    "topic_id": "T10036",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3184606595",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3184606595",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2940156133",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2940156133",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2940156133",
+    "topic_id": "T10462",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3117379604",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3117379604",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3117379604",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3091993229",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3091993229",
+    "topic_id": "T11273",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3091993229",
+    "topic_id": "T10286",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4287322212",
+    "topic_id": "T12072",
+    "score": 0.8369
+  },
+  {
+    "paper_id": "W4287322212",
+    "topic_id": "T11307",
+    "score": 0.1549
+  },
+  {
+    "paper_id": "W4287322212",
+    "topic_id": "T12535",
+    "score": 0.0039
+  },
+  {
+    "paper_id": "W4401109681",
+    "topic_id": "T11099",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W4401109681",
+    "topic_id": "T10036",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4401109681",
+    "topic_id": "T10462",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4386923826",
+    "topic_id": "T11048",
+    "score": 0.5762
+  },
+  {
+    "paper_id": "W4386923826",
+    "topic_id": "T10015",
+    "score": 0.4172
+  },
+  {
+    "paper_id": "W4386923826",
+    "topic_id": "T10434",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3142849873",
+    "topic_id": "T11307",
+    "score": 0.8901
+  },
+  {
+    "paper_id": "W3142849873",
+    "topic_id": "T12072",
+    "score": 0.0565
+  },
+  {
+    "paper_id": "W3142849873",
+    "topic_id": "T12535",
+    "score": 0.039
+  },
+  {
+    "paper_id": "W3129093240",
+    "topic_id": "T10036",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3129093240",
+    "topic_id": "T12535",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3129093240",
+    "topic_id": "T10320",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4381848566",
+    "topic_id": "T10883",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W4381848566",
+    "topic_id": "T13364",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4381848566",
+    "topic_id": "T12026",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4313506322",
+    "topic_id": "T12389",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4313506322",
+    "topic_id": "T10036",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W4313506322",
+    "topic_id": "T11605",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3033129278",
+    "topic_id": "T11048",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W3033129278",
+    "topic_id": "T10015",
+    "score": 0.0015
+  },
+  {
+    "paper_id": "W3033129278",
+    "topic_id": "T13220",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4386251129",
+    "topic_id": "T14414",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4386251129",
+    "topic_id": "T11636",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W4386251129",
+    "topic_id": "T13904",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3092541244",
+    "topic_id": "T10883",
+    "score": 0.9971
+  },
+  {
+    "paper_id": "W3092541244",
+    "topic_id": "T12026",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3092541244",
+    "topic_id": "T10764",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3038822267",
+    "topic_id": "T10462",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3038822267",
+    "topic_id": "T10906",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3038822267",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2992923261",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2992923261",
+    "topic_id": "T10799",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2992923261",
+    "topic_id": "T10470",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4214868967",
+    "topic_id": "T10211",
+    "score": 0.9771
+  },
+  {
+    "paper_id": "W4214868967",
+    "topic_id": "T11948",
+    "score": 0.011
+  },
+  {
+    "paper_id": "W4214868967",
+    "topic_id": "T11273",
+    "score": 0.0054
+  },
+  {
+    "paper_id": "W4309028162",
+    "topic_id": "T10036",
+    "score": 0.6113
+  },
+  {
+    "paper_id": "W4309028162",
+    "topic_id": "T11307",
+    "score": 0.2174
+  },
+  {
+    "paper_id": "W4309028162",
+    "topic_id": "T10775",
+    "score": 0.1086
+  },
+  {
+    "paper_id": "W4366352743",
+    "topic_id": "T10036",
+    "score": 0.9268
+  },
+  {
+    "paper_id": "W4366352743",
+    "topic_id": "T11307",
+    "score": 0.0456
+  },
+  {
+    "paper_id": "W4366352743",
+    "topic_id": "T11652",
+    "score": 0.0131
+  },
+  {
+    "paper_id": "W3121342653",
+    "topic_id": "T10462",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3121342653",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3121342653",
+    "topic_id": "T12101",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4401834466",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4401834466",
+    "topic_id": "T10286",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4401834466",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3007157104",
+    "topic_id": "T10743",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3007157104",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3007157104",
+    "topic_id": "T12127",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3157502174",
+    "topic_id": "T11019",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3157502174",
+    "topic_id": "T11192",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3157502174",
+    "topic_id": "T13114",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4404658388",
+    "topic_id": "T10028",
+    "score": 0.8848
+  },
+  {
+    "paper_id": "W4404658388",
+    "topic_id": "T11307",
+    "score": 0.0928
+  },
+  {
+    "paper_id": "W4404658388",
+    "topic_id": "T11714",
+    "score": 0.0148
+  },
+  {
+    "paper_id": "W4312090823",
+    "topic_id": "T14414",
+    "score": 0.9814
+  },
+  {
+    "paper_id": "W4312090823",
+    "topic_id": "T11902",
+    "score": 0.0168
+  },
+  {
+    "paper_id": "W4312090823",
+    "topic_id": "T11636",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W2996075766",
+    "topic_id": "T11612",
+    "score": 0.4976
+  },
+  {
+    "paper_id": "W2996075766",
+    "topic_id": "T10101",
+    "score": 0.2487
+  },
+  {
+    "paper_id": "W2996075766",
+    "topic_id": "T10054",
+    "score": 0.029
+  },
+  {
+    "paper_id": "W3203597819",
+    "topic_id": "T10036",
+    "score": 0.4514
+  },
+  {
+    "paper_id": "W3203597819",
+    "topic_id": "T10531",
+    "score": 0.2041
+  },
+  {
+    "paper_id": "W3203597819",
+    "topic_id": "T11099",
+    "score": 0.1482
+  },
+  {
+    "paper_id": "W3096655658",
+    "topic_id": "T11307",
+    "score": 0.9829
+  },
+  {
+    "paper_id": "W3096655658",
+    "topic_id": "T10028",
+    "score": 0.0042
+  },
+  {
+    "paper_id": "W3096655658",
+    "topic_id": "T12072",
+    "score": 0.003
+  },
+  {
+    "paper_id": "W2961152326",
+    "topic_id": "T10028",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W2961152326",
+    "topic_id": "T13910",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W2961152326",
+    "topic_id": "T11901",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4401889742",
+    "topic_id": "T10320",
+    "score": 0.6743
+  },
+  {
+    "paper_id": "W4401889742",
+    "topic_id": "T10028",
+    "score": 0.0888
+  },
+  {
+    "paper_id": "W4401889742",
+    "topic_id": "T11490",
+    "score": 0.0413
+  },
+  {
+    "paper_id": "W2975966238",
+    "topic_id": "T11273",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2975966238",
+    "topic_id": "T10064",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W2975966238",
+    "topic_id": "T10203",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4391092744",
+    "topic_id": "T11019",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4391092744",
+    "topic_id": "T11105",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W4391092744",
+    "topic_id": "T10688",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3001083904",
+    "topic_id": "T10036",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3001083904",
+    "topic_id": "T10627",
+    "score": 0.0036
+  },
+  {
+    "paper_id": "W3001083904",
+    "topic_id": "T11605",
+    "score": 0.0017
+  },
+  {
+    "paper_id": "W3086100325",
+    "topic_id": "T10743",
+    "score": 0.6211
+  },
+  {
+    "paper_id": "W3086100325",
+    "topic_id": "T10260",
+    "score": 0.2032
+  },
+  {
+    "paper_id": "W3086100325",
+    "topic_id": "T12479",
+    "score": 0.0888
+  },
+  {
+    "paper_id": "W3194243671",
+    "topic_id": "T10764",
+    "score": 0.9956
+  },
+  {
+    "paper_id": "W3194243671",
+    "topic_id": "T11612",
+    "score": 0.0037
+  },
+  {
+    "paper_id": "W3194243671",
+    "topic_id": "T10249",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3154719286",
+    "topic_id": "T10100",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3154719286",
+    "topic_id": "T10963",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3154719286",
+    "topic_id": "T11195",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3006087551",
+    "topic_id": "T12072",
+    "score": 0.8965
+  },
+  {
+    "paper_id": "W3006087551",
+    "topic_id": "T11307",
+    "score": 0.0662
+  },
+  {
+    "paper_id": "W3006087551",
+    "topic_id": "T12535",
+    "score": 0.0125
+  },
+  {
+    "paper_id": "W3192495122",
+    "topic_id": "T12072",
+    "score": 0.7979
+  },
+  {
+    "paper_id": "W3192495122",
+    "topic_id": "T12535",
+    "score": 0.0538
+  },
+  {
+    "paper_id": "W3192495122",
+    "topic_id": "T11307",
+    "score": 0.04
+  },
+  {
+    "paper_id": "W3008526620",
+    "topic_id": "T10041",
+    "score": 0.9604
+  },
+  {
+    "paper_id": "W3008526620",
+    "topic_id": "T10118",
+    "score": 0.0377
+  },
+  {
+    "paper_id": "W3008526620",
+    "topic_id": "T11368",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4383112908",
+    "topic_id": "T10462",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4383112908",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4383112908",
+    "topic_id": "T10906",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4365504037",
+    "topic_id": "T11307",
+    "score": 0.8271
+  },
+  {
+    "paper_id": "W4365504037",
+    "topic_id": "T12535",
+    "score": 0.1299
+  },
+  {
+    "paper_id": "W4365504037",
+    "topic_id": "T10036",
+    "score": 0.0114
+  },
+  {
+    "paper_id": "W3113149630",
+    "topic_id": "T11010",
+    "score": 0.875
+  },
+  {
+    "paper_id": "W3113149630",
+    "topic_id": "T12026",
+    "score": 0.0944
+  },
+  {
+    "paper_id": "W3113149630",
+    "topic_id": "T10906",
+    "score": 0.0111
+  },
+  {
+    "paper_id": "W3171259348",
+    "topic_id": "T11512",
+    "score": 0.5093
+  },
+  {
+    "paper_id": "W3171259348",
+    "topic_id": "T11273",
+    "score": 0.478
+  },
+  {
+    "paper_id": "W3171259348",
+    "topic_id": "T12292",
+    "score": 0.0068
+  },
+  {
+    "paper_id": "W3006150655",
+    "topic_id": "T13650",
+    "score": 0.49
+  },
+  {
+    "paper_id": "W3006150655",
+    "topic_id": "T13904",
+    "score": 0.354
+  },
+  {
+    "paper_id": "W3006150655",
+    "topic_id": "T12535",
+    "score": 0.0319
+  },
+  {
+    "paper_id": "W4390940921",
+    "topic_id": "T10906",
+    "score": 0.1719
+  },
+  {
+    "paper_id": "W4390940921",
+    "topic_id": "T13904",
+    "score": 0.1394
+  },
+  {
+    "paper_id": "W4390940921",
+    "topic_id": "T13523",
+    "score": 0.1248
+  },
+  {
+    "paper_id": "W4206693420",
+    "topic_id": "T10052",
+    "score": 0.9941
+  },
+  {
+    "paper_id": "W4206693420",
+    "topic_id": "T10036",
+    "score": 0.0032
+  },
+  {
+    "paper_id": "W4206693420",
+    "topic_id": "T11307",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3092363736",
+    "topic_id": "T10220",
+    "score": 0.9629
+  },
+  {
+    "paper_id": "W3092363736",
+    "topic_id": "T10780",
+    "score": 0.0178
+  },
+  {
+    "paper_id": "W3092363736",
+    "topic_id": "T10876",
+    "score": 0.0067
+  },
+  {
+    "paper_id": "W4313455370",
+    "topic_id": "T13553",
+    "score": 0.3967
+  },
+  {
+    "paper_id": "W4313455370",
+    "topic_id": "T11458",
+    "score": 0.1476
+  },
+  {
+    "paper_id": "W4313455370",
+    "topic_id": "T10796",
+    "score": 0.0305
+  },
+  {
+    "paper_id": "W3129637124",
+    "topic_id": "T11206",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3129637124",
+    "topic_id": "T11236",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3129637124",
+    "topic_id": "T10588",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2921123283",
+    "topic_id": "T11043",
+    "score": 0.9595
+  },
+  {
+    "paper_id": "W2921123283",
+    "topic_id": "T10646",
+    "score": 0.0175
+  },
+  {
+    "paper_id": "W2921123283",
+    "topic_id": "T11182",
+    "score": 0.0063
+  },
+  {
+    "paper_id": "W4400461591",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4400461591",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4400461591",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4400889241",
+    "topic_id": "T10862",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4400889241",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4400889241",
+    "topic_id": "T12422",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3093999435",
+    "topic_id": "T11948",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3093999435",
+    "topic_id": "T10002",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3093999435",
+    "topic_id": "T10030",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4378574344",
+    "topic_id": "T10028",
+    "score": 0.9077
+  },
+  {
+    "paper_id": "W4378574344",
+    "topic_id": "T10181",
+    "score": 0.0409
+  },
+  {
+    "paper_id": "W4378574344",
+    "topic_id": "T12031",
+    "score": 0.0318
+  },
+  {
+    "paper_id": "W3042368254",
+    "topic_id": "T11689",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3042368254",
+    "topic_id": "T12357",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3042368254",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3116637551",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3116637551",
+    "topic_id": "T11273",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3116637551",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3111598592",
+    "topic_id": "T10719",
+    "score": 0.7788
+  },
+  {
+    "paper_id": "W3111598592",
+    "topic_id": "T11211",
+    "score": 0.027
+  },
+  {
+    "paper_id": "W3111598592",
+    "topic_id": "T13487",
+    "score": 0.0228
+  },
+  {
+    "paper_id": "W3047057232",
+    "topic_id": "T10627",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3047057232",
+    "topic_id": "T10531",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3047057232",
+    "topic_id": "T10824",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4402056503",
+    "topic_id": "T11512",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4402056503",
+    "topic_id": "T12205",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4402056503",
+    "topic_id": "T12127",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3034163621",
+    "topic_id": "T10764",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3034163621",
+    "topic_id": "T11612",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3034163621",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4379985979",
+    "topic_id": "T10812",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4379985979",
+    "topic_id": "T11448",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4379985979",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3206824631",
+    "topic_id": "T10036",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3206824631",
+    "topic_id": "T10627",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3206824631",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4360949780",
+    "topic_id": "T11948",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4360949780",
+    "topic_id": "T10211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4360949780",
+    "topic_id": "T12535",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4391974543",
+    "topic_id": "T10743",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4391974543",
+    "topic_id": "T10260",
+    "score": 0.0014
+  },
+  {
+    "paper_id": "W4391974543",
+    "topic_id": "T10430",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2938707507",
+    "topic_id": "T10400",
+    "score": 0.6484
+  },
+  {
+    "paper_id": "W2938707507",
+    "topic_id": "T13038",
+    "score": 0.1625
+  },
+  {
+    "paper_id": "W2938707507",
+    "topic_id": "T10273",
+    "score": 0.1422
+  },
+  {
+    "paper_id": "W3211639647",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3211639647",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3211639647",
+    "topic_id": "T13295",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3002992380",
+    "topic_id": "T11165",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3002992380",
+    "topic_id": "T12357",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3002992380",
+    "topic_id": "T10824",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2912412749",
+    "topic_id": "T10220",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2912412749",
+    "topic_id": "T10876",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2912412749",
+    "topic_id": "T11062",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3022140654",
+    "topic_id": "T10689",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3022140654",
+    "topic_id": "T10036",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3022140654",
+    "topic_id": "T13890",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4389938094",
+    "topic_id": "T11289",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4389938094",
+    "topic_id": "T11287",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4389938094",
+    "topic_id": "T10885",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3159243351",
+    "topic_id": "T12761",
+    "score": 0.7676
+  },
+  {
+    "paper_id": "W3159243351",
+    "topic_id": "T12101",
+    "score": 0.1309
+  },
+  {
+    "paper_id": "W3159243351",
+    "topic_id": "T12072",
+    "score": 0.0433
+  },
+  {
+    "paper_id": "W4377079715",
+    "topic_id": "T11019",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4377079715",
+    "topic_id": "T11192",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4377079715",
+    "topic_id": "T13114",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3195494505",
+    "topic_id": "T10757",
+    "score": 0.8076
+  },
+  {
+    "paper_id": "W3195494505",
+    "topic_id": "T12325",
+    "score": 0.1423
+  },
+  {
+    "paper_id": "W3195494505",
+    "topic_id": "T13890",
+    "score": 0.0248
+  },
+  {
+    "paper_id": "W3092026988",
+    "topic_id": "T11490",
+    "score": 0.9951
+  },
+  {
+    "paper_id": "W3092026988",
+    "topic_id": "T10330",
+    "score": 0.0042
+  },
+  {
+    "paper_id": "W3092026988",
+    "topic_id": "T11119",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3164845984",
+    "topic_id": "T10444",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3164845984",
+    "topic_id": "T10812",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3164845984",
+    "topic_id": "T12740",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3134651880",
+    "topic_id": "T10100",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3134651880",
+    "topic_id": "T11195",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3134651880",
+    "topic_id": "T12391",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2906579211",
+    "topic_id": "T12031",
+    "score": 0.9873
+  },
+  {
+    "paper_id": "W2906579211",
+    "topic_id": "T12128",
+    "score": 0.0108
+  },
+  {
+    "paper_id": "W2906579211",
+    "topic_id": "T10709",
+    "score": 0.0013
+  },
+  {
+    "paper_id": "W4394938913",
+    "topic_id": "T10689",
+    "score": 0.3608
+  },
+  {
+    "paper_id": "W4394938913",
+    "topic_id": "T11714",
+    "score": 0.3164
+  },
+  {
+    "paper_id": "W4394938913",
+    "topic_id": "T10036",
+    "score": 0.176
+  },
+  {
+    "paper_id": "W3195997474",
+    "topic_id": "T10036",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3195997474",
+    "topic_id": "T11307",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3195997474",
+    "topic_id": "T10627",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3013715872",
+    "topic_id": "T10029",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3013715872",
+    "topic_id": "T10466",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3013715872",
+    "topic_id": "T12615",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3119467012",
+    "topic_id": "T11147",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3119467012",
+    "topic_id": "T11644",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3119467012",
+    "topic_id": "T10028",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4321177655",
+    "topic_id": "T10028",
+    "score": 0.7109
+  },
+  {
+    "paper_id": "W4321177655",
+    "topic_id": "T10181",
+    "score": 0.1747
+  },
+  {
+    "paper_id": "W4321177655",
+    "topic_id": "T11714",
+    "score": 0.0678
+  },
+  {
+    "paper_id": "W4394828356",
+    "topic_id": "T10028",
+    "score": 0.9878
+  },
+  {
+    "paper_id": "W4394828356",
+    "topic_id": "T10181",
+    "score": 0.0105
+  },
+  {
+    "paper_id": "W4394828356",
+    "topic_id": "T11714",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3104128335",
+    "topic_id": "T10430",
+    "score": 0.4077
+  },
+  {
+    "paper_id": "W3104128335",
+    "topic_id": "T13904",
+    "score": 0.155
+  },
+  {
+    "paper_id": "W3104128335",
+    "topic_id": "T10101",
+    "score": 0.0662
+  },
+  {
+    "paper_id": "W4315977496",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4315977496",
+    "topic_id": "T11273",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4315977496",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3123982987",
+    "topic_id": "T10052",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3123982987",
+    "topic_id": "T10036",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W3123982987",
+    "topic_id": "T14510",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3024333932",
+    "topic_id": "T10057",
+    "score": 0.9829
+  },
+  {
+    "paper_id": "W3024333932",
+    "topic_id": "T13141",
+    "score": 0.0064
+  },
+  {
+    "paper_id": "W3024333932",
+    "topic_id": "T11550",
+    "score": 0.002
+  },
+  {
+    "paper_id": "W4411449940",
+    "topic_id": "T10260",
+    "score": 0.9888
+  },
+  {
+    "paper_id": "W4411449940",
+    "topic_id": "T10743",
+    "score": 0.0088
+  },
+  {
+    "paper_id": "W4411449940",
+    "topic_id": "T10430",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3033920763",
+    "topic_id": "T11099",
+    "score": 0.7241
+  },
+  {
+    "paper_id": "W3033920763",
+    "topic_id": "T11500",
+    "score": 0.0676
+  },
+  {
+    "paper_id": "W3033920763",
+    "topic_id": "T10586",
+    "score": 0.0532
+  },
+  {
+    "paper_id": "W3164008977",
+    "topic_id": "T10036",
+    "score": 0.5991
+  },
+  {
+    "paper_id": "W3164008977",
+    "topic_id": "T12535",
+    "score": 0.2964
+  },
+  {
+    "paper_id": "W3164008977",
+    "topic_id": "T11307",
+    "score": 0.0168
+  },
+  {
+    "paper_id": "W3212512279",
+    "topic_id": "T11948",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3212512279",
+    "topic_id": "T10002",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3212512279",
+    "topic_id": "T10211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3085990079",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3085990079",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3085990079",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4392044798",
+    "topic_id": "T11636",
+    "score": 0.9204
+  },
+  {
+    "paper_id": "W4392044798",
+    "topic_id": "T11714",
+    "score": 0.0776
+  },
+  {
+    "paper_id": "W4392044798",
+    "topic_id": "T13702",
+    "score": 0.001
+  },
+  {
+    "paper_id": "W4404821554",
+    "topic_id": "T12254",
+    "score": 0.6167
+  },
+  {
+    "paper_id": "W4404821554",
+    "topic_id": "T10015",
+    "score": 0.0997
+  },
+  {
+    "paper_id": "W4404821554",
+    "topic_id": "T11642",
+    "score": 0.0793
+  },
+  {
+    "paper_id": "W4226497331",
+    "topic_id": "T10052",
+    "score": 0.9941
+  },
+  {
+    "paper_id": "W4226497331",
+    "topic_id": "T11307",
+    "score": 0.0013
+  },
+  {
+    "paper_id": "W4226497331",
+    "topic_id": "T11636",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W3088611441",
+    "topic_id": "T11106",
+    "score": 0.9277
+  },
+  {
+    "paper_id": "W3088611441",
+    "topic_id": "T11344",
+    "score": 0.0504
+  },
+  {
+    "paper_id": "W3088611441",
+    "topic_id": "T11980",
+    "score": 0.0077
+  },
+  {
+    "paper_id": "W4226418765",
+    "topic_id": "T11550",
+    "score": 0.9106
+  },
+  {
+    "paper_id": "W4226418765",
+    "topic_id": "T10028",
+    "score": 0.0842
+  },
+  {
+    "paper_id": "W4226418765",
+    "topic_id": "T10664",
+    "score": 0.0014
+  },
+  {
+    "paper_id": "W4394994587",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4394994587",
+    "topic_id": "T10286",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4394994587",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3202183072",
+    "topic_id": "T10883",
+    "score": 0.9429
+  },
+  {
+    "paper_id": "W3202183072",
+    "topic_id": "T12026",
+    "score": 0.0545
+  },
+  {
+    "paper_id": "W3202183072",
+    "topic_id": "T13295",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W4400880443",
+    "topic_id": "T10466",
+    "score": 0.978
+  },
+  {
+    "paper_id": "W4400880443",
+    "topic_id": "T10029",
+    "score": 0.0138
+  },
+  {
+    "paper_id": "W4400880443",
+    "topic_id": "T11206",
+    "score": 0.0029
+  },
+  {
+    "paper_id": "W3008626511",
+    "topic_id": "T10555",
+    "score": 0.9604
+  },
+  {
+    "paper_id": "W3008626511",
+    "topic_id": "T12597",
+    "score": 0.0264
+  },
+  {
+    "paper_id": "W3008626511",
+    "topic_id": "T11317",
+    "score": 0.0016
+  },
+  {
+    "paper_id": "W3024961463",
+    "topic_id": "T10667",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3024961463",
+    "topic_id": "T10429",
+    "score": 0.0019
+  },
+  {
+    "paper_id": "W3024961463",
+    "topic_id": "T10057",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4205471456",
+    "topic_id": "T11512",
+    "score": 0.73
+  },
+  {
+    "paper_id": "W4205471456",
+    "topic_id": "T11652",
+    "score": 0.2632
+  },
+  {
+    "paper_id": "W4205471456",
+    "topic_id": "T13720",
+    "score": 0.0021
+  },
+  {
+    "paper_id": "W4409283601",
+    "topic_id": "T11636",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4409283601",
+    "topic_id": "T11396",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4409283601",
+    "topic_id": "T13702",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4391468387",
+    "topic_id": "T10775",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4391468387",
+    "topic_id": "T11689",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4391468387",
+    "topic_id": "T10028",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3009304813",
+    "topic_id": "T10462",
+    "score": 0.8247
+  },
+  {
+    "paper_id": "W3009304813",
+    "topic_id": "T10100",
+    "score": 0.0584
+  },
+  {
+    "paper_id": "W3009304813",
+    "topic_id": "T10720",
+    "score": 0.0213
+  },
+  {
+    "paper_id": "W3212941463",
+    "topic_id": "T10273",
+    "score": 0.9951
+  },
+  {
+    "paper_id": "W3212941463",
+    "topic_id": "T11458",
+    "score": 0.0014
+  },
+  {
+    "paper_id": "W3212941463",
+    "topic_id": "T10714",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3208940117",
+    "topic_id": "T11289",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3208940117",
+    "topic_id": "T10015",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3208940117",
+    "topic_id": "T10222",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3196268181",
+    "topic_id": "T11147",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3196268181",
+    "topic_id": "T10028",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3196268181",
+    "topic_id": "T10181",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4401386967",
+    "topic_id": "T11099",
+    "score": 0.8716
+  },
+  {
+    "paper_id": "W4401386967",
+    "topic_id": "T11714",
+    "score": 0.0964
+  },
+  {
+    "paper_id": "W4401386967",
+    "topic_id": "T10036",
+    "score": 0.0108
+  },
+  {
+    "paper_id": "W4412203333",
+    "topic_id": "T10906",
+    "score": 0.8188
+  },
+  {
+    "paper_id": "W4412203333",
+    "topic_id": "T10456",
+    "score": 0.0332
+  },
+  {
+    "paper_id": "W4412203333",
+    "topic_id": "T13904",
+    "score": 0.0245
+  },
+  {
+    "paper_id": "W3129328204",
+    "topic_id": "T11871",
+    "score": 0.8975
+  },
+  {
+    "paper_id": "W3129328204",
+    "topic_id": "T13141",
+    "score": 0.1013
+  },
+  {
+    "paper_id": "W3129328204",
+    "topic_id": "T13487",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3128607711",
+    "topic_id": "T10775",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3128607711",
+    "topic_id": "T10036",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3128607711",
+    "topic_id": "T12357",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2995946162",
+    "topic_id": "T10616",
+    "score": 0.9219
+  },
+  {
+    "paper_id": "W2995946162",
+    "topic_id": "T10763",
+    "score": 0.0258
+  },
+  {
+    "paper_id": "W2995946162",
+    "topic_id": "T12486",
+    "score": 0.0254
+  },
+  {
+    "paper_id": "W3176707157",
+    "topic_id": "T10320",
+    "score": 0.9448
+  },
+  {
+    "paper_id": "W3176707157",
+    "topic_id": "T10036",
+    "score": 0.024
+  },
+  {
+    "paper_id": "W3176707157",
+    "topic_id": "T11307",
+    "score": 0.0078
+  },
+  {
+    "paper_id": "W3112871073",
+    "topic_id": "T11448",
+    "score": 0.9927
+  },
+  {
+    "paper_id": "W3112871073",
+    "topic_id": "T10719",
+    "score": 0.0065
+  },
+  {
+    "paper_id": "W3112871073",
+    "topic_id": "T11094",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4312799843",
+    "topic_id": "T10812",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4312799843",
+    "topic_id": "T10331",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4312799843",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4302010773",
+    "topic_id": "T10720",
+    "score": 0.5073
+  },
+  {
+    "paper_id": "W4302010773",
+    "topic_id": "T13904",
+    "score": 0.1002
+  },
+  {
+    "paper_id": "W4302010773",
+    "topic_id": "T11435",
+    "score": 0.0458
+  },
+  {
+    "paper_id": "W2810685774",
+    "topic_id": "T10812",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W2810685774",
+    "topic_id": "T11398",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2810685774",
+    "topic_id": "T10444",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4307868887",
+    "topic_id": "T10462",
+    "score": 0.8872
+  },
+  {
+    "paper_id": "W4307868887",
+    "topic_id": "T11714",
+    "score": 0.0387
+  },
+  {
+    "paper_id": "W4307868887",
+    "topic_id": "T11307",
+    "score": 0.0317
+  },
+  {
+    "paper_id": "W3164104137",
+    "topic_id": "T12111",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3164104137",
+    "topic_id": "T12169",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3164104137",
+    "topic_id": "T11606",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4319163914",
+    "topic_id": "T11307",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4319163914",
+    "topic_id": "T10036",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4319163914",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3020653337",
+    "topic_id": "T11775",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3020653337",
+    "topic_id": "T11636",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W3020653337",
+    "topic_id": "T12422",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4396571402",
+    "topic_id": "T10028",
+    "score": 0.6411
+  },
+  {
+    "paper_id": "W4396571402",
+    "topic_id": "T10181",
+    "score": 0.1648
+  },
+  {
+    "paper_id": "W4396571402",
+    "topic_id": "T10317",
+    "score": 0.0586
+  },
+  {
+    "paper_id": "W4387105517",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4387105517",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4387105517",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4225849772",
+    "topic_id": "T12613",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4225849772",
+    "topic_id": "T12039",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4225849772",
+    "topic_id": "T13443",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3085958090",
+    "topic_id": "T11597",
+    "score": 0.9897
+  },
+  {
+    "paper_id": "W3085958090",
+    "topic_id": "T10041",
+    "score": 0.0075
+  },
+  {
+    "paper_id": "W3085958090",
+    "topic_id": "T14165",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4312688875",
+    "topic_id": "T10036",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W4312688875",
+    "topic_id": "T11307",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W4312688875",
+    "topic_id": "T11606",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W4220968399",
+    "topic_id": "T11995",
+    "score": 0.9946
+  },
+  {
+    "paper_id": "W4220968399",
+    "topic_id": "T13346",
+    "score": 0.0051
+  },
+  {
+    "paper_id": "W4220968399",
+    "topic_id": "T10127",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3138815606",
+    "topic_id": "T10764",
+    "score": 0.6421
+  },
+  {
+    "paper_id": "W3138815606",
+    "topic_id": "T11689",
+    "score": 0.356
+  },
+  {
+    "paper_id": "W3138815606",
+    "topic_id": "T11424",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4395483946",
+    "topic_id": "T14414",
+    "score": 0.9941
+  },
+  {
+    "paper_id": "W4395483946",
+    "topic_id": "T11492",
+    "score": 0.0032
+  },
+  {
+    "paper_id": "W4395483946",
+    "topic_id": "T11636",
+    "score": 0.001
+  },
+  {
+    "paper_id": "W3160412534",
+    "topic_id": "T10052",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3160412534",
+    "topic_id": "T10036",
+    "score": 0.0043
+  },
+  {
+    "paper_id": "W3160412534",
+    "topic_id": "T12702",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W2911290743",
+    "topic_id": "T10522",
+    "score": 0.387
+  },
+  {
+    "paper_id": "W2911290743",
+    "topic_id": "T11636",
+    "score": 0.0904
+  },
+  {
+    "paper_id": "W2911290743",
+    "topic_id": "T11205",
+    "score": 0.0752
+  },
+  {
+    "paper_id": "W4362579589",
+    "topic_id": "T11273",
+    "score": 0.9839
+  },
+  {
+    "paper_id": "W4362579589",
+    "topic_id": "T10215",
+    "score": 0.013
+  },
+  {
+    "paper_id": "W4362579589",
+    "topic_id": "T10028",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3151929433",
+    "topic_id": "T11273",
+    "score": 0.9541
+  },
+  {
+    "paper_id": "W3151929433",
+    "topic_id": "T10028",
+    "score": 0.0446
+  },
+  {
+    "paper_id": "W3151929433",
+    "topic_id": "T11714",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3017637887",
+    "topic_id": "T13702",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3017637887",
+    "topic_id": "T11396",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3017637887",
+    "topic_id": "T10350",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4399728346",
+    "topic_id": "T11307",
+    "score": 0.6943
+  },
+  {
+    "paper_id": "W4399728346",
+    "topic_id": "T12072",
+    "score": 0.2859
+  },
+  {
+    "paper_id": "W4399728346",
+    "topic_id": "T12535",
+    "score": 0.0038
+  },
+  {
+    "paper_id": "W4313485929",
+    "topic_id": "T10211",
+    "score": 0.9497
+  },
+  {
+    "paper_id": "W4313485929",
+    "topic_id": "T11948",
+    "score": 0.039
+  },
+  {
+    "paper_id": "W4313485929",
+    "topic_id": "T10002",
+    "score": 0.003
+  },
+  {
+    "paper_id": "W2809461852",
+    "topic_id": "T10462",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2809461852",
+    "topic_id": "T12072",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2809461852",
+    "topic_id": "T10906",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3209340886",
+    "topic_id": "T10100",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3209340886",
+    "topic_id": "T10320",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W3209340886",
+    "topic_id": "T13717",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4323313312",
+    "topic_id": "T10036",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W4323313312",
+    "topic_id": "T10627",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W4323313312",
+    "topic_id": "T10320",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4294628862",
+    "topic_id": "T10315",
+    "score": 0.6035
+  },
+  {
+    "paper_id": "W4294628862",
+    "topic_id": "T11542",
+    "score": 0.197
+  },
+  {
+    "paper_id": "W4294628862",
+    "topic_id": "T10213",
+    "score": 0.0281
+  },
+  {
+    "paper_id": "W3013498854",
+    "topic_id": "T11046",
+    "score": 0.5269
+  },
+  {
+    "paper_id": "W3013498854",
+    "topic_id": "T10233",
+    "score": 0.3428
+  },
+  {
+    "paper_id": "W3013498854",
+    "topic_id": "T11375",
+    "score": 0.0984
+  },
+  {
+    "paper_id": "W4400524387",
+    "topic_id": "T11105",
+    "score": 0.9922
+  },
+  {
+    "paper_id": "W4400524387",
+    "topic_id": "T10775",
+    "score": 0.0056
+  },
+  {
+    "paper_id": "W4400524387",
+    "topic_id": "T10688",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W3164098653",
+    "topic_id": "T10036",
+    "score": 0.834
+  },
+  {
+    "paper_id": "W3164098653",
+    "topic_id": "T11605",
+    "score": 0.1372
+  },
+  {
+    "paper_id": "W3164098653",
+    "topic_id": "T10627",
+    "score": 0.0083
+  },
+  {
+    "paper_id": "W4400988476",
+    "topic_id": "T10616",
+    "score": 0.9961
+  },
+  {
+    "paper_id": "W4400988476",
+    "topic_id": "T10036",
+    "score": 0.0037
+  },
+  {
+    "paper_id": "W4400988476",
+    "topic_id": "T12111",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3124372372",
+    "topic_id": "T10036",
+    "score": 0.9932
+  },
+  {
+    "paper_id": "W3124372372",
+    "topic_id": "T11605",
+    "score": 0.0029
+  },
+  {
+    "paper_id": "W3124372372",
+    "topic_id": "T10627",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4220926968",
+    "topic_id": "T14222",
+    "score": 0.9155
+  },
+  {
+    "paper_id": "W4220926968",
+    "topic_id": "T13904",
+    "score": 0.0398
+  },
+  {
+    "paper_id": "W4220926968",
+    "topic_id": "T12028",
+    "score": 0.0132
+  },
+  {
+    "paper_id": "W4401726555",
+    "topic_id": "T10036",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4401726555",
+    "topic_id": "T12535",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4401726555",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3139657805",
+    "topic_id": "T10502",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3139657805",
+    "topic_id": "T12611",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3139657805",
+    "topic_id": "T10320",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2941531368",
+    "topic_id": "T11605",
+    "score": 0.897
+  },
+  {
+    "paper_id": "W2941531368",
+    "topic_id": "T10036",
+    "score": 0.0403
+  },
+  {
+    "paper_id": "W2941531368",
+    "topic_id": "T10028",
+    "score": 0.0136
+  },
+  {
+    "paper_id": "W3015001695",
+    "topic_id": "T11689",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3015001695",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3015001695",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3009650506",
+    "topic_id": "T11326",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3009650506",
+    "topic_id": "T12205",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3009650506",
+    "topic_id": "T10047",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3049618663",
+    "topic_id": "T10783",
+    "score": 0.7725
+  },
+  {
+    "paper_id": "W3049618663",
+    "topic_id": "T10705",
+    "score": 0.2056
+  },
+  {
+    "paper_id": "W3049618663",
+    "topic_id": "T11948",
+    "score": 0.0142
+  },
+  {
+    "paper_id": "W4394980199",
+    "topic_id": "T10016",
+    "score": 0.9775
+  },
+  {
+    "paper_id": "W4394980199",
+    "topic_id": "T12078",
+    "score": 0.0191
+  },
+  {
+    "paper_id": "W4394980199",
+    "topic_id": "T13793",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W4229058281",
+    "topic_id": "T11659",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4229058281",
+    "topic_id": "T10689",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4229058281",
+    "topic_id": "T12983",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2992584342",
+    "topic_id": "T14260",
+    "score": 0.5298
+  },
+  {
+    "paper_id": "W2992584342",
+    "topic_id": "T10763",
+    "score": 0.4602
+  },
+  {
+    "paper_id": "W2992584342",
+    "topic_id": "T13904",
+    "score": 0.0022
+  },
+  {
+    "paper_id": "W2938260698",
+    "topic_id": "T11605",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2938260698",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2938260698",
+    "topic_id": "T10627",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3011570378",
+    "topic_id": "T10664",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3011570378",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3011570378",
+    "topic_id": "T12262",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4416379250",
+    "topic_id": "T10028",
+    "score": 0.9575
+  },
+  {
+    "paper_id": "W4416379250",
+    "topic_id": "T10286",
+    "score": 0.0181
+  },
+  {
+    "paper_id": "W4416379250",
+    "topic_id": "T11714",
+    "score": 0.006
+  },
+  {
+    "paper_id": "W4403203873",
+    "topic_id": "T10456",
+    "score": 0.9966
+  },
+  {
+    "paper_id": "W4403203873",
+    "topic_id": "T14381",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4403203873",
+    "topic_id": "T10906",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4205390421",
+    "topic_id": "T10203",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4205390421",
+    "topic_id": "T10286",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4205390421",
+    "topic_id": "T12101",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3158304688",
+    "topic_id": "T11344",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3158304688",
+    "topic_id": "T11273",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3158304688",
+    "topic_id": "T12120",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4307494802",
+    "topic_id": "T10241",
+    "score": 0.9663
+  },
+  {
+    "paper_id": "W4307494802",
+    "topic_id": "T10056",
+    "score": 0.0105
+  },
+  {
+    "paper_id": "W4307494802",
+    "topic_id": "T11304",
+    "score": 0.0076
+  },
+  {
+    "paper_id": "W3109340983",
+    "topic_id": "T10273",
+    "score": 0.7842
+  },
+  {
+    "paper_id": "W3109340983",
+    "topic_id": "T13038",
+    "score": 0.2148
+  },
+  {
+    "paper_id": "W3109340983",
+    "topic_id": "T10616",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4415092555",
+    "topic_id": "T12011",
+    "score": 0.9639
+  },
+  {
+    "paper_id": "W4415092555",
+    "topic_id": "T14093",
+    "score": 0.0217
+  },
+  {
+    "paper_id": "W4415092555",
+    "topic_id": "T12935",
+    "score": 0.0078
+  },
+  {
+    "paper_id": "W4391848979",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4391848979",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4391848979",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2899867782",
+    "topic_id": "T12535",
+    "score": 0.9897
+  },
+  {
+    "paper_id": "W2899867782",
+    "topic_id": "T12072",
+    "score": 0.0029
+  },
+  {
+    "paper_id": "W2899867782",
+    "topic_id": "T11307",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4385416665",
+    "topic_id": "T10775",
+    "score": 0.8936
+  },
+  {
+    "paper_id": "W4385416665",
+    "topic_id": "T13904",
+    "score": 0.0688
+  },
+  {
+    "paper_id": "W4385416665",
+    "topic_id": "T10028",
+    "score": 0.019
+  },
+  {
+    "paper_id": "W4317387800",
+    "topic_id": "T10018",
+    "score": 0.9824
+  },
+  {
+    "paper_id": "W4317387800",
+    "topic_id": "T10281",
+    "score": 0.0144
+  },
+  {
+    "paper_id": "W4317387800",
+    "topic_id": "T10663",
+    "score": 0.002
+  },
+  {
+    "paper_id": "W4309484364",
+    "topic_id": "T13904",
+    "score": 0.5313
+  },
+  {
+    "paper_id": "W4309484364",
+    "topic_id": "T10648",
+    "score": 0.2261
+  },
+  {
+    "paper_id": "W4309484364",
+    "topic_id": "T10888",
+    "score": 0.0423
+  },
+  {
+    "paper_id": "W3165745140",
+    "topic_id": "T10036",
+    "score": 0.9922
+  },
+  {
+    "paper_id": "W3165745140",
+    "topic_id": "T11307",
+    "score": 0.0036
+  },
+  {
+    "paper_id": "W3165745140",
+    "topic_id": "T11605",
+    "score": 0.0018
+  },
+  {
+    "paper_id": "W4413427262",
+    "topic_id": "T13904",
+    "score": 0.8047
+  },
+  {
+    "paper_id": "W4413427262",
+    "topic_id": "T10906",
+    "score": 0.0756
+  },
+  {
+    "paper_id": "W4413427262",
+    "topic_id": "T10456",
+    "score": 0.0438
+  },
+  {
+    "paper_id": "W4398133596",
+    "topic_id": "T10883",
+    "score": 0.9893
+  },
+  {
+    "paper_id": "W4398133596",
+    "topic_id": "T13364",
+    "score": 0.0015
+  },
+  {
+    "paper_id": "W4398133596",
+    "topic_id": "T13295",
+    "score": 0.0011
+  },
+  {
+    "paper_id": "W4391629689",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4391629689",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4391629689",
+    "topic_id": "T11416",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4317883989",
+    "topic_id": "T12101",
+    "score": 0.9971
+  },
+  {
+    "paper_id": "W4317883989",
+    "topic_id": "T10848",
+    "score": 0.0012
+  },
+  {
+    "paper_id": "W4317883989",
+    "topic_id": "T12814",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3209651137",
+    "topic_id": "T10220",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3209651137",
+    "topic_id": "T10876",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3209651137",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4214861448",
+    "topic_id": "T11289",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4214861448",
+    "topic_id": "T10268",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4214861448",
+    "topic_id": "T10015",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4414014501",
+    "topic_id": "T10286",
+    "score": 0.9966
+  },
+  {
+    "paper_id": "W4414014501",
+    "topic_id": "T10028",
+    "score": 0.0031
+  },
+  {
+    "paper_id": "W4414014501",
+    "topic_id": "T10203",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4319335604",
+    "topic_id": "T12205",
+    "score": 0.9956
+  },
+  {
+    "paper_id": "W4319335604",
+    "topic_id": "T11344",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W4319335604",
+    "topic_id": "T10243",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3030790048",
+    "topic_id": "T11636",
+    "score": 0.9849
+  },
+  {
+    "paper_id": "W3030790048",
+    "topic_id": "T10052",
+    "score": 0.0082
+  },
+  {
+    "paper_id": "W3030790048",
+    "topic_id": "T12422",
+    "score": 0.002
+  },
+  {
+    "paper_id": "W4401567681",
+    "topic_id": "T12205",
+    "score": 0.9941
+  },
+  {
+    "paper_id": "W4401567681",
+    "topic_id": "T11273",
+    "score": 0.0043
+  },
+  {
+    "paper_id": "W4401567681",
+    "topic_id": "T11344",
+    "score": 0.0012
+  },
+  {
+    "paper_id": "W3168547639",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3168547639",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3168547639",
+    "topic_id": "T10203",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3147968035",
+    "topic_id": "T12290",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3147968035",
+    "topic_id": "T10719",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3147968035",
+    "topic_id": "T10481",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3216228299",
+    "topic_id": "T10682",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3216228299",
+    "topic_id": "T10020",
+    "score": 0.0006
+  },
+  {
+    "paper_id": "W3216228299",
+    "topic_id": "T11804",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3156313549",
+    "topic_id": "T10392",
+    "score": 0.8706
+  },
+  {
+    "paper_id": "W3156313549",
+    "topic_id": "T10036",
+    "score": 0.0354
+  },
+  {
+    "paper_id": "W3156313549",
+    "topic_id": "T10862",
+    "score": 0.0173
+  },
+  {
+    "paper_id": "W4386766438",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4386766438",
+    "topic_id": "T10270",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4386766438",
+    "topic_id": "T10273",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3127597934",
+    "topic_id": "T10009",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3127597934",
+    "topic_id": "T10086",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3127597934",
+    "topic_id": "T11396",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3179283102",
+    "topic_id": "T12042",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3179283102",
+    "topic_id": "T11458",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3179283102",
+    "topic_id": "T11133",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4388936714",
+    "topic_id": "T11344",
+    "score": 0.936
+  },
+  {
+    "paper_id": "W4388936714",
+    "topic_id": "T11273",
+    "score": 0.0618
+  },
+  {
+    "paper_id": "W4388936714",
+    "topic_id": "T11106",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W4313886683",
+    "topic_id": "T10891",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W4313886683",
+    "topic_id": "T11038",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4313886683",
+    "topic_id": "T11458",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4312766166",
+    "topic_id": "T11458",
+    "score": 0.9668
+  },
+  {
+    "paper_id": "W4312766166",
+    "topic_id": "T13553",
+    "score": 0.0059
+  },
+  {
+    "paper_id": "W4312766166",
+    "topic_id": "T10714",
+    "score": 0.0044
+  },
+  {
+    "paper_id": "W4207067711",
+    "topic_id": "T10147",
+    "score": 0.9746
+  },
+  {
+    "paper_id": "W4207067711",
+    "topic_id": "T10897",
+    "score": 0.0096
+  },
+  {
+    "paper_id": "W4207067711",
+    "topic_id": "T12167",
+    "score": 0.0091
+  },
+  {
+    "paper_id": "W4399433746",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4399433746",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4399433746",
+    "topic_id": "T11396",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4226251359",
+    "topic_id": "T11719",
+    "score": 0.9648
+  },
+  {
+    "paper_id": "W4226251359",
+    "topic_id": "T12535",
+    "score": 0.0198
+  },
+  {
+    "paper_id": "W4226251359",
+    "topic_id": "T10883",
+    "score": 0.0035
+  },
+  {
+    "paper_id": "W4224227775",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4224227775",
+    "topic_id": "T11612",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4224227775",
+    "topic_id": "T11307",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4213366162",
+    "topic_id": "T11872",
+    "score": 0.98
+  },
+  {
+    "paper_id": "W4213366162",
+    "topic_id": "T10086",
+    "score": 0.0064
+  },
+  {
+    "paper_id": "W4213366162",
+    "topic_id": "T11289",
+    "score": 0.0041
+  },
+  {
+    "paper_id": "W4225150645",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4225150645",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4225150645",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3125055412",
+    "topic_id": "T11814",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3125055412",
+    "topic_id": "T10586",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3125055412",
+    "topic_id": "T10567",
+    "score": 0.0004
+  },
+  {
+    "paper_id": "W4312908198",
+    "topic_id": "T10664",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4312908198",
+    "topic_id": "T10028",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4312908198",
+    "topic_id": "T12262",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3213691922",
+    "topic_id": "T11206",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3213691922",
+    "topic_id": "T10320",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3213691922",
+    "topic_id": "T12814",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4390221451",
+    "topic_id": "T10211",
+    "score": 0.8169
+  },
+  {
+    "paper_id": "W4390221451",
+    "topic_id": "T11948",
+    "score": 0.1703
+  },
+  {
+    "paper_id": "W4390221451",
+    "topic_id": "T10002",
+    "score": 0.0051
+  },
+  {
+    "paper_id": "W2974581576",
+    "topic_id": "T11689",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2974581576",
+    "topic_id": "T12357",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2974581576",
+    "topic_id": "T11424",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4362724099",
+    "topic_id": "T10100",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4362724099",
+    "topic_id": "T11195",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4362724099",
+    "topic_id": "T10963",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3118260203",
+    "topic_id": "T11206",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3118260203",
+    "topic_id": "T10320",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3118260203",
+    "topic_id": "T11236",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3012264837",
+    "topic_id": "T10663",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3012264837",
+    "topic_id": "T10018",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3012264837",
+    "topic_id": "T10220",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4410551352",
+    "topic_id": "T10466",
+    "score": 0.9551
+  },
+  {
+    "paper_id": "W4410551352",
+    "topic_id": "T11206",
+    "score": 0.0114
+  },
+  {
+    "paper_id": "W4410551352",
+    "topic_id": "T13904",
+    "score": 0.0089
+  },
+  {
+    "paper_id": "W4320458302",
+    "topic_id": "T11714",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4320458302",
+    "topic_id": "T10775",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4320458302",
+    "topic_id": "T10824",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3047258141",
+    "topic_id": "T11307",
+    "score": 0.999
+  },
+  {
+    "paper_id": "W3047258141",
+    "topic_id": "T10036",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W3047258141",
+    "topic_id": "T10052",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3022861755",
+    "topic_id": "T10524",
+    "score": 0.9058
+  },
+  {
+    "paper_id": "W3022861755",
+    "topic_id": "T10462",
+    "score": 0.0583
+  },
+  {
+    "paper_id": "W3022861755",
+    "topic_id": "T11344",
+    "score": 0.0114
+  },
+  {
+    "paper_id": "W4302275239",
+    "topic_id": "T10036",
+    "score": 0.7954
+  },
+  {
+    "paper_id": "W4302275239",
+    "topic_id": "T11605",
+    "score": 0.1854
+  },
+  {
+    "paper_id": "W4302275239",
+    "topic_id": "T11307",
+    "score": 0.0103
+  },
+  {
+    "paper_id": "W4385342469",
+    "topic_id": "T10036",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4385342469",
+    "topic_id": "T11307",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W4385342469",
+    "topic_id": "T10627",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3180608480",
+    "topic_id": "T10764",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3180608480",
+    "topic_id": "T10237",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3180608480",
+    "topic_id": "T11614",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4378189609",
+    "topic_id": "T10028",
+    "score": 0.8291
+  },
+  {
+    "paper_id": "W4378189609",
+    "topic_id": "T10181",
+    "score": 0.1447
+  },
+  {
+    "paper_id": "W4378189609",
+    "topic_id": "T11689",
+    "score": 0.006
+  },
+  {
+    "paper_id": "W3170647102",
+    "topic_id": "T10036",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3170647102",
+    "topic_id": "T12535",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3170647102",
+    "topic_id": "T11307",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3164846705",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3164846705",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3164846705",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4297846303",
+    "topic_id": "T10719",
+    "score": 0.9902
+  },
+  {
+    "paper_id": "W4297846303",
+    "topic_id": "T10481",
+    "score": 0.0074
+  },
+  {
+    "paper_id": "W4297846303",
+    "topic_id": "T10775",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3134210100",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3134210100",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3134210100",
+    "topic_id": "T10764",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3131457744",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3131457744",
+    "topic_id": "T10883",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3131457744",
+    "topic_id": "T13295",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3212604410",
+    "topic_id": "T11605",
+    "score": 0.7134
+  },
+  {
+    "paper_id": "W3212604410",
+    "topic_id": "T10036",
+    "score": 0.0983
+  },
+  {
+    "paper_id": "W3212604410",
+    "topic_id": "T10028",
+    "score": 0.0862
+  },
+  {
+    "paper_id": "W3189333525",
+    "topic_id": "T10764",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3189333525",
+    "topic_id": "T11614",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3189333525",
+    "topic_id": "T11045",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3133543405",
+    "topic_id": "T12026",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3133543405",
+    "topic_id": "T10743",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3133543405",
+    "topic_id": "T11689",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4297243391",
+    "topic_id": "T11289",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4297243391",
+    "topic_id": "T10885",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4297243391",
+    "topic_id": "T12859",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3123742938",
+    "topic_id": "T12535",
+    "score": 0.5586
+  },
+  {
+    "paper_id": "W3123742938",
+    "topic_id": "T11307",
+    "score": 0.2883
+  },
+  {
+    "paper_id": "W3123742938",
+    "topic_id": "T12072",
+    "score": 0.1237
+  },
+  {
+    "paper_id": "W3183620985",
+    "topic_id": "T13904",
+    "score": 0.467
+  },
+  {
+    "paper_id": "W3183620985",
+    "topic_id": "T11326",
+    "score": 0.2361
+  },
+  {
+    "paper_id": "W3183620985",
+    "topic_id": "T11995",
+    "score": 0.0906
+  },
+  {
+    "paper_id": "W4286611278",
+    "topic_id": "T10775",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4286611278",
+    "topic_id": "T11307",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4286611278",
+    "topic_id": "T11714",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3086056576",
+    "topic_id": "T10770",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3086056576",
+    "topic_id": "T13058",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3086056576",
+    "topic_id": "T10616",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4394007483",
+    "topic_id": "T10689",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4394007483",
+    "topic_id": "T13890",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4394007483",
+    "topic_id": "T10036",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4318486595",
+    "topic_id": "T11948",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W4318486595",
+    "topic_id": "T12327",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W4318486595",
+    "topic_id": "T10211",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4402220065",
+    "topic_id": "T10862",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4402220065",
+    "topic_id": "T12422",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4402220065",
+    "topic_id": "T11636",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3204443805",
+    "topic_id": "T11289",
+    "score": 0.9976
+  },
+  {
+    "paper_id": "W3204443805",
+    "topic_id": "T10077",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3204443805",
+    "topic_id": "T10222",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W2998074434",
+    "topic_id": "T11241",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2998074434",
+    "topic_id": "T11424",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2998074434",
+    "topic_id": "T11644",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3135809943",
+    "topic_id": "T12357",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W3135809943",
+    "topic_id": "T10775",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3135809943",
+    "topic_id": "T11147",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3080443832",
+    "topic_id": "T11975",
+    "score": 0.8203
+  },
+  {
+    "paper_id": "W3080443832",
+    "topic_id": "T10036",
+    "score": 0.1088
+  },
+  {
+    "paper_id": "W3080443832",
+    "topic_id": "T10100",
+    "score": 0.0202
+  },
+  {
+    "paper_id": "W3000463950",
+    "topic_id": "T12026",
+    "score": 0.8618
+  },
+  {
+    "paper_id": "W3000463950",
+    "topic_id": "T11653",
+    "score": 0.1141
+  },
+  {
+    "paper_id": "W3000463950",
+    "topic_id": "T11995",
+    "score": 0.0125
+  },
+  {
+    "paper_id": "W4404470920",
+    "topic_id": "T10883",
+    "score": 0.6816
+  },
+  {
+    "paper_id": "W4404470920",
+    "topic_id": "T10525",
+    "score": 0.139
+  },
+  {
+    "paper_id": "W4404470920",
+    "topic_id": "T12026",
+    "score": 0.0325
+  },
+  {
+    "paper_id": "W3116202926",
+    "topic_id": "T10211",
+    "score": 0.998
+  },
+  {
+    "paper_id": "W3116202926",
+    "topic_id": "T11948",
+    "score": 0.001
+  },
+  {
+    "paper_id": "W3116202926",
+    "topic_id": "T11476",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W2973805762",
+    "topic_id": "T10002",
+    "score": 0.8618
+  },
+  {
+    "paper_id": "W2973805762",
+    "topic_id": "T11948",
+    "score": 0.0692
+  },
+  {
+    "paper_id": "W2973805762",
+    "topic_id": "T10682",
+    "score": 0.0276
+  },
+  {
+    "paper_id": "W3033878890",
+    "topic_id": "T10052",
+    "score": 0.9917
+  },
+  {
+    "paper_id": "W3033878890",
+    "topic_id": "T12702",
+    "score": 0.0022
+  },
+  {
+    "paper_id": "W3033878890",
+    "topic_id": "T10241",
+    "score": 0.0009
+  },
+  {
+    "paper_id": "W3183282730",
+    "topic_id": "T10711",
+    "score": 0.9917
+  },
+  {
+    "paper_id": "W3183282730",
+    "topic_id": "T11236",
+    "score": 0.0068
+  },
+  {
+    "paper_id": "W3183282730",
+    "topic_id": "T11325",
+    "score": 0.0007
+  },
+  {
+    "paper_id": "W4390906246",
+    "topic_id": "T11273",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W4390906246",
+    "topic_id": "T12292",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W4390906246",
+    "topic_id": "T10064",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2968526727",
+    "topic_id": "T10462",
+    "score": 1.0
+  },
+  {
+    "paper_id": "W2968526727",
+    "topic_id": "T10456",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W2968526727",
+    "topic_id": "T12101",
+    "score": 0.0
+  },
+  {
+    "paper_id": "W3044719873",
+    "topic_id": "T11918",
+    "score": 0.8218
+  },
+  {
+    "paper_id": "W3044719873",
+    "topic_id": "T11891",
+    "score": 0.1564
+  },
+  {
+    "paper_id": "W3044719873",
+    "topic_id": "T10328",
+    "score": 0.0069
+  },
+  {
+    "paper_id": "W3012109984",
+    "topic_id": "T10100",
+    "score": 0.9722
+  },
+  {
+    "paper_id": "W3012109984",
+    "topic_id": "T11975",
+    "score": 0.0273
+  },
+  {
+    "paper_id": "W3012109984",
+    "topic_id": "T10848",
+    "score": 0.0001
+  },
+  {
+    "paper_id": "W3097405028",
+    "topic_id": "T11103",
+    "score": 0.9985
+  },
+  {
+    "paper_id": "W3097405028",
+    "topic_id": "T10911",
+    "score": 0.0003
+  },
+  {
+    "paper_id": "W3097405028",
+    "topic_id": "T10211",
+    "score": 0.0002
+  },
+  {
+    "paper_id": "W3158818505",
+    "topic_id": "T10429",
+    "score": 0.9966
+  },
+  {
+    "paper_id": "W3158818505",
+    "topic_id": "T10667",
+    "score": 0.0008
+  },
+  {
+    "paper_id": "W3158818505",
+    "topic_id": "T11021",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3112288498",
+    "topic_id": "T11099",
+    "score": 0.9995
+  },
+  {
+    "paper_id": "W3112288498",
+    "topic_id": "T10036",
+    "score": 0.0005
+  },
+  {
+    "paper_id": "W3112288498",
+    "topic_id": "T10525",
+    "score": 0.0
+  }
+]
