@@ -1,0 +1,136 @@
+{
+  "experimental_design": {
+    "dataset": "OpenAlex 2016-2025 AI/ML Works (N=4,989)",
+    "training_period": "2016-2021",
+    "testing_period": "2022-2025",
+    "training_works_count": 2983,
+    "testing_works_count": 1998,
+    "active_training_authors": 11288,
+    "active_training_edges": 89040,
+    "total_new_test_collaborations": 3326,
+    "evaluated_test_pairs": 1000,
+    "negative_candidates_per_pair": 100,
+    "candidate_condition": "(u, v) not in E_train (strictly non-connected authors)"
+  },
+  "model_performance": {
+    "Adamic-Adar": {
+      "mrr": 0.2471,
+      "hits@1_pct": 18.2,
+      "hits@5_pct": 30.2,
+      "hits@10_pct": 33.0,
+      "precision@5": 0.0604,
+      "precision@10": 0.033,
+      "recall@10": 0.33
+    },
+    "Jaccard": {
+      "mrr": 0.233,
+      "hits@1_pct": 15.7,
+      "hits@5_pct": 30.3,
+      "hits@10_pct": 34.0,
+      "precision@5": 0.0606,
+      "precision@10": 0.034,
+      "recall@10": 0.34
+    },
+    "Topic Cosine": {
+      "mrr": 0.2591,
+      "hits@1_pct": 11.5,
+      "hits@5_pct": 42.8,
+      "hits@10_pct": 58.2,
+      "precision@5": 0.0856,
+      "precision@10": 0.0582,
+      "recall@10": 0.582
+    },
+    "Hybrid (AA + Topic)": {
+      "mrr": 0.3375,
+      "hits@1_pct": 21.1,
+      "hits@5_pct": 46.8,
+      "hits@10_pct": 61.2,
+      "precision@5": 0.0936,
+      "precision@10": 0.0612,
+      "recall@10": 0.612
+    }
+  },
+  "sample_recommendations": [
+    {
+      "query_author_id": "A5062546146",
+      "query_author_name": "Alexander M. Rush",
+      "true_collaborator_id": "A5066925770",
+      "true_collaborator_name": "Sampo Pyysalo",
+      "adamic_adar_score": 0.0,
+      "topic_cosine_similarity": 0.6928,
+      "hybrid_score": 0.4157,
+      "hybrid_rank": 14,
+      "shared_topics": [
+        "T10181",
+        "T10028"
+      ],
+      "common_neighbors_count": 0
+    },
+    {
+      "query_author_id": "A5002849148",
+      "query_author_name": "Shamsuddeen Hassan Muhammad",
+      "true_collaborator_id": "A5035914396",
+      "true_collaborator_name": "Orhan F\u0131rat",
+      "adamic_adar_score": 0.0,
+      "topic_cosine_similarity": 0.6236,
+      "hybrid_score": 0.3742,
+      "hybrid_rank": 1,
+      "shared_topics": [
+        "T10181",
+        "T10201"
+      ],
+      "common_neighbors_count": 0
+    },
+    {
+      "query_author_id": "A5078045247",
+      "query_author_name": "Joseph C. Bardin",
+      "true_collaborator_id": "A5089631322",
+      "true_collaborator_name": "Michel Devoret",
+      "adamic_adar_score": 0.0,
+      "topic_cosine_similarity": 0.8018,
+      "hybrid_score": 0.4811,
+      "hybrid_rank": 5,
+      "shared_topics": [
+        "T10622",
+        "T10682",
+        "T10020"
+      ],
+      "common_neighbors_count": 0
+    },
+    {
+      "query_author_id": "A5018712252",
+      "query_author_name": "Hemlata Tak",
+      "true_collaborator_id": "A5079693142",
+      "true_collaborator_name": "Md Sahidullah",
+      "adamic_adar_score": 0.7928,
+      "topic_cosine_similarity": 1.0,
+      "hybrid_score": 1.0,
+      "hybrid_rank": 1,
+      "shared_topics": [
+        "T10828",
+        "T10201",
+        "T10860"
+      ],
+      "common_neighbors_count": 3
+    },
+    {
+      "query_author_id": "A5076826749",
+      "query_author_name": "Ellery Wulczyn",
+      "true_collaborator_id": "A5085920650",
+      "true_collaborator_name": "Mozziyar Etemadi",
+      "adamic_adar_score": 0.463,
+      "topic_cosine_similarity": 0.5774,
+      "hybrid_score": 0.7464,
+      "hybrid_rank": 1,
+      "shared_topics": [
+        "T12422",
+        "T11636",
+        "T10862"
+      ],
+      "common_neighbors_count": 2
+    }
+  ],
+  "findings": {
+    "content_vs_topology": "Pure topological predictors (Adamic-Adar, Jaccard) suffer from the triadic closure bottleneck: they output 0 for any author pair at graph distance d >= 3 (who share no common neighbors). In contrast, Topic Cosine similarity bridges disparate graph components by capturing semantic alignment. The Hybrid model achieves the highest MRR and Hits@10 by leveraging structural proximity when available and falling back gracefully on topic alignment."
+  }
+}
