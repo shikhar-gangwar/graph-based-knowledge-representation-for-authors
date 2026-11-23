@@ -31,8 +31,9 @@ if __name__ == "__main__":
     print(f"  Server URL: {url}")
     print("=" * 64)
     print(f"Open your browser at: {url}")
+    import threading
     try:
-        webbrowser.open(url)
+        threading.Thread(target=webbrowser.open, args=(url,), daemon=True).start()
     except Exception:
         pass
     uvicorn.run(app, host="127.0.0.1", port=port)

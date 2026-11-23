@@ -810,7 +810,7 @@ HTML_PAGE = r"""<!DOCTYPE html>
 
     /* SVG Graph Elements Styling */
     .node-element {
-      transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.05s linear;
+      transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1);
       cursor: pointer;
     }
     .node-element:hover circle {
@@ -1427,15 +1427,15 @@ HTML_PAGE = r"""<!DOCTYPE html>
     function autoFitGraph(smooth = true) {
       const rect = svg.getBoundingClientRect();
       const parent = svg.parentElement;
-      let width = (rect && rect.width > 50) ? rect.width : (svg.clientWidth || (parent && parent.clientWidth) || 850);
-      let height = (rect && rect.height > 50) ? rect.height : (svg.clientHeight || (parent && parent.clientHeight) || 600);
-      if (width < 100) width = 850;
-      if (height < 100) height = 600;
+      let width = Math.max(300, (rect && rect.width > 50) ? rect.width : (svg.clientWidth || (parent && parent.clientWidth) || 850));
+      let height = Math.max(300, (rect && rect.height > 50) ? rect.height : (svg.clientHeight || (parent && parent.clientHeight) || 600));
 
       const activeNodes = (graphData.nodes || []).filter(n => (showRecommendations || n.group !== 'recommended') && isFinite(n.x) && isFinite(n.y));
       if (activeNodes.length === 0) {
-        if (smooth) animateViewTo(width / 2, height / 2, 1.0, 300);
-        else { view.x = width / 2; view.y = height / 2; view.scale = 1.0; applyTransform(); }
+        const tx = width / 2;
+        const ty = height / 2;
+        if (smooth) animateViewTo(tx, ty, 1.0, 240);
+        else { view.x = tx; view.y = ty; view.scale = 1.0; applyTransform(); }
         return;
       }
 
@@ -1447,27 +1447,28 @@ HTML_PAGE = r"""<!DOCTYPE html>
         if (n.y > maxY) maxY = n.y;
       });
 
-      if (!isFinite(minX) || !isFinite(maxX) || minX >= maxX || !isFinite(minY) || !isFinite(maxY) || minY >= maxY) {
-        if (smooth) animateViewTo(width / 2, height / 2, 1.0, 300);
-        else { view.x = width / 2; view.y = height / 2; view.scale = 1.0; applyTransform(); }
-        return;
-      }
+      if (!isFinite(minX) || !isFinite(maxX)) { minX = -120; maxX = 120; }
+      if (!isFinite(minY) || !isFinite(maxY)) { minY = -120; maxY = 120; }
+      if (minX >= maxX) { minX -= 60; maxX += 60; }
+      if (minY >= maxY) { minY -= 60; maxY += 60; }
 
       const padding = 75;
-      const graphW = Math.max(140, (maxX - minX) + padding * 2);
-      const graphH = Math.max(140, (maxY - minY) + padding * 2);
+      const graphW = Math.max(160, (maxX - minX) + padding * 2);
+      const graphH = Math.max(160, (maxY - minY) + padding * 2);
       const scaleX = width / graphW;
       const scaleY = height / graphH;
-      const targetScale = Math.max(0.45, Math.min(1.4, Math.min(scaleX, scaleY)));
+      const targetScale = Math.max(0.40, Math.min(1.45, Math.min(scaleX, scaleY)));
 
       const centerX = (minX + maxX) / 2;
       const centerY = (minY + maxY) / 2;
 
-      const targetX = (width / 2) - (centerX * targetScale);
-      const targetY = (height / 2) - (centerY * targetScale);
+      let targetX = (width / 2) - (centerX * targetScale);
+      let targetY = (height / 2) - (centerY * targetScale);
+      if (!isFinite(targetX)) targetX = width / 2;
+      if (!isFinite(targetY)) targetY = height / 2;
 
       if (smooth) {
-        animateViewTo(targetX, targetY, targetScale, 320);
+        animateViewTo(targetX, targetY, targetScale, 280);
       } else {
         view.scale = targetScale;
         view.x = targetX;
@@ -1607,10 +1608,14 @@ HTML_PAGE = r"""<!DOCTYPE html>
 
       // Update positions with damping
       nodes.forEach(n => {
+        if (!isFinite(n.vx)) n.vx = 0;
+        if (!isFinite(n.vy)) n.vy = 0;
         if (!n.fixed) {
           n.x += Math.max(-25, Math.min(25, n.vx * 0.5));
           n.y += Math.max(-25, Math.min(25, n.vy * 0.5));
         }
+        if (!isFinite(n.x)) n.x = 0;
+        if (!isFinite(n.y)) n.y = 0;
         n.vx *= 0.5;
         n.vy *= 0.5;
       });
@@ -1697,7 +1702,8 @@ HTML_PAGE = r"""<!DOCTYPE html>
       // Render Nodes
       (graphData.nodes || []).forEach(node => {
         if (!showRecommendations && node.group === 'recommended') return;
-        if (!isFinite(node.x) || !isFinite(node.y)) return;
+        if (!isFinite(node.x)) node.x = 0;
+        if (!isFinite(node.y)) node.y = 0;
 
         const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
         g.setAttribute('transform', `translate(${node.x.toFixed(2)}, ${node.y.toFixed(2)})`);
@@ -2274,6 +2280,18 @@ HTML_PAGE = r"""<!DOCTYPE html>
         autoFitGraph(false);
       }
       loadAuthor('A5067919401');
+
+      // Schedule post-layout auto-fit passes to guarantee correct geometry after layout paint
+      setTimeout(() => autoFitGraph(false), 50);
+      setTimeout(() => autoFitGraph(true), 180);
+
+      // ResizeObserver for zero-lag responsive graph fitting
+      if (window.ResizeObserver && svg && svg.parentElement) {
+        const ro = new ResizeObserver(() => {
+          autoFitGraph(false);
+        });
+        ro.observe(svg.parentElement);
+      }
     }
 
     if (document.readyState === 'loading') {
@@ -2283,10 +2301,16 @@ HTML_PAGE = r"""<!DOCTYPE html>
     }
   </script>
 </body>
-</html>"""
+</html>
+"""
+
+INDEX_FILE = os.path.join(os.path.dirname(__file__), "index.html")
 
 @app.get("/", response_class=HTMLResponse)
 def index():
+    if os.path.exists(INDEX_FILE):
+        with open(INDEX_FILE, "r", encoding="utf-8") as f:
+            return HTMLResponse(content=f.read(), status_code=200)
     return HTMLResponse(content=HTML_PAGE, status_code=200)
 
 if __name__ == "__main__":

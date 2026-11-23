@@ -25,8 +25,9 @@ if __name__ == "__main__":
     print("  ScholarlyKG — Research Collaboration Analytics")
     print(f"  Server URL: {url}")
     print("=" * 64)
+    import threading
     try:
-        webbrowser.open(url)
+        threading.Thread(target=webbrowser.open, args=(url,), daemon=True).start()
     except Exception:
         pass
     uvicorn.run(app, host="127.0.0.1", port=port)
