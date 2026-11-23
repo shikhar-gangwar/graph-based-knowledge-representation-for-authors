@@ -1,0 +1,304 @@
+{
+  "network_metrics": {
+    "total_authors": 22185,
+    "active_authors": 22037,
+    "isolated_authors": 148,
+    "weighted_edges": 221903,
+    "connected_components": 1377,
+    "gcc_size": 14879,
+    "gcc_ratio_pct": 67.52,
+    "density": 0.000914,
+    "transitivity": 0.7726,
+    "average_degree": 20.14,
+    "median_degree": 8.0,
+    "max_degree": 467
+  },
+  "modularity_calibration": {
+    "resolution_0_5": {
+      "q": 0.9215,
+      "communities": 1413
+    },
+    "resolution_1_0": {
+      "q": 0.9261,
+      "communities": 1431
+    },
+    "resolution_1_5": {
+      "q": 0.9259,
+      "communities": 1449
+    }
+  },
+  "top_communities": [
+    {
+      "community_id": 1,
+      "author_count": 1382,
+      "internal_edges": 12500,
+      "leading_researchers": [
+        "Luke Zettlemoyer (str=37.5)",
+        "Noah A. Smith (str=23.2)",
+        "Hannaneh Hajishirzi (str=22.4)"
+      ],
+      "core_topics": [
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Domain Adaptation and Few-Shot Learning",
+        "Multimodal Machine Learning Applications"
+      ],
+      "key_venues": [
+        "Proceedings of the conference - Association for Computational Linguistics. Meeting",
+        "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+      ]
+    },
+    {
+      "community_id": 2,
+      "author_count": 702,
+      "internal_edges": 30483,
+      "leading_researchers": [
+        "Ryan Babbush (str=18.5)",
+        "Jarrod R. McClean (str=15.7)",
+        "Hartmut Neven (str=14.6)"
+      ],
+      "core_topics": [
+        "Quantum Computing Algorithms and Architecture",
+        "Quantum many-body systems",
+        "Quantum Information and Cryptography",
+        "Advanced Chemical Physics Studies"
+      ],
+      "key_venues": [
+        "Nature",
+        "Science"
+      ]
+    },
+    {
+      "community_id": 3,
+      "author_count": 594,
+      "internal_edges": 4258,
+      "leading_researchers": [
+        "Zhiyuan Liu (str=26.3)",
+        "Maosong Sun (str=23.6)",
+        "Jie Tang (str=10.4)"
+      ],
+      "core_topics": [
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Multimodal Machine Learning Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "key_venues": [
+        "Proceedings of the conference - Association for Computational Linguistics. Meeting",
+        "neural information processing systems"
+      ]
+    },
+    {
+      "community_id": 4,
+      "author_count": 591,
+      "internal_edges": 7461,
+      "leading_researchers": [
+        "Furu Wei (str=13.6)",
+        "Jianfeng Gao (str=13.0)",
+        "Weizhu Chen (str=9.7)"
+      ],
+      "core_topics": [
+        "Topic Modeling",
+        "Natural Language Processing Techniques",
+        "Domain Adaptation and Few-Shot Learning",
+        "Multimodal Machine Learning Applications"
+      ],
+      "key_venues": [
+        "Proceedings of the conference - Association for Computational Linguistics. Meeting",
+        "Nature"
+      ]
+    },
+    {
+      "community_id": 5,
+      "author_count": 544,
+      "internal_edges": 2561,
+      "leading_researchers": [
+        "Sergey Levine (str=16.5)",
+        "Pieter Abbeel (str=16.5)",
+        "Trevor Darrell (str=11.0)"
+      ],
+      "core_topics": [
+        "Reinforcement Learning in Robotics",
+        "Domain Adaptation and Few-Shot Learning",
+        "Robot Manipulation and Learning",
+        "Advanced Neural Network Applications"
+      ],
+      "key_venues": [
+        "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+        "neural information processing systems"
+      ]
+    },
+    {
+      "community_id": 6,
+      "author_count": 511,
+      "internal_edges": 14021,
+      "leading_researchers": [
+        "Bram van Ginneken (str=8.8)",
+        "Pheng\u2010Ann Heng (str=7.9)",
+        "Hao Chen (str=6.9)"
+      ],
+      "core_topics": [
+        "AI in cancer detection",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Artificial Intelligence in Healthcare and Education",
+        "Cell Image Analysis Techniques"
+      ],
+      "key_venues": [
+        "IEEE Transactions on Medical Imaging",
+        "Nature Communications"
+      ]
+    },
+    {
+      "community_id": 7,
+      "author_count": 466,
+      "internal_edges": 5487,
+      "leading_researchers": [
+        "David Silver (str=11.8)",
+        "Demis Hassabis (str=11.4)",
+        "Timothy Lillicrap (str=9.9)"
+      ],
+      "core_topics": [
+        "Reinforcement Learning in Robotics",
+        "Artificial Intelligence in Games",
+        "Topic Modeling",
+        "Artificial Intelligence Applications"
+      ],
+      "key_venues": [
+        "Nature",
+        "Science"
+      ]
+    },
+    {
+      "community_id": 8,
+      "author_count": 415,
+      "internal_edges": 4870,
+      "leading_researchers": [
+        "Kai-Wei Chang (str=6.8)",
+        "William Yang Wang (str=6.0)",
+        "Stella Biderman (str=4.2)"
+      ],
+      "core_topics": [
+        "Natural Language Processing Techniques",
+        "Topic Modeling",
+        "Speech Recognition and Synthesis",
+        "Multimodal Machine Learning Applications"
+      ],
+      "key_venues": [
+        "Proceedings of the conference - Association for Computational Linguistics. Meeting",
+        "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)"
+      ]
+    },
+    {
+      "community_id": 9,
+      "author_count": 398,
+      "internal_edges": 2145,
+      "leading_researchers": [
+        "Philip S. Yu (str=16.7)",
+        "Shirui Pan (str=10.4)",
+        "Wenwu Zhu (str=9.9)"
+      ],
+      "core_topics": [
+        "Topic Modeling",
+        "Advanced Graph Neural Networks",
+        "Natural Language Processing Techniques",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "key_venues": [
+        "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "IEEE Transactions on Knowledge and Data Engineering"
+      ]
+    },
+    {
+      "community_id": 10,
+      "author_count": 390,
+      "internal_edges": 2610,
+      "leading_researchers": [
+        "Quoc Viet Le (str=18.0)",
+        "Nicholas Evans (str=10.9)",
+        "Massimiliano Todisco (str=10.0)"
+      ],
+      "core_topics": [
+        "Topic Modeling",
+        "Speech Recognition and Synthesis",
+        "Natural Language Processing Techniques",
+        "Speech and Audio Processing"
+      ],
+      "key_venues": [
+        "neural information processing systems",
+        "IEEE International Conference on Acoustics Speech and Signal Processing"
+      ]
+    }
+  ],
+  "temporal_dynamics": [
+    {
+      "year": 2016,
+      "papers": 497,
+      "avg_team_size": 4.21,
+      "avg_institutions_per_paper": 2.1,
+      "cross_institutional_rate": 53.9
+    },
+    {
+      "year": 2017,
+      "papers": 499,
+      "avg_team_size": 4.37,
+      "avg_institutions_per_paper": 2.29,
+      "cross_institutional_rate": 60.1
+    },
+    {
+      "year": 2018,
+      "papers": 500,
+      "avg_team_size": 4.86,
+      "avg_institutions_per_paper": 2.26,
+      "cross_institutional_rate": 58.6
+    },
+    {
+      "year": 2019,
+      "papers": 497,
+      "avg_team_size": 5.54,
+      "avg_institutions_per_paper": 2.45,
+      "cross_institutional_rate": 59.4
+    },
+    {
+      "year": 2020,
+      "papers": 497,
+      "avg_team_size": 5.34,
+      "avg_institutions_per_paper": 2.59,
+      "cross_institutional_rate": 64.0
+    },
+    {
+      "year": 2021,
+      "papers": 499,
+      "avg_team_size": 6.32,
+      "avg_institutions_per_paper": 2.96,
+      "cross_institutional_rate": 69.1
+    },
+    {
+      "year": 2022,
+      "papers": 500,
+      "avg_team_size": 6.5,
+      "avg_institutions_per_paper": 2.77,
+      "cross_institutional_rate": 63.2
+    },
+    {
+      "year": 2023,
+      "papers": 500,
+      "avg_team_size": 7.21,
+      "avg_institutions_per_paper": 2.78,
+      "cross_institutional_rate": 61.4
+    },
+    {
+      "year": 2024,
+      "papers": 500,
+      "avg_team_size": 8.19,
+      "avg_institutions_per_paper": 2.66,
+      "cross_institutional_rate": 64.0
+    },
+    {
+      "year": 2025,
+      "papers": 500,
+      "avg_team_size": 9.42,
+      "avg_institutions_per_paper": 3.12,
+      "cross_institutional_rate": 72.8
+    }
+  ]
+}
